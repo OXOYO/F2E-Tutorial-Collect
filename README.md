@@ -1,6 +1,8 @@
 # React-Tutorial-Collect
 React资料整理，基于个人书签收集导出。
 
+React中文社区-大量资源 435748765
+
 ##
 [React 入门实例教程 - 阮一峰的网络日志](http://www.ruanyifeng.com/blog/2015/03/react.html)
 
@@ -76,7 +78,7 @@ React资料整理，基于个人书签收集导出。
 
 [中文 React Router - web前端 - SegmentFault](https://segmentfault.com/a/1190000002801128)
 
-[Introduction | React Router 中文文档](http://react-guide.github.io/react-router-cn/)
+[Introduction | React Router 中文文档](https://github.com/reactjs/react-router-tutorial)
 
 [ReactRouter使用指南 - 推酷](http://www.tuicool.com/articles/VviQJ3)
 
