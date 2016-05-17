@@ -2,6 +2,7 @@
 React资料整理，基于个人书签收集导出。
 
 QQ群：React中文社区-大量资源 435748765
+      2群（新手群）:245192933
 
 ##
 [React 入门实例教程 - 阮一峰的网络日志](http://www.ruanyifeng.com/blog/2015/03/react.html)
