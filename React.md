@@ -78,7 +78,7 @@ QQ群：React中文社区-大量资源 435748765
 
 [中文 React Router - web前端 - SegmentFault](https://segmentfault.com/a/1190000002801128)
 
-[Introduction | React Router 中文文档](https://github.com/reactjs/react-router-tutorial)
+[Introduction | React Router 中文文档](http://react-guide.github.io/react-router-cn/)
 
 [ReactRouter使用指南 - 推酷](http://www.tuicool.com/articles/VviQJ3)
 
@@ -87,6 +87,8 @@ QQ群：React中文社区-大量资源 435748765
 [深入理解 react-router 路由系统 - 推酷](http://www.tuicool.com/articles/iAvmyuj)
 
 [深入理解 react-router 路由系统 - pure render - SegmentFault](https://segmentfault.com/a/1190000004075348)
+
+[react-router-tutorial](https://github.com/reactjs/react-router-tutorial)
 
 ## Flux
 
