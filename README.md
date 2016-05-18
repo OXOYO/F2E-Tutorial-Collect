@@ -6,7 +6,7 @@
 
 - [LimeJS首页、文档和下载 - JavaScript 游戏开发框架 - 开源中国社区](http://www.oschina.net/p/limejs)
 
-- [jquery插件开发规范—jquery插件开发进阶教程（1） | ria之家--RIA三部曲：jquery、ext、flex](http://www.36ria.com/2822)
+- [jquery插件开发规范—jquery插件开发进阶教程（1） | ria之家--RIA三部曲：jquery、ext、flex](http://ww31.36ria.com/2822)
 
 - [blog.csdn.net/porschev/article/details/6114997](http://blog.csdn.net/porschev/article/details/6114997)
 
@@ -74,7 +74,7 @@
 
 - [jquery $(document).ready() 与window.onload的区别_jquery_脚本之家](http://www.jb51.net/article/21628.htm)
 
-- [RGB转16进制工具 | w3cschool菜鸟教程](http://www.w3cschool.cc/rgb2hex)
+- [RGB转16进制工具 | w3cschool菜鸟教程](http://www.runoob.com/rgb2hex)
 
 - [用js小类库获取浏览器的高度和宽度信息 - 执手泪眼 - 博客园](http://www.cnblogs.com/liszt/archive/2012/01/15/2322692.html)
 
@@ -124,7 +124,7 @@
 
 - [JS 对象（Object）和字符串（String）互转 - Rex.Yin的专栏 - 博客频道 - CSDN.NET](http://blog.csdn.net/starrexstar/article/details/8083259)
 
-- [面向对象中嵌套的函数, 关键字 this 怎样处理? - javascript - SegmentFault](http://segmentfault.com/q/1010000000183613)
+- [面向对象中嵌套的函数, 关键字 this 怎样处理? - javascript - SegmentFault](https://segmentfault.com/q/1010000000183613)
 
 - [在Js中得到元素的子元素集合注意事项 - Evilbaniry - 博客园](http://www.cnblogs.com/phonefans/archive/2008/09/04/1283739.html)
 
@@ -158,7 +158,7 @@
 
 - [heatmap.js 一个用canvas画热力图的利器 | A.I](http://1.aisensiy.sinaapp.com/2011/12/heatmapjs/)
 
-- [heatmap.js | Dynamic Heatmaps for the Web](http://www.patrick-wied.at/static/heatmapjs/)
+- [heatmap.js | Dynamic Heatmaps for the Web](https://www.patrick-wied.at/static/heatmapjs/)
 
 - [浅谈Heatmap | 火丁笔记](http://huoding.com/2011/01/04/39)
 
@@ -170,7 +170,7 @@
 
 - [基于HTML5实现的Heatmap热图3D应用 - 51CTO.COM](http://developer.51cto.com/art/201409/451093.htm)
 
-- [heatmap.js | Showcases](http://www.patrick-wied.at/static/heatmapjs/showcases.html)
+- [heatmap.js | Showcases](https://www.patrick-wied.at/static/heatmapjs/showcases.html)
 
 - [heatmap.js/README.md at master · pa7/heatmap.js · GitHub](https://github.com/pa7/heatmap.js/blob/master/README.md)
 
@@ -178,7 +178,7 @@
 
 - [HeatMapAPI.com - Home](http://www.heatmapapi.com/Default.aspx)
 
-- [国内外 Heatmap 、热图的应用和相关技术_.Net编程 - 好工具站长分享平台](http://www.haogongju.net/art/1357001)
+- [国内外 Heatmap 、热图的应用和相关技术_.Net编程 - 好工具站长分享平台](http://www.haodaima.net/art/1357001)
 
 - [js中apply方法的使用 - chaxiaoyou - 博客园](http://www.cnblogs.com/delin/archive/2010/06/17/1759695.html)
 
@@ -228,7 +228,7 @@
 
 - [关于__proto__和prototype的一些理解 - TonyCoolZhu - 博客园](http://www.cnblogs.com/zzcflying/archive/2012/07/20/2601112.html)
 
-- [__proto__ 属性 (Object) (JavaScript)](https://msdn.microsoft.com/zh-cn/library/ie/dn342818(v=vs.94).aspx)
+- [__proto__ 属性 (Object) (JavaScript)](https://msdn.microsoft.com/library/dn342818(v=vs.94).aspx)
 
 - [JavaScript类和继承：constructor 属性探秘 – 青豆前端](http://www.qingdou.me/5040.html)
 
@@ -248,7 +248,7 @@
 
 - [用Chrome开发者工具做JavaScript性能分析 - 博客 - 伯乐在线](http://blog.jobbole.com/31178/)
 
-- [Zen Coding: 一种快速编写HTML/CSS代码的方法前端观察 | CSS | 前端观察](http://www.qianduan.net/zen-coding-a-new-way-to-write-html-code.html)
+- [Zen Coding: 一种快速编写HTML/CSS代码的方法前端观察 | CSS | 前端观察](https://www.qianduan.net/zen-coding-a-new-way-to-write-html-code.html)
 
 - [谈谈javascript语法里一些难点问题（一） - 博客 - 伯乐在线](http://blog.jobbole.com/81010/#comment-147076)
 
@@ -440,7 +440,7 @@
 
 - [html5跨域通讯之postMessage的用法 - 钱天兵 - 博客园](http://www.cnblogs.com/wshiqtb/p/3171199.html)
 
-- [实现跨域通信（跨文档消息传输）的几种方法（crossMessageEvent.js） - SegmentFault](http://segmentfault.com/a/1190000002448922)
+- [实现跨域通信（跨文档消息传输）的几种方法（crossMessageEvent.js） - SegmentFault](https://segmentfault.com/a/1190000002448922)
 
 - [使用HTML5中postMessage实现Ajax中的POST跨域问题 - OPEN 开发经验库](http://www.open-open.com/lib/view/open1422239221856.html)
 
@@ -464,9 +464,9 @@
 
 - [Ajax提交之后，Method从POST变成GET - 开源中国社区](http://www.oschina.net/question/86510_76347)
 
-- [详解js面向对象编程 - SegmentFault](http://segmentfault.com/a/1190000000713346)
+- [详解js面向对象编程 - SegmentFault](https://segmentfault.com/a/1190000000713346)
 
-- [最全前端面试问题及答案总结 - SegmentFault](http://segmentfault.com/a/1190000002562454)
+- [最全前端面试问题及答案总结 - SegmentFault](https://segmentfault.com/a/1190000002562454)
 
 - [js事件代理_剑华一笑_新浪博客](http://blog.sina.com.cn/s/blog_65c2ec5e0101oddv.html)
 
@@ -560,7 +560,7 @@
 
 - [JavaScript 的 Emoji 转换库：js-emoji - OPEN 开发经验库](http://www.open-open.com/lib/view/open1403079020825.html)
 
-- [10款受欢迎的Github Emoji开源库-控件新闻-慧都控件网](http://www.evget.com/article/2014/11/14/21821.html)
+- [10款受欢迎的Github Emoji开源库-控件新闻-慧都控件网](https://www.evget.com/article/2014/11/14/21821.html)
 
 - [iamcal/js-emoji](https://github.com/iamcal/js-emoji)
 
@@ -570,7 +570,7 @@
 
 - [arvida/emoji-cheat-sheet.com](https://github.com/arvida/emoji-cheat-sheet.com)
 
-- [和Emoji相关的那些开源项目 | @Get社区](http://get.jobdeer.com/?a=article&aid=181)
+- [和Emoji相关的那些开源项目 | @Get社区](http://get.ftqq.com/?a=article&aid=181)
 
 - [emoji处理方式大起底 - ugg的专栏 - 博客频道 - CSDN.NET](http://blog.csdn.net/ugg/article/details/44225723)
 
@@ -592,7 +592,7 @@
 
 - [[已解决]base64编码上传问题 - CNode技术社区](https://cnodejs.org/topic/51f49b07f4963ade0e59be2d)
 
-- [defer和async的区别 - SegmentFault](http://segmentfault.com/q/1010000000640869)
+- [defer和async的区别 - SegmentFault](https://segmentfault.com/q/1010000000640869)
 
 - [Hacker News](https://news.ycombinator.com/)
 
@@ -672,7 +672,7 @@
 
 - [经典的 Web 编辑器——CKEditor 介绍](http://www.ibm.com/developerworks/cn/web/1012_moying_ckeditor/)
 
-- [jQuery Validation Engine 表单验证 - 前端开发仓库](http://code.ciaoca.com/jquery/validation_engine/)
+- [jQuery Validation Engine 表单验证 - 前端开发仓库](http://code.ciaoca.com/jquery/validation-engine/)
 
 ##文件上传
 
@@ -720,7 +720,7 @@
 
 - [js操作cookie - 乔晓松 - 博客频道 - CSDN.NET](http://blog.csdn.net/qxs965266509/article/details/8967437)
 
-- [理解HTTP session原理及应用 - switch - SegmentFault](http://segmentfault.com/a/1190000002714236)
+- [理解HTTP session原理及应用 - switch - SegmentFault](https://segmentfault.com/a/1190000002714236)
 
 - [JS设置cookie，删除cookie - KoMiles - 博客园](http://www.cnblogs.com/wangkongming/p/3992644.html)
 
@@ -844,7 +844,7 @@
 
 - [nginx expires 无效 - 开源中国社区](http://www.oschina.net/question/55448_77710?sort=time)
 
-- [Nginx设置expires设定页面缓存时间 不缓存或一直使用缓存](http://www.douban.com/note/342389019/)
+- [Nginx设置expires设定页面缓存时间 不缓存或一直使用缓存](https://www.douban.com/note/342389019/)
 
 - [nginx upstream的分配方式。 - 相濡以沫 - 51CTO技术博客](http://onlyzq.blog.51cto.com/1228/557848/)
 
@@ -868,9 +868,9 @@
 
 ##Vagrant
 
-- [使用 Vagrant 打造跨平台开发环境 - SegmentFault](http://segmentfault.com/a/1190000000264347)
+- [使用 Vagrant 打造跨平台开发环境 - SegmentFault](https://segmentfault.com/a/1190000000264347)
 
-- [Getting Started - Vagrant Documentation](http://docs.vagrantup.com/v2/getting-started/)
+- [Getting Started - Vagrant Documentation](https://www.vagrantup.com/docs/getting-started/)
 
 ##RESTful
 
@@ -930,7 +930,7 @@
 
 - [WebKit最新特性srcset简介 - 51CTO.COM](http://developer.51cto.com/art/201309/410720.htm)
 
-- [s A Good Thing – Smashing Magazine](http://www.smashingmagazine.com/2013/08/21/webkit-implements-srcset-and-why-its-a-good-thing/)
+- [s A Good Thing – Smashing Magazine](https://www.smashingmagazine.com/2013/08/21/webkit-implements-srcset-and-why-its-a-good-thing/)
 
 - [ResponsiveImages.org](http://responsiveimages.org/)
 
@@ -948,7 +948,7 @@
 
 - [Learn HTML5, CSS3, Javascript - video style tutorials](http://thecodeplayer.com/)
 
-- [HTML5标签速查 - SegmentFault](http://segmentfault.com/a/1190000000438191)
+- [HTML5标签速查 - SegmentFault](https://segmentfault.com/a/1190000000438191)
 
 - [白鹭引擎 - Egret Engine-免费开源HTML5游戏引擎](http://www.egret.com/)
 
@@ -964,13 +964,13 @@
 
 - [关于Apple设备私有的apple-touch-icon属性详解 - freshlover的专栏 - 博客频道 - CSDN.NET](http://blog.csdn.net/freshlover/article/details/9310437)
 
-- [常用meta整理 - Ciaocc - SegmentFault](http://segmentfault.com/a/1190000002407912)
+- [常用meta整理 - Ciaocc - SegmentFault](https://segmentfault.com/a/1190000002407912)
 
 - [HTML5 Google电吉他 可用键盘弹奏 - 推酷](http://www.tuicool.com/articles/mYBVfy)
 
 - [？ - 前端开发 - 知乎](http://www.zhihu.com/question/20797118?utm_source=weibo&utm_medium=weibo_share&utm_content=share_question&utm_campaign=share_sidebar)
 
-- [HTML中head头结构 - SegmentFault](http://segmentfault.com/blog/paddingme/1190000000697532)
+- [HTML中head头结构 - SegmentFault](https://segmentfault.com/blog/paddingme/1190000000697532)
 
 - [div+css自适应3列布局，两侧列定宽，中间宽度自适应 | 0101后花园](http://www.bbs0101.com/archives/42.html)
 
@@ -998,7 +998,7 @@
 
 - [Usage | Less.js](http://lesscss.org/usage/#command-line-usage-installing-lessc-for-use-globally)
 
-- [媒体查询与http请求前端观察 | CSS | 前端观察](http://www.qianduan.net/media-query-and-http-requests.html)
+- [媒体查询与http请求前端观察 | CSS | 前端观察](https://www.qianduan.net/media-query-and-http-requests.html)
 
 - [关于clearfix清除浮动 - Kimura - 博客园](http://www.cnblogs.com/zllwebjs/archive/2010/03/19/1689980.html)
 
@@ -1040,9 +1040,9 @@
 
 - [35个让人惊讶的 CSS3 动画效果演示 - 梦想天空（山边小溪） - 博客园](http://www.cnblogs.com/lhb25/archive/2011/11/22/best-awesome-css3-animation-demos.html)
 
-- [BEM —— 源自Yandex的CSS 命名方法论 - SegmentFault](http://segmentfault.com/a/1190000000391762)
+- [BEM —— 源自Yandex的CSS 命名方法论 - SegmentFault](https://segmentfault.com/a/1190000000391762)
 
-- [Definitions / Methodology / BEM. Block, Element, Modifier / BEM](https://en.bem.info/method/definitions/)
+- [Definitions / Methodology / BEM. Block, Element, Modifier / BEM](/methodology/definitions/)
 
 - [BEM思想之彻底弄清BEM语法 | css3教程-css3实例-css3动画 | W3CPlus](http://www.w3cplus.com/css/mindbemding-getting-your-head-round-bem-syntax.html)
 
@@ -1050,9 +1050,9 @@
 
 - [CSS3：[1]如何使用Flexbox伸缩盒_百度经验](http://jingyan.baidu.com/article/59a015e3439c64f79588657a.html)
 
-- [使用 CSS3 Flexible Boxes 布局 - SegmentFault](http://segmentfault.com/a/1190000000484017)
+- [使用 CSS3 Flexible Boxes 布局 - SegmentFault](https://segmentfault.com/a/1190000000484017)
 
-- [前端性能优化（CSS动画篇） - SegmentFault](http://segmentfault.com/a/1190000000490328)
+- [前端性能优化（CSS动画篇） - SegmentFault](https://segmentfault.com/a/1190000000490328)
 
 - [CSS3 3D Transforms 浏览器兼容性一览表](http://caniuse.sinaapp.com/html/item/transforms3d/index.html)
 
@@ -1070,15 +1070,15 @@
 
 - [jquery css3网页时钟代码制作圆形时钟表盘样式效果_素材中国17素材网](http://www.17sucai.com/pins/5361.html)
 
-- [CSS实现垂直居中的5种方法](http://www.qianduan.net/css-to-achieve-the-vertical-center-of-the-five-kinds-of-methods/)
+- [CSS实现垂直居中的5种方法](https://www.qianduan.net/css-to-achieve-the-vertical-center-of-the-five-kinds-of-methods/)
 
-- [CSS3 Transform | css3教程-css3实例-css3动画 | W3CPlus](http://www.w3cplus.com/content/css3-transform/)
+- [CSS3 Transform | css3教程-css3实例-css3动画 | W3CPlus](http://www.w3cplus.com/content/css3-transform)
 
 - [css3 翻转和旋转的区别 - noonnightstorm的专栏 - 博客频道 - CSDN.NET](http://blog.csdn.net/noonnightstorm/article/details/8595435)
 
 - [盘点8种CSS实现垂直居中水平居中的绝对定位居中技术 - freshlover的专栏 - 博客频道 - CSDN.NET](http://blog.csdn.net/freshlover/article/details/11579669)
 
-- [理解CSS3线性渐变](http://www.qianduan.net/understand-the-css3-gradient/)
+- [理解CSS3线性渐变](https://www.qianduan.net/understand-the-css3-gradient/)
 
 - [CSS3 Border-image | css3教程-css3实例-css3动画 | W3CPlus](http://www.w3cplus.com/content/css3-border-image)
 
@@ -1092,7 +1092,7 @@
 
 - [美化表单——自定义checkbox和radio样式 | css3教程-css3实例-css3动画 | W3CPlus](http://www.w3cplus.com/css3/checkbox-radio-style.html)
 
-- [:first-child 有时候不起作用 - SegmentFault](http://segmentfault.com/q/1010000000141546)
+- [:first-child 有时候不起作用 - SegmentFault](https://segmentfault.com/q/1010000000141546)
 
 - [CSS3实现的幻灯片导航箭头提示特效 – 欲思博客](http://yusi123.com/3325.html)
 
@@ -1106,7 +1106,7 @@
 
 - [IE10中的Flexbox布局属性使用具体详解_CSS教程_前端技术](http://www.alixixi.com/web/a/2013051588733.shtml)
 
-- [css rem 字体问题 - SegmentFault](http://segmentfault.com/q/1010000002442078)
+- [css rem 字体问题 - SegmentFault](https://segmentfault.com/q/1010000002442078)
 
 - [Data URL和图片 – WEB骇客](http://www.webhek.com/data-url)
 
@@ -1122,7 +1122,7 @@
 
 - [CSS3实战第一波 让我们尽情的圆角吧 _css3_CSS_网页制作_脚本之家](http://www.jb51.net/css/29327.html)
 
-- [CSS3的圆角Border-radius | css3教程-css3实例-css3动画 | W3CPlus](http://www.w3cplus.com/node/48)
+- [CSS3的圆角Border-radius | css3教程-css3实例-css3动画 | W3CPlus](http://www.w3cplus.com/css3/border-radius)
 
 - [21种css3 transition属性鼠标悬停导航条动画效果演示_jQuery之家-自由分享jQuery、html5、css3的插件库](http://www.htmleaf.com/Demo/2014100437.html)
 
@@ -1156,13 +1156,13 @@
 
 - [CSS vertical-align属性的用法_最初的你_新浪博客](http://blog.sina.com.cn/s/blog_51048da701018490.html)
 
-- [CSS Box Shadows Effects](http://www.paulund.co.uk/creating-different-css3-box-shadows-effects)
+- [CSS Box Shadows Effects](https://paulund.co.uk/creating-different-css3-box-shadows-effects)
 
 - [Flex 布局教程：语法篇 - 阮一峰的网络日志](http://www.ruanyifeng.com/blog/2015/07/flex-grammar.html?utm_source=tuicool)
 
 - [Coffcer/flex-layout](https://github.com/Coffcer/flex-layout)
 
-- [详解css3弹性盒模型（Flexbox） - trigkit4 - SegmentFault](http://segmentfault.com/a/1190000000707526)
+- [详解css3弹性盒模型（Flexbox） - trigkit4 - SegmentFault](https://segmentfault.com/a/1190000000707526)
 
 - [RY8005: 各浏览器对于计算后宽度和高度为含有小数的长度值时，其最终值会不一致 - W3Help](http://www.w3help.org/zh-cn/causes/RY8005)
 
@@ -1226,7 +1226,7 @@
 
 - [负margin用法权威指南 | css3教程-css3实例-css3动画 | W3CPlus](http://www.w3cplus.com/css/the-definitive-guide-to-using-negative-margins.html)
 
-- [巧用:empty解决webkit核心浏览器text-indent的bug](http://www.qianduan.net/fixed-text-indent-in-webkit-editable-element-bug/)
+- [巧用:empty解决webkit核心浏览器text-indent的bug](https://www.qianduan.net/fixed-text-indent-in-webkit-editable-element-bug/)
 
 - [css非标准的ime-mode属性 - snandy - 博客园](http://www.cnblogs.com/snandy/archive/2011/03/28/1997407.html)
 
@@ -1272,7 +1272,7 @@
 
 - [git配合tortoiseGit的基础使用](http://www.cnblogs.com/ssor/archive/2012/02/04/2337823.html)
 
-- [download.TortoiseGit.org](http://download.tortoisegit.org/tgit/1.8.12.0/)
+- [download.TortoiseGit.org](https://download.tortoisegit.org/tgit/1.8.12.0/)
 
 - [如何在windows下安装GIT_百度经验](http://jingyan.baidu.com/article/90895e0fb3495f64ed6b0b50.html)
 
@@ -1348,11 +1348,11 @@
 
 - [Git for Windows](http://msysgit.github.io/)
 
-- [Git - Book](http://git-scm.com/book/zh/v1)
+- [Git - Book](https://git-scm.com/book/zh/v1)
 
 - [Git 参考手册](http://gitref.justjavac.com/)
 
-- [GitHub 上排名前 100 的 Objective-C 项目简介 - SegmentFault](http://segmentfault.com/a/1190000002665904)
+- [GitHub 上排名前 100 的 Objective-C 项目简介 - SegmentFault](https://segmentfault.com/a/1190000002665904)
 
 - [转自github上的前端开发妙文。 - shuawanxiao的专栏 - 博客频道 - CSDN.NET](http://blog.csdn.net/shuawanxiao/article/details/42749119)
 
@@ -1390,7 +1390,7 @@
 
 - [移动web最简洁的滑动效果Swipe JS（适合初学者） - xiongxianhe的专栏 - 博客频道 - CSDN.NET](http://blog.csdn.net/xiongxianhe/article/details/39993193)
 
-- [使用Slip.js快速创建整屏滑动的手机网页](http://segmentfault.com/blog/laopopo/1190000000708417)
+- [使用Slip.js快速创建整屏滑动的手机网页](https://segmentfault.com/blog/laopopo/1190000000708417)
 
 - [跨平台开发：PhoneGap移动开发框架初探 - html5与PhoneGap开发教程 - Android开发论坛 - 安卓开发论坛 - Android开发 - 安卓论坛 - 移动互联网门户 - Powered by Discuz!](http://www.apkbus.com/android-20056-1-1.html)
 
@@ -1424,7 +1424,7 @@
 
 - [移动设备、手机浏览器Javascript滑动事件代码 - 海涛的CSDN博客 - 博客频道 - CSDN.NET](http://blog.csdn.net/zht666/article/details/8621332)
 
-- [webapp网页调试工具Chrome Devtools前端观察 | Tips | 前端观察](http://www.qianduan.net/webapp-wang-ye-diao-shi-gong-ju-chrome-devtools.html)
+- [webapp网页调试工具Chrome Devtools前端观察 | Tips | 前端观察](https://www.qianduan.net/webapp-wang-ye-diao-shi-gong-ju-chrome-devtools.html)
 
 - [touchstart,touchmove,touchend触摸事件的小小实践心得 - jiangcs520的专栏 - 博客频道 - CSDN.NET](http://blog.csdn.net/jiangcs520/article/details/17564065)
 
@@ -1476,7 +1476,7 @@
 
 - [Android系统字体规范与应用探索 | 设计达人](http://www.shejidaren.com/android%E7%B3%BB%E7%BB%9F%E5%AD%97%E4%BD%93%E8%A7%84%E8%8C%83%E4%B8%8E%E5%BA%94%E7%94%A8%E6%8E%A2%E7%B4%A2.html)
 
-- [Android 4.1 4.2 webkit开启默认缩放设置后meta中target-densitydpi配置会影响其他页面的解决方法 | 天宇空间](http://www.xdty.org/1480)
+- [Android 4.1 4.2 webkit开启默认缩放设置后meta中target-densitydpi配置会影响其他页面的解决方法 | 天宇空间](https://www.xdty.org/1480)
 
 - [关于meta viewport中target-densitydpi属性 - fengri5566的专栏 - 博客频道 - CSDN.NET](http://blog.csdn.net/fengri5566/article/details/9414599)
 
@@ -1496,7 +1496,7 @@
 
 - [移动WEB开发中媒体查询里的width, device-width, resolution - rentj - 博客园](http://www.cnblogs.com/rentj1/p/3553223.html)
 
-- [关于webapp中的文字单位的一些捣腾前端观察 | CSS | 前端观察](http://www.qianduan.net/guan-yu-webapp-zhong-di-wen-zi-dan-wei-di-yi-xie-dao-teng.html)
+- [关于webapp中的文字单位的一些捣腾前端观察 | CSS | 前端观察](https://www.qianduan.net/guan-yu-webapp-zhong-di-wen-zi-dan-wei-di-yi-xie-dao-teng.html)
 
 - [图灵社区 : 阅读 : 移动端屏幕适配方案](http://www.ituring.com.cn/article/130015)
 
@@ -1512,13 +1512,13 @@
 
 ##适配
 
-- [[适配性]移动Webapp自适应方案_小组_ThinkSAAS](http://www.thinksaas.cn/group/topic/349043/)
+- [[适配性]移动Webapp自适应方案_小组_ThinkSAAS](http://www.thinksaas.cn/topics/0/349/349043.html)
 
 - [Android 移动设计字体规范整理大全 – 25学堂](http://www.25xt.com/appdesign/8011.html)
 
 - [最新WebAPP设计指南规范：适配iphone6技巧 – 25学堂](http://www.25xt.com/appdesign/7086.html)
 
-- [WEBAPP开发技巧(手机网站开发注意事项) | WEB前端开发-关注常见的WEB前端开发问题、最新的WEB前端开发技术(webApp开发、移动网站开发)、最好的WEB前端开发工具和最全的WEB前端开发w3cschool手册](http://www.css119.com/archives/1042)
+- [WEBAPP开发技巧(手机网站开发注意事项) | WEB前端开发-关注常见的WEB前端开发问题、最新的WEB前端开发技术(webApp开发、移动网站开发)、最好的WEB前端开发工具和最全的WEB前端开发w3cschool手册](http://survey-winner.net)
 
 - [HTML 5-webapp如何实现字体自适应? - 德问:编程社交问答](http://www.dewen.io/q/13315/webapp%E5%A6%82%E4%BD%95%E5%AE%9E%E7%8E%B0%E5%AD%97%E4%BD%93%E8%87%AA%E9%80%82%E5%BA%94%3F)
 
@@ -1542,9 +1542,9 @@
 
 - [JavaScript中的立即执行函数表达式](http://weizhifeng.net/immediately-invoked-function-expression.html)
 
-- [移动Web页面，为什么都喜欢width=device-width，并且关闭系统缩放功能？ - SegmentFault](http://segmentfault.com/q/1010000000305316)
+- [移动Web页面，为什么都喜欢width=device-width，并且关闭系统缩放功能？ - SegmentFault](https://segmentfault.com/q/1010000000305316)
 
-- [devicePixelRatio = 1.5 引发的问题 | JerryQu 的小站](https://www.imququ.com/post/devicepixelratio-and-border-width.html)
+- [devicePixelRatio = 1.5 引发的问题 | JerryQu 的小站](https://imququ.com/post/devicepixelratio-and-border-width.html)
 
 - [一些关于Viewport与device-width的东西～ - 口口一凡 - 博客园](http://www.cnblogs.com/koukouyifan/p/4066567.html)
 
@@ -1588,7 +1588,7 @@
 
 - [IScroll5+在ios、android点击（click）事件不兼容解决方法 | 最棒的web前端及html5资源分享、交流、学习平台 – 52html5(金牌狙击手的博客)](http://www.52html5.com/?p=2618)
 
-- [手机网站使用iscroll插件链接无法点击解决方案](http://www.douban.com/note/503437802/)
+- [手机网站使用iscroll插件链接无法点击解决方案](https://www.douban.com/note/503437802/)
 
 - [iscroll介绍 - 無執 - ITeye技术网站](http://lhdst-163-com.iteye.com/blog/1239784)
 
@@ -1596,11 +1596,11 @@
 
 - [iscroll源码初涉 - 秋尘 - 博客园](http://www.cnblogs.com/viccici/p/3878680.html)
 
-- [入门 | iScroll 5 API 中文版](http://iiunknown.gitbooks.io/iscroll-5-api-cn/content/gettingstart.html)
+- [入门 | iScroll 5 API 中文版](https://iiunknown.gitbooks.io/iscroll-5-api-cn/content/gettingstart.html)
 
 - [iScroll框架的使用和修改 - Joanna Qian - 博客园](http://www.cnblogs.com/joannaq/p/3155873.html)
 
-- [高级选项 | iScroll 5 API 中文版](http://iiunknown.gitbooks.io/iscroll-5-api-cn/content/advance.html)
+- [高级选项 | iScroll 5 API 中文版](https://iiunknown.gitbooks.io/iscroll-5-api-cn/content/advance.html)
 
 - [iScroll-5拉动刷新功能实现与iScroll-4上拉刷新的一点改进 - Yghost - 博客园](http://www.cnblogs.com/yghost/p/4230708.html)
 
@@ -1646,9 +1646,9 @@
 
 ##优化
 
-- [移动H5前端性能优化指南 - SegmentFault](http://segmentfault.com/a/1190000002511921)
+- [移动H5前端性能优化指南 - SegmentFault](https://segmentfault.com/a/1190000002511921)
 
-- [智图](http://zhitu.tencent.com/)
+- [智图](http://zhitu.isux.us)
 
 - [nginx 配置expires - 梦想的天空 - 博客频道 - CSDN.NET](http://blog.csdn.net/gameboyx/article/details/10894057)
 
@@ -1684,7 +1684,7 @@
 
 - [在移动设备上调试Web应用的控制台：js-mobile-console - OPEN 开发经验库](http://www.open-open.com/lib/view/open1415324245855.html)
 
-- [ Safari - Blog Archive » WebKit Remote Debugging](https://www.webkit.org/blog/1620/webkit-remote-debugging/)
+- [ Safari - Blog Archive » WebKit Remote Debugging](https://webkit.org/blog/1620/webkit-remote-debugging/)
 
 - [Web应用调试：现在是Weinre和JSConsole，最终会是WebKit的远程调试协议](http://www.infoq.com/cn/news/2011/08/mobile-web-debugging)
 
@@ -1712,11 +1712,11 @@
 
 - [iOS 的 APP 如何适应 iPhone 5s/6/6Plus 三种屏幕的尺寸？ - 推酷](http://www.tuicool.com/articles/yEFbE3)
 
-- [移动前端不得不了解的 html5 head 头标签 - SegmentFault](http://segmentfault.com/a/1190000002586217)
+- [移动前端不得不了解的 html5 head 头标签 - SegmentFault](https://segmentfault.com/a/1190000002586217)
 
-- [移动web开发中，好用的小方法 - SegmentFault](http://segmentfault.com/a/1190000002460016)
+- [移动web开发中，好用的小方法 - SegmentFault](https://segmentfault.com/a/1190000002460016)
 
-- [移动端webapp开发必备知识](http://www.qianduan.net/mobile-webapp-develop-essential-knowledge/)
+- [移动端webapp开发必备知识](https://www.qianduan.net/mobile-webapp-develop-essential-knowledge/)
 
 - [webapp前端开发软键盘与position:fixed为我们带来的不便 - 大大白兔子 - 博客园](http://www.cnblogs.com/johnl/p/4199314.html)
 
@@ -1768,11 +1768,11 @@
 
 - [HTML5之FileReader的使用 - 骆昊的技术专栏 - 博客频道 - CSDN.NET](http://blog.csdn.net/jackfrued/article/details/8967667)
 
-- [微信内网页上传图片问题 - SegmentFault](http://segmentfault.com/q/1010000001581416)
+- [微信内网页上传图片问题 - SegmentFault](https://segmentfault.com/q/1010000001581416)
 
 - [让Android中的webview支持页面中的文件上传 - OPEN 开发经验库](http://www.open-open.com/lib/view/open1371742003171.html)
 
-- [javascript - 微信内置浏览器input[file]选择图片后刷新 - SegmentFault](http://segmentfault.com/q/1010000002920650)
+- [javascript - 微信内置浏览器input[file]选择图片后刷新 - SegmentFault](https://segmentfault.com/q/1010000002920650)
 
 - [三星、华为等android里webview不支持input file的解决方法 - 软件问题 - 郑州网建](http://camnpr.com/archives/1093.html)
 
@@ -1780,7 +1780,7 @@
 
 - [移动端图片上传方法【更好的兼容安卓IOS和微信】_个人随笔_B5教程网](http://www.bcty365.com/content-74-1557-1.html)
 
-- [qq浏览器x5内核奇怪的问题，微信中也存在 - SegmentFault](http://segmentfault.com/q/1010000002944322)
+- [qq浏览器x5内核奇怪的问题，微信中也存在 - SegmentFault](https://segmentfault.com/q/1010000002944322)
 
 - [ 的change事件不灵 - 武文海的个人空间 - 开源中国社区](http://my.oschina.net/fuckBAT/blog/492887)
 
@@ -1804,11 +1804,11 @@
 
 - [移动端UC /QQ 浏览器的部分私有Meta 属性 | DeveWork](http://devework.com/uc-qq-brower-meta.html)
 
-- [移动端的头部标签和 meta - humingx - SegmentFault](http://segmentfault.com/a/1190000002532413)
+- [移动端的头部标签和 meta - humingx - SegmentFault](https://segmentfault.com/a/1190000002532413)
 
 - [移动端重构系列2——新建空白页面_移动端重构系列, mobile 教程_w3cplus](http://www.w3cplus.com/mobile/mobile-terminal-refactoring-create-page.html)
 
-- [HTML中head头结构 - PaddingMe - SegmentFault](http://segmentfault.com/a/1190000000697532)
+- [HTML中head头结构 - PaddingMe - SegmentFault](https://segmentfault.com/a/1190000000697532)
 
 - [[Html5]mobile-agent移动Agent,就是具有移动性的智能Agent_极酷播放器官方网站](http://www.cuplayer.com/player/PlayerCode/Html5/2014/1103/1650.html)
 
@@ -1878,7 +1878,7 @@
 
 - [AngularJS：在Windows上安装Yeoman - 推酷](http://www.tuicool.com/articles/VJJZza)
 
-- [cnpmjs.org: Private npm registry and web for Company](http://cnpmjs.org/)
+- [cnpmjs.org: Private npm registry and web for Company](https://cnpmjs.org/)
 
 - [改变npm安装路径 - mingle的个人空间 - 开源中国社区](http://my.oschina.net/u/923974/blog/204002)
 
@@ -1894,11 +1894,11 @@
 
 - [Bower : ENOGIT git is not installed or not in the - 为程序员服务](http://ju.outofmemory.cn/entry/113622)
 
-- [Bower : ENOGIT git is not installed or not in the PATH - SegmentFault](http://segmentfault.com/blog/bh/1190000000535410)
+- [Bower : ENOGIT git is not installed or not in the PATH - SegmentFault](https://segmentfault.com/blog/bh/1190000000535410)
 
 - [bower安装包下载慢的问题解决方法 - PHPERZ中文资讯站](http://www.phperz.com/article/14/1229/43604.html)
 
-- [bower install 速度很慢，怎么破？ - SegmentFault](http://segmentfault.com/q/1010000002472112/a-1020000002489785)
+- [bower install 速度很慢，怎么破？ - SegmentFault](https://segmentfault.com/q/1010000002472112/a-1020000002489785)
 
 - [bower解决js的依赖管理 | 粉丝日志](http://blog.fens.me/nodejs-bower-intro/)
 
@@ -1910,9 +1910,9 @@
 
 - [AngularJS + CoffeeScript 前端开发环境配置详解 - 推酷](http://www.tuicool.com/articles/nAbUFzv)
 
-- [bower简明入门教程 - SegmentFault](http://segmentfault.com/a/1190000002971135)
+- [bower简明入门教程 - SegmentFault](https://segmentfault.com/a/1190000002971135)
 
-- [Day 1: Bower —— 管理你的客户端依赖关系 - SegmentFault](http://segmentfault.com/a/1190000000349555)
+- [Day 1: Bower —— 管理你的客户端依赖关系 - SegmentFault](https://segmentfault.com/a/1190000000349555)
 
 - [Yeoman 学习笔记 - 植宁 - 博客园](http://www.cnblogs.com/zhining/p/3308277.html)
 
@@ -1952,7 +1952,7 @@
 
 - [grunt前端打包——css篇](http://www.php100.com/html/it/qianduan/2015/0115/8377.html)
 
-- [Grunt入门教程 | 我爱互联网](http://www.woiweb.net/grunt.html)
+- [Grunt入门教程 | 我爱互联网](http://woiweb.net/grunt.html)
 
 - [使用Grunt构建任务管理脚本 | css3教程-css3实例-css3动画 | W3CPlus](http://www.w3cplus.com/tools/writing-awesome-build-script-grunt.html)
 
@@ -1998,7 +1998,7 @@
 
 - [gruntjs/grunt-init-gruntfile](https://github.com/gruntjs/grunt-init-gruntfile)
 
-- [grunt默认只允许localhost和访问，如何设置外部IP地_Java123社区](http://www.java123.net/v/985805.html)
+- [grunt默认只允许localhost和访问，如何设置外部IP地_Java123社区](http://www.java123.net/985805.html)
 
 - [Grunt教程——Gurnt任务的配置 | css3教程-css3实例-css3动画 | W3CPlus](http://www.w3cplus.com/tools/grunt-tutorial-configuring-tasks.html)
 
@@ -2010,9 +2010,9 @@
 
 - [入门指南--grunt学习笔记（1） - CSDN博客](http://m.blog.csdn.net/blog/larrywangsun/27428093)
 
-- [grunt-rev 和 grunt-usemin 替换静态资源 url 的配置 - SegmentFault](http://segmentfault.com/a/1190000000442070)
+- [grunt-rev 和 grunt-usemin 替换静态资源 url 的配置 - SegmentFault](https://segmentfault.com/a/1190000000442070)
 
-- [用 grunt-contrib-connect 构建实时预览开发环境 | 隔叶黄莺 Unmi Blog - 软件编程实践](http://unmi.cc/blog/2014/04/30/grunt-contrib-connect-build-livereload-dev-env/)
+- [用 grunt-contrib-connect 构建实时预览开发环境 | 隔叶黄莺 Unmi Blog - 软件编程实践](http://unmi.cc/grunt-contrib-connect-build-livereload-dev-env/)
 
 - [Grunt的wiredep任务的配置说明文档 - 姜丝的博客 - 博客频道 - CSDN.NET](http://blog.csdn.net/itpinpai/article/details/48269825)
 
@@ -2028,7 +2028,7 @@
 
 ##gulp
 
-- [gulp API文档 - gulp.js 中文文档 | gulp.js 中文网](http://www.bootcss.com/gulpjs/docs/api/)
+- [gulp API文档 - gulp.js 中文文档 | gulp.js 中文网](http://www.gulpjs.com.cn/docs/api/)
 
 - [gulp.js - 基于流的自动化构建工具。 | gulp.js 中文网](http://www.gulpjs.com.cn/)
 
@@ -2040,17 +2040,17 @@
 
 - [前端构建工具gulpjs的使用介绍及技巧 - 无双 - 博客园](http://www.cnblogs.com/2050/p/4198792.html)
 
-- [Gulp思维——Gulp高级技巧 - SegmentFault](http://segmentfault.com/a/1190000000711469)
+- [Gulp思维——Gulp高级技巧 - SegmentFault](https://segmentfault.com/a/1190000000711469)
 
 - [Dtao | gulp教程之gulp-autoprefixer](http://www.dtao.org/archives/94)
 
 - [Dtao | gulp教程之gulp-less](http://www.dtao.org/archives/34)
 
-- [gulp入门教程 - SegmentFault](http://segmentfault.com/a/1190000002698606)
+- [gulp入门教程 - SegmentFault](https://segmentfault.com/a/1190000002698606)
 
 - [前端工程化：在gulp中顺序执行任务 - 推酷](http://www.tuicool.com/articles/ea6FVf)
 
-- [前端构建工具gulp入门教程 - SegmentFault](http://segmentfault.com/a/1190000000372547)
+- [前端构建工具gulp入门教程 - SegmentFault](https://segmentfault.com/a/1190000000372547)
 
 - [s Blog](http://www.dbpoo.com/getting-started-with-gulp/)
 
@@ -2064,11 +2064,11 @@
 
 - [用gulp做一个略完整的前端打包工作~ 极客标签 | 在线编程知识分享学习平台](http://www.gbtags.com/gb/share/5503.htm)
 
-- [gulp简易入坑 - SegmentFault](http://segmentfault.com/a/1190000002955996)
+- [gulp简易入坑 - SegmentFault](https://segmentfault.com/a/1190000002955996)
 
-- [Hello Gulp! - SegmentFault](http://segmentfault.com/a/1190000003409507)
+- [Hello Gulp! - SegmentFault](https://segmentfault.com/a/1190000003409507)
 
-- [利用 Gulp 处理前端工作流程 - SegmentFault](http://segmentfault.com/a/1190000003098076)
+- [利用 Gulp 处理前端工作流程 - SegmentFault](https://segmentfault.com/a/1190000003098076)
 
 - [一点 | gulp教程之gulp-htmlmin](http://www.ydcss.com/archives/20)
 
@@ -2120,9 +2120,9 @@
 
 - [给电脑换源 npm 国内镜像 cnpm 一介布衣](http://yijiebuyi.com/blog/b12eac891cdc5f0dff127ae18dc386d4.html)
 
-- [nrm —— 快速切换 NPM 源 （附带测速功能） - SegmentFault](http://segmentfault.com/a/1190000000473869)
+- [nrm —— 快速切换 NPM 源 （附带测速功能） - SegmentFault](https://segmentfault.com/a/1190000000473869)
 
-- [使用cnpm搭建企业内部私有NPM仓库 - SegmentFault](http://segmentfault.com/a/1190000000368906)
+- [使用cnpm搭建企业内部私有NPM仓库 - SegmentFault](https://segmentfault.com/a/1190000000368906)
 
 - [npm用法及离线安装方法 - laozhbook - 推酷](http://www.tuicool.com/articles/eE7zam)
 
@@ -2152,9 +2152,9 @@
 
 - [list of loaders](http://webpack.github.io/docs/list-of-loaders.html)
 
-- [Webpack 入门指迷 - SegmentFault](http://segmentfault.com/a/1190000002551952)
+- [Webpack 入门指迷 - SegmentFault](https://segmentfault.com/a/1190000002551952)
 
-- [[新姿势]前端革命，革了再革：WebPack - SegmentFault](http://segmentfault.com/a/1190000002507327)
+- [[新姿势]前端革命，革了再革：WebPack - SegmentFault](https://segmentfault.com/a/1190000002507327)
 
 - [webpack](http://webpack.github.io/docs/)
 
@@ -2170,7 +2170,7 @@
 
 ##yo
 
-- [30天web实践3-yeoman - SegmentFault](http://segmentfault.com/a/1190000000656748)
+- [30天web实践3-yeoman - SegmentFault](https://segmentfault.com/a/1190000000656748)
 
 - [Yeoman自动构建js项目 | 粉丝日志](http://blog.fens.me/nodejs-yeoman-intro/)
 
@@ -2186,7 +2186,7 @@
 
 - [CNode：Node.js专业中文社区](https://cnodejs.org/)
 
-- [Node.js](http://nodejs.org/)
+- [Node.js](https://nodejs.org/)
 
 - [Node.js 包教不包会](https://github.com/alsotang/node-lessons)
 
@@ -2258,7 +2258,7 @@
 
 - [Mongodb 安装 以及 问题解决-摘自网络 - iDEAAM - 博客园](http://www.cnblogs.com/haoliansheng/p/4389911.html)
 
-- [t connect to server 127.0.0.1:27017 src/mongo/she_小组_ThinkSAAS](http://www.thinksaas.cn/group/topic/344317/)
+- [t connect to server 127.0.0.1:27017 src/mongo/she_小组_ThinkSAAS](http://www.thinksaas.cn/topics/0/344/344317.html)
 
 - [t connect to server 127.0.0.1:27017 src/mongo/shell/mo - 性格决定命运，专注成就人生 争取每天进步1% - ITeye技术网站](http://ewf-momo.iteye.com/blog/1910678)
 
@@ -2290,7 +2290,7 @@
 
 ##Hexo静态博客系统
 
-- [Hexo](http://hexo.io/)
+- [Hexo](https://hexo.io/)
 
 - [Hexo在github上构建免费的Web应用 | 粉丝日志](http://blog.fens.me/hexo-blog-github/)
 
@@ -2306,7 +2306,7 @@
 
 - [Nodejs服务器管理模块forever | 粉丝日志](http://blog.fens.me/nodejs-server-forever/)
 
-- [Uspcat NodeJS视频教程 - 爱酷学习网](http://www.icoolxue.com/album/show/89/)
+- [Uspcat NodeJS视频教程 - 爱酷学习网](http://www.icoolxue.com/500)
 
 - [node.js调试 - Samaritans - 博客园](http://www.cnblogs.com/dolphinX/archive/2013/12/22/3485345.html)
 
@@ -2334,7 +2334,7 @@
 
 ##MVC框架
 
-- [thinkjs - 基于Promise的Node.js MVC框架](http://www.thinkjs.org/)
+- [thinkjs - 基于Promise的Node.js MVC框架](https://thinkjs.org/)
 
 ##nvm
 
@@ -2504,7 +2504,7 @@
 
 - [protractor 无法启动_慕课问答](http://www.imooc.com/wenda/detail/245054)
 
-- [angularjs学习笔记—事件指令 - SegmentFault](http://segmentfault.com/a/1190000002634554)
+- [angularjs学习笔记—事件指令 - SegmentFault](https://segmentfault.com/a/1190000002634554)
 
 - [AngularJS 指令和 JavaScript 计算机科学 | 开发人员连接](http://www.adobe.com/cn/devnet/html5/articles/angularjs-directives-and-the-computer-science-of-javascript.html)
 
@@ -2538,7 +2538,7 @@
 
 - [You have not concluded your merge (MERGE_HEAD exists) git拉取失败 一介布衣](http://yijiebuyi.com/blog/5b55eb51ad49ce41e2de9c85dd4513ca.html)
 
-- [AngularJS中的Promise_小组_ThinkSAAS](http://www.thinksaas.cn/group/topic/264600/)
+- [AngularJS中的Promise_小组_ThinkSAAS](http://www.thinksaas.cn/topics/0/264/264600.html)
 
 - [ JavaScript - 博客大巴](http://www.blogbus.com/monw3c-logs/272038628.html)
 
@@ -2550,7 +2550,7 @@
 
 - [图灵社区 : 阅读 : 构建自己的AngularJS，第一部分：作用域和digest](http://www.ituring.com.cn/article/39865)
 
-- [angularjs: ng-repeat 如何实现嵌套？ - SegmentFault](http://segmentfault.com/q/1010000000405730)
+- [angularjs: ng-repeat 如何实现嵌套？ - SegmentFault](https://segmentfault.com/q/1010000000405730)
 
 ##插件
 
@@ -2566,7 +2566,7 @@
 
 - [学习 ui-router - 多个命名的视图 | bubkoo](http://bubkoo.com/2014/01/01/angular/ui-router/guide/multiple-named-views/)
 
-- [关于angularjs-ui-router的 html5Model开启后的一些问题 - SegmentFault](http://segmentfault.com/q/1010000003509736)
+- [关于angularjs-ui-router的 html5Model开启后的一些问题 - SegmentFault](https://segmentfault.com/q/1010000003509736)
 
 - [[转]AngularJS 使用 UI Router 实现表单向导 - freeliver54 - 博客园](http://www.cnblogs.com/freeliver54/p/4488292.html)
 
@@ -2680,7 +2680,7 @@
 
 ##ngTemplate
 
-- [angular模板加载 - 怀疑真爱的流浪者jason - SegmentFault](http://segmentfault.com/a/1190000000437230)
+- [angular模板加载 - 怀疑真爱的流浪者jason - SegmentFault](https://segmentfault.com/a/1190000000437230)
 
 ##ngReact
 
@@ -2688,7 +2688,7 @@
 
 - [ directives - Stack Overflow](http://stackoverflow.com/questions/22295465/uncaught-error-injectormodulerr-failed-to-instantiate-module-when-there-a)
 
-- [浅谈AngularJS的$interpolate服务 1 - SegmentFault](http://segmentfault.com/a/1190000002753321)
+- [浅谈AngularJS的$interpolate服务 1 - SegmentFault](https://segmentfault.com/a/1190000002753321)
 
 - [ - Halower - 博客园](http://www.cnblogs.com/rohelm/p/4039279.html)
 
@@ -2712,7 +2712,7 @@
 
 - [angularJs ui.router 刷新页面404 处理方法 - 推酷](http://www.tuicool.com/articles/bYreQzM)
 
-- [Angular 式的界面自动刷新具体是如何做到的? - SegmentFault](http://segmentfault.com/q/1010000000316736)
+- [Angular 式的界面自动刷新具体是如何做到的? - SegmentFault](https://segmentfault.com/q/1010000000316736)
 
 - [AngularJS最理想开发工具WebStorm | 粉丝日志](http://blog.fens.me/angularjs-webstorm-ide/)
 
@@ -2756,11 +2756,11 @@
 
 - [AngularJS中的$http.post与jQuery.post的区别 - tommyfok的个人空间 - 开源中国社区](http://my.oschina.net/tommyfok/blog/287748)
 
-- [AngularJS中的RESTful资源_小组_ThinkSAAS](http://www.thinksaas.cn/group/topic/348581/)
+- [AngularJS中的RESTful资源_小组_ThinkSAAS](http://www.thinksaas.cn/topics/0/348/348581.html)
 
 - [Angular+Bootstrap3导航菜单 | 粉丝日志](http://blog.fens.me/bootstrap-angularjs-navbar/)
 
-- [angularjs - angular中如何设置全局的ajax请求？ - SegmentFault](http://segmentfault.com/q/1010000001714337)
+- [angularjs - angular中如何设置全局的ajax请求？ - SegmentFault](https://segmentfault.com/q/1010000001714337)
 
 - [angular学习笔记(二十四)-$http(2)-设置http请求头 - 流浪猫の窝 - 博客园](http://www.cnblogs.com/liulangmao/p/3878425.html)
 
@@ -2816,7 +2816,7 @@
 
 - [angular.element方法汇总_AngularJS_脚本之家](http://www.jb51.net/article/59544.htm)
 
-- [angularjs通过url传递多个参数的处理方法](http://www.douban.com/note/331153526/?type=like)
+- [angularjs通过url传递多个参数的处理方法](https://www.douban.com/note/331153526/?type=like)
 
 - [ngularJs项目实战！05: 不同controller作用域之间通信的方式 | 张迪的blog](http://www.storagelab.org.cn/zhangdi/2014/11/19/%E4%B8%8D%E5%90%8Ccontroller%E4%BD%9C%E7%94%A8%E5%9F%9F%E4%B9%8B%E9%97%B4%E9%80%9A%E4%BF%A1%E7%9A%84%E6%96%B9%E5%BC%8F/)
 
@@ -2888,7 +2888,7 @@
 
 - [angular1.2 Controller as语法解读_AngularJs实例_AngularJs入门教程_AngularJs是什么_脚本驿站w3cscript.com](http://www.w3cscript.com/Angular/2014-11-26/8.html)
 
-- [AngularJS与RequireJS集成_小组_ThinkSAAS](http://www.thinksaas.cn/group/topic/348579/)
+- [AngularJS与RequireJS集成_小组_ThinkSAAS](http://www.thinksaas.cn/topics/0/348/348579.html)
 
 - [AngularJS UI Router $state reload child state only - Stack Overflow](http://stackoverflow.com/questions/25316591/angularjs-ui-router-state-reload-child-state-only)
 
@@ -2900,7 +2900,7 @@
 
 - [AngularJS常用插件与指令收集 - 泡在网上的日子](http://www.jcodecraeer.com/a/javascript/2015/0603/2986.html)
 
-- [angular中的ng-bind-html指令和$sce服务 - SegmentFault](http://segmentfault.com/a/1190000000639561)
+- [angular中的ng-bind-html指令和$sce服务 - SegmentFault](https://segmentfault.com/a/1190000000639561)
 
 - [使用 AngularJS 开发一个大规模的单页应用（SPA） - OPEN 开发经验库](http://www.open-open.com/lib/view/open1410250605117.html)
 
@@ -2924,7 +2924,7 @@
 
 - [AngularJs开发——指令间的通信 》 html5jscss](http://www.html5jscss.com/angular-between-directive.html)
 
-- [angularjs - Angular控制器和指令的交互 - SegmentFault](http://segmentfault.com/q/1010000002946133)
+- [angularjs - Angular控制器和指令的交互 - SegmentFault](https://segmentfault.com/q/1010000002946133)
 
 - [创建angularjs可复用组件 - Mamamiya.Gee - 开源中国社区](http://my.oschina.net/gejiawen0913/blog/187389)
 
@@ -2938,7 +2938,7 @@
 
 - [带你走近AngularJS - 体验指令实例 - 葡萄城控件技术团队 - 博客园](http://www.cnblogs.com/powertoolsteam/p/angularjs-samples-experience.html)
 
-- [一招制敌 - 玩转 AngularJS 指令的 Scope (作用域) - AngularJS - SegmentFault](http://segmentfault.com/a/1190000002773689)
+- [一招制敌 - 玩转 AngularJS 指令的 Scope (作用域) - AngularJS - SegmentFault](https://segmentfault.com/a/1190000002773689)
 
 - [【点滴积累】嵌套directive中的replace 对 初始化顺序的影响 | AngularJS中文社区](http://www.angularjs.cn/A0b8)
 
@@ -2996,7 +2996,7 @@
 
 ##RequireJS
 
-- [RequireJS与AngularJS的集成 - Moe - SegmentFault](http://segmentfault.com/a/1190000000492238)
+- [RequireJS与AngularJS的集成 - Moe - SegmentFault](https://segmentfault.com/a/1190000000492238)
 
 - [AngularJS与RequireJS集成方案 - OPEN 开发经验库](http://www.open-open.com/lib/view/open1413189699875.html)
 
@@ -3066,9 +3066,9 @@
 
 - [BootSkin 模版|优秀BootStrap模版,BootStrap主题,BootStrap皮肤,BootStrap代码片段](http://www.bootskin.org/)
 
-- [Bootstrap 教程 | w3cschool菜鸟教程](http://www.w3cschool.cc/bootstrap/bootstrap-tutorial.html)
+- [Bootstrap 教程 | w3cschool菜鸟教程](http://www.runoob.com/bootstrap/bootstrap-tutorial.html)
 
-- [Customize 字形图标（Glyphicons） - w3cschool](http://www.w3cschool.cc/try/demo_source/bootstrap-glyph-customization.htm)
+- [Customize 字形图标（Glyphicons） - w3cschool](http://www.runoob.com/try/demo_source/bootstrap-glyph-customization.htm)
 
 - [BootStrap入门教程 (四) - 林场 - 博客园](http://www.cnblogs.com/ventlam/archive/2012/06/17/2536728.html)
 
@@ -3080,9 +3080,9 @@
 
 - [BootSwatchr.com](http://bootswatchr.com/)
 
-- [Bootstrap binary template](http://bootstrapzero.com/bootstrap-template/binary)
+- [Bootstrap binary template](http://www.bootstrapzero.com/bootstrap-template/binary)
 
-- [Bootstrap responsivedashboard template](http://bootstrapzero.com/bootstrap-template/responsivedashboard)
+- [Bootstrap responsivedashboard template](http://www.bootstrapzero.com/bootstrap-template/responsivedashboard)
 
 - [Index](http://aozora.github.io/bootmetro/)
 
@@ -3140,7 +3140,7 @@
 
 ##Zepto
 
-- [Zepto.js 中文手册](http://www.w3cschool.cc/manual/zeptojs.html#$.post)
+- [Zepto.js 中文手册](http://www.runoob.com/manual/zeptojs.html)
 
 - [jQuery 和 Zepto 的一些差异 - 推酷](http://www.tuicool.com/articles/j26JJvm)
 
@@ -3164,7 +3164,7 @@
 
 - [Getting Started – React Native | A framework for building native apps using React](http://facebook.github.io/react-native/docs/getting-started.html)
 
-- [ReactJS 傻瓜教程 - 前端外刊评论 - 知乎专栏](http://zhuanlan.zhihu.com/FrontendMagazine/19896745)
+- [ReactJS 傻瓜教程 - 前端外刊评论 - 知乎专栏](https://zhuanlan.zhihu.com/FrontendMagazine/19896745)
 
 - [A JavaScript library for building user interfaces | React](http://docs.reactjs-china.com/react/index.html)
 
@@ -3184,7 +3184,7 @@
 
 - [react基于webpack和Babel 6上的开发环境搭建 - 简书](http://www.jianshu.com/p/c55cab6a6578)
 
-- [React vs Angular 2: 冰与火之歌 - 前端外刊评论 - 知乎专栏](http://zhuanlan.zhihu.com/FrontendMagazine/20549104)
+- [React vs Angular 2: 冰与火之歌 - 前端外刊评论 - 知乎专栏](https://zhuanlan.zhihu.com/FrontendMagazine/20549104)
 
 - [flux reflux redux 学习笔记 - 麦芽糖在深圳 - SegmentFault](https://segmentfault.com/a/1190000003822606)
 
@@ -3212,7 +3212,7 @@
 
 - [［译]深入浅出Redux中间件 - 推酷](http://www.tuicool.com/articles/u6JRjyz)
 
-- [redux middleware 详解 - pure render - 知乎专栏](http://zhuanlan.zhihu.com/p/20597452)
+- [redux middleware 详解 - pure render - 知乎专栏](https://zhuanlan.zhihu.com/p/20597452)
 
 - [Redux 介绍 - ustccjw - SegmentFault](https://segmentfault.com/a/1190000003503338)
 
@@ -3300,9 +3300,9 @@
 
 - [React和Redux的连接react-redux - 简书](http://www.jianshu.com/p/94c988cf11f3)
 
-- [Airbnb React编码规范 - 前端外刊评论 - 知乎专栏](http://zhuanlan.zhihu.com/FrontendMagazine/20616464)
+- [Airbnb React编码规范 - 前端外刊评论 - 知乎专栏](https://zhuanlan.zhihu.com/FrontendMagazine/20616464)
 
-- [Webpack傻瓜指南（三）和React配合开发 - 前端外刊评论 - 知乎专栏](http://zhuanlan.zhihu.com/FrontendMagazine/20522487)
+- [Webpack傻瓜指南（三）和React配合开发 - 前端外刊评论 - 知乎专栏](https://zhuanlan.zhihu.com/FrontendMagazine/20522487)
 
 - [一看就懂的ReactJs入门教程（精华版） - CocoaChina_让移动开发更简单](http://www.cocoachina.com/webapp/20150721/12692.html)
 
@@ -3332,7 +3332,7 @@
 
 - [s Blog](http://jamestw.logdown.com/posts/257890-257890-reactjs-prop)
 
-- [Airbnb React编码规范 - 前端外刊评论 - 知乎专栏](http://zhuanlan.zhihu.com/p/20616464)
+- [Airbnb React编码规范 - 前端外刊评论 - 知乎专栏](https://zhuanlan.zhihu.com/p/20616464)
 
 ##JSX
 
@@ -3354,7 +3354,7 @@
 
 - [利用React写一个评论区组件（React初探） - LeoG0816的个人空间 - 开源中国社区](http://my.oschina.net/leogao0816/blog/379488)
 
-- [React 源码剖析系列 － 解密 setState - pure render - 知乎专栏](http://zhuanlan.zhihu.com/p/20328570)
+- [React 源码剖析系列 － 解密 setState - pure render - 知乎专栏](https://zhuanlan.zhihu.com/p/20328570)
 
 - [React进阶——使用高阶组件（Higher-order Components）优化你的代码 - 推酷](http://www.tuicool.com/articles/JrYjeeq)
 
@@ -3532,7 +3532,7 @@
 
 - [Markdown 语法说明(简体中文版)](http://wowubuntu.com/markdown/#link)
 
-- [Editor - Markable.in](http://markable.in/editor/)
+- [Editor - Markable.in](https://markable.in/editor/)
 
 ##Redis
 
@@ -3548,7 +3548,7 @@
 
 - [JacksonTian/fks](https://github.com/JacksonTian/fks)
 
-- [Sign In - Compose](https://app.compose.io/)
+- [Sign In - Compose](https://app.compose.io/auth?)
 
 - [RunJS - 在线编辑、展示、分享、交流你的 JavaScript 代码](http://runjs.cn/)
 
@@ -3658,7 +3658,7 @@
 
 - [如何在Webstorm/Phpstorm中设置连接FTP，并快速进行文件比较，上传下载，同步等操作 - 豪情 - 博客园](http://www.cnblogs.com/jikey/p/3486621.html)
 
-- [Themes | phpStorm Themes](http://phpstorm-themes.com/)
+- [Themes | phpStorm Themes](http://www.phpstorm-themes.com/)
 
 - [webstorm 格式化代码及常用快捷键 一介布衣](http://yijiebuyi.com/blog/8c94ccab84a48c5702158aac974f7841.html)
 
@@ -3738,7 +3738,7 @@
 
 - [我的前端故事----优美的编辑器GitHub Atom - F-happy | 深蓝阅读](http://bluereader.org/article/81294874)
 
-- [atom Mirror](http://cnpmjs.org/mirrors/atom)
+- [atom Mirror](https://cnpmjs.org/mirrors/atom)
 
 - [极限编程_百度百科](http://baike.baidu.com/link?url=rmX0gyRshwCFmOkRabNsE4d3Fli-lpGXhMiYvXG03vNQwzwTyvzCu0-skGQT5ZLTlVV-ANqFOrDAA1AEUxvyxq)
 
@@ -3780,7 +3780,7 @@
 
 - [CSS3]HTML性能探究 | 学步园](http://www.xuebuyuan.com/2225096.html)
 
-- [H5性能优化方案 | @Get社区](http://get.jobdeer.com/8007.get)
+- [H5性能优化方案 | @Get社区](http://get.ftqq.com/8007.get)
 
 - [在Yslow 34 Rules之后 -- 网站性能优化思路和进展 - limu的砖篮儿 - ITeye技术网站](http://limu.iteye.com/blog/755628)
 
@@ -3818,17 +3818,17 @@
 
 - [一行代码解决各种IE兼容问题,IE6,IE7,IE8,IE9,IE10 - jgwei的专栏 - 博客频道 - CSDN.NET](http://blog.csdn.net/jgwei/article/details/18599433)
 
-- [D2 前端技术论坛流水账 - SegmentFault](http://segmentfault.com/a/1190000000743308)
+- [D2 前端技术论坛流水账 - SegmentFault](https://segmentfault.com/a/1190000000743308)
 
 - [2014-10-25 南京源创会 fibjs 分享 ppt - 那么，一起玩吧](http://baoz.cn/498326)
 
-- [GitHub上整理的一些工具，求补充 - | @Get社区](http://get.jobdeer.com/6661.get)
+- [GitHub上整理的一些工具，求补充 - | @Get社区](http://get.ftqq.com/6661.get)
 
 - [程序员博客墙](http://blogwall.us/)
 
 - [ SVG Icon Sets ❍ IcoMoon](https://icomoon.io/#home)
 
-- [首页 | @Get社区](http://get.jobdeer.com/?c=default)
+- [首页 | @Get社区](http://get.ftqq.com/?c=default)
 
 ##BigPipe
 
@@ -3848,7 +3848,7 @@
 
 - [nodejs+bigpipe+angularjs技术实现 - CNode技术社区](https://cnodejs.org/topic/52d64a30e20b7c8214bc14f1)
 
-- [BigPipe的正确使用姿势 - SegmentFault](http://segmentfault.com/a/1190000002998812)
+- [BigPipe的正确使用姿势 - SegmentFault](https://segmentfault.com/a/1190000002998812)
 
 - [Facebook让网站速度提升一倍的BigPipe技术分析 - limu的砖篮儿 - ITeye技术网站](http://limu.iteye.com/blog/765173)
 
@@ -3876,7 +3876,7 @@
 
 - [Cookie安全 - 博文视点（北京）官方博客 - 博客频道 - CSDN.NET](http://blog.csdn.net/broadview2006/article/details/8595166)
 
-- [开发资源总结 2015-10-20 更新 - SegmentFault](http://segmentfault.com/a/1190000002691861)
+- [开发资源总结 2015-10-20 更新 - SegmentFault](https://segmentfault.com/a/1190000002691861)
 
 ##Socket
 
@@ -3904,7 +3904,7 @@
 
 - [一个新浏览器，为我们的朋友打造 – Vivaldi](https://vivaldi.com/)
 
-- [前端开发面试题 - weakish - SegmentFault](http://segmentfault.com/a/1190000000465431)
+- [前端开发面试题 - weakish - SegmentFault](https://segmentfault.com/a/1190000000465431)
 
 - [前端开发面试知识小结 - 推酷](http://www.tuicool.com/articles/Rz6RNrf)
 
@@ -3928,7 +3928,7 @@
 
 - [司徒正美 - 博客园](http://www.cnblogs.com/rubylouvre/)
 
-- [前端外刊评论 - 知乎专栏](http://zhuanlan.zhihu.com/FrontendMagazine)
+- [前端外刊评论 - 知乎专栏](https://zhuanlan.zhihu.com/FrontendMagazine)
 
 - [囧克斯](http://jiongks.name/)
 
@@ -4056,7 +4056,7 @@
 
 ##XSS
 
-- [前端之困 · XSS CookBook - 乌云君 - 知乎专栏](http://zhuanlan.zhihu.com/wooyun/19756127)
+- [前端之困 · XSS CookBook - 乌云君 - 知乎专栏](https://zhuanlan.zhihu.com/wooyun/19756127)
 
 - [XSS之规避过滤小记_流浪的大象_新浪博客](http://blog.sina.com.cn/s/blog_8adaee5001012g39.html)
 
@@ -4100,7 +4100,7 @@
 
 - [Mono - Fiddler](http://fiddler.wikidot.com/mono)
 
-- [Modern.ie IE在线调试工具](http://dev.modern.ie/tools/vms/windows/)
+- [Modern.ie IE在线调试工具](https://dev.windows.com/en-us/microsoft-edge/tools/vms/windows/)
 
 ##Rythem
 
