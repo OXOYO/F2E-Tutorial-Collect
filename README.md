@@ -1,5 +1,14 @@
 # 前端资料整理
 
+```
+WebVR技术交流群 174979563
+VueJS中文社区-资源群 320905222
+React中文社区总群 435748765
+React Native中文社区 245192933
+Angular 367913555
+
+```
+
 ##JS
 
 - [jquery getScript动态加载JS方法改进详解_jquery_脚本之家](http://www.jb51.net/article/31973.htm)
