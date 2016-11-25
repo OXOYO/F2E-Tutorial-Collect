@@ -9,6 +9,419 @@ Angular 367913555
 
 ```
 
+
+##HTML
+
+- [雅虎面试题-你真的了解HTML吗? - HTML / CSS 大家论坛](http://club.topsage.com/thread-2738399-1-1.html)
+
+- [Web前端年后跳槽必看的各种面试题 - 51CTO.COM](http://developer.51cto.com/art/201202/314618.htm)
+
+- [HTML5 Canvas Cheat Sheet - Nihilogic](http://blog.nihilogic.dk/2009/02/html5-canvas-cheat-sheet.html)
+
+##CANVAS
+
+- [HTML5 Canvas 的事件处理 - HTML5开发 - 游戏开发者社区](http://bbs.9ria.com/thread-190079-1-1.html)
+
+- [画图 - TimeLangoliers - 博客园](http://www.cnblogs.com/tim-li/archive/2012/08/06/2580252.html#14)
+
+- [HTML5画布(Canvas)速查简表](http://www.webhek.com/misc/html5-canvas-cheat-sheet)
+
+- [Html5 Canvas 变换矩阵与坐标变形之间的关系_回首_守住美好_百度空间](http://hi.baidu.com/100912bb_bb/item/90c4a7489518b0fa1281daf1)
+
+- [画图 - TimeLangoliers - 博客园](http://www.cnblogs.com/tim-li/archive/2012/08/06/2580252.html#10)
+
+- [7 款基于 HTML5 Canvas 的超炫 3D 动画效果_IT新闻_博客园](http://news.cnblogs.com/n/164214/)
+
+- [Canvas API -- JavaScript 标准参考教程（alpha）](http://javascript.ruanyifeng.com/htmlapi/canvas.html)
+
+- [3D版HTML5模拟衣服撕扯动画DEMO演示](http://www.html5tricks.com/demo/3d-html5-cloth-tear/index.html)
+
+- [HTML5 Canvas阴影用法演示 - 流浪的鱼 - 博客频道 - CSDN.NET](http://blog.csdn.net/jia20003/article/details/9342701)
+
+- [图灵社区 : 阅读 : 使用JavaScript进行基本图形操作与处理](http://www.ituring.com.cn/article/121428)
+
+- [ZRender](http://ecomfe.github.io/zrender/)
+
+- [PixiJS v4](http://www.pixijs.com/)
+
+- [Html5项目实战：我要地图项目 - CSDN学院 - CSDN.NET](http://edu.csdn.net/course/detail/332)
+
+##H5
+
+- [HTML 5 Web 存储](http://www.w3school.com.cn/html5/html_5_webstorage.asp)
+
+- [HTML5 Contact Form - 觉唯](http://www.jiawin.com/demos/685/index.html)
+
+- [html5配合css3实现带提示文字的输入框(摆脱js)_html5教程技巧_脚本之家](http://www.jb51.net/html5/74832.html)
+
+- [360安全浏览器_帮助](http://se.360.cn/v6/help/meta.html)
+
+- [HTML5 地理位置定位（HTML5 Geolocation）原理及应用 - 梦想天空（山边小溪） - 博客园](http://www.cnblogs.com/lhb25/archive/2012/07/10/html5-geolocation-api-demo.html)
+
+- [HTML5 地理定位详解（转载） - xuruoxin的专栏 - 博客频道 - CSDN.NET](http://blog.csdn.net/xuruoxin/article/details/9635439)
+
+- [WebKit最新特性srcset简介 - 51CTO.COM](http://developer.51cto.com/art/201309/410720.htm)
+
+- [s A Good Thing – Smashing Magazine](http://www.smashingmagazine.com/2013/08/21/webkit-implements-srcset-and-why-its-a-good-thing/)
+
+- [ResponsiveImages.org](http://responsiveimages.org/)
+
+- [响应式图片srcset全新释义sizes属性w描述符 « 张鑫旭-鑫空间-鑫生活](http://www.zhangxinxu.com/wordpress/2014/10/responsive-images-srcset-size-w-descriptor/)
+
+- [HTML5 LocalStorage 本地存储 - xiaowei0705 - 博客园](http://www.cnblogs.com/xiaowei0705/archive/2011/04/19/2021372.html)
+
+- [html5本地存储（localStorage）使用介绍 - 推酷](http://www.tuicool.com/articles/Y77J3m)
+
+- [HTML5 localStorage本地存储实际应用举例 « 张鑫旭-鑫空间-鑫生活](http://www.zhangxinxu.com/wordpress/2011/09/html5-localstorage%E6%9C%AC%E5%9C%B0%E5%AD%98%E5%82%A8%E5%AE%9E%E9%99%85%E5%BA%94%E7%94%A8%E4%B8%BE%E4%BE%8B/)
+
+- [Android webView 缓存 Cache + HTML5离线功能 解决 - 爱生活，爱编程 - 博客园](http://www.cnblogs.com/snake-hand/archive/2013/06/12/3133043.html)
+
+- [HTML5本地存储——IndexedDB（一：基本使用） - Samaritans - 博客园](http://www.cnblogs.com/dolphinX/p/3415761.html)
+
+- [Learn HTML5, CSS3, Javascript - video style tutorials](http://thecodeplayer.com/)
+
+- [HTML5标签速查 - SegmentFault](http://segmentfault.com/a/1190000000438191)
+
+- [白鹭引擎 - Egret Engine-免费开源HTML5游戏引擎](http://www.egret.com/)
+
+- [html5压缩图片并上传 - nd - 博客园](http://www.cnblogs.com/tylerdonet/p/4681070.html?utm_source=tuicool)
+
+- [HTML5如何判断浏览器是否支持audio和video元素_HTML5技术交流_HTML5论坛 - Powered by Discuz!](http://bbs.html5cn.org/thread-2577-1-14.html)
+
+- [翻译-你必须知道的28个HTML5特征、窍门和技术 « 张鑫旭-鑫空间-鑫生活](http://www.zhangxinxu.com/wordpress/2010/08/%E7%BF%BB%E8%AF%91-%E4%BD%A0%E5%BF%85%E9%A1%BB%E7%9F%A5%E9%81%93%E7%9A%8428%E4%B8%AAhtml5%E7%89%B9%E5%BE%81%E3%80%81%E7%AA%8D%E9%97%A8%E5%92%8C%E6%8A%80%E6%9C%AF/)
+
+- [HTML5自定义属性对象Dataset简介 « 张鑫旭-鑫空间-鑫生活](http://www.zhangxinxu.com/wordpress/2011/06/html5%E8%87%AA%E5%AE%9A%E4%B9%89%E5%B1%9E%E6%80%A7%E5%AF%B9%E8%B1%A1dataset%E7%AE%80%E4%BB%8B/)
+
+- [关于shortcut icon和icon代码的区别介绍_HTML/Xhtml_网页制作_脚本之家](http://www.jb51.net/web/44564.html)
+
+- [关于Apple设备私有的apple-touch-icon属性详解 - freshlover的专栏 - 博客频道 - CSDN.NET](http://blog.csdn.net/freshlover/article/details/9310437)
+
+- [常用meta整理 - Ciaocc - SegmentFault](http://segmentfault.com/a/1190000002407912)
+
+- [HTML5 Google电吉他 可用键盘弹奏 - 推酷](http://www.tuicool.com/articles/mYBVfy)
+
+- [HTML5就是现在：深入了解Polyfills - Tacey - 博客频道 - CSDN.NET](http://blog.csdn.net/wang16510/article/details/8960312)
+
+- [不同浏览器对于html5 audio标签和音频格式的兼容性 - 凌度 - 博客园](http://www.cnblogs.com/linn/p/3408515.html)
+
+- [？ - 前端开发 - 知乎](http://www.zhihu.com/question/20797118?utm_source=weibo&utm_medium=weibo_share&utm_content=share_question&utm_campaign=share_sidebar)
+
+- [HTML中head头结构 - SegmentFault](http://segmentfault.com/blog/paddingme/1190000000697532)
+
+- [div+css自适应3列布局，两侧列定宽，中间宽度自适应 | 0101后花园](http://www.bbs0101.com/archives/42.html)
+
+- [Web标准设计中常用字体介绍及选用原则 _pc6资讯](http://www.pc6.com/infoview/Article_48624.html)
+
+- [HTTP 状态消息](http://www.w3school.com.cn/tags/html_ref_httpmessages.asp)
+
+- [html标签语义化，原来div是这个意思啊！ | 微前端](http://www.vqianduan.com/802.html)
+
+- [在html页头设置不缓存 - 水之原 - 博客园](http://www.cnblogs.com/zfc2201/p/3425700.html)
+
+- [“”号的作用 - jihite - 博客园](http://www.cnblogs.com/kaituorensheng/p/3776527.html#aa?bb=cc)
+
+- [tabIndex属性 - 司徒正美 - 博客园](http://www.cnblogs.com/rubylouvre/archive/2009/12/07/1618182.html)
+
+##CSS
+
+- [HTML/CSS书写规范](https://github.com/doyoe/html-css-guide#3%E6%96%87%E4%BB%B6%E5%91%BD%E5%90%8D)
+
+- [CSS解析误解-选择器的从右向左解析 - cychai的专栏 - 博客频道 - CSDN.NET](http://blog.csdn.net/spring21st/article/details/6023971)
+
+##LESS
+
+- [Koala - LESS/Sass/Compass/CoffeeScript编译工具](http://koala-app.com/index-zh.html)
+
+- [LESS/SASS/Stylus开发工具汇总 - 51CTO.COM](http://developer.51cto.com/art/201302/380240.htm)
+
+- [Usage | Less.js](http://lesscss.org/usage/#command-line-usage-installing-lessc-for-use-globally)
+
+- [媒体查询与http请求前端观察 | CSS | 前端观察](http://www.qianduan.net/media-query-and-http-requests.html)
+
+- [关于clearfix清除浮动 - Kimura - 博客园](http://www.cnblogs.com/zllwebjs/archive/2010/03/19/1689980.html)
+
+- [关于调整input里面的输入光标大小 - 沫鱼 - 博客园](http://www.cnblogs.com/mofish/archive/2011/03/24/1993552.html)
+
+- [transform使用参考指南 - 冰果的日志 - 网易博客](http://blog.163.com/prevBlogPerma.do?host=hszy00232&srl=43022753201081822131223&mode=prev)
+
+- [CSS参考手册_web前端开发参考手册系列](http://css.doyoe.com/)
+
+- [QQ浏览器Mac版-QQ浏览器官方网站](http://browser.qq.com/mac/)
+
+- [em px 简单换算 - 心存善念 - 博客园](http://www.cnblogs.com/xcsn/p/3534823.html)
+
+- [CSS 图片在DIV中垂直居中的显示方法_百度经验](http://jingyan.baidu.com/article/19192ad832d26de53e570738.html?st=2&net_type=&bd_page_type=1&os=0&rst=)
+
+- [Fading Button Backgrounds 2 | MightyMeta](http://www.mightymeta.co.uk/fading-button-background-images-with-css3-transitions/)
+
+- [五步整理你的css文件 - zjhsd2007 - 博客园](http://www.cnblogs.com/sky000/archive/2010/12/22/1913719.html)
+
+- [html5移动端页面分辨率设置及相应字体大小设置的靠谱使用方式-HTML/CSS-第七城市](http://www.th7.cn/web/html-css/201403/26448.shtml)
+
+- [{ hide_text } CSS文字隐藏总结报告 - AVENIR.ZHENG 郑焕义](http://caib.me/hide-text/)
+
+##Autoprefixer
+
+- [postcss/autoprefixer](https://github.com/postcss/autoprefixer)
+
+- [[译]Autoprefixer:一个以最好的方式处理浏览器前缀的后处理程序 - 三桂 - 博客园](http://www.cnblogs.com/aNd1coder/archive/2013/08/12/3252690.html)
+
+- [Can I use... Support tables for HTML5, CSS3, etc](http://caniuse.com/)
+
+- [浏览器兼容之旅的第二站:各浏览器的Hack写法 | css3教程-css3实例-css3动画 | W3CPlus](http://www.w3cplus.com/css/create-css-browers-hacks)
+
+- [让页面里的字体变清晰：-webkit-font-smoothing_百度经验](http://jingyan.baidu.com/article/a3f121e4fe743ffc9152bb6f.html)
+
+##CSS3
+
+- [CSS3 3D Transform | css3教程-css3实例-css3动画 | W3CPlus](http://www.w3cplus.com/css3/css3-3d-transform.html)
+
+- [35个让人惊讶的 CSS3 动画效果演示 - 梦想天空（山边小溪） - 博客园](http://www.cnblogs.com/lhb25/archive/2011/11/22/best-awesome-css3-animation-demos.html)
+
+- [BEM —— 源自Yandex的CSS 命名方法论 - SegmentFault](http://segmentfault.com/a/1190000000391762)
+
+- [Definitions / Methodology / BEM. Block, Element, Modifier / BEM](https://en.bem.info/method/definitions/)
+
+- [深入了解 Flexbox 伸缩盒模型 | css3教程-css3实例-css3动画 | W3CPlus](http://www.w3cplus.com/blog/666.html)
+
+- [CSS3：[1]如何使用Flexbox伸缩盒_百度经验](http://jingyan.baidu.com/article/59a015e3439c64f79588657a.html)
+
+- [使用 CSS3 Flexible Boxes 布局 - SegmentFault](http://segmentfault.com/a/1190000000484017)
+
+- [前端性能优化（CSS动画篇） - SegmentFault](http://segmentfault.com/a/1190000000490328)
+
+- [CSS3 3D Transforms 浏览器兼容性一览表](http://caniuse.sinaapp.com/html/item/transforms3d/index.html)
+
+- [Can I Use 一个提供HTML5，CSS3，JS等新技术浏览器兼容一览表的网站](http://caniuse.sinaapp.com/)
+
+- [好吧，CSS3 3D transform变换，不过如此！ « 张鑫旭-鑫空间-鑫生活](http://www.zhangxinxu.com/wordpress/2012/09/css3-3d-transform-perspective-animate-transition/)
+
+- [CSS3 Animation动画示例](http://leaverou.github.io/animatable/)
+
+- [css3：border-radius圆角边框详解_网页设计_酷勤网](http://www.kuqin.com/shuoit/20141014/342620.html)
+
+- [再说CSS3渐变——径向渐变 | css3教程-css3实例-css3动画 | W3CPlus](http://www.w3cplus.com/css3/new-css3-radial-gradient.html)
+
+- [利用css样式画各种图形--初步、进阶、高级（一） - 穆乙 - 博客园](http://www.cnblogs.com/pigtail/archive/2013/02/17/2914119.html)
+
+- [jquery css3网页时钟代码制作圆形时钟表盘样式效果_素材中国17素材网](http://www.17sucai.com/pins/5361.html)
+
+- [CSS实现垂直居中的5种方法](http://www.qianduan.net/css-to-achieve-the-vertical-center-of-the-five-kinds-of-methods/)
+
+- [CSS3 Transform | css3教程-css3实例-css3动画 | W3CPlus](http://www.w3cplus.com/content/css3-transform/)
+
+- [css3 翻转和旋转的区别 - noonnightstorm的专栏 - 博客频道 - CSDN.NET](http://blog.csdn.net/noonnightstorm/article/details/8595435)
+
+- [盘点8种CSS实现垂直居中水平居中的绝对定位居中技术 - freshlover的专栏 - 博客频道 - CSDN.NET](http://blog.csdn.net/freshlover/article/details/11579669)
+
+- [理解CSS3线性渐变](http://www.qianduan.net/understand-the-css3-gradient/)
+
+- [CSS3 Border-image | css3教程-css3实例-css3动画 | W3CPlus](http://www.w3cplus.com/content/css3-border-image)
+
+- [求精：CSS3动画之CSS3过渡（css3 transition） - 前端网（W3Cfuns）](http://www.w3cfuns.com/article-5596390-1-1.html)
+
+- [Web 开发中很实用的10个效果【源码下载】 | 前端里](http://www.yyyweb.com/350.html)
+
+- [HTML5+CSS3实现鼠标悬停3D立体式图片效果_懒人之家](http://www.lanrenzhijia.com/js/css3/3007.html)
+
+- [纯css3实现螺旋状动态旋转导航下拉菜单_懒人之家](http://www.lanrenzhijia.com/js/css3/css3_daohang.html)
+
+- [美化表单——自定义checkbox和radio样式 | css3教程-css3实例-css3动画 | W3CPlus](http://www.w3cplus.com/css3/checkbox-radio-style.html)
+
+- [:first-child 有时候不起作用 - SegmentFault](http://segmentfault.com/q/1010000000141546)
+
+- [CSS3实现的幻灯片导航箭头提示特效 – 欲思博客](http://yusi123.com/3325.html)
+
+- [你所不知的 CSS ::before 和 ::after 伪元素用法 - 钉子の次元](http://blog.dimpurr.com/css-before-after/)
+
+- [display:flex 多栏多列布局-前端路上](http://www.51xuediannao.com/qd63/index.php/page-3-86-1.html)
+
+- [display:flex 多栏多列布局](http://www.360doc.com/content/14/0811/01/2633_400926000.shtml)
+
+- [解决Flexbox跨浏览器兼容Bug - 推酷](http://www.tuicool.com/articles/yURF7b)
+
+- [IE10中的Flexbox布局属性使用具体详解_CSS教程_前端技术](http://www.alixixi.com/web/a/2013051588733.shtml)
+
+- [css rem 字体问题 - SegmentFault](http://segmentfault.com/q/1010000002442078)
+
+- [Data URL和图片 – WEB骇客](http://www.webhek.com/data-url)
+
+- [CSS3实现宽度和高度等比列放大缩小效果-Web前端开发-Css+Html5-鸽子户-脚本编程学习站](http://www.gezihu.com/qianduan/html5/1993.html)
+
+- [纯CSS3 3D按钮 按钮酷似牛奶般剔透 | HTML5资源教程](http://www.html5tricks.com/css3-3d-milk-style-button.html)
+
+- [石头教你如何用纯CSS3绘制三角形、箭头。 - 推酷](http://www.tuicool.com/articles/qUBj2yj)
+
+- [利用CSS3特性巧妙实现漂亮的DIV箭头 - 蒋宇捷的专栏 - 博客频道 - CSDN.NET](http://blog.csdn.net/hfahe/article/details/5892963)
+
+- [css3按钮大集合 | 前端资源-css3教程-css3实例-css3动画 | W3CPlus](http://www.w3cplus.com/resources/421.html)
+
+- [CSS3实战第一波 让我们尽情的圆角吧 _css3_CSS_网页制作_脚本之家](http://www.jb51.net/css/29327.html)
+
+- [CSS3的圆角Border-radius | css3教程-css3实例-css3动画 | W3CPlus](http://www.w3cplus.com/node/48)
+
+- [21种css3 transition属性鼠标悬停导航条动画效果演示_jQuery之家-自由分享jQuery、html5、css3的插件库](http://www.htmleaf.com/Demo/2014100437.html)
+
+- [使用 CSS3 制作圆角按钮，无需图片 - 开源中国社区](http://www.oschina.net/question/5189_37133)
+
+- [CSS3的REM设置字体大小 | css3教程-css3实例-css3动画 | W3CPlus](http://www.w3cplus.com/css3/define-font-size-with-css3-rem)
+
+- [CSS3 Media Queries | css3教程-css3实例-css3动画 | W3CPlus](http://www.w3cplus.com/content/css3-media-queries)
+
+- [使用 CSS3 实现超炫的 Loading（加载）动画效果 - 梦想天空（山边小溪） - 博客园](http://www.cnblogs.com/lhb25/archive/2013/12/28/loading-spinners-animated-with-css3.html)
+
+- [CSS Shake](http://elrumordelaluz.github.io/csshake/)
+
+- [elrumordelaluz/csshake](https://github.com/elrumordelaluz/csshake)
+
+- [CSS3图片翻转动画技术详解 - 推酷](http://www.tuicool.com/articles/MV3UvuA)
+
+- [分享4种CSS3效果(360度旋转、旋转放大、放大、移动)|jquery教程|jqueryschool-国内最大的jquery原创分享社区](http://www.jq-school.com/Show.aspx?id=281)
+
+- [使用CSS3 Flexbox布局 | css3教程-css3实例-css3动画 | W3CPlus](http://www.w3cplus.com/css3/css3-flexbox-layout.html)
+
+- [css3动画简介以及动画库animate.css的使用 - 无双 - 博客园](http://www.cnblogs.com/2050/p/3409129.html)
+
+- [CSS3自定义滚动条样式 -webkit-scrollbar - 轩枫阁 – 前端开发 | web前端技术博客](http://www.xuanfengge.com/css3-webkit-scrollbar.html)
+
+- [CSS3滚动条美化,CSS3滚动条皮肤_彭亚欧个人博客](http://www.pengyaou.com/codecss3/POKDNMS_112.html)
+
+- [Animate.css](http://daneden.github.io/animate.css/)
+
+- [animate.css – 齐全的CSS3动画库_dowebok](http://www.dowebok.com/98.html)
+
+- [CSS vertical-align属性的用法_最初的你_新浪博客](http://blog.sina.com.cn/s/blog_51048da701018490.html)
+
+- [CSS Box Shadows Effects](http://www.paulund.co.uk/creating-different-css3-box-shadows-effects)
+
+- [Flex 布局教程：语法篇 - 阮一峰的网络日志](http://www.ruanyifeng.com/blog/2015/07/flex-grammar.html?utm_source=tuicool)
+
+- [Coffcer/flex-layout](https://github.com/Coffcer/flex-layout)
+
+- [详解css3弹性盒模型（Flexbox） - trigkit4 - SegmentFault](http://segmentfault.com/a/1190000000707526)
+
+- [ :after - 推酷](http://www.tuicool.com/articles/uq6ZVb)
+
+- [RY8005: 各浏览器对于计算后宽度和高度为含有小数的长度值时，其最终值会不一致 - W3Help](http://www.w3help.org/zh-cn/causes/RY8005)
+
+- [ padding - 推酷](http://www.tuicool.com/articles/yqIzYrZ)
+
+- [PXtoEM.com: PX to EM conversion made simple.](http://pxtoem.com/)
+
+- [彻底弄懂css中单位px和em,rem的区别 - leejersey - 博客园](http://www.cnblogs.com/leejersey/p/3662612.html)
+
+##Font
+
+- [Font Awesome, the iconic font and CSS toolkit](http://fortawesome.github.io/Font-Awesome/)
+
+- [Font Awesome，一套绝佳的图标字体库和CSS框架](http://fontawesome.dashgame.com/)
+
+- [Font Awesome, 为 Bootstrap 而创造的图标字体](http://www.bootcss.com/p/font-awesome/)
+
+- [Cufon字体网-字体预览-在线生成中文Cufon字体](http://www.cufon-font.com/)
+
+- [如何灵活利用免费开源图标字体-IcoMoon篇 « 张鑫旭-鑫空间-鑫生活](http://www.zhangxinxu.com/wordpress/2012/06/free-icon-font-usage-icomoon/)
+
+- [ SVG Icon Sets ❍ IcoMoon](https://icomoon.io/)
+
+- [Iconfont-阿里巴巴矢量图标库](http://www.iconfont.cn/)
+
+- [图标字体化浅谈-腾讯ISUX – 社交用户体验设计 – Better Experience Through Design](http://isux.tencent.com/icon-font.html)
+
+- [CSS Sprite的应用 - myjavawork - 博客园](http://www.cnblogs.com/myjavawork/articles/1981345.html)
+
+- [CSS Sprite的一些最佳实践方法_CSS教程_CSS_网页制作_脚本之家](http://www.jb51.net/css/20977.html)
+
+- [10个针对设计师/开发者的实用CSS工具推荐 - Web前端 - ITeye资讯](http://www.iteye.com/news/24005/)
+
+- [PrimerCSS](http://primercss.com/index.php)
+
+- [Gridlover](http://www.gridlover.net/)
+
+- [tips | jh3y](http://jh3y.github.io/tips/)
+
+- [Tridiv | CSS 3D Editor](http://tridiv.com/)
+
+- [负值之美：负margin在页面布局中的应用 - 草根程序猿 - 博客园](http://www.cnblogs.com/jscode/archive/2012/08/28/2660078.html)
+
+- [聊聊主流框架，Less/Sass/Compass/Bootstrap/H5bp » 社区 » Ruby China](https://ruby-china.org/topics/4370)
+
+- [Sass vs. LESS | CSS-Tricks](https://css-tricks.com/sass-vs-less/)
+
+- [在 CSS 中，用 float 和 position 的区别是什么？ - 前端开发 - 知乎](http://www.zhihu.com/question/19588854)
+
+- [为您详细比较三个 CSS 预处理器（框架）：Sass、LESS 和 Stylus - 开源中国社区](http://www.oschina.net/question/12_44255?sort=default&p=4)
+
+##SASS
+
+- [ruby环境sass编译中文出现Syntax error: Invalid GBK character错误解决方法_html/css_WEB-ITnose](http://www.itnose.net/detail/6089821.html)
+
+- [sass语法](http://www.w3cplus.com/sassguide/syntax.html)
+
+- [Compass用法指南 - 阮一峰的网络日志](http://www.ruanyifeng.com/blog/2012/11/compass.html)
+
+- [blog.csdn.net/zxleezx/article/details/8111610](http://blog.csdn.net/zxleezx/article/details/8111610)
+
+- [负margin使用权威指南 - leejersey - 博客园](http://www.cnblogs.com/leejersey/p/3477855.html)
+
+- [负margin用法权威指南 | css3教程-css3实例-css3动画 | W3CPlus](http://www.w3cplus.com/css/the-definitive-guide-to-using-negative-margins.html)
+
+- [巧用:empty解决webkit核心浏览器text-indent的bug](http://www.qianduan.net/fixed-text-indent-in-webkit-editable-element-bug/)
+
+- [css非标准的ime-mode属性 - snandy - 博客园](http://www.cnblogs.com/snandy/archive/2011/03/28/1997407.html)
+
+- [modernizr.js html5 input表单文本输入框美化效果代码演示页面_17素材网](http://www.17sucai.com/pins/demoshow/5716)
+
+- [web前端开发浏览器兼容性 - 持续更新 - 大大白兔子 - 博客园](http://www.cnblogs.com/johnl/p/4199464.html)
+
+- [理解vertical-align或“如何竖向居中” – WEB骇客](http://www.webhek.com/vertical-align/)
+
+- [如何看待 CSS 中 BEM 的命名方式？ - 前端开发 - 知乎](http://www.zhihu.com/question/21935157)
+
+- [开始了解CSS混合模式 | css3教程-css3实例-css3动画 | W3CPlus](http://www.w3cplus.com/css3/getting-to-know-css-blend-modes.html)
+
+- [css 原理及其优化 - limanclear - 博客园](http://www.cnblogs.com/web-ed2/archive/2011/08/03/2126748.html)
+
+- [CSS float浮动的深入研究、详解及拓展(二) « 张鑫旭-鑫空间-鑫生活](http://www.zhangxinxu.com/wordpress/2010/01/css-float%E6%B5%AE%E5%8A%A8%E7%9A%84%E6%B7%B1%E5%85%A5%E7%A0%94%E7%A9%B6%E3%80%81%E8%AF%A6%E8%A7%A3%E5%8F%8A%E6%8B%93%E5%B1%95%E4%BA%8C/)
+
+- [两个div横向排列，顶端对齐的方式_一声缘_新浪博客](http://blog.sina.com.cn/s/blog_79d572db0101aipa.html)
+
+- [完美解决IE6不支持position:fixed的bug - 胡尐睿丶 - 博客园](http://www.cnblogs.com/hooray/archive/2011/05/20/2052269.html)
+
+- [css ie6、ie7、ie8中overflow:hidden无效解决办法-常见问题-Css教程-壹聚教程网](http://www.111cn.net/cssdiv/163/42133.htm)
+
+- [记一次淘宝首页奇葩的渲染问题 - 推酷](http://www.tuicool.com/articles/UnQjquE)
+
+- [如何设置css3中placeholder的字体颜色_百度经验](http://jingyan.baidu.com/article/09ea3ede0f1ae2c0afde397e.html)
+
+- [css z-index 最大值_CSS教程_CSS_网页制作_脚本之家](http://www.jb51.net/css/16481.html)
+
+- [CSS:line-height:150%与line-height:1.5的真正区别是什么？ - CSS - 知乎](http://www.zhihu.com/question/20394889)
+
+- [HTML5里的placeholder属性 – WEB骇客](http://www.webhek.com/html5-placeholder)
+
+##Scope
+
+- [css scope解决方案 - 开源中国社区](http://www.oschina.net/question/187340_165614)
+
+- [‘Scope’ in CSS – CSS Wizardry – CSS, OOCSS, front-end architecture, performance and more, by Harry Roberts](http://csswizardry.com/2013/05/scope-in-css/)
+
+- [s the CSS :scope pseudo-class for? | Web Updates - Google Developers](https://developers.google.com/web/updates/2013/03/What-s-the-CSS-scope-pseudo-class-for)
+
+- [Saving the Day with Scoped CSS | CSS-Tricks](https://css-tricks.com/saving-the-day-with-scoped-css/)
+
+- [如何评价 CSS Modules？ - 知乎](https://www.zhihu.com/question/34834178)
+
+- [理解:Before和:After伪元素 – WEB骇客](http://www.webhek.com/understanding-pseudo-element-before-and-after)
+
+##BEM
+
+- [BEM —— 源自Yandex的CSS 命名方法论 - 新闻 - SegmentFault](https://segmentfault.com/a/1190000000391762)
+
+- [BEM思想之彻底弄清BEM语法 | css3教程-css3实例-css3动画 | W3CPlus](http://www.w3cplus.com/css/mindbemding-getting-your-head-round-bem-syntax.html)
+
+- [Key concepts / Methodology / BEM](https://en.bem.info/methodology/key-concepts/)
+
 ##JS
 
 - [jquery getScript动态加载JS方法改进详解_jquery_脚本之家](http://www.jb51.net/article/31973.htm)
@@ -83,7 +496,7 @@ Angular 367913555
 
 - [jquery $(document).ready() 与window.onload的区别_jquery_脚本之家](http://www.jb51.net/article/21628.htm)
 
-- [RGB转16进制工具 | w3cschool菜鸟教程](http://www.runoob.com/rgb2hex)
+- [RGB转16进制工具 | w3cschool菜鸟教程](http://www.w3cschool.cc/rgb2hex)
 
 - [用js小类库获取浏览器的高度和宽度信息 - 执手泪眼 - 博客园](http://www.cnblogs.com/liszt/archive/2012/01/15/2322692.html)
 
@@ -819,6 +1232,8 @@ Angular 367913555
 
 - [JavaScript 中的函数式编程实践](http://www.ibm.com/developerworks/cn/web/1006_qiujt_jsfunctional/)
 
+- [JS函数式编程指南 · GitBook](https://www.gitbook.com/book/llh911001/mostly-adequate-guide-chinese/details)
+
 - [键盘按钮keyCode大全 - 思考者日记 - 博客园](http://www.cnblogs.com/shyy/archive/2012/04/09/2453029.html)
 
 ##ESLint
@@ -835,6 +1250,90 @@ Angular 367913555
 
 - [SD2021: 各浏览器对元素在没有设置 tabindex 属性时触发 onfocus 事件以及通过其 focus() 方法获得焦点的情况有差异 - W3Help](http://www.w3help.org/zh-cn/causes/SD2021#)
 
+- [JS逗号运算符的用法详解 - web 前端 - 博客频道 - CSDN.NET](http://blog.csdn.net/wl110231/article/details/8162732)
+
+- [Javascript中的for in语句获取对象属性的顺序问题 | IT宅.com](http://www.itzhai.com/obtain-the-order-of-object-properties-in-javascript-for-in-the-statement.html)
+
+##PHP
+
+- [phpcms v9类别调用方法 - phpcms-帮助教程 - phpcms论坛](http://bbs.phpcms.cn/thread-243656-1-1.html)
+
+- [phpcms v9类别列表的栏目调用 - phpcms-帮助教程 - phpcms论坛](http://bbs.phpcms.cn/thread-246742-1-1.html)
+
+- [phpcms v9视频模型第二版正式发布 - phpcms-插件、二次开发 - phpcms论坛](http://bbs.phpcms.cn/forum.php?mod=viewthread&tid=258374&highlight=%CA%D3%C6%B5%C4%A3%D0%CD)
+
+- [phpcms v9视频模型开放下载中 - phpcms-插件、二次开发 - phpcms论坛](http://bbs.phpcms.cn/thread-246745-1-1.html)
+
+- [phpcms v9视频模型升级程序 - phpcms-程序发布 - phpcms论坛](http://bbs.phpcms.cn/forum.php?mod=viewthread&tid=767546&highlight=%CA%D3%C6%B5%C4%A3%D0%CD)
+
+- [PHPCMS V9 视频模型第二版【GBK/UTF-8】完全手册 （貌似万能了） - phpcms-使用与交流 - phpcms论坛](http://bbs.phpcms.cn/forum.php?mod=viewthread&tid=615517&highlight=%CA%D3%C6%B5%C4%A3%D0%CD)
+
+- [v9二次开发模块的权限问题 - phpcms-使用与交流 - phpcms论坛](http://bbs.phpcms.cn/forum.php?mod=viewthread&tid=268284&highlight=%C8%A8%CF%DE)
+
+- [phpcms二次开发中提示操作没有权限的解决方法（超实用） - phpcms-使用与交流 - phpcms论坛](http://bbs.phpcms.cn/forum.php?mod=viewthread&tid=706621&highlight=%C8%A8%CF%DE)
+
+- [OpenLayers: Home](http://www.openlayers.org/)
+
+- [OpenLayers Cluster Strategy Example](http://openlayers.org/dev/examples/strategy-cluster.html)
+
+- [OpenLayers: Sundials on a Spherical Mercator Map](http://openlayers.org/dev/examples/sundials-spherical-mercator.html)
+
+- [Lazy Load, 延迟加载图片的 jQuery 插件 - NeoEase](http://www.neoease.com/lazy-load-jquery-plugin-delay-load-image/)
+
+- [Lazy Load Plugin for jQuery](http://www.appelsiini.net/projects/lazyload)
+
+- [CodeIgniter 中国 - PHP 框架 CodeIgniter 中国社区](http://codeigniter.org.cn/)
+
+- [【2010年3月13号更新】教你在windows 7/xp 下安装使用mencoder_庄子如是说BLOG_百度空间](http://hi.baidu.com/putword/item/e5910a187d2aed14e2f9867f)
+
+- [num参数 - phpcms-BUG报告 - phpcms论坛](http://bbs.phpcms.cn/forum.php?mod=viewthread&tid=824918&highlight=num)
+
+- [使用jQuery打造炫丽的滚屏网页效果](http://demo.newhtml.net/LateralOnScrollSliding/index2.html)
+
+- [打越南语：越南语输入法·越南语键盘·越南语在线输入·越南语特殊字符·越南语字母·vietnamien keyboard](http://www.dawaiyu.com/yuenanyu.htm)
+
+- [越南语翻译_越南语在线翻译_免费在线翻译_越汉/汉越在线翻译 | 越南知道ynzd.org 全球最好用的越南语在线翻译](http://www.ynzd.org/)
+
+- [解决[warn] _default_ VirtualHost overlap on port 80, the first has precedence问题 - PHP网站开发的日志 - 网易博客](http://blog.163.com/lgh_2002/blog/static/44017526201141711451919/)
+
+- [Win10预览版9926官方ISO镜像下载地址大全 - Win10系统下载,Win10镜像下载,Win10下载,Win10预览版9926,Win10消费者预览版 - IT之家](http://www.ithome.com/html/win10/125563.htm)
+
+- [win7 扩展双屏后 双屏同时显示任务栏 - X-Bing - 博客园](http://www.cnblogs.com/x-bing/p/5226933.html)
+
+- [很好用的php执行时间分析工具webgrind - mecho的专栏 - 博客频道 - CSDN.NET](http://blog.csdn.net/mecho/article/details/11071079)
+
+- [webgrind安装使用详细说明 - yukon12345的专栏 - 博客频道 - CSDN.NET](http://blog.csdn.net/yukon12345/article/details/11408617)
+
+##ASP.NET
+
+- [ASP.NET中读取XML文件4种方法 - xwdreamer的专栏 - 博客频道 - CSDN.NET](http://blog.csdn.net/xw13106209/article/details/6367865)
+
+##Ruby
+
+- [Home · ruby-china/rubygems-mirror Wiki](https://github.com/ruby-china/rubygems-mirror/wiki)
+
+- [gem install SSL 错误。 » 社区 » Ruby China](https://ruby-china.org/topics/29323)
+
+- [RubyGems 镜像 - Ruby China](https://gems.ruby-china.org/)
+
+- [RubyGems 镜像 - 淘宝网](https://ruby.taobao.org/)
+
+- [Ruby 程序设计语言官方网站](https://www.ruby-lang.org/zh_cn/)
+
+- [Download RubyGems | RubyGems.org | Ruby 社区 Gem 托管](https://rubygems.org/pages/download)
+
+##Python
+
+- [Python开发_python的安装 - Hongten - 博客园](http://www.cnblogs.com/hongten/p/hongten_python_install.html)
+
+- [Python安装和配置环境变量 - 柳絮飞 - 51Testing软件测试网 51Testing软件测试网-中国软件测试人的精神家园](http://www.51testing.com/html/16/271416-867879.html)
+
+- [Python解释器 - 廖雪峰的官方网站](http://www.liaoxuefeng.com/wiki/001374738125095c955c1e6d8bb493182103fac9270762a000/001407375700558864523211a5049c4983176de304549c8000)
+
+- [安装Python - 廖雪峰的官方网站](http://www.liaoxuefeng.com/wiki/001374738125095c955c1e6d8bb493182103fac9270762a000/001374738150500472fd5785c194ebea336061163a8a974000)
+
+- [导出chrome书签为Markdown | 梦里风林](https://ahangchen.gitbooks.io/windy-afternoon/content/kit/markdown/chrome_mark2_md.html)
+
 ##SVN
 
 - [VisualSVN Server的配置和使用方法 图文_win服务器_脚本之家](http://www.jb51.net/article/17365.htm)
@@ -844,490 +1343,6 @@ Angular 367913555
 - [ git 问题汇总 - Archrjoe - 博客园](http://www.cnblogs.com/piercalex/p/4045735.html)
 
 - [windows下svn命令行乱码解决 - 愚公移山 - 博客频道 - CSDN.NET](http://blog.csdn.net/5257007/article/details/6093577)
-
-##SERVER
-
-- [Apache HTTP Server Version 2.2 文档 － Apache 2.2 中文版参考手册](http://apache.chinahtml.com/)
-
-- [CentOS 6.2 Apache+PHP5+MySQL安装环境配置_风信网](http://www.ithov.com/linux/123656.shtml)
-
-- [CentOS 6.2 Apache+PHP5+MySQL安装环境配置(2)_风信网](http://www.ithov.com/linux/123656_2.shtml)
-
-- [centos6.2 ftp 配置 - 刘振明 - 博客园](http://www.cnblogs.com/zhenmingliu/archive/2012/04/25/2470646.html)
-
-- [linux.linuxidc.com - /](http://linux.linuxidc.com/)
-
-- [警告NameVirtualHost *:80 has no VirtualHosts的原因_爱自由_百度空间](http://hi.baidu.com/monton/item/43d22372084e9046ee1e532a)
-
-- [COS官网 - 首页](http://www.china-cos.com/site/index.html)
-
-##Tengine
-
-- [The Tengine Web Server](http://tengine.taobao.org/index_cn.html)
-
-##Nginx
-
-- [nginx](http://tengine.taobao.org/nginx_docs/cn/)
-
-- [使用nginx-http-concat自动合并静态资源，加速你的网站请求速度 - 为程序员服务](http://ju.outofmemory.cn/entry/50113)
-
-- [nginx js、css多个请求合并为一个请求(concat模块) - 运维生存时间](http://www.ttlsa.com/nginx/nginx-modules-concat/)
-
-- [The Tengine Web Server](http://tengine.taobao.org/document_cn/http_concat_cn.html)
-
-- [perusio/nginx-http-concat](https://github.com/perusio/nginx-http-concat)
-
-- [nginx expires 无效 - 开源中国社区](http://www.oschina.net/question/55448_77710?sort=time)
-
-- [Nginx设置expires设定页面缓存时间 不缓存或一直使用缓存](http://www.douban.com/note/342389019/)
-
-- [nginx upstream的分配方式。 - 相濡以沫 - 51CTO技术博客](http://onlyzq.blog.51cto.com/1228/557848/)
-
-- [nginx 代理 proxy_pass设置 - flex_fly - 博客园](http://www.cnblogs.com/flex_fly/p/3363100.html)
-
-- [nginx静态文件响应post请求，405 Not Allowed – 酷喃｜coolnull｜](http://coolnull.com/3527.html)
-
-- [nginx配置url重定向-反向代理 - 坐在高山观虎斗，站在桥头看水流 - 博客频道 - CSDN.NET](http://blog.csdn.net/yybjroam05/article/details/41076679)
-
-- [Nginx作为反向代理时传递客户端IP的设置方法_nginx_脚本之家](http://www.jb51.net/article/53821.htm)
-
-- [nginx 反向代理 取得真实IP和域名 - huangqiqing123 - ITeye技术网站](http://huangqiqing123.iteye.com/blog/1895192)
-
-- [✔ Nginx 的线程池与性能剖析 - 编程技术 - 夜眸博客](http://blog.yemou.net/article/query/info/tytfjhfascvhzxcyt158)
-
-##Vagrant
-
-- [使用 Vagrant 打造跨平台开发环境 - SegmentFault](http://segmentfault.com/a/1190000000264347)
-
-- [Getting Started - Vagrant Documentation](http://docs.vagrantup.com/v2/getting-started/)
-
-##RESTful
-
-- [理解RESTful架构 - 阮一峰的网络日志](http://www.ruanyifeng.com/blog/2011/09/restful)
-
-- [RESTful_百度百科](http://baike.baidu.com/link?url=N7zdBY2c9164qxhkFC27WSpg0ARzumD1TYrJUobBI1E-IpFmUdG9c1nfsxJMfud9BkIRd37j-4DHwGD-rk3Fnq)
-
-- [理解RESTful架构_知识库_博客园](http://kb.cnblogs.com/page/114905/)
-
-##CQRS
-
-- [URI Template](http://dorole.com/tag/uri-template/)
-
-##Redis
-
-- [Redis中文官方网站 -- redis中文资料、中文文档尽在redis中文官方网站](http://www.redis.cn/)
-
-- [Windows下Redis的安装使用 - 51CTO.COM](http://os.51cto.com/art/201403/431103.htm)
-
-- [Redis](http://redis.io/)
-
-- [ServiceStack/redis-windows](https://github.com/ServiceStack/redis-windows)
-
-- [Redis在Windows下安装和PHP中使用 - 鸿网互联[68IDC.CN]](http://www.68idc.cn/help/server/20141128135092.html)
-
-##HTML
-
-- [雅虎面试题-你真的了解HTML吗? - HTML / CSS 大家论坛](http://club.topsage.com/thread-2738399-1-1.html)
-
-- [Web前端年后跳槽必看的各种面试题 - 51CTO.COM](http://developer.51cto.com/art/201202/314618.htm)
-
-- [HTML5 Canvas Cheat Sheet - Nihilogic](http://blog.nihilogic.dk/2009/02/html5-canvas-cheat-sheet.html)
-
-##CANVAS
-
-- [HTML5 Canvas 的事件处理 - HTML5开发 - 游戏开发者社区](http://bbs.9ria.com/thread-190079-1-1.html)
-
-- [画图 - TimeLangoliers - 博客园](http://www.cnblogs.com/tim-li/archive/2012/08/06/2580252.html#14)
-
-- [HTML5画布(Canvas)速查简表](http://www.webhek.com/misc/html5-canvas-cheat-sheet)
-
-- [Html5 Canvas 变换矩阵与坐标变形之间的关系_回首_守住美好_百度空间](http://hi.baidu.com/100912bb_bb/item/90c4a7489518b0fa1281daf1)
-
-- [画图 - TimeLangoliers - 博客园](http://www.cnblogs.com/tim-li/archive/2012/08/06/2580252.html#10)
-
-- [7 款基于 HTML5 Canvas 的超炫 3D 动画效果_IT新闻_博客园](http://news.cnblogs.com/n/164214/)
-
-- [Canvas API -- JavaScript 标准参考教程（alpha）](http://javascript.ruanyifeng.com/htmlapi/canvas.html)
-
-- [3D版HTML5模拟衣服撕扯动画DEMO演示](http://www.html5tricks.com/demo/3d-html5-cloth-tear/index.html)
-
-- [HTML5 Canvas阴影用法演示 - 流浪的鱼 - 博客频道 - CSDN.NET](http://blog.csdn.net/jia20003/article/details/9342701)
-
-- [图灵社区 : 阅读 : 使用JavaScript进行基本图形操作与处理](http://www.ituring.com.cn/article/121428)
-
-- [ZRender](http://ecomfe.github.io/zrender/)
-
-- [PixiJS v4](http://www.pixijs.com/)
-
-- [Html5项目实战：我要地图项目 - CSDN学院 - CSDN.NET](http://edu.csdn.net/course/detail/332)
-
-##H5
-
-- [HTML 5 Web 存储](http://www.w3school.com.cn/html5/html_5_webstorage.asp)
-
-- [HTML5 Contact Form - 觉唯](http://www.jiawin.com/demos/685/index.html)
-
-- [html5配合css3实现带提示文字的输入框(摆脱js)_html5教程技巧_脚本之家](http://www.jb51.net/html5/74832.html)
-
-- [360安全浏览器_帮助](http://se.360.cn/v6/help/meta.html)
-
-- [HTML5 地理位置定位（HTML5 Geolocation）原理及应用 - 梦想天空（山边小溪） - 博客园](http://www.cnblogs.com/lhb25/archive/2012/07/10/html5-geolocation-api-demo.html)
-
-- [HTML5 地理定位详解（转载） - xuruoxin的专栏 - 博客频道 - CSDN.NET](http://blog.csdn.net/xuruoxin/article/details/9635439)
-
-- [WebKit最新特性srcset简介 - 51CTO.COM](http://developer.51cto.com/art/201309/410720.htm)
-
-- [s A Good Thing – Smashing Magazine](http://www.smashingmagazine.com/2013/08/21/webkit-implements-srcset-and-why-its-a-good-thing/)
-
-- [ResponsiveImages.org](http://responsiveimages.org/)
-
-- [响应式图片srcset全新释义sizes属性w描述符 « 张鑫旭-鑫空间-鑫生活](http://www.zhangxinxu.com/wordpress/2014/10/responsive-images-srcset-size-w-descriptor/)
-
-- [HTML5 LocalStorage 本地存储 - xiaowei0705 - 博客园](http://www.cnblogs.com/xiaowei0705/archive/2011/04/19/2021372.html)
-
-- [html5本地存储（localStorage）使用介绍 - 推酷](http://www.tuicool.com/articles/Y77J3m)
-
-- [HTML5 localStorage本地存储实际应用举例 « 张鑫旭-鑫空间-鑫生活](http://www.zhangxinxu.com/wordpress/2011/09/html5-localstorage%E6%9C%AC%E5%9C%B0%E5%AD%98%E5%82%A8%E5%AE%9E%E9%99%85%E5%BA%94%E7%94%A8%E4%B8%BE%E4%BE%8B/)
-
-- [Android webView 缓存 Cache + HTML5离线功能 解决 - 爱生活，爱编程 - 博客园](http://www.cnblogs.com/snake-hand/archive/2013/06/12/3133043.html)
-
-- [HTML5本地存储——IndexedDB（一：基本使用） - Samaritans - 博客园](http://www.cnblogs.com/dolphinX/p/3415761.html)
-
-- [Learn HTML5, CSS3, Javascript - video style tutorials](http://thecodeplayer.com/)
-
-- [HTML5标签速查 - SegmentFault](http://segmentfault.com/a/1190000000438191)
-
-- [白鹭引擎 - Egret Engine-免费开源HTML5游戏引擎](http://www.egret.com/)
-
-- [html5压缩图片并上传 - nd - 博客园](http://www.cnblogs.com/tylerdonet/p/4681070.html?utm_source=tuicool)
-
-- [HTML5如何判断浏览器是否支持audio和video元素_HTML5技术交流_HTML5论坛 - Powered by Discuz!](http://bbs.html5cn.org/thread-2577-1-14.html)
-
-- [翻译-你必须知道的28个HTML5特征、窍门和技术 « 张鑫旭-鑫空间-鑫生活](http://www.zhangxinxu.com/wordpress/2010/08/%E7%BF%BB%E8%AF%91-%E4%BD%A0%E5%BF%85%E9%A1%BB%E7%9F%A5%E9%81%93%E7%9A%8428%E4%B8%AAhtml5%E7%89%B9%E5%BE%81%E3%80%81%E7%AA%8D%E9%97%A8%E5%92%8C%E6%8A%80%E6%9C%AF/)
-
-- [HTML5自定义属性对象Dataset简介 « 张鑫旭-鑫空间-鑫生活](http://www.zhangxinxu.com/wordpress/2011/06/html5%E8%87%AA%E5%AE%9A%E4%B9%89%E5%B1%9E%E6%80%A7%E5%AF%B9%E8%B1%A1dataset%E7%AE%80%E4%BB%8B/)
-
-- [关于shortcut icon和icon代码的区别介绍_HTML/Xhtml_网页制作_脚本之家](http://www.jb51.net/web/44564.html)
-
-- [关于Apple设备私有的apple-touch-icon属性详解 - freshlover的专栏 - 博客频道 - CSDN.NET](http://blog.csdn.net/freshlover/article/details/9310437)
-
-- [常用meta整理 - Ciaocc - SegmentFault](http://segmentfault.com/a/1190000002407912)
-
-- [HTML5 Google电吉他 可用键盘弹奏 - 推酷](http://www.tuicool.com/articles/mYBVfy)
-
-- [HTML5就是现在：深入了解Polyfills - Tacey - 博客频道 - CSDN.NET](http://blog.csdn.net/wang16510/article/details/8960312)
-
-- [不同浏览器对于html5 audio标签和音频格式的兼容性 - 凌度 - 博客园](http://www.cnblogs.com/linn/p/3408515.html)
-
-- [？ - 前端开发 - 知乎](http://www.zhihu.com/question/20797118?utm_source=weibo&utm_medium=weibo_share&utm_content=share_question&utm_campaign=share_sidebar)
-
-- [HTML中head头结构 - SegmentFault](http://segmentfault.com/blog/paddingme/1190000000697532)
-
-- [div+css自适应3列布局，两侧列定宽，中间宽度自适应 | 0101后花园](http://www.bbs0101.com/archives/42.html)
-
-- [Web标准设计中常用字体介绍及选用原则 _pc6资讯](http://www.pc6.com/infoview/Article_48624.html)
-
-- [HTTP 状态消息](http://www.w3school.com.cn/tags/html_ref_httpmessages.asp)
-
-- [html标签语义化，原来div是这个意思啊！ | 微前端](http://www.vqianduan.com/802.html)
-
-- [在html页头设置不缓存 - 水之原 - 博客园](http://www.cnblogs.com/zfc2201/p/3425700.html)
-
-- [“”号的作用 - jihite - 博客园](http://www.cnblogs.com/kaituorensheng/p/3776527.html#aa?bb=cc)
-
-- [tabIndex属性 - 司徒正美 - 博客园](http://www.cnblogs.com/rubylouvre/archive/2009/12/07/1618182.html)
-
-##CSS
-
-- [HTML/CSS书写规范](https://github.com/doyoe/html-css-guide#3%E6%96%87%E4%BB%B6%E5%91%BD%E5%90%8D)
-
-- [CSS解析误解-选择器的从右向左解析 - cychai的专栏 - 博客频道 - CSDN.NET](http://blog.csdn.net/spring21st/article/details/6023971)
-
-##LESS
-
-- [Koala - LESS/Sass/Compass/CoffeeScript编译工具](http://koala-app.com/index-zh.html)
-
-- [LESS/SASS/Stylus开发工具汇总 - 51CTO.COM](http://developer.51cto.com/art/201302/380240.htm)
-
-- [Usage | Less.js](http://lesscss.org/usage/#command-line-usage-installing-lessc-for-use-globally)
-
-- [媒体查询与http请求前端观察 | CSS | 前端观察](http://www.qianduan.net/media-query-and-http-requests.html)
-
-- [关于clearfix清除浮动 - Kimura - 博客园](http://www.cnblogs.com/zllwebjs/archive/2010/03/19/1689980.html)
-
-- [关于调整input里面的输入光标大小 - 沫鱼 - 博客园](http://www.cnblogs.com/mofish/archive/2011/03/24/1993552.html)
-
-- [transform使用参考指南 - 冰果的日志 - 网易博客](http://blog.163.com/prevBlogPerma.do?host=hszy00232&srl=43022753201081822131223&mode=prev)
-
-- [CSS参考手册_web前端开发参考手册系列](http://css.doyoe.com/)
-
-- [QQ浏览器Mac版-QQ浏览器官方网站](http://browser.qq.com/mac/)
-
-- [em px 简单换算 - 心存善念 - 博客园](http://www.cnblogs.com/xcsn/p/3534823.html)
-
-- [CSS 图片在DIV中垂直居中的显示方法_百度经验](http://jingyan.baidu.com/article/19192ad832d26de53e570738.html?st=2&net_type=&bd_page_type=1&os=0&rst=)
-
-- [Fading Button Backgrounds 2 | MightyMeta](http://www.mightymeta.co.uk/fading-button-background-images-with-css3-transitions/)
-
-- [五步整理你的css文件 - zjhsd2007 - 博客园](http://www.cnblogs.com/sky000/archive/2010/12/22/1913719.html)
-
-- [html5移动端页面分辨率设置及相应字体大小设置的靠谱使用方式-HTML/CSS-第七城市](http://www.th7.cn/web/html-css/201403/26448.shtml)
-
-- [{ hide_text } CSS文字隐藏总结报告 - AVENIR.ZHENG 郑焕义](http://caib.me/hide-text/)
-
-##Autoprefixer
-
-- [postcss/autoprefixer](https://github.com/postcss/autoprefixer)
-
-- [[译]Autoprefixer:一个以最好的方式处理浏览器前缀的后处理程序 - 三桂 - 博客园](http://www.cnblogs.com/aNd1coder/archive/2013/08/12/3252690.html)
-
-- [Can I use... Support tables for HTML5, CSS3, etc](http://caniuse.com/)
-
-- [浏览器兼容之旅的第二站:各浏览器的Hack写法 | css3教程-css3实例-css3动画 | W3CPlus](http://www.w3cplus.com/css/create-css-browers-hacks)
-
-- [让页面里的字体变清晰：-webkit-font-smoothing_百度经验](http://jingyan.baidu.com/article/a3f121e4fe743ffc9152bb6f.html)
-
-##CSS3
-
-- [CSS3 3D Transform | css3教程-css3实例-css3动画 | W3CPlus](http://www.w3cplus.com/css3/css3-3d-transform.html)
-
-- [35个让人惊讶的 CSS3 动画效果演示 - 梦想天空（山边小溪） - 博客园](http://www.cnblogs.com/lhb25/archive/2011/11/22/best-awesome-css3-animation-demos.html)
-
-- [BEM —— 源自Yandex的CSS 命名方法论 - SegmentFault](http://segmentfault.com/a/1190000000391762)
-
-- [Definitions / Methodology / BEM. Block, Element, Modifier / BEM](https://en.bem.info/method/definitions/)
-
-- [BEM思想之彻底弄清BEM语法 | css3教程-css3实例-css3动画 | W3CPlus](http://www.w3cplus.com/css/mindbemding-getting-your-head-round-bem-syntax.html)
-
-- [深入了解 Flexbox 伸缩盒模型 | css3教程-css3实例-css3动画 | W3CPlus](http://www.w3cplus.com/blog/666.html)
-
-- [CSS3：[1]如何使用Flexbox伸缩盒_百度经验](http://jingyan.baidu.com/article/59a015e3439c64f79588657a.html)
-
-- [使用 CSS3 Flexible Boxes 布局 - SegmentFault](http://segmentfault.com/a/1190000000484017)
-
-- [前端性能优化（CSS动画篇） - SegmentFault](http://segmentfault.com/a/1190000000490328)
-
-- [CSS3 3D Transforms 浏览器兼容性一览表](http://caniuse.sinaapp.com/html/item/transforms3d/index.html)
-
-- [Can I Use 一个提供HTML5，CSS3，JS等新技术浏览器兼容一览表的网站](http://caniuse.sinaapp.com/)
-
-- [好吧，CSS3 3D transform变换，不过如此！ « 张鑫旭-鑫空间-鑫生活](http://www.zhangxinxu.com/wordpress/2012/09/css3-3d-transform-perspective-animate-transition/)
-
-- [CSS3 Animation动画示例](http://leaverou.github.io/animatable/)
-
-- [css3：border-radius圆角边框详解_网页设计_酷勤网](http://www.kuqin.com/shuoit/20141014/342620.html)
-
-- [再说CSS3渐变——径向渐变 | css3教程-css3实例-css3动画 | W3CPlus](http://www.w3cplus.com/css3/new-css3-radial-gradient.html)
-
-- [利用css样式画各种图形--初步、进阶、高级（一） - 穆乙 - 博客园](http://www.cnblogs.com/pigtail/archive/2013/02/17/2914119.html)
-
-- [jquery css3网页时钟代码制作圆形时钟表盘样式效果_素材中国17素材网](http://www.17sucai.com/pins/5361.html)
-
-- [CSS实现垂直居中的5种方法](http://www.qianduan.net/css-to-achieve-the-vertical-center-of-the-five-kinds-of-methods/)
-
-- [CSS3 Transform | css3教程-css3实例-css3动画 | W3CPlus](http://www.w3cplus.com/content/css3-transform/)
-
-- [css3 翻转和旋转的区别 - noonnightstorm的专栏 - 博客频道 - CSDN.NET](http://blog.csdn.net/noonnightstorm/article/details/8595435)
-
-- [盘点8种CSS实现垂直居中水平居中的绝对定位居中技术 - freshlover的专栏 - 博客频道 - CSDN.NET](http://blog.csdn.net/freshlover/article/details/11579669)
-
-- [理解CSS3线性渐变](http://www.qianduan.net/understand-the-css3-gradient/)
-
-- [CSS3 Border-image | css3教程-css3实例-css3动画 | W3CPlus](http://www.w3cplus.com/content/css3-border-image)
-
-- [求精：CSS3动画之CSS3过渡（css3 transition） - 前端网（W3Cfuns）](http://www.w3cfuns.com/article-5596390-1-1.html)
-
-- [Web 开发中很实用的10个效果【源码下载】 | 前端里](http://www.yyyweb.com/350.html)
-
-- [HTML5+CSS3实现鼠标悬停3D立体式图片效果_懒人之家](http://www.lanrenzhijia.com/js/css3/3007.html)
-
-- [纯css3实现螺旋状动态旋转导航下拉菜单_懒人之家](http://www.lanrenzhijia.com/js/css3/css3_daohang.html)
-
-- [美化表单——自定义checkbox和radio样式 | css3教程-css3实例-css3动画 | W3CPlus](http://www.w3cplus.com/css3/checkbox-radio-style.html)
-
-- [:first-child 有时候不起作用 - SegmentFault](http://segmentfault.com/q/1010000000141546)
-
-- [CSS3实现的幻灯片导航箭头提示特效 – 欲思博客](http://yusi123.com/3325.html)
-
-- [你所不知的 CSS ::before 和 ::after 伪元素用法 - 钉子の次元](http://blog.dimpurr.com/css-before-after/)
-
-- [display:flex 多栏多列布局-前端路上](http://www.51xuediannao.com/qd63/index.php/page-3-86-1.html)
-
-- [display:flex 多栏多列布局](http://www.360doc.com/content/14/0811/01/2633_400926000.shtml)
-
-- [解决Flexbox跨浏览器兼容Bug - 推酷](http://www.tuicool.com/articles/yURF7b)
-
-- [IE10中的Flexbox布局属性使用具体详解_CSS教程_前端技术](http://www.alixixi.com/web/a/2013051588733.shtml)
-
-- [css rem 字体问题 - SegmentFault](http://segmentfault.com/q/1010000002442078)
-
-- [Data URL和图片 – WEB骇客](http://www.webhek.com/data-url)
-
-- [CSS3实现宽度和高度等比列放大缩小效果-Web前端开发-Css+Html5-鸽子户-脚本编程学习站](http://www.gezihu.com/qianduan/html5/1993.html)
-
-- [纯CSS3 3D按钮 按钮酷似牛奶般剔透 | HTML5资源教程](http://www.html5tricks.com/css3-3d-milk-style-button.html)
-
-- [石头教你如何用纯CSS3绘制三角形、箭头。 - 推酷](http://www.tuicool.com/articles/qUBj2yj)
-
-- [利用CSS3特性巧妙实现漂亮的DIV箭头 - 蒋宇捷的专栏 - 博客频道 - CSDN.NET](http://blog.csdn.net/hfahe/article/details/5892963)
-
-- [css3按钮大集合 | 前端资源-css3教程-css3实例-css3动画 | W3CPlus](http://www.w3cplus.com/resources/421.html)
-
-- [CSS3实战第一波 让我们尽情的圆角吧 _css3_CSS_网页制作_脚本之家](http://www.jb51.net/css/29327.html)
-
-- [CSS3的圆角Border-radius | css3教程-css3实例-css3动画 | W3CPlus](http://www.w3cplus.com/node/48)
-
-- [21种css3 transition属性鼠标悬停导航条动画效果演示_jQuery之家-自由分享jQuery、html5、css3的插件库](http://www.htmleaf.com/Demo/2014100437.html)
-
-- [使用 CSS3 制作圆角按钮，无需图片 - 开源中国社区](http://www.oschina.net/question/5189_37133)
-
-- [CSS3的REM设置字体大小 | css3教程-css3实例-css3动画 | W3CPlus](http://www.w3cplus.com/css3/define-font-size-with-css3-rem)
-
-- [CSS3 Media Queries | css3教程-css3实例-css3动画 | W3CPlus](http://www.w3cplus.com/content/css3-media-queries)
-
-- [使用 CSS3 实现超炫的 Loading（加载）动画效果 - 梦想天空（山边小溪） - 博客园](http://www.cnblogs.com/lhb25/archive/2013/12/28/loading-spinners-animated-with-css3.html)
-
-- [CSS Shake](http://elrumordelaluz.github.io/csshake/)
-
-- [elrumordelaluz/csshake](https://github.com/elrumordelaluz/csshake)
-
-- [CSS3图片翻转动画技术详解 - 推酷](http://www.tuicool.com/articles/MV3UvuA)
-
-- [分享4种CSS3效果(360度旋转、旋转放大、放大、移动)|jquery教程|jqueryschool-国内最大的jquery原创分享社区](http://www.jq-school.com/Show.aspx?id=281)
-
-- [使用CSS3 Flexbox布局 | css3教程-css3实例-css3动画 | W3CPlus](http://www.w3cplus.com/css3/css3-flexbox-layout.html)
-
-- [css3动画简介以及动画库animate.css的使用 - 无双 - 博客园](http://www.cnblogs.com/2050/p/3409129.html)
-
-- [CSS3自定义滚动条样式 -webkit-scrollbar - 轩枫阁 – 前端开发 | web前端技术博客](http://www.xuanfengge.com/css3-webkit-scrollbar.html)
-
-- [CSS3滚动条美化,CSS3滚动条皮肤_彭亚欧个人博客](http://www.pengyaou.com/codecss3/POKDNMS_112.html)
-
-- [Animate.css](http://daneden.github.io/animate.css/)
-
-- [animate.css – 齐全的CSS3动画库_dowebok](http://www.dowebok.com/98.html)
-
-- [CSS vertical-align属性的用法_最初的你_新浪博客](http://blog.sina.com.cn/s/blog_51048da701018490.html)
-
-- [CSS Box Shadows Effects](http://www.paulund.co.uk/creating-different-css3-box-shadows-effects)
-
-- [Flex 布局教程：语法篇 - 阮一峰的网络日志](http://www.ruanyifeng.com/blog/2015/07/flex-grammar.html?utm_source=tuicool)
-
-- [Coffcer/flex-layout](https://github.com/Coffcer/flex-layout)
-
-- [详解css3弹性盒模型（Flexbox） - trigkit4 - SegmentFault](http://segmentfault.com/a/1190000000707526)
-
-- [RY8005: 各浏览器对于计算后宽度和高度为含有小数的长度值时，其最终值会不一致 - W3Help](http://www.w3help.org/zh-cn/causes/RY8005)
-
-- [ padding - 推酷](http://www.tuicool.com/articles/yqIzYrZ)
-
-- [PXtoEM.com: PX to EM conversion made simple.](http://pxtoem.com/)
-
-- [彻底弄懂css中单位px和em,rem的区别 - leejersey - 博客园](http://www.cnblogs.com/leejersey/p/3662612.html)
-
-##Font
-
-- [Font Awesome, the iconic font and CSS toolkit](http://fortawesome.github.io/Font-Awesome/)
-
-- [Font Awesome，一套绝佳的图标字体库和CSS框架](http://fontawesome.dashgame.com/)
-
-- [Font Awesome, 为 Bootstrap 而创造的图标字体](http://www.bootcss.com/p/font-awesome/)
-
-- [Cufon字体网-字体预览-在线生成中文Cufon字体](http://www.cufon-font.com/)
-
-- [如何灵活利用免费开源图标字体-IcoMoon篇 « 张鑫旭-鑫空间-鑫生活](http://www.zhangxinxu.com/wordpress/2012/06/free-icon-font-usage-icomoon/)
-
-- [ SVG Icon Sets ❍ IcoMoon](https://icomoon.io/)
-
-- [Iconfont-阿里巴巴矢量图标库](http://www.iconfont.cn/)
-
-- [图标字体化浅谈-腾讯ISUX – 社交用户体验设计 – Better Experience Through Design](http://isux.tencent.com/icon-font.html)
-
-- [CSS Sprite的应用 - myjavawork - 博客园](http://www.cnblogs.com/myjavawork/articles/1981345.html)
-
-- [CSS Sprite的一些最佳实践方法_CSS教程_CSS_网页制作_脚本之家](http://www.jb51.net/css/20977.html)
-
-- [10个针对设计师/开发者的实用CSS工具推荐 - Web前端 - ITeye资讯](http://www.iteye.com/news/24005/)
-
-- [PrimerCSS](http://primercss.com/index.php)
-
-- [Gridlover](http://www.gridlover.net/)
-
-- [tips | jh3y](http://jh3y.github.io/tips/)
-
-- [Tridiv | CSS 3D Editor](http://tridiv.com/)
-
-- [负值之美：负margin在页面布局中的应用 - 草根程序猿 - 博客园](http://www.cnblogs.com/jscode/archive/2012/08/28/2660078.html)
-
-- [聊聊主流框架，Less/Sass/Compass/Bootstrap/H5bp » 社区 » Ruby China](https://ruby-china.org/topics/4370)
-
-- [Sass vs. LESS | CSS-Tricks](https://css-tricks.com/sass-vs-less/)
-
-- [在 CSS 中，用 float 和 position 的区别是什么？ - 前端开发 - 知乎](http://www.zhihu.com/question/19588854)
-
-- [为您详细比较三个 CSS 预处理器（框架）：Sass、LESS 和 Stylus - 开源中国社区](http://www.oschina.net/question/12_44255?sort=default&p=4)
-
-##SASS
-
-- [ruby环境sass编译中文出现Syntax error: Invalid GBK character错误解决方法_html/css_WEB-ITnose](http://www.itnose.net/detail/6089821.html)
-
-- [sass语法](http://www.w3cplus.com/sassguide/syntax.html)
-
-- [Compass用法指南 - 阮一峰的网络日志](http://www.ruanyifeng.com/blog/2012/11/compass.html)
-
-- [blog.csdn.net/zxleezx/article/details/8111610](http://blog.csdn.net/zxleezx/article/details/8111610)
-
-- [负margin使用权威指南 - leejersey - 博客园](http://www.cnblogs.com/leejersey/p/3477855.html)
-
-- [负margin用法权威指南 | css3教程-css3实例-css3动画 | W3CPlus](http://www.w3cplus.com/css/the-definitive-guide-to-using-negative-margins.html)
-
-- [巧用:empty解决webkit核心浏览器text-indent的bug](http://www.qianduan.net/fixed-text-indent-in-webkit-editable-element-bug/)
-
-- [css非标准的ime-mode属性 - snandy - 博客园](http://www.cnblogs.com/snandy/archive/2011/03/28/1997407.html)
-
-- [modernizr.js html5 input表单文本输入框美化效果代码演示页面_17素材网](http://www.17sucai.com/pins/demoshow/5716)
-
-- [web前端开发浏览器兼容性 - 持续更新 - 大大白兔子 - 博客园](http://www.cnblogs.com/johnl/p/4199464.html)
-
-- [理解vertical-align或“如何竖向居中” – WEB骇客](http://www.webhek.com/vertical-align/)
-
-- [如何看待 CSS 中 BEM 的命名方式？ - 前端开发 - 知乎](http://www.zhihu.com/question/21935157)
-
-- [开始了解CSS混合模式 | css3教程-css3实例-css3动画 | W3CPlus](http://www.w3cplus.com/css3/getting-to-know-css-blend-modes.html)
-
-- [css 原理及其优化 - limanclear - 博客园](http://www.cnblogs.com/web-ed2/archive/2011/08/03/2126748.html)
-
-- [CSS float浮动的深入研究、详解及拓展(二) « 张鑫旭-鑫空间-鑫生活](http://www.zhangxinxu.com/wordpress/2010/01/css-float%E6%B5%AE%E5%8A%A8%E7%9A%84%E6%B7%B1%E5%85%A5%E7%A0%94%E7%A9%B6%E3%80%81%E8%AF%A6%E8%A7%A3%E5%8F%8A%E6%8B%93%E5%B1%95%E4%BA%8C/)
-
-- [两个div横向排列，顶端对齐的方式_一声缘_新浪博客](http://blog.sina.com.cn/s/blog_79d572db0101aipa.html)
-
-- [完美解决IE6不支持position:fixed的bug - 胡尐睿丶 - 博客园](http://www.cnblogs.com/hooray/archive/2011/05/20/2052269.html)
-
-- [css ie6、ie7、ie8中overflow:hidden无效解决办法-常见问题-Css教程-壹聚教程网](http://www.111cn.net/cssdiv/163/42133.htm)
-
-- [记一次淘宝首页奇葩的渲染问题 - 推酷](http://www.tuicool.com/articles/UnQjquE)
-
-- [如何设置css3中placeholder的字体颜色_百度经验](http://jingyan.baidu.com/article/09ea3ede0f1ae2c0afde397e.html)
-
-- [css z-index 最大值_CSS教程_CSS_网页制作_脚本之家](http://www.jb51.net/css/16481.html)
-
-- [CSS:line-height:150%与line-height:1.5的真正区别是什么？ - CSS - 知乎](http://www.zhihu.com/question/20394889)
-
-- [HTML5里的placeholder属性 – WEB骇客](http://www.webhek.com/html5-placeholder)
-
-##Scope
-
-- [css scope解决方案 - 开源中国社区](http://www.oschina.net/question/187340_165614)
-
-- [‘Scope’ in CSS – CSS Wizardry – CSS, OOCSS, front-end architecture, performance and more, by Harry Roberts](http://csswizardry.com/2013/05/scope-in-css/)
-
-- [s the CSS :scope pseudo-class for? | Web Updates - Google Developers](https://developers.google.com/web/updates/2013/03/What-s-the-CSS-scope-pseudo-class-for)
-
-- [Saving the Day with Scoped CSS | CSS-Tricks](https://css-tricks.com/saving-the-day-with-scoped-css/)
-
-- [如何评价 CSS Modules？ - 知乎](https://www.zhihu.com/question/34834178)
-
-- [理解:Before和:After伪元素 – WEB骇客](http://www.webhek.com/understanding-pseudo-element-before-and-after)
 
 ##GIT
 
@@ -1482,6 +1497,138 @@ Angular 367913555
 - [github设置添加SSH - binyao02123202的专栏 - 博客频道 - CSDN.NET](http://blog.csdn.net/binyao02123202/article/details/20130891)
 
 - [Git for Windows](https://git-for-windows.github.io/)
+
+- [GitHub的使用——删除Repository(unfork或者取消fork) - 零下九度 - 博客频道 - CSDN.NET](http://blog.csdn.net/limingjian/article/details/8855591)
+
+- [Git - stash用法 - limichange - SegmentFault](https://segmentfault.com/a/1190000002554160)
+
+##SERVER
+
+- [Apache HTTP Server Version 2.2 文档 － Apache 2.2 中文版参考手册](http://apache.chinahtml.com/)
+
+- [CentOS 6.2 Apache+PHP5+MySQL安装环境配置_风信网](http://www.ithov.com/linux/123656.shtml)
+
+- [CentOS 6.2 Apache+PHP5+MySQL安装环境配置(2)_风信网](http://www.ithov.com/linux/123656_2.shtml)
+
+- [centos6.2 ftp 配置 - 刘振明 - 博客园](http://www.cnblogs.com/zhenmingliu/archive/2012/04/25/2470646.html)
+
+- [linux.linuxidc.com - /](http://linux.linuxidc.com/)
+
+- [警告NameVirtualHost *:80 has no VirtualHosts的原因_爱自由_百度空间](http://hi.baidu.com/monton/item/43d22372084e9046ee1e532a)
+
+- [COS官网 - 首页](http://www.china-cos.com/site/index.html)
+
+##Tengine
+
+- [The Tengine Web Server](http://tengine.taobao.org/index_cn.html)
+
+##Nginx
+
+- [nginx](http://tengine.taobao.org/nginx_docs/cn/)
+
+- [使用nginx-http-concat自动合并静态资源，加速你的网站请求速度 - 为程序员服务](http://ju.outofmemory.cn/entry/50113)
+
+- [nginx js、css多个请求合并为一个请求(concat模块) - 运维生存时间](http://www.ttlsa.com/nginx/nginx-modules-concat/)
+
+- [The Tengine Web Server](http://tengine.taobao.org/document_cn/http_concat_cn.html)
+
+- [perusio/nginx-http-concat](https://github.com/perusio/nginx-http-concat)
+
+- [nginx expires 无效 - 开源中国社区](http://www.oschina.net/question/55448_77710?sort=time)
+
+- [Nginx设置expires设定页面缓存时间 不缓存或一直使用缓存](http://www.douban.com/note/342389019/)
+
+- [nginx upstream的分配方式。 - 相濡以沫 - 51CTO技术博客](http://onlyzq.blog.51cto.com/1228/557848/)
+
+- [nginx 代理 proxy_pass设置 - flex_fly - 博客园](http://www.cnblogs.com/flex_fly/p/3363100.html)
+
+- [nginx静态文件响应post请求，405 Not Allowed – 酷喃｜coolnull｜](http://coolnull.com/3527.html)
+
+- [nginx配置url重定向-反向代理 - 坐在高山观虎斗，站在桥头看水流 - 博客频道 - CSDN.NET](http://blog.csdn.net/yybjroam05/article/details/41076679)
+
+- [Nginx作为反向代理时传递客户端IP的设置方法_nginx_脚本之家](http://www.jb51.net/article/53821.htm)
+
+- [nginx 反向代理 取得真实IP和域名 - huangqiqing123 - ITeye技术网站](http://huangqiqing123.iteye.com/blog/1895192)
+
+- [✔ Nginx 的线程池与性能剖析 - 编程技术 - 夜眸博客](http://blog.yemou.net/article/query/info/tytfjhfascvhzxcyt158)
+
+##Vagrant
+
+- [使用 Vagrant 打造跨平台开发环境 - SegmentFault](http://segmentfault.com/a/1190000000264347)
+
+- [Getting Started - Vagrant Documentation](http://docs.vagrantup.com/v2/getting-started/)
+
+##RESTful
+
+- [理解RESTful架构 - 阮一峰的网络日志](http://www.ruanyifeng.com/blog/2011/09/restful)
+
+- [RESTful_百度百科](http://baike.baidu.com/link?url=N7zdBY2c9164qxhkFC27WSpg0ARzumD1TYrJUobBI1E-IpFmUdG9c1nfsxJMfud9BkIRd37j-4DHwGD-rk3Fnq)
+
+- [理解RESTful架构_知识库_博客园](http://kb.cnblogs.com/page/114905/)
+
+##CQRS
+
+- [URI Template](http://dorole.com/tag/uri-template/)
+
+##Redis
+
+- [Redis中文官方网站 -- redis中文资料、中文文档尽在redis中文官方网站](http://www.redis.cn/)
+
+- [Windows下Redis的安装使用 - 51CTO.COM](http://os.51cto.com/art/201403/431103.htm)
+
+- [Redis](http://redis.io/)
+
+- [ServiceStack/redis-windows](https://github.com/ServiceStack/redis-windows)
+
+- [Redis在Windows下安装和PHP中使用 - 鸿网互联[68IDC.CN]](http://www.68idc.cn/help/server/20141128135092.html)
+
+##DataBase
+
+##Mongodb
+
+- [Node.js + Express + MongoDB教程 -解道Jdon](http://www.jdon.com/idea/nodejs/node-express-mongo.html)
+
+- [Node.js与MongoDB在Windows环境下的安装 - CNode](https://cnodejs.org/topic/524040e9101e574521760713)
+
+- [Mongodb 安装 以及 问题解决-摘自网络 - iDEAAM - 博客园](http://www.cnblogs.com/haoliansheng/p/4389911.html)
+
+- [t connect to server 127.0.0.1:27017 src/mongo/she_小组_ThinkSAAS](http://www.thinksaas.cn/group/topic/344317/)
+
+- [t connect to server 127.0.0.1:27017 src/mongo/shell/mo - 性格决定命运，专注成就人生 争取每天进步1% - ITeye技术网站](http://ewf-momo.iteye.com/blog/1910678)
+
+- [Error setting TTL index on collection : sessions 错误求解答 - CNode](https://cnodejs.org/topic/53e1ff41a3df2b8f3114132e)
+
+- [连接mongodb失败. mongod 启动报错. [结贴] - CNode](https://cnodejs.org/topic/51a5be79d452213f391578b1)
+
+- [在Windows 7上安装MongoDB 2.6.7 - 推酷](http://www.tuicool.com/articles/Uf2YRfb)
+
+- [mongodb基础系列——mongodb服务器无法启动 - - 博客频道 - CSDN.NET](http://blog.csdn.net/yuebinghaoyuan/article/details/12068975)
+
+- [MongoVUE简单操作手册_百度文库](http://wenku.baidu.com/link?url=z58Mzi_E-_XHaiulUSDweYg5xJ3vl8OP5jRcIbYMzb-A-g4kX1vvgEbP6yQogvu_znJwqjSpEXPB7zk-EzIG3uzuaWSY4HOybSHKA_gW1GK)
+
+- [Windows 7下安装MongoDB数据库图文教程 - 思想之地](http://be-evil.org/install-mongodb-on-windows7.html)
+
+- [windows下mongodb安装与使用整理 - Lecaf - 博客园](http://www.cnblogs.com/lecaf/archive/2013/08/23/mongodb.html)
+
+- [MongoDB 创建数据库 - MongoDB教程](http://www.yiibai.com/mongodb/mongodb_create_database.html)
+
+- [MongoDB for GIANT Ideas | MongoDB](https://www.mongodb.com/)
+
+- [MongoDB简介 | MongoDB](https://www.mongodb.com/cn)
+
+- [Robomongo — native MongoDB management tool (Admin UI)](https://robomongo.org/)
+
+- [Install MongoDB as a Windows Service](http://techidiocy.com/install-mongodb-as-a-windows-service/)
+
+- [node.js + webstorm 开发个人博客：配置开发环境（一） - susubanana - 博客园](http://www.cnblogs.com/taocom/archive/2013/06/11/3131975.html)
+
+- [Mongoose Connecting to MongoDB v4.4.17](http://mongoosejs.com/docs/connections.html)
+
+##SQL Server
+
+- [SQL Server 2008入门系列之设置数据库服务器的访问权限 - 邓奇的Blog - 51CTO技术博客](http://dengqi.blog.51cto.com/5685776/1221371)
+
+- [IBM Knowledge Center - 设置 SQL Server 数据库](http://www.ibm.com/support/knowledgecenter/zh/SSYMRC_4.0.4/com.ibm.jazz.install.doc/topics/t_s_server_installation_setup_sql.html)
 
 ##Mobile
 
@@ -2229,8 +2376,6 @@ Angular 367913555
 
 ##gem
 
-- [Webstorm9配置SASS编译环境](http://www.bubuko.com/infodetail-503964.html)
-
 - [CocoaPods安装与简单使用 - 星仁 - 博客园 - 推酷](http://www.tuicool.com/articles/7vUnay)
 
 - [RubyGems 镜像 - 淘宝网](http://ruby.taobao.org/)
@@ -2276,6 +2421,10 @@ Angular 367913555
 - [[译] Webpack——令人困惑的地方 - 掘金](http://gold.xitu.io/entry/57329700ad5b950057093301)
 
 - [基于webpack搭建前端工程解决方案探索 - dmyang - SegmentFault](https://segmentfault.com/a/1190000003499526#articleHeader10)
+
+- [webpack使用优化 - OPEN 开发经验库](http://www.open-open.com/lib/view/open1452487103323.html#_label0)
+
+- [2.2 webpack - LeanReact - 知乎专栏](https://zhuanlan.zhihu.com/p/21287263)
 
 ##yo
 
@@ -2399,6 +2548,18 @@ Angular 367913555
 
 - [hexo添加百度统计 | BAZINGA](http://caoyudong.com/2015/09/16/hexo%E6%B7%BB%E5%8A%A0%E7%99%BE%E5%BA%A6%E7%BB%9F%E8%AE%A1/)
 
+- [Hexo使用多说教程 - 多说开发者中心](http://dev.duoshuo.com/threads/541d3b2b40b5abcd2e4df0e9)
+
+- [第三方服务集成 - NexT 使用文档](http://theme-next.iissnan.com/third-party-services.html)
+
+- [Hexo｜快速搭建自己（Github）博客 - 简书](http://www.jianshu.com/p/808554f12929)
+
+- [Hexo 主题Light修改教程 - 简书](http://www.jianshu.com/p/70343b7c2fd3)
+
+- [git 管理本地文件提交到github上有的文件提交不了-CSDN论坛-CSDN.NET-中国最大的IT技术社区](http://bbs.csdn.net/topics/390822726)
+
+- [为 Hexo 主题添加评论模块 — Disqus, 多说, 友言 - 推酷](http://www.tuicool.com/articles/jq2Aj2Z)
+
 - [通过 nodeclub 项目源码来讲解如何做一个 nodejs + express + mongodb 项目 - CNode](https://cnodejs.org/topic/535601a20d7d0faf140303d8)
 
 - [浅谈nodejs中的Crypto模块 - CNode](https://cnodejs.org/topic/504061d7fef591855112bab5)
@@ -2450,6 +2611,10 @@ Angular 367913555
 - [coreybutler/nvm-windows: A node.js version management utility for Windows. Ironically written in Go.](https://github.com/coreybutler/nvm-windows)
 
 - [creationix/nvm: Node Version Manager - Simple bash script to manage multiple active node.js versions](https://github.com/creationix/nvm)
+
+- [管理 node 版本，选择 nvm 还是 n？ - 推酷](http://www.tuicool.com/articles/U73aEbR)
+
+- [使用 nvm 管理不同版本的 node 与 npm - 推酷](http://www.tuicool.com/articles/Vzquy2)
 
 - [《nodejs开发指南》微博实例express4.x版 - 红豆依旧在 - 博客园](http://www.cnblogs.com/yuanzm/p/3770986.html)
 
@@ -2585,6 +2750,8 @@ Angular 367913555
 
 - [提交自己的包到bower、npm中 | JSLite.io](http://jslite.io/2015/05/03/%E6%8F%90%E4%BA%A4%E8%87%AA%E5%B7%B1%E5%8C%85%E5%88%B0bower%E3%80%81npm%E4%B8%AD/)
 
+- [dylang/npm-check: Check for outdated, incorrect, and unused dependencies.](https://github.com/dylang/npm-check)
+
 - [alinode - 基于Node运行时的应用性能管理解决方案](http://alinode.aliyun.com/)
 
 ##JSON Server
@@ -2599,9 +2766,43 @@ Angular 367913555
 
 - [Koa (koajs) -- 基于 Node.js 平台的下一代 web 开发框架 | Koajs 中文文档](http://koa.bootcss.com/)
 
+- [心路历程：vue2.0+webpack+koa2 前后端同构实践（一） - 思无邪 - SegmentFault](https://segmentfault.com/a/1190000005995213)
+
+- [koa - 廖雪峰的官方网站](http://www.liaoxuefeng.com/wiki/001434446689867b27157e896e74d51a89c25cc8b43bdb3000/001434501579966ab03decb0dd246e1a6799dd653a15e1b000)
+
+- [guo-yu/koa-guide: koa guide in Chinese](https://github.com/guo-yu/koa-guide)
+
+- [ application generator for 1.x and 2.x（ Express-style and support all middlewares include async/await ）](https://github.com/17koa/koa-generator)
+
+- [koa生成器,一键生成koa和koa2项目 - 小莫 - SegmentFault](https://segmentfault.com/a/1190000005742129)
+
+- [从零组装新工具 - Koa2 - Lxxyx的开发笔记 - SegmentFault](https://segmentfault.com/a/1190000004996176)
+
+- [用 vue koa 和mongo 撸了个人博客和博客管理网站 - chuckliu的前端学习笔记 - SegmentFault](https://segmentfault.com/a/1190000007004199)
+
+- [用 Koa 写服务体验 - 囧克斯](http://jiongks.name/blog/try-koajs/)
+
 ##npmcdn
 
 - [unpkg](https://unpkg.com/#/)
+
+##Thinkjs框架
+
+- [ThinkJS - 使用 ES6/7 特性开发 Node.js 项目，支持 TypeScript](https://thinkjs.org/)
+
+- [ThinkJS - 使用 ES6/7 特性开发 Node.js 项目，支持 TypeScript](https://thinkjs.org/doc/index.html)
+
+##Node-OS
+
+- [Node OS](http://node-os.com/)
+
+- [Koa 还是 Express？ - CNode技术社区](http://cnodejs.org/topic/55815f28395a0c1812f18257)
+
+- [使用supervisor提高nodejs调试效率 - 穆乙 - 博客园](http://www.cnblogs.com/pigtail/archive/2013/01/08/2851056.html)
+
+- [关于 windows 下 node_modules\node-sass\vendor 的报错解决方法-爱编程](http://www.w2bc.com/article/166142)
+
+- [ - 东篱煮酒 - 博客园](http://www.cnblogs.com/niepeishen/p/5762162.html)
 
 ##FrameWork
 
@@ -3569,6 +3770,40 @@ Angular 367913555
 
 - [React几种基本配置方案 - 推酷](http://www.tuicool.com/articles/jAzyyeY)
 
+- [手把手教你基于 ES6 架构自己的 React Boilerplate 项目 - OPEN 开发经验库](http://www.open-open.com/lib/view/open1462013660085.html)
+
+- [使用 react-hot-loader - 一入前端深似海 - SegmentFault](https://segmentfault.com/a/1190000004660311)
+
+- [npm scripts + webpack 实践经验（React、Nodejs） - 顾飞帆_Geoff - 博客园](http://www.cnblogs.com/geoffgu/p/6016915.html)
+
+- [LeanReact - 知乎专栏](https://zhuanlan.zhihu.com/leanreact)
+
+##MobX
+
+- [MobX v2.3.0 发布，一个 TFRP 编程范式的实现 - OPEN资讯](http://www.open-open.com/news/view/a3898d1)
+
+- [MobX 和 Redux 的比较 - 推酷](http://www.tuicool.com/articles/BfAZjqV)
+
+- [mobxjs/mobx: Simple, scalable state management.](https://github.com/mobxjs/mobx)
+
+- [React Component Lifecycle - 学习笔记 - SegmentFault](https://segmentfault.com/a/1190000003691119)
+
+- [为何说setState方法是异步的？ - 推酷](http://www.tuicool.com/articles/UvUfamj)
+
+- [react-hot-loader 3.0 vs 1.3 简单对比 - 简书](http://www.jianshu.com/p/533d575af6c4)
+
+- [[译] React 组件中绑定回调 -  前端 - SegmentFault](https://segmentfault.com/a/1190000006133727)
+
+- [index作为key是反模式 -  前端 - SegmentFault](https://segmentfault.com/a/1190000006152449)
+
+- [react点击事件传参 - 简书](http://www.jianshu.com/p/d745514e547b)
+
+- [react.js - react点击事件如何传传传参。 - SegmentFault](https://segmentfault.com/q/1010000004185137)
+
+- [react.js - React 使用ES6+语法时 事件绑定疑惑 - SegmentFault](https://segmentfault.com/q/1010000003763076)
+
+- [ 组件间沟通 - 井底之蛙 - SegmentFault](https://segmentfault.com/a/1190000006831820)
+
 ##layUI
 
 - [layui官网 - 为web开发提供动力](http://www.layui.com/)
@@ -3632,6 +3867,8 @@ Angular 367913555
 - [vue-router redirect back | Vue.js Discussion](https://forum.vuejs.org/topic/442/vue-router-redirect-back/2)
 
 - [vuex 和 vue-router如何结合使用？ - 知乎](https://www.zhihu.com/question/39119646)
+
+- [Accessing route VM within router hooks for updating document.title · Issue #112 · vuejs/vue-router](https://github.com/vuejs/vue-router/issues/112)
 
 ##vue-bootstrap
 
@@ -3711,11 +3948,19 @@ Angular 367913555
 
 - [vuejs-learn/vuejs2.md at master · bhnddowinf/vuejs-learn](https://github.com/bhnddowinf/vuejs-learn/blob/master/vuejs2-before/vuejs2.md)
 
+- [介绍 - vue.js](http://vuefe.cn/guide/)
+
+- [Muse-UI](https://museui.github.io/#/index)
+
 - [bhnddowinf/vuejs-learn: (vue.js official website tutorials ，contains video , codes, baudi yun, youtube) 网路上有很多 VUE 综合应用的视频，但大部份的视频 ，都当你已经了解官网 所以讲的节奏难免偏快。 此视频(都是上代码)，以官网为重，将官网的观念，以视频搭配代码，实际演示。 如果官网有看不懂的地方，比对一下，视频跟代码，就会了解了。 减少你摸索的时间。(註：mvvm 的框架，不管是 ng , react, vue, avalonjs, 都是好的框架，而有经验的前端，至少都会两套以上的 mvvm。)](https://github.com/bhnddowinf/vuejs-learn)
 
 - [Vuejs 1.0 系列教程](https://laravist.com/series/vue-js-1-0-in-action-series)
 
 - [vuejs/awesome-vue: A curated list of awesome things related to Vue.js](https://github.com/vuejs/awesome-vue#interactive-experiences)
+
+- [iView - 一套高质量的UI组件库](https://www.iviewui.com/)
+
+- [Vue.js 快速入门 - FullStackDeveloper - SegmentFault](https://segmentfault.com/a/1190000003968020)
 
 ##Elm
 
@@ -3730,6 +3975,8 @@ Angular 367913555
 - [阿里宣布开源Weex，用Web方式开发Native性能体验应用-博客-云栖社区-阿里云](https://yq.aliyun.com/articles/31974)
 
 - [Weex中文文档 · weexteam/article Wiki](https://github.com/weexteam/article/wiki/Weex%E4%B8%AD%E6%96%87%E6%96%87%E6%A1%A3)
+
+- [s talk about Weex](https://github.com/weexteam/article)
 
 ##SUI
 
@@ -3763,11 +4010,19 @@ Angular 367913555
 
 - [KendoUI的学习和使用 - 明月清风 - 博客频道 - CSDN.NET](http://blog.csdn.net/weiky626/article/details/45337355)
 
+- [Using Kendo UI for jQuery in a React App -Telerik Developer Network](http://developer.telerik.com/featured/using-kendo-ui-jquery-react-app/)
+
 ##iUAP Design
 
 - [iUAP Design](http://design.yyuap.com/)
 
 - [Jackblog react redux版](http://jackhu.top/)
+
+- [tinper首页](http://tinper.org/)
+
+- [前端收藏夹](http://collect.w3ctrain.com/)
+
+- [不可错过的Javascript迷你库 - 简书](http://www.jianshu.com/p/cfebf73ce253)
 
 ##Blog
 
@@ -3837,8 +4092,6 @@ Angular 367913555
 
 ##Other
 
-- [理解RESTful架构_知识库_博客园](http://kb.cnblogs.com/page/114905/)
-
 - [JacksonTian/fks](https://github.com/JacksonTian/fks)
 
 - [Sign In - Compose](https://app.compose.io/)
@@ -3867,8 +4120,6 @@ Angular 367913555
 
 - [V2EX](http://www.v2ex.com/)
 
-- [Browse Happy](http://browsehappy.com/)
-
 - [ASCII码表:ASCII码中文站 www.asciima.com](http://www.asciima.com/)
 
 - [ security company](https://www.cloudflare.com/)
@@ -3893,17 +4144,9 @@ Angular 367913555
 
 - [表驱动方法 - 潇湘隐者 - 博客园](http://www.cnblogs.com/kerrycode/archive/2009/08/01/1536440.html)
 
-##Python
+- [UML类图几种关系的总结 - OPEN 开发经验库](http://www.open-open.com/lib/view/open1328059700311.html)
 
-- [Python开发_python的安装 - Hongten - 博客园](http://www.cnblogs.com/hongten/p/hongten_python_install.html)
-
-- [Python安装和配置环境变量 - 柳絮飞 - 51Testing软件测试网 51Testing软件测试网-中国软件测试人的精神家园](http://www.51testing.com/html/16/271416-867879.html)
-
-- [Python解释器 - 廖雪峰的官方网站](http://www.liaoxuefeng.com/wiki/001374738125095c955c1e6d8bb493182103fac9270762a000/001407375700558864523211a5049c4983176de304549c8000)
-
-- [安装Python - 廖雪峰的官方网站](http://www.liaoxuefeng.com/wiki/001374738125095c955c1e6d8bb493182103fac9270762a000/001374738150500472fd5785c194ebea336061163a8a974000)
-
-- [导出chrome书签为Markdown | 梦里风林](https://ahangchen.gitbooks.io/windy-afternoon/content/kit/markdown/chrome_mark2_md.html)
+- [极限编程_百度百科](http://baike.baidu.com/link?url=rmX0gyRshwCFmOkRabNsE4d3Fli-lpGXhMiYvXG03vNQwzwTyvzCu0-skGQT5ZLTlVV-ANqFOrDAA1AEUxvyxq)
 
 ##IDE
 
@@ -3995,6 +4238,12 @@ Angular 367913555
 
 - [优化Webstorm - 码农终结者 - 博客园](http://www.cnblogs.com/chaogex/p/5680187.html)
 
+- [JetBrains: Development Tools for Professionals and Teams](https://www.jetbrains.com/)
+
+- [node-modules is hidden · Issue #46 · henjue/vue-for-idea](https://github.com/henjue/vue-for-idea/issues/46)
+
+- [Webstorm9配置SASS编译环境](http://www.bubuko.com/infodetail-503964.html)
+
 ##Eclipse
 
 - [eclipse下安装js插件-spket(支持Ext) 能格式化Js（JQuery自动提示） - Andy - ITeye技术网站](http://small-ant.iteye.com/blog/1393397)
@@ -4067,7 +4316,25 @@ Angular 367913555
 
 - [Brackets - A modern, open source code editor that understands web design.](http://brackets.io/)
 
-- [极限编程_百度百科](http://baike.baidu.com/link?url=rmX0gyRshwCFmOkRabNsE4d3Fli-lpGXhMiYvXG03vNQwzwTyvzCu0-skGQT5ZLTlVV-ANqFOrDAA1AEUxvyxq)
+##Visual Studio
+
+- [VS快捷键大全](http://sanwen8.cn/p/114IrRz.html)
+
+- [Visual Studio - Microsoft 开发人员工具](https://www.visualstudio.com/)
+
+- [11个强大的Visual Studio调试小技巧 - 文章 - 伯乐在线](http://blog.jobbole.com/33865/)
+
+- [掌握VS2010调试 -- 入门指南 - Danny Chen - 博客园](http://www.cnblogs.com/zhangchenliang/p/3739115.html)
+
+- [Visual Studio 2010的调试（断点设置、变量查看） - gjianw217的日志 - 网易博客](http://gjianw217.blog.163.com/blog/static/2614418201222994650926/)
+
+- [Visual Studio Code 的简单试用体验 - 文章 - 伯乐在线](http://blog.jobbole.com/86576/)
+
+##Rider Eap
+
+- [Project Rider 内测版的体验如何？ - 千里冰封的回答 - 知乎](https://www.zhihu.com/question/41204312/answer/98218460)
+
+- [A cross-platform C# IDE based on the IntelliJ platform and ReSharper](https://www.jetbrains.com/rider/)
 
 ##优化
 
@@ -4193,6 +4460,10 @@ Angular 367913555
 
 - [Facebook让网站速度提升一倍的BigPipe技术分析 - limu的砖篮儿 - ITeye技术网站](http://limu.iteye.com/blog/765173)
 
+- [BigPipe 学习 - web前端 - SegmentFault](https://segmentfault.com/a/1190000002940886)
+
+- [利用bigpipe机制实现页面模块的异步渲染 - 随机 - 博客园](http://www.cnblogs.com/Random/archive/2011/06/30/2093913.html)
+
 - [直接拿来用！最火的前端开源项目（一）-CSDN.NET](http://www.csdn.net/article/2013-06-25/2815979-front-end-development)
 
 ##Token
@@ -4278,6 +4549,10 @@ Angular 367913555
 - [Chrome 控制台console的用法 - OPEN 开发经验库](http://www.open-open.com/lib/view/open1421131601390.html)
 
 - [15个必须知道的chrome开发者技巧 - 全栈开发者](http://www.admin10000.com/document/6159.html)
+
+- [查看html元素绑定的事件与方法的利器 - web馆 - 博客园](http://www.cnblogs.com/xiaoyao2011/p/3447421.html)
+
+- [Web设计者和开发者必备的27个Chrome插件 - Chrome 官方博客 - 博客频道 - CSDN.NET](http://blog.csdn.net/chromeblog/article/details/6865124)
 
 - [前端开发面试题 - weakish - SegmentFault](http://segmentfault.com/a/1190000000465431)
 
@@ -4415,6 +4690,36 @@ Angular 367913555
 
 - [Unicode与JavaScript详解 - 阮一峰的网络日志](http://www.ruanyifeng.com/blog/2014/12/unicode.html)
 
+- [QCon 上海 2016 PPT 下载合集](http://ppt.geekbang.org/qconsh2016)
+
+- [s Blog](http://www.snooda.com/read/224)
+
+- [在浏览器地址栏按回车、F5、Ctrl+F5刷新网页的区别](http://www.360doc.com/content/14/0925/22/8504707_412366228.shtml)
+
+- [F5和CTRL+F5的区别 - 紫云飞 - 博客园](http://www.cnblogs.com/ziyunfei/archive/2012/09/13/2683177.html)
+
+- [How to force refresh without cache in Google Chrome? - Super User](http://superuser.com/questions/89809/how-to-force-refresh-without-cache-in-google-chrome/278393#278393)
+
+- [Ctrl+F5 vs Ctrl+R (On Browsers) - Super User](http://superuser.com/questions/205279/ctrlf5-vs-ctrlr-on-browsers)
+
+- [Overflow Stack](http://overflowstack.github.io/)
+
+- [unruledboy/WebFrontEndStack: web front end stack: browsers, platforms, libraries, frameworks, tools etc.](https://github.com/unruledboy/WebFrontEndStack)
+
+- [GEEKTyper.com - Be The One](http://geektyper.com/)
+
+- [Hacker Typer](http://hackertyper.net/)
+
+- [How Much Does a Website Cost](http://howmuchdoesawebsiteco.st/)
+
+- [大公司或专业团队目前流行的前端工具有什么？ - 知乎](https://www.zhihu.com/question/28638304)
+
+- [20位活跃在Github上的国内技术大牛 - YaoXTao的专栏 - 博客频道 - CSDN.NET](http://blog.csdn.net/yaoxtao/article/details/38518933)
+
+##调试
+
+- [RemoteDev](http://remotedev.io/)
+
 ##HTTP
 
 - [HTTP Get请求URL最大长度 - gyflyx的专栏 - 博客频道 - CSDN.NET](http://blog.csdn.net/gyflyx/article/details/7890207)
@@ -4460,20 +4765,6 @@ Angular 367913555
 ##HTTP2
 
 - [HTTP/2](https://http2.github.io/)
-
-##浏览器
-
-##Chrome
-
-- [Web设计者和开发者必备的27个Chrome插件 - Chrome 官方博客 - 博客频道 - CSDN.NET](http://blog.csdn.net/chromeblog/article/details/6865124)
-
-- [查看html元素绑定的事件与方法的利器 - web馆 - 博客园](http://www.cnblogs.com/xiaoyao2011/p/3447421.html)
-
-##PHP
-
-- [很好用的php执行时间分析工具webgrind - mecho的专栏 - 博客频道 - CSDN.NET](http://blog.csdn.net/mecho/article/details/11071079)
-
-- [webgrind安装使用详细说明 - yukon12345的专栏 - 博客频道 - CSDN.NET](http://blog.csdn.net/yukon12345/article/details/11408617)
 
 ##XSS
 
@@ -4547,10 +4838,6 @@ Angular 367913555
 
 - [akof1314/CoolFormat: CoolFormat Source Code Formatter](https://github.com/akof1314/CoolFormat)
 
-##Target
-
-- [20位活跃在Github上的国内技术大牛 - YaoXTao的专栏 - 博客频道 - CSDN.NET](http://blog.csdn.net/yaoxtao/article/details/38518933)
-
 ##Google
 
 - [google hosts 2015，持续更新，2015.12.26已更新 - 360知识库](http://www.360kb.com/kb/2_122.html)
@@ -4580,68 +4867,6 @@ Angular 367913555
 - [各种编程语言的深度学习库整理 - 今日头条(TouTiao.com)](http://toutiao.com/a6194728826781483266/)
 
 - [推荐！国外程序员整理的机器学习资源大全 | 程序师](http://www.techug.com/awesome-machine-learning)
-
-##Ruby
-
-- [Home · ruby-china/rubygems-mirror Wiki](https://github.com/ruby-china/rubygems-mirror/wiki)
-
-- [gem install SSL 错误。 » 社区 » Ruby China](https://ruby-china.org/topics/29323)
-
-- [RubyGems 镜像 - Ruby China](https://gems.ruby-china.org/)
-
-- [RubyGems 镜像 - 淘宝网](https://ruby.taobao.org/)
-
-- [Ruby 程序设计语言官方网站](https://www.ruby-lang.org/zh_cn/)
-
-- [Download RubyGems | RubyGems.org | Ruby 社区 Gem 托管](https://rubygems.org/pages/download)
-
-##DataBase
-
-##Mongodb
-
-- [Node.js + Express + MongoDB教程 -解道Jdon](http://www.jdon.com/idea/nodejs/node-express-mongo.html)
-
-- [Node.js与MongoDB在Windows环境下的安装 - CNode](https://cnodejs.org/topic/524040e9101e574521760713)
-
-- [Mongodb 安装 以及 问题解决-摘自网络 - iDEAAM - 博客园](http://www.cnblogs.com/haoliansheng/p/4389911.html)
-
-- [t connect to server 127.0.0.1:27017 src/mongo/she_小组_ThinkSAAS](http://www.thinksaas.cn/group/topic/344317/)
-
-- [t connect to server 127.0.0.1:27017 src/mongo/shell/mo - 性格决定命运，专注成就人生 争取每天进步1% - ITeye技术网站](http://ewf-momo.iteye.com/blog/1910678)
-
-- [Error setting TTL index on collection : sessions 错误求解答 - CNode](https://cnodejs.org/topic/53e1ff41a3df2b8f3114132e)
-
-- [连接mongodb失败. mongod 启动报错. [结贴] - CNode](https://cnodejs.org/topic/51a5be79d452213f391578b1)
-
-- [在Windows 7上安装MongoDB 2.6.7 - 推酷](http://www.tuicool.com/articles/Uf2YRfb)
-
-- [mongodb基础系列——mongodb服务器无法启动 - - 博客频道 - CSDN.NET](http://blog.csdn.net/yuebinghaoyuan/article/details/12068975)
-
-- [MongoVUE简单操作手册_百度文库](http://wenku.baidu.com/link?url=z58Mzi_E-_XHaiulUSDweYg5xJ3vl8OP5jRcIbYMzb-A-g4kX1vvgEbP6yQogvu_znJwqjSpEXPB7zk-EzIG3uzuaWSY4HOybSHKA_gW1GK)
-
-- [Windows 7下安装MongoDB数据库图文教程 - 思想之地](http://be-evil.org/install-mongodb-on-windows7.html)
-
-- [windows下mongodb安装与使用整理 - Lecaf - 博客园](http://www.cnblogs.com/lecaf/archive/2013/08/23/mongodb.html)
-
-- [MongoDB 创建数据库 - MongoDB教程](http://www.yiibai.com/mongodb/mongodb_create_database.html)
-
-- [MongoDB for GIANT Ideas | MongoDB](https://www.mongodb.com/)
-
-- [MongoDB简介 | MongoDB](https://www.mongodb.com/cn)
-
-- [Robomongo — native MongoDB management tool (Admin UI)](https://robomongo.org/)
-
-- [Install MongoDB as a Windows Service](http://techidiocy.com/install-mongodb-as-a-windows-service/)
-
-- [node.js + webstorm 开发个人博客：配置开发环境（一） - susubanana - 博客园](http://www.cnblogs.com/taocom/archive/2013/06/11/3131975.html)
-
-- [Mongoose Connecting to MongoDB v4.4.17](http://mongoosejs.com/docs/connections.html)
-
-##SQL Server
-
-- [SQL Server 2008入门系列之设置数据库服务器的访问权限 - 邓奇的Blog - 51CTO技术博客](http://dengqi.blog.51cto.com/5685776/1221371)
-
-- [IBM Knowledge Center - 设置 SQL Server 数据库](http://www.ibm.com/support/knowledgecenter/zh/SSYMRC_4.0.4/com.ibm.jazz.install.doc/topics/t_s_server_installation_setup_sql.html)
 
 ##VR
 
@@ -4677,6 +4902,21 @@ Angular 367913555
 
 - [RenderLoop - Build VR apps - RenderLoop](https://www.renderloop.com/)
 
+- [在 Oculus和 Gear VR上开发跨平台的 VR应用 - cartzhang的专栏 - 博客频道 - CSDN.NET](http://blog.csdn.net/cartzhang/article/details/51433994)
+
+##应用号
+
+- [项目demo放出](http://mp.weixin.qq.com/s?__biz=MzI0MTM0OTUwMg==&mid=2247483701&idx=1&sn=be7bd07d2d9745ef1ba31e68c115b293&chksm=e90da724de7a2e3237915faf0e47c4d7c1592258cfeb4e1170415634c1a4570079a37e2c8273&scene=1&srcid=0922034DnpUJbjqDiXxGoJcI#rd)
+
+##UML
+
+- [看懂UML类图和时序图 - 大CC - 博客园](http://www.cnblogs.com/me115/p/4092632.html)
+
+- [浅谈UML的概念和模型之UML九种图 - 努力+坚持，而且还很年轻 - 博客频道 - CSDN.NET](http://blog.csdn.net/jiuqiyuliang/article/details/8552956/)
+
+- [河南地图网](http://www.hnditu.com/dt.aspx?mapn=410100)
+
+- [ Daily Log_百度空间](http://hi.baidu.com/fwsocn/item/8b7b0c2102f2970976272c23)
 
 - [用谷歌浏览器调试手机WEB应用 - knless@126的日志 - 网易博客](http://blog.163.com/knless@126/blog/static/1642586422012429113343175/)
 
