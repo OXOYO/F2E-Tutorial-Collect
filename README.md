@@ -6,6 +6,7 @@ VueJS中文社区-资源群 320905222
 React中文社区总群 435748765
 React Native中文社区 245192933（已满） 569587764
 Angular 367913555
+Node.js-Koa2 556087613
 
 ```
 
@@ -832,6 +833,10 @@ Angular 367913555
 
 - [ES6 JavaScript Promise的感性认知 « 张鑫旭-鑫空间-鑫生活](http://www.zhangxinxu.com/wordpress/2014/02/es6-javascript-promise-%E6%84%9F%E6%80%A7%E8%AE%A4%E7%9F%A5/)
 
+- [目前最好的 JavaScript 异步方案 async/await - OPEN 开发经验库](http://www.open-open.com/lib/view/open1448198037181.html)
+
+- [利用转码器让ES6在浏览器运行 - luoyjx - 搞起博客](https://blog.gaoqixhb.com/p/55783789cef7e0a008d5d6ef)
+
 - [jQuery.parseJSON() 函数详解 - CodePlayer](http://www.365mini.com/page/jquery_parsejson.htm)
 
 - [使用JSON.parse遇到的问题 - 技术分享 - 豆豆技术网](http://tech.ddvip.com/2014-05/1399208603210186.html)
@@ -845,6 +850,8 @@ Angular 367913555
 - [JS正则表达式验证身份证号码 - foart的专栏 - 博客频道 - CSDN.NET](http://blog.csdn.net/foart/article/details/6873622)
 
 - [电话号码正则表达式（支持手机号码，3-4位区号，7-8位直播号码，1－4位分机号） - FlykerWu - 博客园](http://www.cnblogs.com/flyker/archive/2009/02/12/1389435.html)
+
+- [正则表达式\w并不完全等于[A-Za-z0-9]](http://www.jiaonan.tv/html/blog/1/25419.htm)
 
 - [Highcharts中文网](http://www.hcharts.cn/index.php)
 
@@ -1254,6 +1261,14 @@ Angular 367913555
 
 - [Javascript中的for in语句获取对象属性的顺序问题 | IT宅.com](http://www.itzhai.com/obtain-the-order-of-object-properties-in-javascript-for-in-the-statement.html)
 
+- [详解javascript立即执行函数表达式（IIFE） - WEB前端 - 伯乐在线](http://web.jobbole.com/82520/)
+
+##Mustache语法
+
+- [Javascript 语言的模板引擎：Mustache - OPEN 开发经验库](http://www.open-open.com/lib/view/open1416792564461.html)
+
+- [{{ mustache }}](http://mustache.github.io/)
+
 ##PHP
 
 - [phpcms v9类别调用方法 - phpcms-帮助教程 - phpcms论坛](http://bbs.phpcms.cn/thread-243656-1-1.html)
@@ -1307,6 +1322,8 @@ Angular 367913555
 ##ASP.NET
 
 - [ASP.NET中读取XML文件4种方法 - xwdreamer的专栏 - 博客频道 - CSDN.NET](http://blog.csdn.net/xw13106209/article/details/6367865)
+
+- [【笔记】【VSCode】Windows下VSCode编译调试c/c++ - cathy_mu - 博客园](http://www.cnblogs.com/CATHY-MU/p/5888579.html)
 
 ##Ruby
 
@@ -1502,6 +1519,8 @@ Angular 367913555
 
 - [Git - stash用法 - limichange - SegmentFault](https://segmentfault.com/a/1190000002554160)
 
+- [Commit message 和 Change log 编写指南 - 阮一峰的网络日志](http://www.ruanyifeng.com/blog/2016/01/commit_message_change_log.html)
+
 ##SERVER
 
 - [Apache HTTP Server Version 2.2 文档 － Apache 2.2 中文版参考手册](http://apache.chinahtml.com/)
@@ -1582,6 +1601,16 @@ Angular 367913555
 
 - [Redis在Windows下安装和PHP中使用 - 鸿网互联[68IDC.CN]](http://www.68idc.cn/help/server/20141128135092.html)
 
+##Firebase
+
+- [Firebase很酷，来部署一个自己的吧 - CNode技术社区](https://cnodejs.org/topic/51f0edf7f4963ade0e082c19)
+
+- [您访问的网页出错了！](https://firebase.google.com/)
+
+##Apache
+
+- [Apache Thrift - 可伸缩的跨语言服务开发框架](https://www.ibm.com/developerworks/cn/java/j-lo-apachethrift/)
+
 ##DataBase
 
 ##Mongodb
@@ -1624,11 +1653,39 @@ Angular 367913555
 
 - [Mongoose Connecting to MongoDB v4.4.17](http://mongoosejs.com/docs/connections.html)
 
+- [Install MongoDB Community Edition on Windows — MongoDB Manual 3.4](https://docs.mongodb.com/master/tutorial/install-mongodb-on-windows/)
+
+- [ - 简书](http://www.jianshu.com/p/0ea7ba2bc4a1)
+
+##mongoose
+
+- [Mongoose学习参考文档——基础篇 - CNode技术社区](https://cnodejs.org/topic/504b4924e2b84515770103dd)
+
+- [Moogoose实践之：Schema写全很重要，不然会把时间浪费在调错上！ - PunCha (PCH) - 博客频道 - CSDN.NET](http://blog.csdn.net/puncha/article/details/16954159)
+
+- [Mongoose学习参考文档——基础篇 - OurJS](http://ourjs.com/detail/53ad24edb984bb4659000013)
+
+- [mongoose文档](http://www.nodeclass.com/api/mongoose.html)
+
+- [Mongoose Quick Start v4.7.6](http://mongoosejs.com/docs/)
+
+- [Mongoose:Schema之路 - Edward@CS - 博客园](http://www.cnblogs.com/edwardstudy/p/4092317.html)
+
+- [Mongoose使用案例--让JSON数据直接入库MongoDB - garfieldzf - 博客园](http://www.cnblogs.com/sword-successful/p/5070000.html)
+
+- [mongodb 创建用户 mongoose 指定用户连接数据库 一介布衣](http://yijiebuyi.com/blog/f9ecac7317b21df940fa59f615a5e875.html)
+
+- [Mongoose ODM v4.7.6](http://mongoosejs.com/)
+
 ##SQL Server
 
 - [SQL Server 2008入门系列之设置数据库服务器的访问权限 - 邓奇的Blog - 51CTO技术博客](http://dengqi.blog.51cto.com/5685776/1221371)
 
 - [IBM Knowledge Center - 设置 SQL Server 数据库](http://www.ibm.com/support/knowledgecenter/zh/SSYMRC_4.0.4/com.ibm.jazz.install.doc/topics/t_s_server_installation_setup_sql.html)
+
+- [ Analytics · Elasticsearch | Elastic](https://www.elastic.co/)
+
+- [Elastic中文社区](http://elasticsearch.cn/)
 
 ##Mobile
 
@@ -2372,6 +2429,8 @@ Angular 367913555
 
 - [将 ES6 代码转换成 ES5 - 简书](http://www.jianshu.com/p/e07277bf02f1)
 
+- [PostCSS 是个什么鬼东西？ - 60sky - SegmentFault](https://segmentfault.com/a/1190000003909268)
+
 - [Downloads](http://rubyinstaller.org/downloads/)
 
 ##gem
@@ -2752,6 +2811,10 @@ Angular 367913555
 
 - [dylang/npm-check: Check for outdated, incorrect, and unused dependencies.](https://github.com/dylang/npm-check)
 
+- [发布自己的module - 我的第一个npm组件！ - 前端 - SegmentFault](https://segmentfault.com/a/1190000006250554)
+
+- [npm 安装出现 UNMET DEPENDENCY 的解决方案 - 推酷](http://www.tuicool.com/articles/jAja2aQ)
+
 - [alinode - 基于Node运行时的应用性能管理解决方案](http://alinode.aliyun.com/)
 
 ##JSON Server
@@ -2782,6 +2845,30 @@ Angular 367913555
 
 - [用 Koa 写服务体验 - 囧克斯](http://jiongks.name/blog/try-koajs/)
 
+- [Introduction | 一起学koa](http://17koa.com/koa-generator-examples/)
+
+- [KoaHub.js是基于 Koa.js 平台的 Node.js web 快速开发框架 - sinat_36469292的博客 - 博客频道 - CSDN.NET](http://blog.csdn.net/sinat_36469292/article/details/52965052)
+
+- [「新手向」koa2从起步到填坑 - 简书](http://www.jianshu.com/p/6b816c609669)
+
+- [在koa中使用mongoose操作mongodb数据库 - CNode技术社区](https://cnodejs.org/topic/574d2fc4d8f6537a2389c87e)
+
+- [datastack － 基于koa的RESTful框架 - RobinQu - SegmentFault](https://segmentfault.com/a/1190000000622043)
+
+- [趣店前端团队基于koajs的前后端分离实践 - 前端俱乐部-http://blog.feclub.cn](http://feclub.cn/post/content/qudian_koa)
+
+- [Node.js实现RESTful api,express or koa? - 推酷](http://www.tuicool.com/articles/Qviu2am)
+
+- [mongoose 与 koa 如何比较好的结合 - CNode技术社区](https://cnodejs.org/topic/53552311312420be08017e5a)
+
+- [Koa 2实用入门 - CNode技术社区](https://cnodejs.org/topic/5709959abc564eaf3c6a48c8)
+
+- [如何优雅的在 koa 中处理错误 - 推酷](http://www.tuicool.com/articles/Y7NnquR)
+
+- [跨入Koa2.0，从Compose开始 - CNode技术社区](https://cnodejs.org/topic/5780e12e69d72f545483ca69)
+
+- [koa-router 源码浅析 — 好JSER](http://hao.jser.com/archive/12913/)
+
 ##npmcdn
 
 - [unpkg](https://unpkg.com/#/)
@@ -2803,6 +2890,20 @@ Angular 367913555
 - [关于 windows 下 node_modules\node-sass\vendor 的报错解决方法-爱编程](http://www.w2bc.com/article/166142)
 
 - [ - 东篱煮酒 - 博客园](http://www.cnblogs.com/niepeishen/p/5762162.html)
+
+- [ES6最简单的方式访问MongoDB - freewolf自留地 - SegmentFault](https://segmentfault.com/a/1190000003696764)
+
+##nodemon
+
+- [nodemon 基本配置与使用 - 推酷](http://www.tuicool.com/articles/2AnmEz7)
+
+- [解决 node-gyp rebuild 卡住 的问题 - 路德威 - 博客园](http://www.cnblogs.com/rudeway/p/6259055.html)
+
+- [[译]Node.js安全清单 - 菜菜蔡伟的博客 - SegmentFault](https://segmentfault.com/a/1190000003860400)
+
+- [helmet是一个保护Node.JS应用的安全项目 - 上帝已逝，自求多福 - 博客频道 - CSDN.NET](http://blog.csdn.net/disappearedgod/article/details/50457421)
+
+- [s Noggin With Helmet - Scott Smith](http://scottksmith.com/blog/2014/09/21/protect-your-node-apps-noggin-with-helmet/)
 
 ##FrameWork
 
@@ -3804,6 +3905,10 @@ Angular 367913555
 
 - [ 组件间沟通 - 井底之蛙 - SegmentFault](https://segmentfault.com/a/1190000006831820)
 
+- [结合 ES6+ 开发 React 组件 - 开源中国社区](https://www.oschina.net/question/2012764_242688)
+
+- [什么时候要在React组件中写shouldComponentUpdate？](http://www.infoq.com/cn/news/2016/07/react-shouldComponentUpdate)
+
 ##layUI
 
 - [layui官网 - 为web开发提供动力](http://www.layui.com/)
@@ -3916,6 +4021,8 @@ Angular 367913555
 
 - [移动Web UI基于Vue和Weui实现：vux - OPEN 开发经验库](http://www.open-open.com/lib/view/open1457171988062.html)
 
+- [关于Vux · vux](https://vuxjs.gitbooks.io/vux/content/)
+
 - [javascript - 怎么使用其它人写好的vue组件比较好？ - SegmentFault](https://segmentfault.com/q/1010000005707880)
 
 - [Vue：Vue.js专业中文社区](http://www.vue-js.com/)
@@ -3952,6 +4059,8 @@ Angular 367913555
 
 - [Muse-UI](https://museui.github.io/#/index)
 
+- [Vue.js搭建路由报错 router.map is not a function - 时光足迹 - 博客频道 - CSDN.NET](http://blog.csdn.net/gaoxiaoba/article/details/52813867)
+
 - [bhnddowinf/vuejs-learn: (vue.js official website tutorials ，contains video , codes, baudi yun, youtube) 网路上有很多 VUE 综合应用的视频，但大部份的视频 ，都当你已经了解官网 所以讲的节奏难免偏快。 此视频(都是上代码)，以官网为重，将官网的观念，以视频搭配代码，实际演示。 如果官网有看不懂的地方，比对一下，视频跟代码，就会了解了。 减少你摸索的时间。(註：mvvm 的框架，不管是 ng , react, vue, avalonjs, 都是好的框架，而有经验的前端，至少都会两套以上的 mvvm。)](https://github.com/bhnddowinf/vuejs-learn)
 
 - [Vuejs 1.0 系列教程](https://laravist.com/series/vue-js-1-0-in-action-series)
@@ -3961,6 +4070,16 @@ Angular 367913555
 - [iView - 一套高质量的UI组件库](https://www.iviewui.com/)
 
 - [Vue.js 快速入门 - FullStackDeveloper - SegmentFault](https://segmentfault.com/a/1190000003968020)
+
+- [ loader is used without the corresponding plugin How to deal - chengnuo628的专栏 - 博客频道 - CSDN.NET](http://blog.csdn.net/chengnuo628/article/details/52473530)
+
+- [Vue中你不知道但却很实用的黑科技 - TalkingCoder](https://www.talkingcoder.com/article/6360427690129822990)
+
+- [【译】使用 VueJS 2.0 开发一款 app - 推酷](http://www.tuicool.com/articles/emMraiU)
+
+- [用 Vue 写了个斗鱼的 Web App - V2EX](https://www.v2ex.com/t/293013)
+
+- [不造个轮子，你还真以为你会写代码了？ - 前端小事 - 知乎专栏](https://zhuanlan.zhihu.com/p/24435564?refer=webdev)
 
 ##Elm
 
@@ -3977,6 +4096,12 @@ Angular 367913555
 - [Weex中文文档 · weexteam/article Wiki](https://github.com/weexteam/article/wiki/Weex%E4%B8%AD%E6%96%87%E6%96%87%E6%A1%A3)
 
 - [s talk about Weex](https://github.com/weexteam/article)
+
+- [Weex - Weex社区 - Weex中文网](http://weex.help/)
+
+- [1.weex环境搭建 - Weex - Weex社区 - Weex中文网](http://weex.help/topic/577a5b44eb60516a48db5499)
+
+- [joggerplus/awesome-weex: A curated list of awesome Weex guides, articles, sites, tools, projects and resources.](https://github.com/joggerplus/awesome-weex)
 
 ##SUI
 
@@ -4023,6 +4148,26 @@ Angular 367913555
 - [前端收藏夹](http://collect.w3ctrain.com/)
 
 - [不可错过的Javascript迷你库 - 简书](http://www.jianshu.com/p/cfebf73ce253)
+
+##APICloud
+
+- [APICloud跨平台APP技术专家 - 中国领先移动云服务平台](http://www.apicloud.com/)
+
+- [G2 - The Grammar Of Graphics](http://g2.alipay.com/)
+
+##MontageJS
+
+- [MontageJS - HTML5 Framework](http://montagestudio.com/montagejs/)
+
+- [MontageJS Examples](http://docs.montagestudio.com/montagejs/montagejs-examples.html)
+
+##Nuclear
+
+- [Nuclear](http://alloyteam.github.io/Nuclear/)
+
+##Cordova
+
+- [Apache Cordova](http://cordova.apache.org/)
 
 ##Blog
 
@@ -4082,6 +4227,8 @@ Angular 367913555
 
 - [花千骨印象站|游戏/娱乐|网页|策策木 - 原创设计作品 - 站酷 (ZCOOL)](http://www.zcool.com.cn/work/ZMTI0NDUwOTI=.html)
 
+- [国外设计欣赏网站-DOOOOR.com](http://www.doooor.com/)
+
 ##Markdown
 
 - [Markdown 语法说明(简体中文版)](http://wowubuntu.com/markdown/#link)
@@ -4089,6 +4236,8 @@ Angular 367913555
 - [Editor - Markable.in](http://markable.in/editor/)
 
 - [欢迎使用马克飞象 - 马克飞象 - 专为印象笔记打造的Markdown编辑器](https://maxiang.io/)
+
+- [JavaScript Markdown Editor - SimpleMDE](https://simplemde.com/)
 
 ##Other
 
@@ -4147,6 +4296,8 @@ Angular 367913555
 - [UML类图几种关系的总结 - OPEN 开发经验库](http://www.open-open.com/lib/view/open1328059700311.html)
 
 - [极限编程_百度百科](http://baike.baidu.com/link?url=rmX0gyRshwCFmOkRabNsE4d3Fli-lpGXhMiYvXG03vNQwzwTyvzCu0-skGQT5ZLTlVV-ANqFOrDAA1AEUxvyxq)
+
+- [MacType - The way texts should be](http://www.mactype.net/)
 
 ##IDE
 
@@ -4243,6 +4394,8 @@ Angular 367913555
 - [node-modules is hidden · Issue #46 · henjue/vue-for-idea](https://github.com/henjue/vue-for-idea/issues/46)
 
 - [Webstorm9配置SASS编译环境](http://www.bubuko.com/infodetail-503964.html)
+
+- [Color Themes](http://color-themes.com/?view=index)
 
 ##Eclipse
 
@@ -4584,6 +4737,8 @@ Angular 367913555
 
 - [江清清的技术专栏|专注移动技术开发(Android/IOS)、React Native、项目管理、Web前端技术。](http://www.lcode.org/)
 
+- [JerryQu 的小站](https://imququ.com/)
+
 ##设计模式
 
 - [JavaScript大型可扩展的设计模式 - Thinking In Jdon](http://www.jdon.com/45498)
@@ -4645,6 +4800,8 @@ Angular 367913555
 ##UI
 
 - [UI中国-专业界面交互设计平台](http://www.ui.cn/)
+
+- [Awwwards - Website Awards - Best Web Design Trends](http://www.awwwards.com/)
 
 - [致我们终将组件化的Web | Web前端 腾讯AlloyTeam Blog | 愿景: 成为地球卓越的Web团队！](http://www.alloyteam.com/2015/11/we-will-be-componentized-web-long-text/)
 
@@ -4719,6 +4876,14 @@ Angular 367913555
 ##调试
 
 - [RemoteDev](http://remotedev.io/)
+
+- [CSS 中 -webkit-font-smoothing: antialiased 反而让字体更难看了? - SegmentFault](https://segmentfault.com/q/1010000000467910)
+
+##SOAP
+
+- [blog.csdn.net/zhuizhuziwo/article/details/8153327](http://blog.csdn.net/zhuizhuziwo/article/details/8153327)
+
+- [浅谈 SOAP](http://www.ibm.com/developerworks/cn/xml/x-sisoap/)
 
 ##HTTP
 
@@ -4837,6 +5002,10 @@ Angular 367913555
 - [CoolFormat源代码格式化工具 - 无幻 - 博客频道 - CSDN.NET](http://blog.csdn.net/akof1314/article/details/5355948/)
 
 - [akof1314/CoolFormat: CoolFormat Source Code Formatter](https://github.com/akof1314/CoolFormat)
+
+##Trello
+
+- [Trello](https://trello.com/)
 
 ##Google
 
