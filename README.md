@@ -11,6 +11,7 @@ Node.js-Koa2 556087613
 ```
 
 
+
 ##HTML
 
 - [雅虎面试题-你真的了解HTML吗? - HTML / CSS 大家论坛](http://club.topsage.com/thread-2738399-1-1.html)
@@ -104,6 +105,10 @@ Node.js-Koa2 556087613
 - [HTML5就是现在：深入了解Polyfills - Tacey - 博客频道 - CSDN.NET](http://blog.csdn.net/wang16510/article/details/8960312)
 
 - [不同浏览器对于html5 audio标签和音频格式的兼容性 - 凌度 - 博客园](http://www.cnblogs.com/linn/p/3408515.html)
+
+- [H5实例教学--3D全景(ThreeJs全景Demo) - H5-Parser - SegmentFault](https://segmentfault.com/a/1190000008545795?utm_source=weekly&utm_medium=email&utm_campaign=email_weekly)
+
+- [ drop 拖拽与拖放简介 « 张鑫旭-鑫空间-鑫生活](http://www.zhangxinxu.com/wordpress/2011/02/html5-drag-drop-%E6%8B%96%E6%8B%BD%E4%B8%8E%E6%8B%96%E6%94%BE%E7%AE%80%E4%BB%8B/)
 
 - [？ - 前端开发 - 知乎](http://www.zhihu.com/question/20797118?utm_source=weibo&utm_medium=weibo_share&utm_content=share_question&utm_campaign=share_sidebar)
 
@@ -303,6 +308,10 @@ Node.js-Koa2 556087613
 
 - [ :after - 推酷](http://www.tuicool.com/articles/uq6ZVb)
 
+- [28种CSS3炫酷loading页面加载动画特效代码_懒人图库](http://d.lanrentuku.com/down/js/qita-1191/)
+
+- [CSS 3 Icons | CSS 3 Icons Generator | UIPlayGround](http://www.uiplayground.in/css3-icons/)
+
 - [RY8005: 各浏览器对于计算后宽度和高度为含有小数的长度值时，其最终值会不一致 - W3Help](http://www.w3help.org/zh-cn/causes/RY8005)
 
 - [ padding - 推酷](http://www.tuicool.com/articles/yqIzYrZ)
@@ -422,6 +431,8 @@ Node.js-Koa2 556087613
 - [BEM思想之彻底弄清BEM语法 | css3教程-css3实例-css3动画 | W3CPlus](http://www.w3cplus.com/css/mindbemding-getting-your-head-round-bem-syntax.html)
 
 - [Key concepts / Methodology / BEM](https://en.bem.info/methodology/key-concepts/)
+
+- [CSS五种方式实现Footer置底 - 每天学点前端开发 - SegmentFault](https://segmentfault.com/a/1190000008516654?utm_source=weekly&utm_medium=email&utm_campaign=email_weekly)
 
 ##JS
 
@@ -853,6 +864,8 @@ Node.js-Koa2 556087613
 
 - [正则表达式\w并不完全等于[A-Za-z0-9]](http://www.jiaonan.tv/html/blog/1/25419.htm)
 
+- [正则匹配闭合HTML标签（支持嵌套） - Qi Fei - 博客园](http://www.cnblogs.com/youring2/p/3836259.html)
+
 - [Highcharts中文网](http://www.hcharts.cn/index.php)
 
 - [js 获取前天、昨天、今天、明天、后天的时间 (转) - 耿爱学 - 博客园](http://www.cnblogs.com/gengaixue/archive/2011/07/05/2098299.html)
@@ -1215,6 +1228,10 @@ Node.js-Koa2 556087613
 
 - [手工实现Js的Promise API - 推酷](http://www.tuicool.com/articles/zUBFni)
 
+- [Promise初级与进阶---都在这了 - Web Learning Step by Step - SegmentFault](https://segmentfault.com/a/1190000008548794?utm_source=weekly&utm_medium=email&utm_campaign=email_weekly)
+
+- [关于promises，你理解了多少？](http://mp.weixin.qq.com/s?__biz=MzIyMzAwNzExNg==&mid=209354478&idx=1&sn=edd70e826b6f9e8a570024f431c5f7fe&scene=1&key=c76941211a49ab58efed75a0405e3ca61338952103fe9eabf8528d801906e4522737274eecca5489d635a5c1aa5d8b12&ascene=0&uin=MTYxMDY3MjU1&devicetype=iMac%20MacBookPro11,3%20OSX%20OSX%2010.10.4%20build%2814E46%29&version=11020113&pass_ticket=ws1Ar8vSXgH8/uRvUaFkiKCA57pR8100%2bhwA5Ifuc00=)
+
 ##Hook
 
 - [[设计模式]JavaScript钩子机制的应用场景与实现 - 蓝飞技术部落格 —— 关注前沿，追求卓越。](http://www.clanfei.com/2013/10/1730.html/comment-page-1)
@@ -1269,6 +1286,60 @@ Node.js-Koa2 556087613
 
 - [{{ mustache }}](http://mustache.github.io/)
 
+- [各种JS模板引擎对比数据(高性能JavaScript模板引擎) - 戈胡 - 博客园](http://www.cnblogs.com/guohu/p/3870677.html)
+
+- [非常简单的js双向数据绑定框架（三）：js model黑科技 - - 博客频道 - CSDN.NET](http://blog.csdn.net/vctisildur/article/details/46454755)
+
+- [createElement与createDocumentFragment的点点区别 - 西山 - 博客园](http://www.cnblogs.com/xesam/archive/2011/12/19/2293876.html)
+
+- [深入理解vue.js双向绑定的实现原理_javascript技巧_脚本之家](http://www.jb51.net/article/99129.htm)
+
+- [浅谈 JS 创建对象的 8 种模式 - 银狐的专栏 - 博客频道 - CSDN.NET](http://blog.csdn.net/baby97/article/details/50435748)
+
+- [JavaScript模板引擎原理，几行代码的事儿 - Barret Lee - 博客园](http://www.cnblogs.com/hustskyking/p/principle-of-javascript-template.html)
+
+- [GoJS Diagrams for JavaScript and HTML, by Northwoods Software](http://gojs.net/latest/index.html)
+
+##脑图库
+
+- [Web-based tooling for BPMN, DMN and CMMN | bpmn.io](http://bpmn.io/)
+
+- [ Open Source](http://hizzgdev.github.io/jsmind/developer.html)
+
+- [有哪些值得推荐的数据可视化工具？ - 知乎](https://www.zhihu.com/question/19929609)
+
+- [用HTML5构建一个流程图绘制工具 - sunjie - 博客园](http://www.cnblogs.com/sunjie9606/p/4281902.html)
+
+- [jsPlumb（1） - 开始使用 - 前端左右 - SegmentFault](https://segmentfault.com/a/1190000003826470)
+
+- [【看完想不会都难的系列教程】- (3) JQuery+JQueryUI+Jsplumb 实现拖拽模块，流程图风格 - 技术弟弟 - 博客园](http://www.cnblogs.com/techborther/archive/2012/04/17/2454101.html)
+
+- [JS组件系列——JsPlumb连线及相关效果详解-爱编程](http://www.w2bc.com/Article/82400)
+
+- [使用jsPlumb制作流程图设计器 - Sumer - 博客频道 - CSDN.NET](http://blog.csdn.net/livialiu1234/article/details/25618897)
+
+- [jsPlumb.js(连线器)API阅读笔记 - leomYili - 博客园](http://www.cnblogs.com/leomYili/p/6346526.html?utm_source=itdadao&utm_medium=referral)
+
+- [jsPlumb 学习笔记 - yinxianluo的专栏 - 博客频道 - CSDN.NET](http://blog.csdn.net/yinxianluo/article/details/48092037)
+
+- [JS组件系列——JsPlumb流程图及相关效果详解 - 阅读密码：123456](http://www.cnblogs.com/landeanfen/p/4959584.html)
+
+- [JS组件系列——JsPlumb流程图及相关效果详解（二：附源码） - 阅读密码：123456](http://www.cnblogs.com/landeanfen/p/4971211.html)
+
+- [jsPlumb学习笔记 - j.w - 博客园](http://www.cnblogs.com/wang-jing/p/4121559.html)
+
+- [用HTML5构建一个流程图绘制工具 - 推酷](http://www.tuicool.com/articles/YN7Nfm)
+
+- [Javascript库之JsPlumb网络拓扑图流程图 - 笔记 - 前端网（QDFuns）](http://www.qdfuns.com/notes/15311/51bd9363b0adf52fbc7d0a32bf49e731.html)
+
+- [Timeline](http://timeline.knightlab.com/#overview)
+
+- [JQuery UI - draggable参数中文详细说明 - liu_111111的专栏 - 博客频道 - CSDN.NET](http://blog.csdn.net/liu_111111/article/details/8906025)
+
+- [html5 record 录音实例 使用websocket - Joyhen的专栏 - 博客频道 - CSDN.NET](http://blog.csdn.net/joyhen/article/details/24505411)
+
+- [使用html5的getUserMedia()实现拍照上传 - 笔记 - 前端网（QDFuns）](http://www.qdfuns.com/notes/15998/b5ad46a155bf4cec6587cd4871f044c8.html)
+
 ##PHP
 
 - [phpcms v9类别调用方法 - phpcms-帮助教程 - phpcms论坛](http://bbs.phpcms.cn/thread-243656-1-1.html)
@@ -1318,6 +1389,58 @@ Node.js-Koa2 556087613
 - [很好用的php执行时间分析工具webgrind - mecho的专栏 - 博客频道 - CSDN.NET](http://blog.csdn.net/mecho/article/details/11071079)
 
 - [webgrind安装使用详细说明 - yukon12345的专栏 - 博客频道 - CSDN.NET](http://blog.csdn.net/yukon12345/article/details/11408617)
+
+- [Composer](https://getcomposer.org/)
+
+- [Windows下安装使用curl命令_百度经验](http://jingyan.baidu.com/article/a681b0dec4c67a3b1943467c.html)
+
+##composer
+
+- [Packagist / Composer 中国全量镜像](https://pkg.phpcomposer.com/)
+
+- [composer如何安装？ - PHP - 知乎](https://www.zhihu.com/question/22885542)
+
+##Slim
+
+- [使用slim3快速开发RESTful API_PHP教程_网络编程_码蚁之家](http://www.codes51.com/article/detail_254116_2.html)
+
+- [Slim 中文文档 | 幽林的博客](http://www.uuling.com/2014/11/05/slim-%E4%B8%AD%E6%96%87%E6%96%87%E6%A1%A3/)
+
+- [使用Slim框架实现基本的REST API | Paincker | Hacker Meets Painter](http://www.paincker.com/slim-rest-api)
+
+- [利用Slim模拟服务端REST接口实战](https://sanwen8.cn/p/10bszDp.html)
+
+- [从这里开始使用 Slim 3 入门篇 - 推酷](http://www.tuicool.com/articles/QFBZFre)
+
+- [使用slim3快速开发RESTful API - 博客频道 - CSDN.NET](http://blog.csdn.net/u011250882/article/details/50101599)
+
+- [基于PHP SLIM 框架搭建 RESTful 风格API 示例 - David116的博客 - 博客频道 - CSDN.NET](http://blog.csdn.net/david116/article/details/51720900)
+
+- [slim restful api 完全解析 ，从配置slim到建成restful api servers-zyy技术博客](http://www.zyyapp.com/post/213.html)
+
+- [php - Slim JSON Outputs - Stack Overflow](http://stackoverflow.com/questions/6807404/slim-json-outputs)
+
+- [PHP再学习4—— slim框架学习和使用 - 物联网 IoT 经验分享小站 - 博客频道 - CSDN.NET](http://blog.csdn.net/xukai871105/article/details/18677215)
+
+- [PHP slim restfull框架nginx 配置 - jackluo - 博客园](http://www.cnblogs.com/jackluo/p/3737924.html)
+
+- [PHP AJAX JSONP实现跨域请求使用实例 - 神马和浮云 - 博客园](http://www.cnblogs.com/xcxc/p/3729660.html)
+
+- [自动生成表单的Form类 - 小竹zz - 博客频道 - CSDN.NET](http://blog.csdn.net/zhujunxxxxx/article/details/15238535)
+
+- [PHP中token验证 - Huangwenting1990的博客 - 博客频道 - CSDN.NET](http://blog.csdn.net/huangwenting1990/article/details/52261592)
+
+- [Apache的Order Allow,Deny 详解 - 与时俱进 - 博客园](http://www.cnblogs.com/top5/archive/2009/09/22/1571709.html)
+
+- [Apache多虚拟主机多版本PHP（5.2+5.3+5.4）共存运行配置全过程 - Eller](https://my.oschina.net/u/2366984/blog/543148?p={{page}})
+
+- [部署两套apache-httpd，php不同版本，添加php模块 - zhuchunyan_aijia的博客 - 博客频道 - CSDN.NET](http://blog.csdn.net/zhuchunyan_aijia/article/details/54375394)
+
+- [PHP5.2至5.6的新增功能详解 - 老彭的博客](http://pengbotao.cn/php5-upgrading.html)
+
+- [PDO方法与常量_纠结的大肥猫_新浪博客](http://blog.sina.com.cn/s/blog_8b8586b90101et5w.html)
+
+- [PHP如何把函数通过参数传递 - 开源中国社区](http://www.oschina.net/question/1029305_115257)
 
 ##ASP.NET
 
@@ -1521,6 +1644,12 @@ Node.js-Koa2 556087613
 
 - [Commit message 和 Change log 编写指南 - 阮一峰的网络日志](http://www.ruanyifeng.com/blog/2016/01/commit_message_change_log.html)
 
+- [Git](https://git-scm.com/)
+
+- [Git Submodule 使用简介 - 推酷](http://www.tuicool.com/articles/jqiEJzU)
+
+- [/usr/libexec/openssh/gnome-ssh-askpass - lvzhuyiyi4的专栏 - 博客频道 - CSDN.NET](http://blog.csdn.net/lvzhuyiyi4/article/details/19564519)
+
 ##SERVER
 
 - [Apache HTTP Server Version 2.2 文档 － Apache 2.2 中文版参考手册](http://apache.chinahtml.com/)
@@ -1611,6 +1740,42 @@ Node.js-Koa2 556087613
 
 - [Apache Thrift - 可伸缩的跨语言服务开发框架](https://www.ibm.com/developerworks/cn/java/j-lo-apachethrift/)
 
+- [WAMP中httpd.exe报0xc000007b应用程序错误 - 邹邹的博客 - 博客频道 - CSDN.NET](http://blog.csdn.net/yxwmzouzou/article/details/43938121)
+
+- [Linux vi/vim编辑器常用命令与用法总结 - 贾永基 - 博客园](http://www.cnblogs.com/jiayongji/p/5771444.html)
+
+##CentOS
+
+- [查看centos系统版本命令](http://www.centoscn.com/CentOS/help/2015/0311/4853.html)
+
+- [CentOS 6.6安装配置LAMP服务器(Apache+PHP5+MySQL)_Linux_脚本之家](http://www.jb51.net/article/94119.htm)
+
+- [将Centos的yum源更换为国内的阿里云源](http://www.centoscn.com/CentOS/config/2015/0416/5189.html)
+
+- [linux下报错bash: service: command not found - 霜之哀伤 - ITeye技术网站](http://lishaorui.iteye.com/blog/1583789)
+
+- [CentOS下查看apache,php,mysql版本信息](http://www.centoscn.com/CentOS/2014/0113/2362.html)
+
+- [/etc/sysconfig/下找不到iptables文件解决方法](http://www.centoscn.com/CentosBug/osbug/2014/1219/4340.html)
+
+- [CentOS中zip压缩和unzip解压缩命令详解 - CareChere的博客 - 博客频道 - CSDN.NET](http://blog.csdn.net/carechere/article/details/50844846)
+
+- [centos下yum搭建安装linux+apache+mysql+php环境 - 渗透测试中心 - 博客园](http://www.cnblogs.com/backlion/p/6000486.html)
+
+- [CentOS6.6环境安装PHP5.6超级详细笔记 - 奇幻屋的专栏 - 博客频道 - CSDN.NET](http://blog.csdn.net/u014236259/article/details/54143211)
+
+- [centos6.5下使用yum完美搭建LNMP环境(php5.6)_linux教程_开发教程_最模板](http://www.zuimoban.com/jiaocheng/linux/7128.html)
+
+- [yum安装php，php-fpm - 惊涛随笔 - 博客园](http://www.cnblogs.com/jtnote/p/6118741.html)
+
+- [新版WampServer 项目路径前面没有 localhost - 攻城師 日記 - 博客频道 - CSDN.NET](http://blog.csdn.net/web361/article/details/44850887)
+
+- [Linux命令学习总结：rm命令 - 潇湘隐者 - 博客园](http://www.cnblogs.com/kerrycode/p/3869911.html)
+
+- [linux zip/unzip命令 - lucyjiayou - 博客园](http://www.cnblogs.com/lucyjiayou/archive/2011/12/25/2301046.html)
+
+- [linux下rm命令使用详解 - wanqi - 博客园](http://www.cnblogs.com/wanqieddy/archive/2011/06/07/2074113.html)
+
 ##DataBase
 
 ##Mongodb
@@ -1677,6 +1842,32 @@ Node.js-Koa2 556087613
 
 - [Mongoose ODM v4.7.6](http://mongoosejs.com/)
 
+- [Nodejs之MEAN栈开发（三）---- 使用Mongoose创建模型及API - stoneniqiu - 博客园](http://www.cnblogs.com/stoneniqiu/p/5556669.html)
+
+- [yu - 博客园](http://www.cnblogs.com/y-yxh/p/5689555.html)
+
+- [Nodejs学习笔记（十四）— Mongoose介绍和入门 - porschev - 博客园](http://www.cnblogs.com/zhongweiv/p/mongoose.html)
+
+- [极简Node教程-七天从小白变大神（四:mongoose） - 简书](http://www.jianshu.com/p/915c547c7abc)
+
+- [Introduction · mongoose4.5中文文档](https://mongoose.shujuwajue.com/)
+
+- [Mongoose在创建Model时对Collection的命名策略 - 推酷](http://www.tuicool.com/articles/R36bMbA)
+
+- [mongoVUE中collections为空，即文件树无法展开问题的解决策略 - AndyLizh的专栏 - 博客频道 - CSDN.NET](http://blog.csdn.net/gebitan505/article/details/54598904)
+
+- [Node+Mongoose常用查询中文文档](http://www.nonb.cn/blog/nodejs-mongoose-query-chinaese.html)
+
+- [查询（queries） · mongoose4.5中文文档](https://mongoose.shujuwajue.com/guide/queries.html)
+
+- [adminMongo](http://adminmongo.com/)
+
+- [MongoVUE简单操作手册 - dapeng888 - 博客园](http://www.cnblogs.com/niaowo/p/4554877.html)
+
+- [MongoDB学习笔记之Mongoose的使用 - Daisy花园 - 博客频道 - CSDN.NET](http://blog.csdn.net/sinat_25127047/article/details/50560167)
+
+- [【MongoDB】2.可视化工具的安装和使用 - Angel挤一挤 - 博客园](http://www.cnblogs.com/sxdcgaq8080/p/6144211.html)
+
 ##SQL Server
 
 - [SQL Server 2008入门系列之设置数据库服务器的访问权限 - 邓奇的Blog - 51CTO技术博客](http://dengqi.blog.51cto.com/5685776/1221371)
@@ -1686,6 +1877,36 @@ Node.js-Koa2 556087613
 - [ Analytics · Elasticsearch | Elastic](https://www.elastic.co/)
 
 - [Elastic中文社区](http://elasticsearch.cn/)
+
+##SSDB
+
+- [SSDB - 高性能的支持丰富数据结构的 NoSQL 数据库, 替代 Redis](http://ssdb.io/zh_cn/)
+
+##pouchDB
+
+- [PouchDB, the JavaScript Database that Syncs!](https://pouchdb.com/)
+
+##MySQL
+
+- [Mysql命令大全 - 宁静.致远 - 博客园](http://www.cnblogs.com/zhangzhu/archive/2013/07/04/3172486.html)
+
+- [mysql 导入导出数据库、数据表的方法_Mysql_脚本之家](http://www.jb51.net/article/43761.htm)
+
+- [MySQL mysqldump数据导出详解 - pursuer.chen - 博客园](http://www.cnblogs.com/chenmh/p/5300370.html)
+
+- [mysqldump 导出指定条数数据 – 虚伪的灵魂](https://xwsoul.com/posts/320)
+
+- [mysqldump参数详细说明(转) - 一个人的天空@ - 博客园](http://www.cnblogs.com/qq78292959/p/3637135.html)
+
+- [MYSQL使用mysqldump导出某个表的部分数据 - xin_yu_xin的专栏 - 博客频道 - CSDN.NET](http://blog.csdn.net/xin_yu_xin/article/details/7574662)
+
+- [MySQL数据库排序选择的作用和该如何选择编码格式 - Jiavan - 博客园](http://www.cnblogs.com/jiavan/p/4061036.html)
+
+- [MySQL出错信息表查询 - 非淡泊无以明志，非宁静无以致远--Stay Hungry, Stay Foolish - BlogJava](http://www.blogjava.net/jicheng687/archive/2011/03/05/345799.html)
+
+- [命令行模式下 MYSQL导入导出.sql文件的方法 - Dhoopu - 博客园](http://www.cnblogs.com/dupeng0811/p/4186416.html)
+
+- [DQL、DML、DDL、DCL的概念与区别 - tomatofly的专栏 - 博客频道 - CSDN.NET](http://blog.csdn.net/tomatofly/article/details/5949070)
 
 ##Mobile
 
@@ -1874,6 +2095,8 @@ Node.js-Koa2 556087613
 - [zepto和jquery的区别，zepto的不同使用8条小结 - kongjiea笔记 - 博客频道 - CSDN.NET](http://blog.csdn.net/kongjiea/article/details/42522305)
 
 - [Hook Mobile | Powering Global Communication](http://www.hookmobile.com/)
+
+- [超级好用的流程图js框架 - AlvinNoending的专栏 - 博客频道 - CSDN.NET](http://blog.csdn.net/alvinnoending/article/details/52937689)
 
 - [apple-touch-icon和apple-touch-icon-precomposed区别使用 – 天空网志](http://www.sky84.cn/blog/archives/87.html)
 
@@ -2141,6 +2364,8 @@ Node.js-Koa2 556087613
 
 - [javascript - 手机浏览器点击事件的穿透问题 - SegmentFault](https://segmentfault.com/q/1010000003043546)
 
+- [【译】渐进式 Web App 的离线存储 - 我的前端探索 - SegmentFault](https://segmentfault.com/a/1190000006640450)
+
 ##算法
 
 - [【计算几何】线段相交 - 一点心青 - 博客园](http://www.cnblogs.com/dwdxdy/p/3230485.html)
@@ -2186,6 +2411,8 @@ Node.js-Koa2 556087613
 - [n次贝塞尔曲线AS再现 - Flash技术 - 游戏开发者社区](http://bbs.9ria.com/thread-71904-1-1.html)
 
 - [路径 - SVG | MDN](https://developer.mozilla.org/zh-CN/docs/Web/SVG/Tutorial/Paths#Curve_commands)
+
+- [大数据算法-一个关注大数据算法在工业界应用的网站](http://x-algo.cn/)
 
 ##Yeoman
 
@@ -2496,6 +2723,18 @@ Node.js-Koa2 556087613
 - [Browsersync - Time-saving synchronised browser testing](https://www.browsersync.io/)
 
 - [BrowserSync，迅捷从免F5开始 - 庭院茶 - SegmentFault](https://segmentfault.com/a/1190000002607627)
+
+##yarn
+
+- [yarn - 一个可能取代npm的新型包管理器[Facebook出品，附带中文使用教程] - CRPER - 博客频道 - CSDN.NET](http://blog.csdn.net/crper/article/details/52796305)
+
+- [Yarn vs npm：你需要知道的一切 - 前端外刊评论 - 知乎专栏](https://zhuanlan.zhihu.com/p/23493436)
+
+- [Yarn的安装与使用详细介绍_node.js_脚本之家](http://www.jb51.net/article/95630.htm)
+
+- [Yarn](https://yarnpkg.com/en/)
+
+- [FIS3 - 前端工程构建工具](http://fis.baidu.com/)
 
 ##NodeJS
 
@@ -2904,6 +3143,8 @@ Node.js-Koa2 556087613
 - [helmet是一个保护Node.JS应用的安全项目 - 上帝已逝，自求多福 - 博客频道 - CSDN.NET](http://blog.csdn.net/disappearedgod/article/details/50457421)
 
 - [s Noggin With Helmet - Scott Smith](http://scottksmith.com/blog/2014/09/21/protect-your-node-apps-noggin-with-helmet/)
+
+- [编写 Node.js Rest API 的 10 个最佳实践 - 前端周刊 - SegmentFault](https://segmentfault.com/a/1190000008537712?utm_source=weekly&utm_medium=email&utm_campaign=email_weekly)
 
 ##FrameWork
 
@@ -3935,7 +4176,7 @@ Node.js-Koa2 556087613
 
 - [WinJS Tutorial](http://try.buildwinjs.com/)
 
-##VUEJS
+##Vue
 
 - [vue.js](http://cn.vuejs.org/)
 
@@ -4061,6 +4302,8 @@ Node.js-Koa2 556087613
 
 - [Vue.js搭建路由报错 router.map is not a function - 时光足迹 - 博客频道 - CSDN.NET](http://blog.csdn.net/gaoxiaoba/article/details/52813867)
 
+- [一个栗子实践vue2.0与1.0的区别 | Aotu.io「凹凸实验室」](https://aotu.io/notes/2016/12/28/vue-clock/)
+
 - [bhnddowinf/vuejs-learn: (vue.js official website tutorials ，contains video , codes, baudi yun, youtube) 网路上有很多 VUE 综合应用的视频，但大部份的视频 ，都当你已经了解官网 所以讲的节奏难免偏快。 此视频(都是上代码)，以官网为重，将官网的观念，以视频搭配代码，实际演示。 如果官网有看不懂的地方，比对一下，视频跟代码，就会了解了。 减少你摸索的时间。(註：mvvm 的框架，不管是 ng , react, vue, avalonjs, 都是好的框架，而有经验的前端，至少都会两套以上的 mvvm。)](https://github.com/bhnddowinf/vuejs-learn)
 
 - [Vuejs 1.0 系列教程](https://laravist.com/series/vue-js-1-0-in-action-series)
@@ -4080,6 +4323,28 @@ Node.js-Koa2 556087613
 - [用 Vue 写了个斗鱼的 Web App - V2EX](https://www.v2ex.com/t/293013)
 
 - [不造个轮子，你还真以为你会写代码了？ - 前端小事 - 知乎专栏](https://zhuanlan.zhihu.com/p/24435564?refer=webdev)
+
+- [Find Vue.js opportunities all around the world - Vue.js Jobs](https://vuejobs.com/)
+
+- [Vue.js双向绑定的实现原理 - kidney - 博客园](http://www.cnblogs.com/kidney/p/6052935.html?utm_source=gold_browser_extension)
+
+- [Vue.js 源码学习笔记 - 囧克斯](http://jiongks.name/blog/vue-code-review/)
+
+- [图灵社区 : 阅读 : 全面理解虚拟DOM，实现虚拟DOM](http://www.ituring.com.cn/article/211352)
+
+- [深度剖析：如何实现一个 Virtual DOM 算法 - Livoras - SegmentFault](https://segmentfault.com/a/1190000004029168)
+
+- [构建一个使用 Virtual-DOM 的前端模版引擎 - Livoras - SegmentFault](https://segmentfault.com/a/1190000004420078#articleHeader6)
+
+- [指南 - Vonic Documents](https://wangdahoo.github.io/vonic-documents/#/zh/)
+
+- [使用Vue2+webpack+Es6快速开发一个移动端项目，封装属于自己的jsonpAPI和手势响应式组件 - 项目聚集地 - SegmentFault](https://segmentfault.com/a/1190000008528539?utm_source=weekly&utm_medium=email&utm_campaign=email_weekly)
+
+- [[译]怎样在Vue.js中使用jquery插件 - 山和大海 - 博客园](http://www.cnblogs.com/handoing/p/5866830.html)
+
+- [如何在 vue 项目里正确地引用 jquery 和 jquery-ui的插件 - cly153239的专栏 - 博客频道 - CSDN.NET](http://blog.csdn.net/cly153239/article/details/53067433)
+
+- [javascript - vue-cli创建的项目里，如何将插件引入并使用？ - SegmentFault](https://segmentfault.com/q/1010000005169531?_ea=806312)
 
 ##Elm
 
@@ -4168,6 +4433,16 @@ Node.js-Koa2 556087613
 ##Cordova
 
 - [Apache Cordova](http://cordova.apache.org/)
+
+- [QingUi开发文档](http://qingui.uis.cc/)
+
+##Nuxtjs
+
+- [Nuxt.js - Universal Vue.js Applications](https://nuxtjs.org/)
+
+##Omi
+
+- [Omi](https://alloyteam.github.io/omi/)
 
 ##Blog
 
@@ -4489,6 +4764,20 @@ Node.js-Koa2 556087613
 
 - [A cross-platform C# IDE based on the IntelliJ platform and ReSharper](https://www.jetbrains.com/rider/)
 
+##Phpstorm
+
+- [windows环境phpstorm调试环境搭建 - ikscher的专栏 - 博客频道 - CSDN.NET](http://blog.csdn.net/ikscher/article/details/43672365)
+
+- [PHPStorm 配置运行PHP项目 - baidu_20144723的专栏 - 博客频道 - CSDN.NET](http://blog.csdn.net/baidu_20144723/article/details/50883489)
+
+##DataGrip
+
+- [idea DataGrip 使用图解教程 - 靖远小和尚 - 博客园](http://www.cnblogs.com/xbgfy/p/5725538.html)
+
+- [DataGrip使用入门-常用操作（三） - Kodulf的专栏 - 博客频道 - CSDN.NET](http://blog.csdn.net/rodulf/article/details/53144917)
+
+- [Android studio如何使用SVN进行版本控制？ - 知乎](https://www.zhihu.com/question/32298079)
+
 ##优化
 
 - [Google官方网页载入速度检测工具PageSpeed Insights 使用教程 | DeveWork](http://devework.com/google-chrome-pagespeed-insights.html)
@@ -4649,6 +4938,8 @@ Node.js-Koa2 556087613
 
 - [Socket.IO 用的协议是 ws 还是 wss? - IAMSK 的回答 - 知乎](http://www.zhihu.com/question/20368919/answer/15883875)
 
+- [websoket.io 高并发 实现 - 转眼已大叔 - SegmentFault](https://segmentfault.com/a/1190000008544300?utm_source=weekly&utm_medium=email&utm_campaign=email_weekly)
+
 ##CDN
 
 - [开放静态文件 CDN - 为开源库提供稳定、快速的免费 CDN 服务](http://www.staticfile.org/)
@@ -4706,6 +4997,10 @@ Node.js-Koa2 556087613
 - [查看html元素绑定的事件与方法的利器 - web馆 - 博客园](http://www.cnblogs.com/xiaoyao2011/p/3447421.html)
 
 - [Web设计者和开发者必备的27个Chrome插件 - Chrome 官方博客 - 博客频道 - CSDN.NET](http://blog.csdn.net/chromeblog/article/details/6865124)
+
+- [--allow-file-access-from-files 命令的使用 - 推酷](http://www.tuicool.com/articles/v6riiuq)
+
+- [Google Chrome Full Black Screen - Stack Overflow](http://stackoverflow.com/questions/9954522/google-chrome-full-black-screen)
 
 - [前端开发面试题 - weakish - SegmentFault](http://segmentfault.com/a/1190000000465431)
 
@@ -4885,6 +5180,30 @@ Node.js-Koa2 556087613
 
 - [浅谈 SOAP](http://www.ibm.com/developerworks/cn/xml/x-sisoap/)
 
+- [uis.cc - 前端技术博客](https://www.uis.cc/)
+
+- [Free Website Builder | Create a Free Website | WIX.com](http://www.wix.com/)
+
+- [看云 | 专注技术文档在线创作、阅读、分享和托管](http://www.kancloud.cn/)
+
+- [谈谈对 Web 安全的理解 - 知乎专栏](https://zhuanlan.zhihu.com/p/25486768?group_id=820705780520079360)
+
+- [首页 - JSPatch 平台 - iOS APP 热更新热修复平台](http://jspatch.com/)
+
+- [IT eBooks - Free Download - Big Library](http://www.it-ebooks.info/)
+
+- [Kity官网](http://kity.baidu.com/)
+
+- [FEX - FEX](http://fex.baidu.com/)
+
+- [最全前端资源汇集 - hello2 - SegmentFault](https://segmentfault.com/a/1190000004978770)
+
+- [WeFlow | 一个高效、强大、跨平台的前端开发工作流工具](https://weflow.io/)
+
+- [F2etest by alibaba](http://f2etest.com/)
+
+- [s my browser?](http://fmbip.com/)
+
 ##HTTP
 
 - [HTTP Get请求URL最大长度 - gyflyx的专栏 - 博客频道 - CSDN.NET](http://blog.csdn.net/gyflyx/article/details/7890207)
@@ -4931,6 +5250,10 @@ Node.js-Koa2 556087613
 
 - [HTTP/2](https://http2.github.io/)
 
+##HTTPS
+
+- [也许，这样理解HTTPS更容易](http://mp.weixin.qq.com/s/9BkJ90CE6sNuUXJjiwHlGg)
+
 ##XSS
 
 - [前端之困 · XSS CookBook - 乌云君 - 知乎专栏](http://zhuanlan.zhihu.com/wooyun/19756127)
@@ -4944,6 +5267,10 @@ Node.js-Koa2 556087613
 - [XSS攻击的原理 - 网站安全 - 红黑联盟](http://www.2cto.com/Article/201209/156182.html)
 
 - [mXSS攻击的成因及常见种类 | WooYun知识库](http://drops.wooyun.org/tips/956)
+
+- [FreeBuf.COM | 关注黑客与极客](http://www.freebuf.com/)
+
+- [社工库查询 --华西安全网](http://cha.hx99.net/)
 
 ##数学
 
@@ -5007,6 +5334,8 @@ Node.js-Koa2 556087613
 
 - [Trello](https://trello.com/)
 
+- [CHM Viewer](http://chmviewer.com/)
+
 ##Google
 
 - [google hosts 2015，持续更新，2015.12.26已更新 - 360知识库](http://www.360kb.com/kb/2_122.html)
@@ -5037,6 +5366,12 @@ Node.js-Koa2 556087613
 
 - [推荐！国外程序员整理的机器学习资源大全 | 程序师](http://www.techug.com/awesome-machine-learning)
 
+- [使用pix2pix-tensorflow的交互式图象到图象翻译 - 推酷](http://www.tuicool.com/articles/UNfeIzV)
+
+- [Image-to-Image Demo - Affine Layer](http://affinelayer.com/pixsrv/index.html)
+
+- [为什么最近有很多名人，比如比尔盖茨，马斯克、霍金等，让人们警惕人工智能？ - 知乎专栏](https://zhuanlan.zhihu.com/p/19950456)
+
 ##VR
 
 - [开源框架 A-Frame：只要增加一行代码就可以制作VR网页 | 雷锋网](http://www.leiphone.com/news/201512/ZnxHg0uQ2AfzwbFy.html)
@@ -5066,7 +5401,6 @@ Node.js-Koa2 556087613
 - [Mozilla 开源 web 虚拟现实框架 A-Frame - 开源中国社区](http://www.oschina.net/news/69119/mozilla-open-source-a-frame)
 
 - [VR开发 入门 使用Three.js 开发的WebVR demo - Ritter Liu的专栏 - 博客频道 - CSDN.NET](http://blog.csdn.net/ritterliu/article/details/51386980)
-
 ##Renderloop
 
 - [RenderLoop - Build VR apps - RenderLoop](https://www.renderloop.com/)
@@ -5082,6 +5416,14 @@ Node.js-Koa2 556087613
 - [看懂UML类图和时序图 - 大CC - 博客园](http://www.cnblogs.com/me115/p/4092632.html)
 
 - [浅谈UML的概念和模型之UML九种图 - 努力+坚持，而且还很年轻 - 博客频道 - CSDN.NET](http://blog.csdn.net/jiuqiyuliang/article/details/8552956/)
+
+##BigData
+
+- [大数据架构师：hadoop、Storm该选哪一个？-Hadoop大数据架构-about云开发](http://www.aboutyun.com/thread-6858-1-1.html)
+
+- [《Storm入门》中文版 | 并发编程网 – ifeve.com](http://ifeve.com/getting-started-with-stom-index/)
+
+- [域名背后的真相，一个黑产团伙的沦陷 - FreeBuf.COM | 关注黑客与极客](http://www.freebuf.com/articles/terminal/127228.html)
 
 - [河南地图网](http://www.hnditu.com/dt.aspx?mapn=410100)
 
@@ -5110,4 +5452,3 @@ Node.js-Koa2 556087613
 - [SWFTOOLS](http://swftools.org/)
 
 - [FlexPaper - Documentation](http://flexpaper.devaldi.com/docs_publishing_with_PHP.jsp)
-
