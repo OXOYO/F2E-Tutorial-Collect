@@ -7,6 +7,10 @@ React中文社区总群 435748765
 React Native中文社区 245192933（已满） 569587764
 Angular 367913555
 Node.js-Koa2 556087613
+React-VR技术研究群 332424598
+微信小程序开发者总群 492677603
+TensorFlow机器学习社区 513704292
+UEditor 239909968
 
 ```
 
@@ -141,6 +145,8 @@ Node.js-Koa2 556087613
 - [LESS/SASS/Stylus开发工具汇总 - 51CTO.COM](http://developer.51cto.com/art/201302/380240.htm)
 
 - [Usage | Less.js](http://lesscss.org/usage/#command-line-usage-installing-lessc-for-use-globally)
+
+- [用法 | Less.js](http://www.lesscss.net/)
 
 - [媒体查询与http请求前端观察 | CSS | 前端观察](http://www.qianduan.net/media-query-and-http-requests.html)
 
@@ -311,6 +317,10 @@ Node.js-Koa2 556087613
 - [28种CSS3炫酷loading页面加载动画特效代码_懒人图库](http://d.lanrentuku.com/down/js/qita-1191/)
 
 - [CSS 3 Icons | CSS 3 Icons Generator | UIPlayGround](http://www.uiplayground.in/css3-icons/)
+
+- [Flex 布局教程：语法篇 - 阮一峰的网络日志](http://www.ruanyifeng.com/blog/2015/07/flex-grammar.html)
+
+- [CSS3 pointer-events:none应用举例及扩展 « 张鑫旭-鑫空间-鑫生活](http://www.zhangxinxu.com/wordpress/2011/12/css3-pointer-events-none-javascript/)
 
 - [RY8005: 各浏览器对于计算后宽度和高度为含有小数的长度值时，其最终值会不一致 - W3Help](http://www.w3help.org/zh-cn/causes/RY8005)
 
@@ -561,6 +571,8 @@ Node.js-Koa2 556087613
 - [HTTP AJAX POST请求中参数以form data和request payload形式在servlet中的获取方式 - 推酷](http://www.tuicool.com/articles/EBnM7b)
 
 - [ajax - How can I post data as form data instead of a request payload? - Stack Overflow](http://stackoverflow.com/questions/11442632/how-can-i-post-data-as-form-data-instead-of-a-request-payload)
+
+- [使用xmlHttprequest 发送异步请求（Ajax核心对象） - CrazyShun - 博客园](http://www.cnblogs.com/CrazyShun/p/4835471.html)
 
 - [JS 对象（Object）和字符串（String）互转 - Rex.Yin的专栏 - 博客频道 - CSDN.NET](http://blog.csdn.net/starrexstar/article/details/8083259)
 
@@ -1332,6 +1344,8 @@ Node.js-Koa2 556087613
 
 - [Javascript库之JsPlumb网络拓扑图流程图 - 笔记 - 前端网（QDFuns）](http://www.qdfuns.com/notes/15311/51bd9363b0adf52fbc7d0a32bf49e731.html)
 
+- [Angular Directive Example with jsPlumb](https://jsplumb-ng.herokuapp.com/)
+
 - [Timeline](http://timeline.knightlab.com/#overview)
 
 - [JQuery UI - draggable参数中文详细说明 - liu_111111的专栏 - 博客频道 - CSDN.NET](http://blog.csdn.net/liu_111111/article/details/8906025)
@@ -1339,6 +1353,36 @@ Node.js-Koa2 556087613
 - [html5 record 录音实例 使用websocket - Joyhen的专栏 - 博客频道 - CSDN.NET](http://blog.csdn.net/joyhen/article/details/24505411)
 
 - [使用html5的getUserMedia()实现拍照上传 - 笔记 - 前端网（QDFuns）](http://www.qdfuns.com/notes/15998/b5ad46a155bf4cec6587cd4871f044c8.html)
+
+##lodashjs
+
+- [lodash 中文网](http://lodashjs.com/)
+
+- [JS中dataTransfer对象在拖曳操作中的妙用。 - JIALY的个人页面](https://my.oschina.net/jiangli0502/blog/179197)
+
+- [html drag api 在firefox 下 拖动出现新窗口的解决办法 - winenr123 - 博客园](http://www.cnblogs.com/strangerqt/p/6133708.html)
+
+- [一张图轻松搞懂javascript event对象的clientX,offsetX,screenX,pageX区别 - Javascript教程_JS教程_技术文章 - 红黑联盟](http://www.2cto.com/kf/201409/333401.html)
+
+##SVG
+
+- [纯CSS实现帅气的SVG路径描边动画效果 « 张鑫旭-鑫空间-鑫生活](http://www.zhangxinxu.com/wordpress/2014/04/animateion-line-drawing-svg-path-%E5%8A%A8%E7%94%BB-%E8%B7%AF%E5%BE%84/)
+
+- [svg 资料链接 - 赵保龙 - 博客园](http://www.cnblogs.com/zhaobl/archive/2013/02/26/2933704.html)
+
+- [svg开发总结 - 赵保龙 - 博客园](http://www.cnblogs.com/zhaobl/archive/2013/03/07/2948273.html)
+
+- [jsPlumb Toolkit - build Flowcharts, Diagrams and connectivity based applications fast](https://jsplumbtoolkit.com/)
+
+- [帅气的SVG路径描边动画 (path animation) 实战应用 - 推酷](http://www.tuicool.com/articles/aa2iu22)
+
+- [SVG技术入门：线条动画实现原理 – WEB骇客](http://www.webhek.com/post/how-svg-line-animation-works.html)
+
+- [XML 问题: 使用 SVG 编程](https://www.ibm.com/developerworks/cn/xml/x-matters40/)
+
+- [HTML5 中fullscreen 中的几个API和fullscreen欺骗 - jackyrong - ITeye技术网站](http://jackyrong.iteye.com/blog/1830273)
+
+- [用html5 js实现浏览器全屏 - 天魂地煞 - 博客园](http://www.cnblogs.com/javaee6/p/3756249.html)
 
 ##PHP
 
@@ -2414,6 +2458,12 @@ Node.js-Koa2 556087613
 
 - [大数据算法-一个关注大数据算法在工业界应用的网站](http://x-algo.cn/)
 
+- [ SPFA算法 详解 - Mr。如夜 - - 推酷](http://www.tuicool.com/articles/YJzyee)
+
+- [js实现A*寻路算法 - huansky - 博客园](http://www.cnblogs.com/huansky/p/5572631.html)
+
+- [理解A*寻路算法具体过程 - Create Chen - 博客园](http://www.cnblogs.com/technology/archive/2011/05/26/2058842.html)
+
 ##Yeoman
 
 - [AngularJS：在Windows上安装Yeoman - 天上的神明与星辰，人间的艺术和真纯，我们所敬畏和热爱的，莫过于此。 - ITeye技术网站](http://damoqiongqiu.iteye.com/blog/1885371)
@@ -3145,6 +3195,10 @@ Node.js-Koa2 556087613
 - [s Noggin With Helmet - Scott Smith](http://scottksmith.com/blog/2014/09/21/protect-your-node-apps-noggin-with-helmet/)
 
 - [编写 Node.js Rest API 的 10 个最佳实践 - 前端周刊 - SegmentFault](https://segmentfault.com/a/1190000008537712?utm_source=weekly&utm_medium=email&utm_campaign=email_weekly)
+
+- [nodejs 中的 NODE_PATH - 东来 - SegmentFault](https://segmentfault.com/a/1190000002478924)
+
+- [Jade 模板引擎学习笔记 - CNode技术社区](http://cnodejs.org/topic/53e1a8e9a3df2b8f3101835b)
 
 ##FrameWork
 
@@ -4346,6 +4400,14 @@ Node.js-Koa2 556087613
 
 - [javascript - vue-cli创建的项目里，如何将插件引入并使用？ - SegmentFault](https://segmentfault.com/q/1010000005169531?_ea=806312)
 
+- [vue2.0使用Sortable.js实现的拖拽功能 - 风雨过后见彩虹 - SegmentFault](https://segmentfault.com/a/1190000008419229)
+
+- [vuejs2.0运用原生js实现简单的拖拽元素功能 - 风雨过后见彩虹 - SegmentFault](https://segmentfault.com/a/1190000008494035)
+
+- [VueJs 监听 window.resize 方法 - SmallW - 博客园](http://www.cnblogs.com/erbingbing/p/6340930.html)
+
+- [vue-cli webpack配置分析 - chenBright - SegmentFault](https://segmentfault.com/a/1190000008644830)
+
 ##Elm
 
 - [Elm](http://elm-lang.org/)
@@ -4514,6 +4576,8 @@ Node.js-Koa2 556087613
 
 - [JavaScript Markdown Editor - SimpleMDE](https://simplemde.com/)
 
+- [Cmd Markdown 编辑阅读器 - 作业部落出品](https://www.zybuluo.com/mdeditor)
+
 ##Other
 
 - [JacksonTian/fks](https://github.com/JacksonTian/fks)
@@ -4573,6 +4637,8 @@ Node.js-Koa2 556087613
 - [极限编程_百度百科](http://baike.baidu.com/link?url=rmX0gyRshwCFmOkRabNsE4d3Fli-lpGXhMiYvXG03vNQwzwTyvzCu0-skGQT5ZLTlVV-ANqFOrDAA1AEUxvyxq)
 
 - [MacType - The way texts should be](http://www.mactype.net/)
+
+- [cloudhead.io](http://cloudhead.io/)
 
 ##IDE
 
@@ -4733,6 +4799,8 @@ Node.js-Koa2 556087613
 - [atom中最好的js代码片段 - node_java_python - SegmentFault](https://segmentfault.com/a/1190000006065074?from=groupmessage&isappinstalled=0)
 
 - [ATOM编辑器快捷键大全 - 简书](http://www.jianshu.com/p/b8392151c0cd)
+
+- [Atom 编辑器 入门 快捷键 插件安利 - 简书](http://www.jianshu.com/p/aa8f8a252ed9)
 
 ##Ace
 
@@ -5204,6 +5272,8 @@ Node.js-Koa2 556087613
 
 - [s my browser?](http://fmbip.com/)
 
+- [WebP 探寻之路 - 前端技术 - 腾讯ISUX](http://isux.tencent.com/introduction-of-webp.html)
+
 ##HTTP
 
 - [HTTP Get请求URL最大长度 - gyflyx的专栏 - 博客频道 - CSDN.NET](http://blog.csdn.net/gyflyx/article/details/7890207)
@@ -5365,6 +5435,8 @@ Node.js-Koa2 556087613
 - [各种编程语言的深度学习库整理 - 今日头条(TouTiao.com)](http://toutiao.com/a6194728826781483266/)
 
 - [推荐！国外程序员整理的机器学习资源大全 | 程序师](http://www.techug.com/awesome-machine-learning)
+
+- [机器学习与人工智能技术分享 - 作业部落 Cmd Markdown 编辑阅读器](https://www.zybuluo.com/vivounicorn/note/446479)
 
 - [使用pix2pix-tensorflow的交互式图象到图象翻译 - 推酷](http://www.tuicool.com/articles/UNfeIzV)
 
