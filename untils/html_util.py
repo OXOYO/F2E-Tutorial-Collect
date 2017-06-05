@@ -61,7 +61,7 @@ def get_links():
     for word in hp.links:
         if word[1] == 'h3':
             file_utils.append2file('star.md', '##' + word[0] + '\n\n')
-            print(word[0] + '\n')
+            print(unicode(word[0] + '\n', "utf-8"))
         else:
             file_utils.append2file('star.md', '- [' + word[0] + '](' + word[1] + ')\n\n')
             print('- [' + word[0] + '](' + word[1] + ')\n')
