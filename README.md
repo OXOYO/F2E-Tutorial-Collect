@@ -50,6 +50,8 @@ UEditor 239909968
 
 - [PixiJS v4](http://www.pixijs.com/)
 
+- [Canvas处理头像上传 - 作业部落 Cmd Markdown 编辑阅读器](https://www.zybuluo.com/lxjwlt/note/101343)
+
 - [Html5项目实战：我要地图项目 - CSDN学院 - CSDN.NET](http://edu.csdn.net/course/detail/332)
 
 ##H5
@@ -113,6 +115,8 @@ UEditor 239909968
 - [H5实例教学--3D全景(ThreeJs全景Demo) - H5-Parser - SegmentFault](https://segmentfault.com/a/1190000008545795?utm_source=weekly&utm_medium=email&utm_campaign=email_weekly)
 
 - [ drop 拖拽与拖放简介 « 张鑫旭-鑫空间-鑫生活](http://www.zhangxinxu.com/wordpress/2011/02/html5-drag-drop-%E6%8B%96%E6%8B%BD%E4%B8%8E%E6%8B%96%E6%94%BE%E7%AE%80%E4%BB%8B/)
+
+- [简单了解HTML5中的Web Notification桌面通知 « 张鑫旭-鑫空间-鑫生活](http://www.zhangxinxu.com/wordpress/2016/07/know-html5-web-notification/)
 
 - [？ - 前端开发 - 知乎](http://www.zhihu.com/question/20797118?utm_source=weibo&utm_medium=weibo_share&utm_content=share_question&utm_campaign=share_sidebar)
 
@@ -321,6 +325,8 @@ UEditor 239909968
 - [Flex 布局教程：语法篇 - 阮一峰的网络日志](http://www.ruanyifeng.com/blog/2015/07/flex-grammar.html)
 
 - [CSS3 pointer-events:none应用举例及扩展 « 张鑫旭-鑫空间-鑫生活](http://www.zhangxinxu.com/wordpress/2011/12/css3-pointer-events-none-javascript/)
+
+- [CSS Modules 用法教程 - 阮一峰的网络日志](http://www.ruanyifeng.com/blog/2016/06/css_modules.html)
 
 - [RY8005: 各浏览器对于计算后宽度和高度为含有小数的长度值时，其最终值会不一致 - W3Help](http://www.w3help.org/zh-cn/causes/RY8005)
 
@@ -1280,6 +1286,10 @@ UEditor 239909968
 
 - [airbnb/javascript: JavaScript Style Guide](https://github.com/airbnb/javascript)
 
+- [如何使用ESlint - 翻页工 - 博客园](http://www.cnblogs.com/fanyegong/p/5302960.html)
+
+- [ESLint - Pluggable JavaScript linter - ESLint中文](http://eslint.cn/)
+
 - [JavaScript 数字与字符串 比较大小 - 雨之殇 - 博客园](http://www.cnblogs.com/icerainsoft/p/3448161.html)
 
 - [SD2021: 各浏览器对元素在没有设置 tabindex 属性时触发 onfocus 事件以及通过其 focus() 方法获得焦点的情况有差异 - W3Help](http://www.w3help.org/zh-cn/causes/SD2021)
@@ -1384,6 +1394,14 @@ UEditor 239909968
 
 - [用html5 js实现浏览器全屏 - 天魂地煞 - 博客园](http://www.cnblogs.com/javaee6/p/3756249.html)
 
+- [Particles.js入门: 用于创建粒子系统的JavaScript库 - 推酷](http://www.tuicool.com/articles/UNNf2ej)
+
+##particles.js
+
+- [particlesJS使用简介 - 分享与交流 - 博客频道 - CSDN.NET](http://blog.csdn.net/csdn_yudong/article/details/53128570)
+
+- [js数组的sort排序详解 - 龙则 - 博客园](http://www.cnblogs.com/longze/archive/2012/11/27/2791230.html)
+
 ##PHP
 
 - [phpcms v9类别调用方法 - phpcms-帮助教程 - phpcms论坛](http://bbs.phpcms.cn/thread-243656-1-1.html)
@@ -1444,6 +1462,16 @@ UEditor 239909968
 
 - [composer如何安装？ - PHP - 知乎](https://www.zhihu.com/question/22885542)
 
+- [composer 报 zlib_decode(): data error - 码农成长记 - 博客频道 - CSDN.NET](http://blog.csdn.net/jt521xlg/article/details/47129919)
+
+- [Windows 8.1 下 composer self-update 出现 [ErrorException] zlib_decode(): data error提示的解决！ – 水井湾](http://www.shuijingwanwq.com/2015/06/29/604/)
+
+- [Composer 中文网 / Packagist 中国全量镜像](http://www.phpcomposer.com/)
+
+- [Packagist](https://packagist.org/)
+
+- [Composer更新慢的终极解决方案 - fishermanmax的博客 - 博客频道 - CSDN.NET](http://blog.csdn.net/fishermanmax/article/details/51975692)
+
 ##Slim
 
 - [使用slim3快速开发RESTful API_PHP教程_网络编程_码蚁之家](http://www.codes51.com/article/detail_254116_2.html)
@@ -1472,8 +1500,6 @@ UEditor 239909968
 
 - [自动生成表单的Form类 - 小竹zz - 博客频道 - CSDN.NET](http://blog.csdn.net/zhujunxxxxx/article/details/15238535)
 
-- [PHP中token验证 - Huangwenting1990的博客 - 博客频道 - CSDN.NET](http://blog.csdn.net/huangwenting1990/article/details/52261592)
-
 - [Apache的Order Allow,Deny 详解 - 与时俱进 - 博客园](http://www.cnblogs.com/top5/archive/2009/09/22/1571709.html)
 
 - [Apache多虚拟主机多版本PHP（5.2+5.3+5.4）共存运行配置全过程 - Eller](https://my.oschina.net/u/2366984/blog/543148?p={{page}})
@@ -1485,6 +1511,48 @@ UEditor 239909968
 - [PDO方法与常量_纠结的大肥猫_新浪博客](http://blog.sina.com.cn/s/blog_8b8586b90101et5w.html)
 
 - [PHP如何把函数通过参数传递 - 开源中国社区](http://www.oschina.net/question/1029305_115257)
+
+##CAS 单点登录
+
+- [jasig CAS 实现单点登录 - java、php客户端登录实现 - べ袽猓柯苡づ - 博客园](http://www.cnblogs.com/rgky/p/5687096.html?utm_source=itdadao&utm_medium=referral)
+
+- [apache配置文件AddType application/x-httpd-php .php -老邪的博客-搜狐博客!!!](http://laoxiege.blog.sohu.com/116742025.html)
+
+- [cas实现单点登录,登出(java和php客户端) - Thinking in life - 博客频道 - CSDN.NET](http://blog.csdn.net/fei1502816/article/details/6695117)
+
+- [Laravel 集成 phpCAS 踩坑记 - 推酷](http://www.tuicool.com/articles/Y3ARjmb)
+
+- [php 用CAS实现SSO单点登陆及登出功能 - Sara的专栏 - 博客频道 - CSDN.NET](http://blog.csdn.net/haiqiao_2010/article/details/38365733)
+
+- [phpCAS - CAS Clients - Apereo Wiki](https://wiki.jasig.org/display/CASC/phpCAS)
+
+- [CAS+SSO原理浅谈 -写自己的历史-ChinaUnix博客](http://blog.chinaunix.net/uid-22816738-id-3525939.html)
+
+- [单点登录系统cas资料汇总 - IT十年 - 博客频道 - CSDN.NET](http://blog.csdn.net/matthewei6/article/details/50636333)
+
+- [wampserver安装错误 应用程序无法正常启动0xc000007b解决方法，wamp0xc000007b_PHP教程 | 帮客之家](http://www.bkjia.com/PHPjc/1195347.html)
+
+- [php示例代码之类似于C#中的String.Format方法 - 来自非洲大草原的食人虎 - 博客园](http://www.cnblogs.com/yql1986/archive/2011/08/01/2123618.html)
+
+- [PHP 中比较 true 和 false 的问题 - 追求卓越 - 博客频道 - CSDN.NET](http://blog.csdn.net/kevin6899/article/details/8156337)
+
+##token
+
+- [php token的生成 - 不解凡忧 - 博客园](http://www.cnblogs.com/bjfy/p/5909690.html)
+
+- [PHP中token验证 - Huangwenting1990的博客 - 博客频道 - CSDN.NET](http://blog.csdn.net/huangwenting1990/article/details/52261592)
+
+- [浅谈Token安全及php表单加入Token防止重复提交-Php安全-Php教程-壹聚教程网](http://www.111cn.net/phper/phpanqn/97240.htm)
+
+- [PHP Tokenizer 学习笔记 - 無標題文檔](https://www.gracecode.com/posts/2966.html)
+
+- [Access-Control-Allow-Origin 跨域设置多域名 - 简书](http://www.jianshu.com/p/b587dd1b7086)
+
+- [ajax 设置Access-Control-Allow-Origin实现跨域访问 - 傲雪星枫 - 博客频道 - CSDN.NET](http://blog.csdn.net/fdipzone/article/details/46390573/)
+
+- [PHP 中获取当前时间[Datetime Now] - 码不能停 - 博客园](http://www.cnblogs.com/flowerszhong/p/5313794.html)
+
+- [PHP中拼接sql(insert、update、replace)语句的三种方式 - sunway888的专栏 - 博客频道 - CSDN.NET](http://blog.csdn.net/sunway888/article/details/41257363)
 
 ##ASP.NET
 
@@ -1693,6 +1761,14 @@ UEditor 239909968
 - [Git Submodule 使用简介 - 推酷](http://www.tuicool.com/articles/jqiEJzU)
 
 - [/usr/libexec/openssh/gnome-ssh-askpass - lvzhuyiyi4的专栏 - 博客频道 - CSDN.NET](http://blog.csdn.net/lvzhuyiyi4/article/details/19564519)
+
+- [写出好的 commit message · Ruby China](http://ruby-china.org/topics/15737)
+
+- [git commit 规范指南 - 不挑食的程序员 - SegmentFault](https://segmentfault.com/a/1190000009048911)
+
+- [Git Commit Message Conventions - Google 文档](https://docs.google.com/document/d/1QrDFcIiPjSLDn3EL15IJygNPiHORgU1_OOAqWjiDU5Y/edit#)
+
+- [windows上安装使用git-extras - KimmKing的技术博客 - 博客频道 - CSDN.NET](http://blog.csdn.net/KimmKing/article/details/43858225)
 
 ##SERVER
 
@@ -1950,7 +2026,14 @@ UEditor 239909968
 
 - [命令行模式下 MYSQL导入导出.sql文件的方法 - Dhoopu - 博客园](http://www.cnblogs.com/dupeng0811/p/4186416.html)
 
+- [MySql中 where IN 字符串 - slyly - 博客园](http://www.cnblogs.com/shiliang199508/p/6515889.html)
+
 - [DQL、DML、DDL、DCL的概念与区别 - tomatofly的专栏 - 博客频道 - CSDN.NET](http://blog.csdn.net/tomatofly/article/details/5949070)
+
+##IndexedDB
+
+- [前端的数据库：IndexedDB入门 - WEB前端 - 伯乐在线](http://web.jobbole.com/81793/)
+
 
 ##Mobile
 
@@ -2762,6 +2845,18 @@ UEditor 239909968
 
 - [2.2 webpack - LeanReact - 知乎专栏](https://zhuanlan.zhihu.com/p/21287263)
 
+- [webpack脚手架构建React项目 - 曾田生z - SegmentFault](https://segmentfault.com/a/1190000008584933)
+
+- [javascript - webpack中library与libraryTarget还有externals如何理解？ - SegmentFault](https://segmentfault.com/q/1010000004676608)
+
+- [关于webpack中的libraryTarget设置 - SegmentFault](https://segmentfault.com/q/1010000009089500)
+
+- [webpack中的externals vs libraryTarget vs library - 高山上的鱼 - 博客频道 - CSDN.NET](http://blog.csdn.net/liangklfang/article/details/54970899)
+
+- [webpack减少打包后文件体积的几种方法 - _Simon - 博客园](http://www.cnblogs.com/-simon/p/5947092.html)
+
+- [webpack 的几个重要概念 - 即刻出发_ - SegmentFault](https://segmentfault.com/a/1190000007649656)
+
 ##yo
 
 - [30天web实践3-yeoman - SegmentFault](http://segmentfault.com/a/1190000000656748)
@@ -3103,6 +3198,14 @@ UEditor 239909968
 - [发布自己的module - 我的第一个npm组件！ - 前端 - SegmentFault](https://segmentfault.com/a/1190000006250554)
 
 - [npm 安装出现 UNMET DEPENDENCY 的解决方案 - 推酷](http://www.tuicool.com/articles/jAja2aQ)
+
+- [yarn publish 与 npm publish 的不同之处](https://changshiban.com/2017/03/17/the-difference-between-yarn-publish-and-npm-publish/)
+
+- [如何发布Node模块到NPM社区 - CNode技术社区](http://cnodejs.org/topic/5364dcde31a870830700b847)
+
+- [开发nodejs模块并发布到npm的简单示例 - Zhuang miao - 博客园](http://www.cnblogs.com/mz121star/archive/2012/11/15/nodejsandnom.html)
+
+- [npm升级所有可更新包 - 推酷](http://www.tuicool.com/articles/UbyY7rY)
 
 - [alinode - 基于Node运行时的应用性能管理解决方案](http://alinode.aliyun.com/)
 
@@ -4158,8 +4261,6 @@ UEditor 239909968
 
 - [A JavaScript library for building user interfaces | React](https://facebook.github.io/react/)
 
-- [facebook/react: A declarative, efficient, and flexible JavaScript library for building user interfaces.](https://github.com/facebook/react)
-
 - [图解react设计理论基础 - 西瓜地 - 博客频道 - CSDN.NET](http://blog.csdn.net/slalx/article/details/52444554)
 
 - [reactjs/react-basic: A description of the conceptual model of React without implementation burden.](https://github.com/reactjs/react-basic)
@@ -4204,6 +4305,8 @@ UEditor 239909968
 
 - [什么时候要在React组件中写shouldComponentUpdate？](http://www.infoq.com/cn/news/2016/07/react-shouldComponentUpdate)
 
+- [可能是东半球最好的 React + Redux 启动器，基于 Vue Cli 二次开发 - 黄梓健 - SegmentFault](https://segmentfault.com/a/1190000006737924)
+
 ##layUI
 
 - [layui官网 - 为web开发提供动力](http://www.layui.com/)
@@ -4215,6 +4318,8 @@ UEditor 239909968
 - [MUI-最接近原生APP体验的高性能前端框架](http://dev.dcloud.net.cn/mui/)
 
 - [DCloud问答](http://ask.dcloud.net.cn/explore/)
+
+- [vue-mui - mobile components for Vue.js](http://mui.yaobieting.com/)
 
 ##Avalon
 
@@ -4408,6 +4513,30 @@ UEditor 239909968
 
 - [vue-cli webpack配置分析 - chenBright - SegmentFault](https://segmentfault.com/a/1190000008644830)
 
+- [vue组件如何被其他项目引用 - 小龙女先生 - 博客园](http://www.cnblogs.com/cqhaibin/p/6701071.html)
+
+- [vue 开发插件流程 - 急眼的蜗牛 - 博客园](http://www.cnblogs.com/iSAM2016/p/6514557.html)
+
+- [在vue中用webpack打包之后运行文件问题以及相关配置 - jian_xi的博客 - 博客频道 - CSDN.NET](http://blog.csdn.net/jian_xi/article/details/62221962)
+
+##axios
+
+- [vue.js - vue2.0如何使用axios - SegmentFault](https://segmentfault.com/q/1010000007733865)
+
+- [axios 中文文档 翻译 - 前端这两年（2016~） - SegmentFault](https://segmentfault.com/a/1190000008470355?utm_source=tuicool&utm_medium=referral)
+
+- [axios.js，文档翻译 - 推酷](http://www.tuicool.com/articles/yINjEb6)
+
+- [Vue------用axios发送post请求自动set cookie - zhalcie2011的博客 - 博客频道 - CSDN.NET](http://blog.csdn.net/zhalcie2011/article/details/54705874)
+
+- [vue2 前后端分离项目ajax跨域session问题解决_Ajax_WEB-ITnose](http://www.itnose.net/detail/6745899.html)
+
+- [vue.js - Vue2.0 Transition常见用法全解惑 - SegmentFault](https://segmentfault.com/q/1010000007738500)
+
+- [vue2.0 transition -- demo实践填坑 - 郭锦荣 - 博客园](http://www.cnblogs.com/jr1993/p/vue.html)
+
+- [Vuejs——（7）过渡（动画） - qq20004604的博客 - 博客频道 - CSDN.NET](http://blog.csdn.net/qq20004604/article/details/52435494)
+
 ##Elm
 
 - [Elm](http://elm-lang.org/)
@@ -4496,6 +4625,8 @@ UEditor 239909968
 
 - [Apache Cordova](http://cordova.apache.org/)
 
+- [Cordova中文网](http://cordova.axuer.com/)
+
 - [QingUi开发文档](http://qingui.uis.cc/)
 
 ##Nuxtjs
@@ -4505,6 +4636,10 @@ UEditor 239909968
 ##Omi
 
 - [Omi](https://alloyteam.github.io/omi/)
+
+##HBuilder
+
+- [DCloud - HBuilder、5+、mui、流应用、HTML5专家](http://www.dcloud.io/)
 
 ##Blog
 
@@ -4639,6 +4774,22 @@ UEditor 239909968
 - [MacType - The way texts should be](http://www.mactype.net/)
 
 - [cloudhead.io](http://cloudhead.io/)
+
+- [sciter – Multiplatform HTML/CSS UI Engine for Desktop and Mobile Application](https://sciter.com/)
+
+- [RxJs 介绍 - 推酷](http://www.tuicool.com/articles/iYv2qiR)
+
+- [rxjs简单入门-博客-云栖社区-阿里云](https://yq.aliyun.com/articles/65027)
+
+- [DirectX修复工具 - VBcom的专栏 - 博客频道 - CSDN.NET](http://blog.csdn.net/vbcom/article/details/6962388)
+
+- [开箱即用 - jwt 无状态分布式授权 - Grissom007 - 博客园](http://www.cnblogs.com/grissom007/p/6294746.html)
+
+- [JWT 简介 - 推酷](http://www.tuicool.com/articles/R7Rj6r3)
+
+- [一张图看懂开源许可协议，开源许可证GPL、BSD、MIT、Mozilla、Apache和LGPL的区别 - 无知人生，记录点滴 - 博客频道 - CSDN.NET](http://blog.csdn.net/testcs_dn/article/details/38496107)
+
+- [如何选择开源许可证？ - 阮一峰的网络日志](http://www.ruanyifeng.com/blog/2011/05/how_to_choose_free_software_licenses.html)
 
 ##IDE
 
@@ -5273,6 +5424,14 @@ UEditor 239909968
 - [s my browser?](http://fmbip.com/)
 
 - [WebP 探寻之路 - 前端技术 - 腾讯ISUX](http://isux.tencent.com/introduction-of-webp.html)
+
+- [JSConf.cn — Conferences for the JavaScript community in China](http://jsconf.cn/)
+
+- [HTML5中国产业联盟](http://www.html5plus.org/#home)
+
+##JSDoc
+
+- [Use JSDoc: Index](http://usejsdoc.org/)
 
 ##HTTP
 
