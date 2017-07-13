@@ -328,6 +328,8 @@ UEditor 239909968
 
 - [CSS Modules 用法教程 - 阮一峰的网络日志](http://www.ruanyifeng.com/blog/2016/06/css_modules.html)
 
+- [Create Windows 7 start menu using CSS3 only : Janko Jovanovic](http://www.jankoatwarpspeed.com/create-windows-7-start-menu-using-css3-only/)
+
 - [RY8005: 各浏览器对于计算后宽度和高度为含有小数的长度值时，其最终值会不一致 - W3Help](http://www.w3help.org/zh-cn/causes/RY8005)
 
 - [ padding - 推酷](http://www.tuicool.com/articles/yqIzYrZ)
@@ -866,6 +868,8 @@ UEditor 239909968
 
 - [利用转码器让ES6在浏览器运行 - luoyjx - 搞起博客](https://blog.gaoqixhb.com/p/55783789cef7e0a008d5d6ef)
 
+- [使用 ES6 的浏览器兼容性问题 - 秘锐笔记 - SegmentFault](https://segmentfault.com/a/1190000005128101)
+
 - [jQuery.parseJSON() 函数详解 - CodePlayer](http://www.365mini.com/page/jquery_parsejson.htm)
 
 - [使用JSON.parse遇到的问题 - 技术分享 - 豆豆技术网](http://tech.ddvip.com/2014-05/1399208603210186.html)
@@ -925,6 +929,8 @@ UEditor 239909968
 - [biqing/MessengerJS](https://github.com/biqing/MessengerJS)
 
 - [跨域传值即主页面与iframe之间互相传值_javascript技巧_脚本之家](http://www.jb51.net/article/44278.htm)
+
+- [[CORS：跨域资源共享] W3C的CORS Specification - Artech - 博客园](http://www.cnblogs.com/artech/p/cors-4-asp-net-web-api-02.html)
 
 - [Jquery 获取checkbox的checked问题 - 那瞬间 - 博客园](http://www.cnblogs.com/-run/archive/2011/11/16/2251250.html)
 
@@ -1051,6 +1057,24 @@ UEditor 239909968
 - [Emoji searcher](http://emoji.muan.co/)
 
 - [iOS Emoji](http://punchdrunker.github.io/iOSEmoji/table_html/index.html)
+
+- [emoji表情符号编码大全-符号大全](http://www.fuhaodq.com/biaoqingfuhao/1531.html)
+
+- [Emoji的编码以及常见问题的解决方法 - 推酷](http://www.tuicool.com/articles/zUZjUfJ)
+
+- [Twitter Emoji (Twemoji)](http://twemoji.maxcdn.com/)
+
+- [js解析emoji表情](http://www.mamicode.com/info-detail-1130758.html)
+
+- [揭秘：Emoji表情的前世今生_36氪](http://36kr.com/p/212997.html)
+
+- [📙 Emojipedia — 😃 Home of Emoji Meanings 💁👌🎍😍](http://emojipedia.org/)
+
+- [Twitter Emoji (Twemoji) Preview](http://twemoji.maxcdn.com/2/test/preview.html)
+
+- [Emoji unicode characters for use on the web](http://apps.timwhitlock.info/emoji/tables/unicode#block-6c-other-additional-symbols)
+
+- [基于emoji 国际通用表情在web上的输入与显示的记录 - jtans - 博客园](http://www.cnblogs.com/jtans/p/3955880.html)
 
 - [window.open打开新窗口 参数 - riconyi的专栏 - 博客频道 - CSDN.NET](http://blog.csdn.net/riconyi/article/details/5540557)
 
@@ -1290,6 +1314,8 @@ UEditor 239909968
 
 - [ESLint - Pluggable JavaScript linter - ESLint中文](http://eslint.cn/)
 
+- [Eslint 规则说明 - 前端笔记 - CSDN博客](http://blog.csdn.net/helpzp2008/article/details/51507428)
+
 - [JavaScript 数字与字符串 比较大小 - 雨之殇 - 博客园](http://www.cnblogs.com/icerainsoft/p/3448161.html)
 
 - [SD2021: 各浏览器对元素在没有设置 tabindex 属性时触发 onfocus 事件以及通过其 focus() 方法获得焦点的情况有差异 - W3Help](http://www.w3help.org/zh-cn/causes/SD2021)
@@ -1394,13 +1420,33 @@ UEditor 239909968
 
 - [用html5 js实现浏览器全屏 - 天魂地煞 - 博客园](http://www.cnblogs.com/javaee6/p/3756249.html)
 
-- [Particles.js入门: 用于创建粒子系统的JavaScript库 - 推酷](http://www.tuicool.com/articles/UNNf2ej)
-
 ##particles.js
 
 - [particlesJS使用简介 - 分享与交流 - 博客频道 - CSDN.NET](http://blog.csdn.net/csdn_yudong/article/details/53128570)
 
+- [Particles.js入门: 用于创建粒子系统的JavaScript库 - 推酷](http://www.tuicool.com/articles/UNNf2ej)
+
 - [js数组的sort排序详解 - 龙则 - 博客园](http://www.cnblogs.com/longze/archive/2012/11/27/2791230.html)
+
+##jsrsasign
+
+- [jsrsasign 前台签名，Java后台验证前台签名 - BizXue - 博客园](http://www.cnblogs.com/yqweber/p/4583140.html)
+
+- [openssl+前端jsrsa签名+后端nodejs验签 - 衣冠小禽兽 - 博客园](http://www.cnblogs.com/brandonhulala/p/6195815.html)
+
+##酷站
+
+- [I Remember](http://i-remember.fr/en)
+
+- [Javascript开启浏览器全屏模式 - WEB前端 - 伯乐在线](http://web.jobbole.com/89098/)
+
+- [仿写Windows7桌面和任务栏 HTML5+CSS3+Jquery实现 - D调的码农 - 博客园](http://www.cnblogs.com/webconfig/p/3649323.html?utm_source=tuicool&utm_medium=referral)
+
+- [痕网,痕网博客,痕网工作室 - henw](http://www.cnblogs.com/henw/archive/2011/12/19/2293585.html)
+
+- [兼容各种浏览器的获取clientheight 等参数 - winter_leaf_wei的专栏 - CSDN博客](http://blog.csdn.net/winter_leaf_wei/article/details/6684211)
+
+- [ Drop API - ^_^肥仔John - 博客园](http://www.cnblogs.com/fsjohnhuang/p/3961066.html)
 
 ##PHP
 
@@ -1554,6 +1600,42 @@ UEditor 239909968
 
 - [PHP中拼接sql(insert、update、replace)语句的三种方式 - sunway888的专栏 - 博客频道 - CSDN.NET](http://blog.csdn.net/sunway888/article/details/41257363)
 
+- [CURL常用命令 - 张贺 - 博客园](http://www.cnblogs.com/gbyukg/p/3326825.html)
+
+- [php之curl实现http与https请求的方法_php技巧_脚本之家](http://www.jb51.net/article/56492.htm)
+
+- [php curl用法_专题_脚本之家](http://www.jb51.net/Special/66.htm)
+
+- [t connect to host解决方案 php操作Curl（http,https）无法获取远程数据解决方案 - “鸟叔“手擒大数据 - 博客频道 - CSDN.NET](http://blog.csdn.net/abang888/article/details/30249009)
+
+- [详解PHP fsockopen的使用方法 - 51CTO.COM](http://developer.51cto.com/art/200912/166333.htm)
+
+##导出Excel
+
+- [php工具类——导出excel - Leesire的专栏 - 博客频道 - CSDN.NET](http://blog.csdn.net/lee_sire/article/details/49804141)
+
+- [PHPExcel 中文使用手册详解](http://www.jquerycn.cn/a_17115)
+
+- [PHPExcel与ajax结合进行文件下载 - wyj880220的专栏 - 博客频道 - CSDN.NET](http://blog.csdn.net/wyj880220/article/details/48439153)
+
+- [PhpExcel中文帮助手册|PhpExcel使用方法 - FreeSpider - 博客园](http://www.cnblogs.com/freespider/p/3284828.html)
+
+- [phpexcel来做表格导出（多个工作sheet） - wensongyu - 博客园](http://www.cnblogs.com/yuwensong/p/3771787.html)
+
+- [PHP中时区设置的三种方法(timezone) - 推酷](http://www.tuicool.com/articles/UFruA3M)
+
+- [各操作系统下php.ini文件的位置在哪里 - SpeedBoy007的专栏 - 博客频道 - CSDN.NET](http://blog.csdn.net/meegomeego/article/details/25704645)
+
+- [ not found in Classes_高伟_新浪博客](http://blog.sina.com.cn/s/blog_8261811d0101qum4.html)
+
+- [记录PHP错误日志 display_errors与log_errors的区别_php技巧_脚本之家](http://www.jb51.net/article/31499.htm)
+
+- [php获取当前域名、主机、URL、端口、参数、网址、路径、代理等 - NiceGY - 博客频道 - CSDN.NET](http://blog.csdn.net/phpfenghuo/article/details/45269347)
+
+- [PHP $_SERVER详解_php技巧_脚本之家](http://www.jb51.net/article/17108.htm)
+
+- [解决PHP之 Allowed memory size of xxx bytes exhausted - ewili的专栏 - 博客频道 - CSDN.NET](http://blog.csdn.net/ewili/article/details/8034199)
+
 ##ASP.NET
 
 - [ASP.NET中读取XML文件4种方法 - xwdreamer的专栏 - 博客频道 - CSDN.NET](http://blog.csdn.net/xw13106209/article/details/6367865)
@@ -1585,6 +1667,8 @@ UEditor 239909968
 - [安装Python - 廖雪峰的官方网站](http://www.liaoxuefeng.com/wiki/001374738125095c955c1e6d8bb493182103fac9270762a000/001374738150500472fd5785c194ebea336061163a8a974000)
 
 - [导出chrome书签为Markdown | 梦里风林](https://ahangchen.gitbooks.io/windy-afternoon/content/kit/markdown/chrome_mark2_md.html)
+
+- [Instagram脸部特征搜索引擎 - Python开发社区 | CTOLib码库](http://www.ctolib.com/kendricktan-iffse.html)
 
 ##SVN
 
@@ -1633,8 +1717,6 @@ UEditor 239909968
 - [github常见操作和常见错误！错误提示：fatal: remote origin already exists. - god_wot的专栏 - 博客频道 - CSDN.NET](http://blog.csdn.net/god_wot/article/details/10522405)
 
 - [ error in eclipse? - Stack Overflow](http://stackoverflow.com/questions/7077016/how-can-i-resolvecan-not-open-git-upload-pack-error-in-eclipse)
-
-- [yw / pub | GitLab](https://git.mapbar.com/yw/pub/blob/master/howto/git.md)
 
 - [如何从Eclipse导入github上的项目源码 - hil2000的专栏 - 博客频道 - CSDN.NET](http://blog.csdn.net/hil2000/article/details/8566456)
 
@@ -1770,6 +1852,12 @@ UEditor 239909968
 
 - [windows上安装使用git-extras - KimmKing的技术博客 - 博客频道 - CSDN.NET](http://blog.csdn.net/KimmKing/article/details/43858225)
 
+- [https://api.github.com](https://api.github.com/)
+
+- [基于 Github Issues 的单页面静态博客 - 简书](http://www.jianshu.com/p/e1ef03f1795d)
+
+- [Git教程 - work hard work smart - 博客园](http://www.cnblogs.com/linlf03/archive/2013/08/01/3229317.html)
+
 ##SERVER
 
 - [Apache HTTP Server Version 2.2 文档 － Apache 2.2 中文版参考手册](http://apache.chinahtml.com/)
@@ -1895,6 +1983,18 @@ UEditor 239909968
 - [linux zip/unzip命令 - lucyjiayou - 博客园](http://www.cnblogs.com/lucyjiayou/archive/2011/12/25/2301046.html)
 
 - [linux下rm命令使用详解 - wanqi - 博客园](http://www.cnblogs.com/wanqieddy/archive/2011/06/07/2074113.html)
+
+- [Linux防火墙iptables配置详解_Linux教程_Linux公社-Linux系统门户网站](http://www.linuxidc.com/Linux/2017-01/140074.htm)
+
+- [Linux netstat命令详解 - ggjucheng - 博客园](http://www.cnblogs.com/ggjucheng/archive/2012/01/08/2316661.html)
+
+- [linux查看防火墙状态及开启关闭命令（转） - 人艰不拆_zmc - 博客园](http://www.cnblogs.com/zhangmingcheng/p/6048043.html)
+
+- [Linux中iptables设置详细_果子_新浪博客](http://blog.sina.com.cn/s/blog_6390cb4c0101p96h.html)
+
+- [Linux 查看服务器开放的端口号 - 潇湘隐者 - 博客园](http://www.cnblogs.com/kerrycode/p/5609010.html)
+
+- [linux下vi命令大全 - 星尘 - 博客园](http://www.cnblogs.com/88999660/articles/1581524.html)
 
 ##DataBase
 
@@ -2027,6 +2127,16 @@ UEditor 239909968
 - [命令行模式下 MYSQL导入导出.sql文件的方法 - Dhoopu - 博客园](http://www.cnblogs.com/dupeng0811/p/4186416.html)
 
 - [MySql中 where IN 字符串 - slyly - 博客园](http://www.cnblogs.com/shiliang199508/p/6515889.html)
+
+- [mysqldump普通账号Got error: 1044的解决方案 - mysql数据库栏目 - 红黑联盟](http://www.2cto.com/database/201203/125185.html)
+
+- [详解mysql int类型的长度值问题 - 追逐_something - 博客园](http://www.cnblogs.com/echo-something/archive/2012/08/26/mysql_int.html)
+
+- [mysql中int、bigint、smallint 和 tinyint的区别与长度的含义 - cychai的专栏 - CSDN博客](http://blog.csdn.net/spring21st/article/details/7332200)
+
+- [PHP与MySQL学习与实践— —新闻系统前后端 - theScoreONE的博客 - CSDN博客](http://blog.csdn.net/mqy1023/article/details/51292007)
+
+- [primary key与unique的区别 - 大头爸爸的博客 - CSDN博客](http://blog.csdn.net/zm2714/article/details/8482625)
 
 - [DQL、DML、DDL、DCL的概念与区别 - tomatofly的专栏 - 博客频道 - CSDN.NET](http://blog.csdn.net/tomatofly/article/details/5949070)
 
@@ -2879,6 +2989,10 @@ UEditor 239909968
 
 - [Yarn](https://yarnpkg.com/en/)
 
+- [Yarn](https://yarnpkg.com/zh-Hans/)
+
+- [Yarn vs npm: 你需要知道的一切 - WEB前端 - 伯乐在线](http://web.jobbole.com/88459/)
+
 - [FIS3 - 前端工程构建工具](http://fis.baidu.com/)
 
 ##NodeJS
@@ -3165,6 +3279,8 @@ UEditor 239909968
 
 - [PM2 介绍](https://www.douban.com/note/314200231/)
 
+- [PM2  使用介绍 - Karrdy - SegmentFault](https://segmentfault.com/a/1190000002539204)
+
 - [Node.js API 中文版](http://nodeapi.ucdok.com/#/api/)
 
 ##nrm
@@ -3261,6 +3377,26 @@ UEditor 239909968
 
 - [koa-router 源码浅析 — 好JSER](http://hao.jser.com/archive/12913/)
 
+- [node.js - koa-jwt如何使用 - SegmentFault](https://segmentfault.com/q/1010000006938020)
+
+- [NodeJS 实现基于 token 的认证应用 - 小小平凡世界 - 博客园](http://www.cnblogs.com/pingfan1990/p/4905065.html)
+
+- [为 Koa 框架封装 webpack-dev-middleware 中间件 - 太极客（Very Geek） - SegmentFault](https://segmentfault.com/a/1190000004883199)
+
+- [jsonwebtoken中文文档 - 个人文章 - SegmentFault](https://segmentfault.com/a/1190000009494020)
+
+- [Koa-jwt 说明文档(机翻润色) - 个人文章 - SegmentFault](https://segmentfault.com/a/1190000009788117)
+
+- [跨域[koa-cors] | koajs](https://wohugb.gitbooks.io/koajs/content/misc/koa-cors.html)
+
+- [KOA简介 | koajs](https://wohugb.gitbooks.io/koajs/content/index.html)
+
+- [koa技术分享 - CNode技术社区](https://cnodejs.org/topic/56936889c2289f51658f0926)
+
+- [koa入门 - chenhao.ch - SegmentFault](https://segmentfault.com/a/1190000006732849)
+
+- [[node] koa - 晴明桑 - 博客园](http://www.cnblogs.com/qingmingsang/articles/5554036.html)
+
 ##npmcdn
 
 - [unpkg](https://unpkg.com/#/)
@@ -3302,6 +3438,28 @@ UEditor 239909968
 - [nodejs 中的 NODE_PATH - 东来 - SegmentFault](https://segmentfault.com/a/1190000002478924)
 
 - [Jade 模板引擎学习笔记 - CNode技术社区](http://cnodejs.org/topic/53e1a8e9a3df2b8f3101835b)
+
+- [io.js - JavaScript I/O](https://iojs.org/zh/index.html)
+
+- [一种简单的生产环境部署Node.js程序方法 - CNode技术社区](http://cnodejs.org/topic/53fec0d97c1e2284788983d6)
+
+##Sequelize
+
+- [Node.js ORM 框架 sequelize 实践 - zzbo - 博客园](http://www.cnblogs.com/zzbo/p/5906089.html)
+
+- [Sequelize 中文API文档－1. 快速入门、Sequelize类 - IT笔录](https://itbilu.com/nodejs/npm/VkYIaRPz-.html)
+
+- [使用Sequelize - 廖雪峰的官方网站](http://www.liaoxuefeng.com/wiki/001434446689867b27157e896e74d51a89c25cc8b43bdb3000/001471955049232be7492e76f514d45a2180e2c224eb7a6000)
+
+- [sequelize-auto从数据库表自动生成Sequelize模型(Model) - IT笔录](https://itbilu.com/nodejs/npm/41mRdls_Z.html)
+
+- [Sequelize 中文API文档－2. Model 的定义、使用与Model类的API - IT笔录](https://itbilu.com/nodejs/npm/V1PExztfb.html)
+
+- [Sequelize 中文API文档－1. 快速入门、Sequelize类 - IT笔录](https://itbilu.com/nodejs/npm/VkYIaRPz-.html#api-instance-method)
+
+- [Node.js的Koa框架上手及MySQL操作指南_node.js_脚本之家](http://www.jb51.net/article/86524.htm)
+
+- [NodeJS遍历文件生产文件列表 - 小小平凡世界 - 博客园](http://www.cnblogs.com/pingfan1990/archive/2015/08/05/4706168.html)
 
 ##FrameWork
 
@@ -4307,6 +4465,8 @@ UEditor 239909968
 
 - [可能是东半球最好的 React + Redux 启动器，基于 Vue Cli 二次开发 - 黄梓健 - SegmentFault](https://segmentfault.com/a/1190000006737924)
 
+- [React/Redux应用使用Async/Await - 大灰狼宝贝的小绵羊哥哥的博客 - 博客频道 - CSDN.NET](http://blog.csdn.net/sinat_17775997/article/details/73526610)
+
 ##layUI
 
 - [layui官网 - 为web开发提供动力](http://www.layui.com/)
@@ -4531,11 +4691,25 @@ UEditor 239909968
 
 - [vue2 前后端分离项目ajax跨域session问题解决_Ajax_WEB-ITnose](http://www.itnose.net/detail/6745899.html)
 
+- [axios - 简书](http://www.jianshu.com/p/df464b26ae58)
+
 - [vue.js - Vue2.0 Transition常见用法全解惑 - SegmentFault](https://segmentfault.com/q/1010000007738500)
 
 - [vue2.0 transition -- demo实践填坑 - 郭锦荣 - 博客园](http://www.cnblogs.com/jr1993/p/vue.html)
 
 - [Vuejs——（7）过渡（动画） - qq20004604的博客 - 博客频道 - CSDN.NET](http://blog.csdn.net/qq20004604/article/details/52435494)
+
+##NXUT.js
+
+- [用 Nuxt 开发部署一个 v2ex - 推酷](http://www.tuicool.com/articles/267fiiE)
+
+- [Nuxt.js - Vue.js 通用应用框架](https://zh.nuxtjs.org/)
+
+- [用 nuxt 开发部署一个 v2ex - 🍊前端随笔 - SegmentFault](https://segmentfault.com/a/1190000009842518)
+
+##Styletron
+
+- [Virtual CSS 和 Styletron - 推吧](http://www.tui8.com/articles/news/59866.html)
 
 ##Elm
 
@@ -4558,6 +4732,14 @@ UEditor 239909968
 - [1.weex环境搭建 - Weex - Weex社区 - Weex中文网](http://weex.help/topic/577a5b44eb60516a48db5499)
 
 - [joggerplus/awesome-weex: A curated list of awesome Weex guides, articles, sites, tools, projects and resources.](https://github.com/joggerplus/awesome-weex)
+
+- [Weex入门与进阶指南 - JasonLee的专栏 - 博客频道 - CSDN.NET](http://blog.csdn.net/jasonblog/article/details/51863173)
+
+- [weexpack 创建项目, 打包Android 和 ios - 简书](http://www.jianshu.com/p/674efb2468e4)
+
+- [weexpack打包weex项目运行/打包记录 - 易墨 - 博客园](http://www.cnblogs.com/morang/p/weex-build-apk.html)
+
+- [windows下react-native环境搭建 - 易墨 - 博客园](http://www.cnblogs.com/morang/p/react-native-java-build.html)
 
 ##SUI
 
@@ -4888,6 +5070,8 @@ UEditor 239909968
 - [Webstorm9配置SASS编译环境](http://www.bubuko.com/infodetail-503964.html)
 
 - [Color Themes](http://color-themes.com/?view=index)
+
+- [【021今日分享】——IntelliJ IDEA Multi-MarkDown插件安装破J全过程 - 简书](http://www.jianshu.com/p/a0550f81cbd1)
 
 ##Eclipse
 
@@ -5361,6 +5545,8 @@ UEditor 239909968
 
 - [Unicode与JavaScript详解 - 阮一峰的网络日志](http://www.ruanyifeng.com/blog/2014/12/unicode.html)
 
+- [Unicode Consortium](http://unicode.org/)
+
 - [QCon 上海 2016 PPT 下载合集](http://ppt.geekbang.org/qconsh2016)
 
 - [s Blog](http://www.snooda.com/read/224)
@@ -5432,6 +5618,14 @@ UEditor 239909968
 ##JSDoc
 
 - [Use JSDoc: Index](http://usejsdoc.org/)
+
+- [OAuth 2.0 — OAuth](https://oauth.net/2/)
+
+- [ProcessOn - 免费在线作图，实时协作](https://www.processon.com/)
+
+- [未命名的表单 - draw.io](https://www.draw.io/)
+
+- [Paper.js](http://paperjs.org/)
 
 ##HTTP
 
@@ -5603,6 +5797,8 @@ UEditor 239909968
 
 - [为什么最近有很多名人，比如比尔盖茨，马斯克、霍金等，让人们警惕人工智能？ - 知乎专栏](https://zhuanlan.zhihu.com/p/19950456)
 
+- [为什么Lisp语言如此先进？（译文） - 阮一峰的网络日志](http://www.ruanyifeng.com/blog/2010/10/why_lisp_is_superior.html)
+
 ##VR
 
 - [开源框架 A-Frame：只要增加一行代码就可以制作VR网页 | 雷锋网](http://www.leiphone.com/news/201512/ZnxHg0uQ2AfzwbFy.html)
@@ -5655,6 +5851,12 @@ UEditor 239909968
 - [《Storm入门》中文版 | 并发编程网 – ifeve.com](http://ifeve.com/getting-started-with-stom-index/)
 
 - [域名背后的真相，一个黑产团伙的沦陷 - FreeBuf.COM | 关注黑客与极客](http://www.freebuf.com/articles/terminal/127228.html)
+
+##JAVA
+
+- [五步搞定Android开发环境部署——非常详细的Android开发环境搭建教程 - 边写边唱 - 博客园](http://www.cnblogs.com/zoupeiyang/p/4034517.html)
+
+- [JxBrowser — a Chromium-based Swing/JavaFX component](https://www.teamdev.com/jxbrowser)
 
 - [河南地图网](http://www.hnditu.com/dt.aspx?mapn=410100)
 
