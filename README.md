@@ -136,6 +136,8 @@ UEditor 239909968
 
 - [tabIndex属性 - 司徒正美 - 博客园](http://www.cnblogs.com/rubylouvre/archive/2009/12/07/1618182.html)
 
+- [code标签和pre标签 - 李宗辉 - 博客园](http://www.cnblogs.com/lizonghui/archive/2012/09/18/2692355.html)
+
 ##CSS
 
 - [HTML/CSS书写规范](https://github.com/doyoe/html-css-guide#3%E6%96%87%E4%BB%B6%E5%91%BD%E5%90%8D)
@@ -870,6 +872,8 @@ UEditor 239909968
 
 - [使用 ES6 的浏览器兼容性问题 - 秘锐笔记 - SegmentFault](https://segmentfault.com/a/1190000005128101)
 
+- [Babel核心用法记要 - 简书](http://www.jianshu.com/p/ff7e0de573a9)
+
 - [jQuery.parseJSON() 函数详解 - CodePlayer](http://www.365mini.com/page/jquery_parsejson.htm)
 
 - [使用JSON.parse遇到的问题 - 技术分享 - 豆豆技术网](http://tech.ddvip.com/2014-05/1399208603210186.html)
@@ -1448,6 +1452,8 @@ UEditor 239909968
 
 - [ Drop API - ^_^肥仔John - 博客园](http://www.cnblogs.com/fsjohnhuang/p/3961066.html)
 
+- [JS实现的4种数字千位符格式化方法分享_javascript技巧_脚本之家](http://www.jb51.net/article/61585.htm)
+
 ##PHP
 
 - [phpcms v9类别调用方法 - phpcms-帮助教程 - phpcms论坛](http://bbs.phpcms.cn/thread-243656-1-1.html)
@@ -1908,6 +1914,8 @@ UEditor 239909968
 
 - [✔ Nginx 的线程池与性能剖析 - 编程技术 - 夜眸博客](http://blog.yemou.net/article/query/info/tytfjhfascvhzxcyt158)
 
+- [s Notes](http://seanlook.com/2015/05/17/nginx-location-rewrite/)
+
 ##Vagrant
 
 - [使用 Vagrant 打造跨平台开发环境 - SegmentFault](http://segmentfault.com/a/1190000000264347)
@@ -1995,6 +2003,22 @@ UEditor 239909968
 - [Linux 查看服务器开放的端口号 - 潇湘隐者 - 博客园](http://www.cnblogs.com/kerrycode/p/5609010.html)
 
 - [linux下vi命令大全 - 星尘 - 博客园](http://www.cnblogs.com/88999660/articles/1581524.html)
+
+##consul
+
+- [服务发现系统consul-HTTP API - 孤天浪雨 - CSDN博客](http://blog.csdn.net/u010246789/article/details/51871051)
+
+- [Catalog - HTTP API - Consul by HashiCorp](https://www.consul.io/api/catalog.html)
+
+- [Consul 使用手册 | 一个梦](http://liangxiansen.cn/2017/04/06/consul/)
+
+- [使用consul实现分布式服务注册和发现 | Tony Bai](http://tonybai.com/2015/07/06/implement-distributed-services-registery-and-discovery-by-consul/)
+
+- [如何设计短网址系统(TinyURL) | 灵魂机器](http://cn.soulmachine.me/2017-04-10-how-to-design-tinyurl/#more)
+
+- [linux中ls、ls -l、ls -al、ll命令 - 未 名 - 博客园](http://www.cnblogs.com/nchar/p/3905660.html)
+
+- [[转]端口状态说明 LISTENING、ESTABLISHED、TIME_WAIT及CLOSE_WAIT - MN唐Ms - ITeye博客](http://mntms.iteye.com/blog/2231501)
 
 ##DataBase
 
@@ -3281,6 +3305,24 @@ UEditor 239909968
 
 - [PM2  使用介绍 - Karrdy - SegmentFault](https://segmentfault.com/a/1190000002539204)
 
+- [pm2使用心得 - 简书](http://www.jianshu.com/p/225b9284cfb8)
+
+- [node.js学习笔记（22） pm2-博客-云栖社区-阿里云](https://yq.aliyun.com/articles/2993)
+
+- [nodejs服务器部署教程一 - 个人文章 - SegmentFault](https://segmentfault.com/a/1190000010098126)
+
+- [npm系列：pm2文档简单翻译 - 技术控 - SegmentFault](https://segmentfault.com/a/1190000008074347)
+
+- [pm2用法详解+ecosystem.config - LGGGGG - 博客园](http://www.cnblogs.com/lggggg/p/6970395.html)
+
+- [通过Github与PM2部署Node应用 - 业余程序员 - SegmentFault](https://segmentfault.com/a/1190000005171229)
+
+- [PM2实用入门指南 - 程序猿小卡的前端专栏 - SegmentFault](https://segmentfault.com/a/1190000006793571#articleHeader16)
+
+- [PM2中无法开启ES6的解决方案 - 业余程序员 - SegmentFault](https://segmentfault.com/a/1190000005337995)
+
+- [【node】利用PM2实现 node服务器 后台运行和自动重启 - 杨成功的全栈之路 - SegmentFault](https://segmentfault.com/a/1190000008725179)
+
 - [Node.js API 中文版](http://nodeapi.ucdok.com/#/api/)
 
 ##nrm
@@ -3457,9 +3499,19 @@ UEditor 239909968
 
 - [Sequelize 中文API文档－1. 快速入门、Sequelize类 - IT笔录](https://itbilu.com/nodejs/npm/VkYIaRPz-.html#api-instance-method)
 
+- [Sequelize 和 MySQL 对照 - 前端涨姿势 - SegmentFault](https://segmentfault.com/a/1190000003987871#articleHeader4)
+
 - [Node.js的Koa框架上手及MySQL操作指南_node.js_脚本之家](http://www.jb51.net/article/86524.htm)
 
 - [NodeJS遍历文件生产文件列表 - 小小平凡世界 - 博客园](http://www.cnblogs.com/pingfan1990/archive/2015/08/05/4706168.html)
+
+- [Moment.js中文文档系列之一安装使用与日期时间解析 - IT笔录](https://itbilu.com/nodejs/npm/VkCir3rge.html#parse-parseZone)
+
+- [Moment.js | Home](http://momentjs.com/)
+
+- [在centOS 6下部署node - 前端惊魂 - SegmentFault](https://segmentfault.com/a/1190000004245357)
+
+- [Centos7下配置node.js环境](http://www.centoscn.com/image-text/config/2014/1108/4095.html)
 
 ##FrameWork
 
@@ -4693,6 +4745,8 @@ UEditor 239909968
 
 - [axios - 简书](http://www.jianshu.com/p/df464b26ae58)
 
+- [一些关于使用axios的心得 - time will tell - SegmentFault](https://segmentfault.com/a/1190000010002593)
+
 - [vue.js - Vue2.0 Transition常见用法全解惑 - SegmentFault](https://segmentfault.com/q/1010000007738500)
 
 - [vue2.0 transition -- demo实践填坑 - 郭锦荣 - 博客园](http://www.cnblogs.com/jr1993/p/vue.html)
@@ -4710,6 +4764,14 @@ UEditor 239909968
 ##Styletron
 
 - [Virtual CSS 和 Styletron - 推吧](http://www.tui8.com/articles/news/59866.html)
+
+- [Vue-cli proxyTable 解决开发环境的跨域问题 - 简书](http://www.jianshu.com/p/95b2caf7e0da)
+
+- [vue cli+axios踩坑记录+拦截器使用，代理跨域proxy（更新） - BeterJane - CSDN博客](http://blog.csdn.net/u012369271/article/details/72848102)
+
+- [Vue.js的库，包，资源的列表大全。 - 丁盛 - 博客园](http://www.cnblogs.com/-ding/p/5972195.html)
+
+- [Vue自定义过滤器 - 半亩花田 - 博客园](http://www.cnblogs.com/lily1010/p/5837399.html)
 
 ##Elm
 
@@ -4972,6 +5034,12 @@ UEditor 239909968
 - [一张图看懂开源许可协议，开源许可证GPL、BSD、MIT、Mozilla、Apache和LGPL的区别 - 无知人生，记录点滴 - 博客频道 - CSDN.NET](http://blog.csdn.net/testcs_dn/article/details/38496107)
 
 - [如何选择开源许可证？ - 阮一峰的网络日志](http://www.ruanyifeng.com/blog/2011/05/how_to_choose_free_software_licenses.html)
+
+- [Sanna Dullaway](http://sannadullaway.com/)
+
+- [gifs.com | Animated Gif Maker and Gif Editor](https://gifs.com/)
+
+- [首页 • ZABBIX中文社区](http://www.zabbix.org.cn/)
 
 ##IDE
 
@@ -5626,6 +5694,12 @@ UEditor 239909968
 - [未命名的表单 - draw.io](https://www.draw.io/)
 
 - [Paper.js](http://paperjs.org/)
+
+- [一起开源网_做中国最大的开源项目分享平台](http://www.17ky.net/)
+
+- [BDP个人版－零门槛数据分析平台](https://me.bdp.cn/index.html)
+
+- [看板|诸葛IO-精细化数据分析工具](https://demo.zhugeio.com/apppanel/panel.jsp?app_id=35510&p=3#Ym9hcmRJZD0yODQ0)
 
 ##HTTP
 
