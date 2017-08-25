@@ -60,7 +60,7 @@ def get_links():
     file_utils.append2file('star.md', '# F2E资料整理')
     for word in hp.links:
         if word[1] == 'h3':
-            file_utils.append2file('star.md', '##' + word[0] + '\n\n')
+            file_utils.append2file('star.md', '## ' + word[0] + '\n\n')
             print(unicode(word[0] + '\n', "utf-8"))
         else:
             file_utils.append2file('star.md', '- [' + word[0] + '](' + word[1] + ')\n\n')
