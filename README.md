@@ -118,6 +118,10 @@ UEditor 239909968
 
 - [简单了解HTML5中的Web Notification桌面通知 « 张鑫旭-鑫空间-鑫生活](http://www.zhangxinxu.com/wordpress/2016/07/know-html5-web-notification/)
 
+- [H5直播起航 | Aotu.io「凹凸实验室」](https://aotu.io/notes/2016/10/09/HTML5-SopCast/index.html)
+
+- [如何使用web录制视频 | 富途Web开发团队](https://futu.im/posts/capture-video-on-web/)
+
 - [？ - 前端开发 - 知乎](http://www.zhihu.com/question/20797118?utm_source=weibo&utm_medium=weibo_share&utm_content=share_question&utm_campaign=share_sidebar)
 
 - [HTML中head头结构 - SegmentFault](http://segmentfault.com/blog/paddingme/1190000000697532)
@@ -1454,6 +1458,20 @@ UEditor 239909968
 
 - [JS实现的4种数字千位符格式化方法分享_javascript技巧_脚本之家](http://www.jb51.net/article/61585.htm)
 
+- [深入剖析 JavaScript 的深复制 | 咀嚼之味](http://jerryzou.com/posts/dive-into-deep-clone-in-javascript/)
+
+- [javascript中的深拷贝和浅拷贝？ - 知乎](https://www.zhihu.com/question/23031215)
+
+- [ES6对象的扩展 - IT-nose - 博客园](http://www.cnblogs.com/detanx/p/es6dx.html)
+
+- [ES6中的Object.is()判断对象是否相等 - kongjunchao159的博客 - CSDN博客](http://blog.csdn.net/kongjunchao159/article/details/54906829)
+
+- [node.js - JavaScript反射机制到底是什么？ - SegmentFault](https://segmentfault.com/q/1010000002761696)
+
+- [JavaScript反射机制与继承：概念 - 不忘初心，方得始终——PSY - SegmentFault](https://segmentfault.com/a/1190000000593171)
+
+- [mo · js - Motion Graphics For The Web](http://mojs.io/)
+
 ## PHP
 
 - [phpcms v9类别调用方法 - phpcms-帮助教程 - phpcms论坛](http://bbs.phpcms.cn/thread-243656-1-1.html)
@@ -1864,6 +1882,8 @@ UEditor 239909968
 
 - [Git教程 - work hard work smart - 博客园](http://www.cnblogs.com/linlf03/archive/2013/08/01/3229317.html)
 
+- [Gitlab可视化代码树插件-Octotree - 散尽浮华 - 博客园](http://www.cnblogs.com/kevingrace/p/6438849.html)
+
 ## SERVER
 
 - [Apache HTTP Server Version 2.2 文档 － Apache 2.2 中文版参考手册](http://apache.chinahtml.com/)
@@ -2019,6 +2039,10 @@ UEditor 239909968
 - [linux中ls、ls -l、ls -al、ll命令 - 未 名 - 博客园](http://www.cnblogs.com/nchar/p/3905660.html)
 
 - [[转]端口状态说明 LISTENING、ESTABLISHED、TIME_WAIT及CLOSE_WAIT - MN唐Ms - ITeye博客](http://mntms.iteye.com/blog/2231501)
+
+## H2O
+
+- [H2O - the optimized HTTP/2 server](https://h2o.examp1e.net/)
 
 ## DataBase
 
@@ -2627,6 +2651,12 @@ UEditor 239909968
 
 - [【译】渐进式 Web App 的离线存储 - 我的前端探索 - SegmentFault](https://segmentfault.com/a/1190000006640450)
 
+## LeetCode
+
+- [Two Sum 的 javascript 解法 - 简书](http://www.jianshu.com/p/b3be87df03a2)
+
+- [javascript -- leetcode two sum , 这个题还有更优的解法吗？ - SegmentFault](https://segmentfault.com/q/1010000002903099)
+
 ## 算法
 
 - [【计算几何】线段相交 - 一点心青 - 博客园](http://www.cnblogs.com/dwdxdy/p/3230485.html)
@@ -2680,6 +2710,8 @@ UEditor 239909968
 - [js实现A*寻路算法 - huansky - 博客园](http://www.cnblogs.com/huansky/p/5572631.html)
 
 - [理解A*寻路算法具体过程 - Create Chen - 博客园](http://www.cnblogs.com/technology/archive/2011/05/26/2058842.html)
+
+- [我的算法学习之路 | Lucida](http://zh.lucida.me/blog/on-learning-algorithms/)
 
 ## Yeoman
 
@@ -2925,6 +2957,8 @@ UEditor 239909968
 
 - [PostCSS 是个什么鬼东西？ - 60sky - SegmentFault](https://segmentfault.com/a/1190000003909268)
 
+- [EsLint入门 - RyanRuan - 博客园](http://www.cnblogs.com/ruanyifeng/p/5283708.html)
+
 - [Downloads](http://rubyinstaller.org/downloads/)
 
 ## gem
@@ -3018,6 +3052,12 @@ UEditor 239909968
 - [Yarn vs npm: 你需要知道的一切 - WEB前端 - 伯乐在线](http://web.jobbole.com/88459/)
 
 - [FIS3 - 前端工程构建工具](http://fis.baidu.com/)
+
+## Travis Ci
+
+- [Travis Ci的最接底气的中文使用教程 - 简书](http://www.jianshu.com/p/8308b8f08de9)
+
+- [一点都不高大上，手把手教你使用Travis CI实现持续部署 - 知乎专栏](https://zhuanlan.zhihu.com/p/25066056)
 
 ## NodeJS
 
@@ -3439,6 +3479,12 @@ UEditor 239909968
 
 - [[node] koa - 晴明桑 - 博客园](http://www.cnblogs.com/qingmingsang/articles/5554036.html)
 
+- [ NodeJS 实现基于 token 的认证应用 - 知乎专栏](https://zhuanlan.zhihu.com/FrontendMagazine/19920223)
+
+- [Koa 框架教程 - 阮一峰的网络日志](http://www.ruanyifeng.com/blog/2017/08/koa.html)
+
+- [如何理解 koa 中间件执行机制 - 蛤蛤 - SegmentFault](https://segmentfault.com/a/1190000002783230)
+
 ## npmcdn
 
 - [unpkg](https://unpkg.com/#/)
@@ -3512,6 +3558,12 @@ UEditor 239909968
 - [在centOS 6下部署node - 前端惊魂 - SegmentFault](https://segmentfault.com/a/1190000004245357)
 
 - [Centos7下配置node.js环境](http://www.centoscn.com/image-text/config/2014/1108/4095.html)
+
+- [__dirname与__filename - soputasmile的笔记 - CSDN博客](http://blog.csdn.net/u014473112/article/details/51967364)
+
+## pinojs
+
+- [Home - Pino - Super fast, all natural JSON logger for Node.js](http://getpino.io/#/)
 
 ## FrameWork
 
@@ -4747,6 +4799,8 @@ UEditor 239909968
 
 - [一些关于使用axios的心得 - time will tell - SegmentFault](https://segmentfault.com/a/1190000010002593)
 
+- [axios上传图片(及vue上传图片到七牛)） - 无敌小坑笔 - 博客园](http://www.cnblogs.com/cjh1111/p/7017295.html)
+
 - [vue.js - Vue2.0 Transition常见用法全解惑 - SegmentFault](https://segmentfault.com/q/1010000007738500)
 
 - [vue2.0 transition -- demo实践填坑 - 郭锦荣 - 博客园](http://www.cnblogs.com/jr1993/p/vue.html)
@@ -4802,6 +4856,8 @@ UEditor 239909968
 - [weexpack打包weex项目运行/打包记录 - 易墨 - 博客园](http://www.cnblogs.com/morang/p/weex-build-apk.html)
 
 - [windows下react-native环境搭建 - 易墨 - 博客园](http://www.cnblogs.com/morang/p/react-native-java-build.html)
+
+- [Native、Hybrid、React Native、Weex等方案的分析比较 - 简书](http://www.jianshu.com/p/20a3d10a4d57)
 
 ## SUI
 
@@ -5040,6 +5096,8 @@ UEditor 239909968
 - [gifs.com | Animated Gif Maker and Gif Editor](https://gifs.com/)
 
 - [首页 • ZABBIX中文社区](http://www.zabbix.org.cn/)
+
+- [ business learning platform](https://www.safaribooksonline.com/)
 
 ## IDE
 
@@ -5383,6 +5441,8 @@ UEditor 239909968
 
 - [使用json web token | 皓眸大前端](http://www.haomou.net/2014/08/13/2014_web_token/)
 
+- [CORS实现跨域时授权问题（401错误）的解决_慕课手记](http://www.imooc.com/article/7989)
+
 - [《高性能javascript》一书要点和延伸（上） - 推酷](http://www.tuicool.com/articles/jyMzqay)
 
 ## Cookie
@@ -5472,6 +5532,10 @@ UEditor 239909968
 - [--allow-file-access-from-files 命令的使用 - 推酷](http://www.tuicool.com/articles/v6riiuq)
 
 - [Google Chrome Full Black Screen - Stack Overflow](http://stackoverflow.com/questions/9954522/google-chrome-full-black-screen)
+
+- [QUIC, a multiplexed stream transport over UDP - The Chromium Projects](https://www.chromium.org/quic)
+
+- [JavaScript 引擎性能比较之一SpiderMonkey - 温故而知新 - CSDN博客](http://blog.csdn.net/fanyamin/article/details/45566615)
 
 - [前端开发面试题 - weakish - SegmentFault](http://segmentfault.com/a/1190000000465431)
 
@@ -5701,6 +5765,8 @@ UEditor 239909968
 
 - [看板|诸葛IO-精细化数据分析工具](https://demo.zhugeio.com/apppanel/panel.jsp?app_id=35510&p=3#Ym9hcmRJZD0yODQ0)
 
+- [EFE Tech - 百度EFE（Excellent FrontEnd）技术体系](http://efe.baidu.com/)
+
 ## HTTP
 
 - [HTTP Get请求URL最大长度 - gyflyx的专栏 - 博客频道 - CSDN.NET](http://blog.csdn.net/gyflyx/article/details/7890207)
@@ -5747,9 +5813,23 @@ UEditor 239909968
 
 - [HTTP/2](https://http2.github.io/)
 
+- [HTTP,HTTP2.0,SPDY,HTTPS你应该知道的一些事 - WEB前端 - 伯乐在线](http://web.jobbole.com/87695/)
+
+- [HTTP/2.0 相比1.0有哪些重大改进？ - 知乎](https://www.zhihu.com/question/34074946)
+
 ## HTTPS
 
 - [也许，这样理解HTTPS更容易](http://mp.weixin.qq.com/s/9BkJ90CE6sNuUXJjiwHlGg)
+
+- [大型网站的 HTTPS 实践（1）：HTTPS 协议和原理 - 文章 - 伯乐在线](http://blog.jobbole.com/86660/)
+
+- [HTTPS 可能被这样劫持吗？ - 知乎](https://www.zhihu.com/question/22795329)
+
+- [HTTPS 与 HTTP2 协议分析 - 章志强的专栏 - CSDN博客](http://blog.csdn.net/zhangzq86/article/details/64907340)
+
+- [如何在 Apache 中启用 HTTP/2-系统运维|Linux.中国-开源社区](https://linux.cn/article-6720-1.html)
+
+- [Apache服务器启用SPDY协议加快传输本博客内容 – Librehat的部落格](https://www.librehat.com/apache-server-enable-spdy-protocol-to-speed-up-transfers-the-contents-of-this-blog/)
 
 ## XSS
 
@@ -5800,6 +5880,10 @@ UEditor 239909968
 - [如何在 Mac 下使用 Fiddler - 推酷](http://www.tuicool.com/articles/y2muiq)
 
 - [Mono - Fiddler](http://fiddler.wikidot.com/mono)
+
+- [Fiddler在fiddler option设置还是抓不了HTTPS包解决办法_Legend_sight_新浪博客](http://blog.sina.com.cn/s/blog_13afdb2130102wy2w.html)
+
+- [三步解决fiddler升级后https无法通过证书验证问题 - 启 - CSDN博客](http://blog.csdn.net/wwdz_rwx/article/details/50396163)
 
 - [Modern.ie IE在线调试工具](http://dev.modern.ie/tools/vms/windows/)
 
@@ -5923,6 +6007,8 @@ UEditor 239909968
 - [大数据架构师：hadoop、Storm该选哪一个？-Hadoop大数据架构-about云开发](http://www.aboutyun.com/thread-6858-1-1.html)
 
 - [《Storm入门》中文版 | 并发编程网 – ifeve.com](http://ifeve.com/getting-started-with-stom-index/)
+
+- [Druid 在小米公司的技术实践 - 知乎专栏](https://zhuanlan.zhihu.com/p/25593670)
 
 - [域名背后的真相，一个黑产团伙的沦陷 - FreeBuf.COM | 关注黑客与极客](http://www.freebuf.com/articles/terminal/127228.html)
 
