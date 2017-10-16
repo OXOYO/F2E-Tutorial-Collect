@@ -1,0 +1,16 @@
+{
+  "name": "html2md",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "start": "node bookmark2md.js",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "OXOYO",
+  "license": "MIT",
+  "dependencies": {
+    "cheerio": "^1.0.0-rc.2",
+    "fs": "0.0.1-security"
+  }
+}
