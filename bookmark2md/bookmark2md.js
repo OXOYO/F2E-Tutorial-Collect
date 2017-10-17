@@ -175,7 +175,7 @@ setTimeout(function () {
         let obj = fileObj[timeNow]
         let fileContent = ''
         for (let [i, item] of obj.list.entries()) {
-            let createTime = item.create_time ? item.create_time + ': ' : ''
+            let createTime = item.create_time ? item.create_time + ' ' : ''
             fileContent += createTime + '[' + item.text + '](' + item.href + ')' + '\n\n'
         }
         fileContentArr.push(fileContent)
