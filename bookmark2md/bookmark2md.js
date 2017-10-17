@@ -4,7 +4,7 @@
 const fs = require('fs')
 const cheerio = require('cheerio')
 const config = require('./config')
-console.log('config', config)
+// console.log('config', config)
 
 const html = fs.readFileSync(config.bookmarksFile)
 const $ = cheerio.load(html)
@@ -153,7 +153,7 @@ setTimeout(function () {
                 // 判断list是否为空
                 if (obj.list && obj.list.length) {
                     for (let [i, item] of obj.list.entries()) {
-                        let createTime = item.create_time ? item.create_time + ': ' : ''
+                        let createTime = item.create_time ? item.create_time + ' ' : ''
                         fileContent += createTime + '[' + item.text + '](' + item.href + ')' + '\n\n'
                     }
                 }
