@@ -146,6 +146,8 @@
 
 2017-09-21 21:04 [EFE Tech - 百度EFE（Excellent FrontEnd）技术体系](http://efe.baidu.com/)
 
+2017-11-05 15:43 [CSP内容安全策略 - lmh2072005 - 博客园](http://www.cnblogs.com/lmh2072005/p/6044542.html)
+
 ## 规范
 
 2015-08-11 11:05 [前端JavaScript规范](http://www.runoob.com/w3cnote/javascript-guide.html)
@@ -271,6 +273,18 @@
 2017-09-04 15:07 [QUIC, a multiplexed stream transport over UDP - The Chromium Projects](https://www.chromium.org/quic)
 
 2017-09-15 17:08 [JavaScript 引擎性能比较之一SpiderMonkey - 温故而知新 - CSDN博客](http://blog.csdn.net/fanyamin/article/details/45566615)
+
+2017-10-17 17:18 [【干货】Chrome插件(扩展)开发全攻略 - 我是小茗同学 - 博客园](http://www.cnblogs.com/liuxianan/p/chrome-plugin-develop.html)
+
+2017-10-17 17:20 [【chrome扩展】管理你的浏览器(第四章)](http://blog.mn886.net/chenjianhua/show/6e057a66e07a/index.html)
+
+2017-10-17 20:53 [Note: 一个初步的 Chrome Packaged App 写法 - 题叶 - SegmentFault](https://segmentfault.com/a/1190000000454101)
+
+2017-10-17 20:55 [如何从零开始写一个 Chrome 扩展？ - 知乎](https://www.zhihu.com/question/20179805)
+
+2017-10-18 09:10 [chrome扩展开发之旅 第四篇 - WilsonLiu95's Blog - SegmentFault](https://segmentfault.com/a/1190000004334872)
+
+2017-10-18 09:13 [如何优雅地使用 Chrome？ - 知乎](https://www.zhihu.com/question/20595240)
 
 ## 加密
 

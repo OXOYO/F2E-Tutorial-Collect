@@ -1438,6 +1438,8 @@
 
 2017-05-05 13:57 [XML 问题: 使用 SVG 编程](https://www.ibm.com/developerworks/cn/xml/x-matters40/)
 
+2017-11-13 12:01 [前端实现 SVG 转 PNG - WEB前端 - 伯乐在线](http://web.jobbole.com/84244/)
+
 ## particles.js
 
 2017-05-12 12:09 [particlesJS使用简介 - 分享与交流 - 博客频道 - CSDN.NET](http://blog.csdn.net/csdn_yudong/article/details/53128570)
@@ -1832,6 +1834,22 @@
 
 2017-10-12 09:54 [Gitlab可视化代码树插件-Octotree - 散尽浮华 - 博客园](http://www.cnblogs.com/kevingrace/p/6438849.html)
 
+2017-10-27 17:03 [Github Rank (China)](http://githubrank.com/)
+
+2017-10-30 16:24 [Gitstar Ranking - Top GitHub users and repositories](https://gitstar-ranking.com/)
+
+2017-10-31 15:19 [使用OAuth2.0协议的github、QQ、weibo第三方登录接入总结 - GabrielChenCN - 博客园](http://www.cnblogs.com/gabrielchen/p/5800225.html)
+
+2017-10-31 15:46 [Github 第三方授权登录教程 - CSDN博客](http://blog.csdn.net/javagaorui5944/article/details/52918772)
+
+2017-11-02 16:14 [David, a dependency management tool for Node.js projects](https://david-dm.org/)
+
+2017-11-02 16:28 [GitHub 项目徽章的添加和设置 - 简书](http://www.jianshu.com/p/e9ce56cb24ef)
+
+2017-11-02 16:29 [Shields.io: Quality metadata badges for open source projects](http://shields.io/)
+
+2017-11-03 12:09 [为你的Github README生成漂亮的徽章和进度条 - FH01号自律型科学实验舱](https://shikieiki.github.io/2017/03/01/%E4%B8%BA%E4%BD%A0%E7%9A%84Github%E7%94%9F%E6%88%90%E6%BC%82%E4%BA%AE%E7%9A%84%E5%BE%BD%E7%AB%A0%E5%92%8C%E8%BF%9B%E5%BA%A6%E6%9D%A1/)
+
 ## GitHub Pages
 
 2015-10-10 11:18 [怎样做一个漂亮的 GitHub Pages 首页？ - 前端开发 - 知乎](http://www.zhihu.com/question/20376047?sort=created)
@@ -2010,7 +2028,7 @@
 
 2017-03-17 18:06 [yum安装php，php-fpm - 惊涛随笔 - 博客园](http://www.cnblogs.com/jtnote/p/6118741.html)
 
-## consul
+## Consul
 
 2017-07-24 09:19 [服务发现系统consul-HTTP API - 孤天浪雨 - CSDN博客](http://blog.csdn.net/u010246789/article/details/51871051)
 
@@ -2020,9 +2038,15 @@
 
 2017-07-24 09:49 [使用consul实现分布式服务注册和发现 | Tony Bai](http://tonybai.com/2015/07/06/implement-distributed-services-registery-and-discovery-by-consul/)
 
+2017-11-07 14:13 [【Consul】Consul实践指导-健康检查（Checks） - 程序园](http://www.voidcn.com/article/p-nlbvzmsg-bee.html)
+
 ## H2O
 
 2017-09-04 14:44 [H2O - the optimized HTTP/2 server](https://h2o.examp1e.net/)
+
+## GraphQL
+
+2017-10-30 15:27 [GraphQL初探:从REST到GraphQL，更完善的数据查询定义 - 某熊的全栈之路 - SegmentFault](https://segmentfault.com/a/1190000005766732)
 
 # DataBase
 
@@ -2121,6 +2145,8 @@
 2017-03-16 10:58 [Node+Mongoose常用查询中文文档](http://www.nonb.cn/blog/nodejs-mongoose-query-chinaese.html)
 
 2017-03-16 10:58 [查询（queries） · mongoose4.5中文文档](https://mongoose.shujuwajue.com/guide/queries.html)
+
+2017-10-27 13:22 [mongoose连接collection后自动加s的问题 - CSDN博客](http://blog.csdn.net/azureternite/article/details/52349114)
 
 ## SQL Server
 
@@ -2860,6 +2886,20 @@
 
 2015-03-25 15:37 [Mocha - 一个功能丰富运行在Node.js和浏览器中的JavaScript测试框架 - OPEN 开发经验库](http://www.open-open.com/lib/view/open1337910447324.html)
 
+2017-11-01 14:07 [测试框架 Mocha 实例教程 - 阮一峰的网络日志](http://www.ruanyifeng.com/blog/2015/12/a-mocha-tutorial-of-examples.html)
+
+2017-11-01 14:08 [Testing in ES6 with Mocha and Babel 6](http://jamesknelson.com/testing-in-es6-with-mocha-and-babel-6/)
+
+2017-11-01 14:17 [测试框架mochajs详解 - HackerVirus - 博客园](http://www.cnblogs.com/Leo_wl/p/5734889.html)
+
+2017-11-01 14:31 [初识 mocha in NodeJS - CNode技术社区](https://cnodejs.org/topic/516526766d38277306c7d277)
+
+2017-11-02 16:01 [mocha异步之done - CNode技术社区](http://cnodejs.org/topic/535e03d614b825ea72005067)
+
+2017-11-02 16:02 [Chai](http://chaijs.com/)
+
+2017-11-02 16:19 [折腾 Coffee + mocha + Travis-CI 单元测试与覆盖率报告 - CNode技术社区](https://cnodejs.org/topic/5443b8342be2db9d42e8f685)
+
 ## gulp
 
 2015-03-30 15:16 [gulp API文档 - gulp.js 中文文档 | gulp.js 中文网](http://www.bootcss.com/gulpjs/docs/api/)
@@ -3012,6 +3052,8 @@
 
 2015-09-28 18:28 [Yeoman自动构建js项目 | 粉丝日志](http://blog.fens.me/nodejs-yeoman-intro/)
 
+2017-11-02 15:58 [创建 Yeoman Generator 简单教程 - 简书](http://www.jianshu.com/p/9f3e6bcdb274)
+
 ## browsersync
 
 2016-03-15 11:04 [Browsersync - Time-saving synchronised browser testing](https://www.browsersync.io/)
@@ -3037,6 +3079,24 @@
 2017-09-08 09:19 [Travis Ci的最接底气的中文使用教程 - 简书](http://www.jianshu.com/p/8308b8f08de9)
 
 2017-09-08 09:21 [一点都不高大上，手把手教你使用Travis CI实现持续部署 - 知乎专栏](https://zhuanlan.zhihu.com/p/25066056)
+
+2017-11-01 14:30 [利用Travis CI 让你的github项目持续构建(Node.js为例) - 破狼 - 博客园](http://www.cnblogs.com/whitewolf/archive/2013/04/14/3019838.html)
+
+2017-11-01 14:53 [React Native App CI | Lifecycle](https://richardcao.me/2016/12/11/React-Native-App-CI/)
+
+2017-11-01 14:56 [Travis 使用经验分享 - CNode技术社区](https://cnodejs.org/topic/557afc5816839d2d53936219)
+
+2017-11-01 15:33 [Github装逼指南——Travis CI 和 Codecov - MyCodingLife - SegmentFault](https://segmentfault.com/a/1190000004415437)
+
+2017-11-02 16:04 [Travis-CI 跑测试总报错（本地能通过） - CNode技术社区](https://cnodejs.org/topic/575c3b5a4fb027d05f43294d)
+
+2017-11-02 16:20 [Travis CI - Test and Deploy Your Code with Confidence](https://travis-ci.org/)
+
+2017-11-02 16:24 [JS测试与接入CI指南 - yangyiliang - SegmentFault](https://segmentfault.com/a/1190000007332019)
+
+## Codecov
+
+2017-11-01 15:37 [集成测试覆盖率工具 codecov - 简书](http://www.jianshu.com/p/146c4769d4b1)
 
 # NodeJS
 
@@ -3183,6 +3243,26 @@
 2017-08-29 14:22 [__dirname与__filename - soputasmile的笔记 - CSDN博客](http://blog.csdn.net/u014473112/article/details/51967364)
 
 2017-10-13 17:52 [Node.js读写中文内容文件操作 - 水边的专栏 - CSDN博客](http://blog.csdn.net/youbl/article/details/29812669)
+
+2017-10-25 14:14 [NodeJS项目中优雅的使用ES7 - 郭东生blog - 博客园](http://www.cnblogs.com/gdsblog/p/7149483.html)
+
+2017-10-27 17:21 [通过babel-register在nodejs端使用es6 - CSDN博客](http://blog.csdn.net/shidaping/article/details/71403374)
+
+2017-11-01 12:23 [Nodejs开源项目里怎么样写测试、CI和代码测试覆盖率 - CNode技术社区](http://cnodejs.org/topic/558df089ebf9c92d17e73358)
+
+2017-11-01 12:27 [npm-run-test - CNode技术社区](https://cnodejs.org/topic/54646c7f88b869cc33a97924)
+
+2017-11-01 15:19 [Nodejs开源项目里怎么样写测试、CI和代码测试覆盖率 - CNode技术社区](https://cnodejs.org/topic/558df089ebf9c92d17e73358)
+
+2017-11-02 12:11 [node-glob学习 - 流浪猫の窝 - 博客园](http://www.cnblogs.com/liulangmao/p/4552339.html)
+
+2017-11-02 15:51 [Node.js开发者最常范的10个错误 - Jaxu - 博客园](http://www.cnblogs.com/jaxu/p/5618916.html)
+
+2017-11-02 15:52 [Node.js开发者最常范的10个错误 - Jaxu - 博客园](http://www.cnblogs.com/jaxu/p/5618916.html#sec_8)
+
+2017-11-03 12:03 [nodei.co](https://nodei.co/)
+
+2017-11-03 12:06 [开源项目徽章集锦 - spacewander - SegmentFault](https://segmentfault.com/a/1190000004278253)
 
 ## Express框架
 
@@ -3392,6 +3472,8 @@
 
 2017-08-02 14:39 [【node】利用PM2实现 node服务器 后台运行和自动重启 - 杨成功的全栈之路 - SegmentFault](https://segmentfault.com/a/1190000008725179)
 
+2017-10-31 17:05 [nodejs部署方式-pm2 - zhangzongshan - 博客园](http://www.cnblogs.com/zzsdream/p/6898974.html)
+
 ## nrm
 
 2016-03-22 14:31 [nrm 快速切换 NPM 源 （附带测速功能） - 推酷](http://www.tuicool.com/articles/nYjqeu)
@@ -3508,6 +3590,20 @@
 
 2017-09-30 15:53 [如何理解 koa 中间件执行机制 - 蛤蛤 - SegmentFault](https://segmentfault.com/a/1190000002783230)
 
+2017-11-01 13:07 [Koa、Express Web单元测试 - CSDN博客](http://blog.csdn.net/shushanfx/article/details/78051838)
+
+2017-11-01 13:13 [runkoa：不需要了解babel即可使用koa2+async组合 - CNode技术社区](https://cnodejs.org/topic/57090089de442ee71db36bad)
+
+2017-11-02 09:50 [EADDRINUSE when watching tests with mocha and supertest](http://www.marcusoft.net/2015/10/eaddrinuse-when-watching-tests-with-mocha-and-supertest.html)
+
+2017-11-02 10:51 [ES2015 & babel 实战：开发NPM模块 - CNode技术社区](http://cnodejs.org/topic/565c65c4b31692e827fdd00c)
+
+2017-11-02 12:11 [从零搭建Koa2 Server - 相学长怼前端 - SegmentFault](https://segmentfault.com/a/1190000009494041)
+
+2017-11-02 15:57 [基于 Koa, Sequelize, Redis 实现简单缓存机制 | 围观的翻墙群众 | Me.Sth.IT](http://solee.me/2016/03/17/ji-yu-koa-sequelize-redis-shi-xian-jian-dan-huan-cun-ji-zhi-2/)
+
+2017-11-10 14:43 [node koa2图片上传的实现 - 包子源的博客 - CSDN博客](http://blog.csdn.net/ziwoods/article/details/72822730)
+
 ## npmcdn
 
 2016-09-12 15:15 [unpkg](https://unpkg.com/#/)
@@ -3542,9 +3638,21 @@
 
 2017-07-21 16:21 [Sequelize 和 MySQL 对照 - 前端涨姿势 - SegmentFault](https://segmentfault.com/a/1190000003987871#articleHeader4)
 
+2017-10-27 16:51 [node sequelize SequelizeDatabaseError: ER_BAD_FIELD_ERROR: Unknown column 'createdAt' in 'field list - CSDN博客](http://blog.csdn.net/wangzhikui1/article/details/61958419)
+
+2017-11-13 14:53 [Manual | Sequelize | The node.js ORM for PostgreSQL, MySQL, SQLite and MSSQL](http://docs.sequelizejs.com/)
+
 ## pinojs
 
 2017-09-11 15:34 [Home - Pino - Super fast, all natural JSON logger for Node.js](http://getpino.io/#/)
+
+## fastify
+
+2017-10-30 09:19 [Fastify, Fast and low overhead web framework, for Node.js](https://www.fastify.io/)
+
+## Egg
+
+2017-11-01 09:35 [深夜放毒——阿里开源的企业级Node框架Egg使用指南 - CNode技术社区](http://cnodejs.org/topic/580a6a7e541dfb7b50f40a60)
 
 # FrameWork
 
@@ -5080,7 +5188,7 @@
 
 # IDE
 
-2017-04-06 10:28 [Android studio如何使用SVN进行版本控制？ - 知乎](https://www.zhihu.com/question/32298079)
+2017-11-09 15:11 [Android studio如何使用SVN进行版本控制？ - 知乎](https://www.zhihu.com/question/32298079)
 
 ## Webstorm
 
@@ -5502,6 +5610,8 @@
 
 2017-09-21 21:04 [EFE Tech - 百度EFE（Excellent FrontEnd）技术体系](http://efe.baidu.com/)
 
+2017-11-05 15:43 [CSP内容安全策略 - lmh2072005 - 博客园](http://www.cnblogs.com/lmh2072005/p/6044542.html)
+
 ## 规范
 
 2015-08-11 11:05 [前端JavaScript规范](http://www.runoob.com/w3cnote/javascript-guide.html)
@@ -5627,6 +5737,18 @@
 2017-09-04 15:07 [QUIC, a multiplexed stream transport over UDP - The Chromium Projects](https://www.chromium.org/quic)
 
 2017-09-15 17:08 [JavaScript 引擎性能比较之一SpiderMonkey - 温故而知新 - CSDN博客](http://blog.csdn.net/fanyamin/article/details/45566615)
+
+2017-10-17 17:18 [【干货】Chrome插件(扩展)开发全攻略 - 我是小茗同学 - 博客园](http://www.cnblogs.com/liuxianan/p/chrome-plugin-develop.html)
+
+2017-10-17 17:20 [【chrome扩展】管理你的浏览器(第四章)](http://blog.mn886.net/chenjianhua/show/6e057a66e07a/index.html)
+
+2017-10-17 20:53 [Note: 一个初步的 Chrome Packaged App 写法 - 题叶 - SegmentFault](https://segmentfault.com/a/1190000000454101)
+
+2017-10-17 20:55 [如何从零开始写一个 Chrome 扩展？ - 知乎](https://www.zhihu.com/question/20179805)
+
+2017-10-18 09:10 [chrome扩展开发之旅 第四篇 - WilsonLiu95's Blog - SegmentFault](https://segmentfault.com/a/1190000004334872)
+
+2017-10-18 09:13 [如何优雅地使用 Chrome？ - 知乎](https://www.zhihu.com/question/20595240)
 
 ## 加密
 
@@ -5842,6 +5964,8 @@
 
 2017-03-27 11:20 [CHM Viewer](http://chmviewer.com/)
 
+2017-11-13 12:04 [svg to png - CloudConvert](https://cloudconvert.com/svg-to-png)
+
 ## Fiddler
 
 2015-06-26 20:47 [Fiddler - 前端开发值得拥有 - 聂微东 - 博客园](http://www.cnblogs.com/Darren_code/archive/2011/09/28/Fiddler.html)
@@ -5896,6 +6020,12 @@
 
 2016-11-30 13:47 [Trello](https://trello.com/)
 
+## Prometheus
+
+2017-11-02 17:51 [使用Prometheus+Grafana监控MySQL实践 – 运维那点事](http://www.ywnds.com/?p=9656)
+
+2017-11-02 17:52 [使用Prometheus和Grafana监控Mysql服务器性能 - icyfire - SegmentFault](https://segmentfault.com/a/1190000007040144)
+
 # Google
 
 2016-01-13 17:02 [google hosts 2015，持续更新，2015.12.26已更新 - 360知识库](http://www.360kb.com/kb/2_122.html)
@@ -5917,6 +6047,10 @@
 2017-03-09 14:01 [为什么最近有很多名人，比如比尔盖茨，马斯克、霍金等，让人们警惕人工智能？ - 知乎专栏](https://zhuanlan.zhihu.com/p/19950456)
 
 2017-06-13 17:45 [为什么Lisp语言如此先进？（译文） - 阮一峰的网络日志](http://www.ruanyifeng.com/blog/2010/10/why_lisp_is_superior.html)
+
+2017-10-19 10:53 [DeepMind](https://deepmind.com/)
+
+2017-10-27 08:42 [We bring robots to life - Hanson Robotics Ltd.](http://www.hansonrobotics.com/)
 
 ## 机器人学习
 
@@ -6017,4 +6151,18 @@
 2017-06-07 14:53 [五步搞定Android开发环境部署——非常详细的Android开发环境搭建教程 - 边写边唱 - 博客园](http://www.cnblogs.com/zoupeiyang/p/4034517.html)
 
 2017-06-07 17:47 [JxBrowser — a Chromium-based Swing/JavaFX component](https://www.teamdev.com/jxbrowser)
+
+# NASA
+
+2017-10-17 13:44 [【福利】NASA宇宙星系图8亿像素图片24G大小 附下载地址_黑洞吧_百度贴吧](https://tieba.baidu.com/p/3268635113?red_tag=2391701261)
+
+2017-10-17 13:44 [Hubble Space Telescope Images | NASA](https://www.nasa.gov/mission_pages/hubble/multimedia/index.html)
+
+2017-10-17 13:51 [NASA Image and Video Library](https://images.nasa.gov/#/)
+
+# 小程序
+
+## weui-wxss
+
+2017-10-29 17:41 [小程序基础篇之使用weui.wxss-微信小程序俱乐部 www.wxappclub.com](http://www.wxappclub.com/topic/583)
 

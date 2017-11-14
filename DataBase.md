@@ -96,6 +96,8 @@
 
 2017-03-16 10:58 [查询（queries） · mongoose4.5中文文档](https://mongoose.shujuwajue.com/guide/queries.html)
 
+2017-10-27 13:22 [mongoose连接collection后自动加s的问题 - CSDN博客](http://blog.csdn.net/azureternite/article/details/52349114)
+
 ## SQL Server
 
 2016-06-29 09:20 [SQL Server 2008入门系列之设置数据库服务器的访问权限 - 邓奇的Blog - 51CTO技术博客](http://dengqi.blog.51cto.com/5685776/1221371)

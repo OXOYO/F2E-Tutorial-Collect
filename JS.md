@@ -996,6 +996,8 @@
 
 2017-05-05 13:57 [XML 问题: 使用 SVG 编程](https://www.ibm.com/developerworks/cn/xml/x-matters40/)
 
+2017-11-13 12:01 [前端实现 SVG 转 PNG - WEB前端 - 伯乐在线](http://web.jobbole.com/84244/)
+
 ## particles.js
 
 2017-05-12 12:09 [particlesJS使用简介 - 分享与交流 - 博客频道 - CSDN.NET](http://blog.csdn.net/csdn_yudong/article/details/53128570)

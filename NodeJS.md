@@ -144,6 +144,26 @@
 
 2017-10-13 17:52 [Node.js读写中文内容文件操作 - 水边的专栏 - CSDN博客](http://blog.csdn.net/youbl/article/details/29812669)
 
+2017-10-25 14:14 [NodeJS项目中优雅的使用ES7 - 郭东生blog - 博客园](http://www.cnblogs.com/gdsblog/p/7149483.html)
+
+2017-10-27 17:21 [通过babel-register在nodejs端使用es6 - CSDN博客](http://blog.csdn.net/shidaping/article/details/71403374)
+
+2017-11-01 12:23 [Nodejs开源项目里怎么样写测试、CI和代码测试覆盖率 - CNode技术社区](http://cnodejs.org/topic/558df089ebf9c92d17e73358)
+
+2017-11-01 12:27 [npm-run-test - CNode技术社区](https://cnodejs.org/topic/54646c7f88b869cc33a97924)
+
+2017-11-01 15:19 [Nodejs开源项目里怎么样写测试、CI和代码测试覆盖率 - CNode技术社区](https://cnodejs.org/topic/558df089ebf9c92d17e73358)
+
+2017-11-02 12:11 [node-glob学习 - 流浪猫の窝 - 博客园](http://www.cnblogs.com/liulangmao/p/4552339.html)
+
+2017-11-02 15:51 [Node.js开发者最常范的10个错误 - Jaxu - 博客园](http://www.cnblogs.com/jaxu/p/5618916.html)
+
+2017-11-02 15:52 [Node.js开发者最常范的10个错误 - Jaxu - 博客园](http://www.cnblogs.com/jaxu/p/5618916.html#sec_8)
+
+2017-11-03 12:03 [nodei.co](https://nodei.co/)
+
+2017-11-03 12:06 [开源项目徽章集锦 - spacewander - SegmentFault](https://segmentfault.com/a/1190000004278253)
+
 ## Express框架
 
 2015-04-15 17:14 [Nodejs初阶之express - 聂微东 - 博客园](http://www.cnblogs.com/Darren_code/p/node_express.html)
@@ -352,6 +372,8 @@
 
 2017-08-02 14:39 [【node】利用PM2实现 node服务器 后台运行和自动重启 - 杨成功的全栈之路 - SegmentFault](https://segmentfault.com/a/1190000008725179)
 
+2017-10-31 17:05 [nodejs部署方式-pm2 - zhangzongshan - 博客园](http://www.cnblogs.com/zzsdream/p/6898974.html)
+
 ## nrm
 
 2016-03-22 14:31 [nrm 快速切换 NPM 源 （附带测速功能） - 推酷](http://www.tuicool.com/articles/nYjqeu)
@@ -468,6 +490,20 @@
 
 2017-09-30 15:53 [如何理解 koa 中间件执行机制 - 蛤蛤 - SegmentFault](https://segmentfault.com/a/1190000002783230)
 
+2017-11-01 13:07 [Koa、Express Web单元测试 - CSDN博客](http://blog.csdn.net/shushanfx/article/details/78051838)
+
+2017-11-01 13:13 [runkoa：不需要了解babel即可使用koa2+async组合 - CNode技术社区](https://cnodejs.org/topic/57090089de442ee71db36bad)
+
+2017-11-02 09:50 [EADDRINUSE when watching tests with mocha and supertest](http://www.marcusoft.net/2015/10/eaddrinuse-when-watching-tests-with-mocha-and-supertest.html)
+
+2017-11-02 10:51 [ES2015 & babel 实战：开发NPM模块 - CNode技术社区](http://cnodejs.org/topic/565c65c4b31692e827fdd00c)
+
+2017-11-02 12:11 [从零搭建Koa2 Server - 相学长怼前端 - SegmentFault](https://segmentfault.com/a/1190000009494041)
+
+2017-11-02 15:57 [基于 Koa, Sequelize, Redis 实现简单缓存机制 | 围观的翻墙群众 | Me.Sth.IT](http://solee.me/2016/03/17/ji-yu-koa-sequelize-redis-shi-xian-jian-dan-huan-cun-ji-zhi-2/)
+
+2017-11-10 14:43 [node koa2图片上传的实现 - 包子源的博客 - CSDN博客](http://blog.csdn.net/ziwoods/article/details/72822730)
+
 ## npmcdn
 
 2016-09-12 15:15 [unpkg](https://unpkg.com/#/)
@@ -502,7 +538,19 @@
 
 2017-07-21 16:21 [Sequelize 和 MySQL 对照 - 前端涨姿势 - SegmentFault](https://segmentfault.com/a/1190000003987871#articleHeader4)
 
+2017-10-27 16:51 [node sequelize SequelizeDatabaseError: ER_BAD_FIELD_ERROR: Unknown column 'createdAt' in 'field list - CSDN博客](http://blog.csdn.net/wangzhikui1/article/details/61958419)
+
+2017-11-13 14:53 [Manual | Sequelize | The node.js ORM for PostgreSQL, MySQL, SQLite and MSSQL](http://docs.sequelizejs.com/)
+
 ## pinojs
 
 2017-09-11 15:34 [Home - Pino - Super fast, all natural JSON logger for Node.js](http://getpino.io/#/)
+
+## fastify
+
+2017-10-30 09:19 [Fastify, Fast and low overhead web framework, for Node.js](https://www.fastify.io/)
+
+## Egg
+
+2017-11-01 09:35 [深夜放毒——阿里开源的企业级Node框架Egg使用指南 - CNode技术社区](http://cnodejs.org/topic/580a6a7e541dfb7b50f40a60)
 

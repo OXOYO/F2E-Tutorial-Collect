@@ -144,6 +144,22 @@
 
 2017-10-12 09:54 [Gitlab可视化代码树插件-Octotree - 散尽浮华 - 博客园](http://www.cnblogs.com/kevingrace/p/6438849.html)
 
+2017-10-27 17:03 [Github Rank (China)](http://githubrank.com/)
+
+2017-10-30 16:24 [Gitstar Ranking - Top GitHub users and repositories](https://gitstar-ranking.com/)
+
+2017-10-31 15:19 [使用OAuth2.0协议的github、QQ、weibo第三方登录接入总结 - GabrielChenCN - 博客园](http://www.cnblogs.com/gabrielchen/p/5800225.html)
+
+2017-10-31 15:46 [Github 第三方授权登录教程 - CSDN博客](http://blog.csdn.net/javagaorui5944/article/details/52918772)
+
+2017-11-02 16:14 [David, a dependency management tool for Node.js projects](https://david-dm.org/)
+
+2017-11-02 16:28 [GitHub 项目徽章的添加和设置 - 简书](http://www.jianshu.com/p/e9ce56cb24ef)
+
+2017-11-02 16:29 [Shields.io: Quality metadata badges for open source projects](http://shields.io/)
+
+2017-11-03 12:09 [为你的Github README生成漂亮的徽章和进度条 - FH01号自律型科学实验舱](https://shikieiki.github.io/2017/03/01/%E4%B8%BA%E4%BD%A0%E7%9A%84Github%E7%94%9F%E6%88%90%E6%BC%82%E4%BA%AE%E7%9A%84%E5%BE%BD%E7%AB%A0%E5%92%8C%E8%BF%9B%E5%BA%A6%E6%9D%A1/)
+
 ## GitHub Pages
 
 2015-10-10 11:18 [怎样做一个漂亮的 GitHub Pages 首页？ - 前端开发 - 知乎](http://www.zhihu.com/question/20376047?sort=created)

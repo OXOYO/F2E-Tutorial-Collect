@@ -166,6 +166,20 @@
 
 2015-03-25 15:37 [Mocha - 一个功能丰富运行在Node.js和浏览器中的JavaScript测试框架 - OPEN 开发经验库](http://www.open-open.com/lib/view/open1337910447324.html)
 
+2017-11-01 14:07 [测试框架 Mocha 实例教程 - 阮一峰的网络日志](http://www.ruanyifeng.com/blog/2015/12/a-mocha-tutorial-of-examples.html)
+
+2017-11-01 14:08 [Testing in ES6 with Mocha and Babel 6](http://jamesknelson.com/testing-in-es6-with-mocha-and-babel-6/)
+
+2017-11-01 14:17 [测试框架mochajs详解 - HackerVirus - 博客园](http://www.cnblogs.com/Leo_wl/p/5734889.html)
+
+2017-11-01 14:31 [初识 mocha in NodeJS - CNode技术社区](https://cnodejs.org/topic/516526766d38277306c7d277)
+
+2017-11-02 16:01 [mocha异步之done - CNode技术社区](http://cnodejs.org/topic/535e03d614b825ea72005067)
+
+2017-11-02 16:02 [Chai](http://chaijs.com/)
+
+2017-11-02 16:19 [折腾 Coffee + mocha + Travis-CI 单元测试与覆盖率报告 - CNode技术社区](https://cnodejs.org/topic/5443b8342be2db9d42e8f685)
+
 ## gulp
 
 2015-03-30 15:16 [gulp API文档 - gulp.js 中文文档 | gulp.js 中文网](http://www.bootcss.com/gulpjs/docs/api/)
@@ -318,6 +332,8 @@
 
 2015-09-28 18:28 [Yeoman自动构建js项目 | 粉丝日志](http://blog.fens.me/nodejs-yeoman-intro/)
 
+2017-11-02 15:58 [创建 Yeoman Generator 简单教程 - 简书](http://www.jianshu.com/p/9f3e6bcdb274)
+
 ## browsersync
 
 2016-03-15 11:04 [Browsersync - Time-saving synchronised browser testing](https://www.browsersync.io/)
@@ -343,4 +359,22 @@
 2017-09-08 09:19 [Travis Ci的最接底气的中文使用教程 - 简书](http://www.jianshu.com/p/8308b8f08de9)
 
 2017-09-08 09:21 [一点都不高大上，手把手教你使用Travis CI实现持续部署 - 知乎专栏](https://zhuanlan.zhihu.com/p/25066056)
+
+2017-11-01 14:30 [利用Travis CI 让你的github项目持续构建(Node.js为例) - 破狼 - 博客园](http://www.cnblogs.com/whitewolf/archive/2013/04/14/3019838.html)
+
+2017-11-01 14:53 [React Native App CI | Lifecycle](https://richardcao.me/2016/12/11/React-Native-App-CI/)
+
+2017-11-01 14:56 [Travis 使用经验分享 - CNode技术社区](https://cnodejs.org/topic/557afc5816839d2d53936219)
+
+2017-11-01 15:33 [Github装逼指南——Travis CI 和 Codecov - MyCodingLife - SegmentFault](https://segmentfault.com/a/1190000004415437)
+
+2017-11-02 16:04 [Travis-CI 跑测试总报错（本地能通过） - CNode技术社区](https://cnodejs.org/topic/575c3b5a4fb027d05f43294d)
+
+2017-11-02 16:20 [Travis CI - Test and Deploy Your Code with Confidence](https://travis-ci.org/)
+
+2017-11-02 16:24 [JS测试与接入CI指南 - yangyiliang - SegmentFault](https://segmentfault.com/a/1190000007332019)
+
+## Codecov
+
+2017-11-01 15:37 [集成测试覆盖率工具 codecov - 简书](http://www.jianshu.com/p/146c4769d4b1)
 
