@@ -46,6 +46,10 @@
 
 2017-08-01 14:39 [[转]端口状态说明 LISTENING、ESTABLISHED、TIME_WAIT及CLOSE_WAIT - MN唐Ms - ITeye博客](http://mntms.iteye.com/blog/2231501)
 
+2017-11-23 17:09 [linux下IPTABLES配置详解 - 三毛仔 - 博客园](https://www.cnblogs.com/alimac/p/5848372.html)
+
+2017-12-04 15:03 [【windows】常见的系统环境变量，如%appdata%表示什么意思 - catshitone的专栏 - CSDN博客](http://blog.csdn.net/catshitone/article/details/70238163)
+
 ## Tengine
 
 2015-05-29 16:08 [The Tengine Web Server](http://tengine.taobao.org/index_cn.html)
@@ -117,6 +121,16 @@
 ## Apache
 
 2016-12-14 14:50 [Apache Thrift - 可伸缩的跨语言服务开发框架](https://www.ibm.com/developerworks/cn/java/j-lo-apachethrift/)
+
+2017-11-23 17:17 [mod_proxy － Apache 2.2 中文版参考手册](http://man.chinaunix.net/newsoft/Apache2.2_chinese_manual/mod/mod_proxy.html)
+
+2017-11-23 17:18 [Linux Apache 配置反向代理 - CSDN博客](http://blog.csdn.net/zhdl11/article/details/44182725)
+
+2017-11-23 17:18 [通过apache的反向代理实现多用途服务器 - 慎终如始 - SegmentFault](https://segmentfault.com/a/1190000005041026)
+
+2017-11-23 17:20 [[转]用apache反向代理解决单外网ip对应内网多个web主机的问题 - 老汉学IT - 博客园](https://www.cnblogs.com/coffeebox/p/3717753.html)
+
+2017-11-23 17:20 [简单的配置Apache2.4.7反向代理 - 简书](http://www.jianshu.com/p/475ef0ccc421)
 
 ## CentOS
 

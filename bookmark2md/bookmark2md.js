@@ -15,6 +15,21 @@ const timeNow = (new Date()).getTime()
 const dirNameObj = {}
 // 分割符
 const separator = '=>'
+// 格式化信息
+const formatMsg = function (target) {
+    let getBLen = function(str) {
+        if (str == null) return 0
+        if (typeof str !== 'string'){
+            str += ''
+        }
+        return str.replace(/[^\x00-\xff]/g, '01').length
+    }
+    let len = getBLen(target)
+    let max = len > 30 ? len + 10 : 30
+    let template = (new Array(max)).join(' ')
+    let res = target + template.substr(len, template.length)
+    return res
+}
 
 // 写文件
 const writeFile = function (fileName, content, filePath) {
@@ -24,7 +39,15 @@ const writeFile = function (fileName, content, filePath) {
         if (err) {
             return console.error(err)
         } else {
-            console.log(fileName + ' created success!')
+            let msg = []
+            msg.push(formatMsg(fileName) + ' created success!')
+
+            let stat = fs.statSync(filePath + fileName)
+            if (stat.isFile()) {
+                // 文件大小:
+                msg.push('size: ' + stat.size)
+            }
+            console.log(msg.join(' '))
         }
     })
 }

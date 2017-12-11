@@ -1566,6 +1566,8 @@
 
 2017-06-22 15:13 [解决PHP之 Allowed memory size of xxx bytes exhausted - ewili的专栏 - 博客频道 - CSDN.NET](http://blog.csdn.net/ewili/article/details/8034199)
 
+2017-11-21 10:59 [php版DES - 调调儿 - 博客园](https://www.cnblogs.com/weberypf/p/5228257.html)
+
 ## composer
 
 2017-02-14 15:43 [Packagist / Composer 中国全量镜像](https://pkg.phpcomposer.com/)
@@ -1605,6 +1607,8 @@
 2017-03-03 09:50 [PHP再学习4—— slim框架学习和使用 - 物联网 IoT 经验分享小站 - 博客频道 - CSDN.NET](http://blog.csdn.net/xukai871105/article/details/18677215)
 
 2017-03-03 12:52 [PHP slim restfull框架nginx 配置 - jackluo - 博客园](http://www.cnblogs.com/jackluo/p/3737924.html)
+
+2017-11-21 12:09 [Slim 框架 - SlimPHP中文网](http://www.slimphp.net/)
 
 ## CAS 单点登录
 
@@ -1850,6 +1854,10 @@
 
 2017-11-03 12:09 [为你的Github README生成漂亮的徽章和进度条 - FH01号自律型科学实验舱](https://shikieiki.github.io/2017/03/01/%E4%B8%BA%E4%BD%A0%E7%9A%84Github%E7%94%9F%E6%88%90%E6%BC%82%E4%BA%AE%E7%9A%84%E5%BE%BD%E7%AB%A0%E5%92%8C%E8%BF%9B%E5%BA%A6%E6%9D%A1/)
 
+2017-12-01 08:48 [如何正确地使用Git Flow？](https://www.toutiao.com/a6232064900786815234/?iid=18682180708&app=news_article)
+
+2017-12-06 09:25 [github release 功能的使用及问题解决 - Eggy2015的博客 - CSDN博客](http://blog.csdn.net/Eggy2015/article/details/52138751)
+
 ## GitHub Pages
 
 2015-10-10 11:18 [怎样做一个漂亮的 GitHub Pages 首页？ - 前端开发 - 知乎](http://www.zhihu.com/question/20376047?sort=created)
@@ -1932,6 +1940,10 @@
 
 2017-08-01 14:39 [[转]端口状态说明 LISTENING、ESTABLISHED、TIME_WAIT及CLOSE_WAIT - MN唐Ms - ITeye博客](http://mntms.iteye.com/blog/2231501)
 
+2017-11-23 17:09 [linux下IPTABLES配置详解 - 三毛仔 - 博客园](https://www.cnblogs.com/alimac/p/5848372.html)
+
+2017-12-04 15:03 [【windows】常见的系统环境变量，如%appdata%表示什么意思 - catshitone的专栏 - CSDN博客](http://blog.csdn.net/catshitone/article/details/70238163)
+
 ## Tengine
 
 2015-05-29 16:08 [The Tengine Web Server](http://tengine.taobao.org/index_cn.html)
@@ -2003,6 +2015,16 @@
 ## Apache
 
 2016-12-14 14:50 [Apache Thrift - 可伸缩的跨语言服务开发框架](https://www.ibm.com/developerworks/cn/java/j-lo-apachethrift/)
+
+2017-11-23 17:17 [mod_proxy － Apache 2.2 中文版参考手册](http://man.chinaunix.net/newsoft/Apache2.2_chinese_manual/mod/mod_proxy.html)
+
+2017-11-23 17:18 [Linux Apache 配置反向代理 - CSDN博客](http://blog.csdn.net/zhdl11/article/details/44182725)
+
+2017-11-23 17:18 [通过apache的反向代理实现多用途服务器 - 慎终如始 - SegmentFault](https://segmentfault.com/a/1190000005041026)
+
+2017-11-23 17:20 [[转]用apache反向代理解决单外网ip对应内网多个web主机的问题 - 老汉学IT - 博客园](https://www.cnblogs.com/coffeebox/p/3717753.html)
+
+2017-11-23 17:20 [简单的配置Apache2.4.7反向代理 - 简书](http://www.jianshu.com/p/475ef0ccc421)
 
 ## CentOS
 
@@ -2193,6 +2215,20 @@
 2017-07-10 10:23 [PHP与MySQL学习与实践— —新闻系统前后端 - theScoreONE的博客 - CSDN博客](http://blog.csdn.net/mqy1023/article/details/51292007)
 
 2017-07-10 10:23 [primary key与unique的区别 - 大头爸爸的博客 - CSDN博客](http://blog.csdn.net/zm2714/article/details/8482625)
+
+2017-11-20 16:02 [详解mysql int类型的长度值问题 - 追逐_something - 博客园](https://www.cnblogs.com/echo-something/archive/2012/08/26/mysql_int.html)
+
+2017-11-23 17:14 [查看mysql数据库及表编码格式 - shootercheng - 博客园](https://www.cnblogs.com/shootercheng/p/5836657.html)
+
+2017-11-23 17:16 [MySQL的几个character_set变量的说明_数据库技术_Linux公社-Linux系统门户网站](http://www.linuxidc.com/Linux/2017-04/143263.htm)
+
+2017-11-23 17:16 [msql character_set_results设置为utf-8 - CSDN博客](http://blog.csdn.net/userguanguan/article/details/8791468)
+
+2017-11-23 17:16 [mysql如何更改character-set-server默认为latin1 - CSDN博客](http://blog.csdn.net/whd526/article/details/54894559)
+
+2017-11-23 17:16 [Mysql中文乱码问题完美解决方案 - CSDN博客](http://blog.csdn.net/luoweifu/article/details/8832492)
+
+2017-12-01 09:16 [Ubuntu的MySQL中文乱码问题--自己躺坑 - 简书](http://www.jianshu.com/p/4c6a27542df4)
 
 ## IndexedDB
 
@@ -3264,6 +3300,24 @@
 
 2017-11-03 12:06 [开源项目徽章集锦 - spacewander - SegmentFault](https://segmentfault.com/a/1190000004278253)
 
+2017-11-14 17:59 [Node.js 新手入门 - CNode技术社区](https://cnodejs.org/getstart)
+
+2017-11-16 10:16 [教你从零开始搭建一款前端脚手架工具 - Jrain-前端养成记 - SegmentFault](https://segmentfault.com/a/1190000006190814?utm_source=weekly&utm_medium=email&utm_campaign=email_weekly#articleHeader0)
+
+2017-11-20 17:47 [Node.js加密算法库Crypto | 粉丝日志](http://blog.fens.me/nodejs-crypto/)
+
+2017-11-21 10:38 [使用NodeJS将XML解析成JSON及性能比较 - chen110xi - 博客园](https://www.cnblogs.com/chen110xi/p/5817101.html)
+
+2017-11-21 10:39 [nodejs模块xml2js解析xml的坑 - CSDN博客](http://blog.csdn.net/newjueqi/article/details/48804201)
+
+2017-11-23 17:06 [浅谈nodejs中的Crypto模块 - CNode技术社区](http://cnodejs.org/topic/504061d7fef591855112bab5)
+
+2017-11-23 17:07 [NodeJS 内置模块之crypto - CSDN博客](http://blog.csdn.net/qq_33315185/article/details/53436364)
+
+2017-11-23 17:10 [在Node.js使用mysql模块时遇到的坑 - CNode技术社区](https://cnodejs.org/topic/516b77e86d382773064266df)
+
+2017-12-04 10:49 [GIF 格式图片的存储和压缩 Node.js实现 - CSDN博客](http://blog.csdn.net/bat1992/article/details/70173453)
+
 ## Express框架
 
 2015-04-15 17:14 [Nodejs初阶之express - 聂微东 - 博客园](http://www.cnblogs.com/Darren_code/p/node_express.html)
@@ -3416,6 +3470,10 @@
 
 2016-02-16 13:22 [NW.js](http://nwjs.io/)
 
+2017-12-01 16:21 [nw.js node-webkit系列（3）基本程序结构与配置 - CSDN博客](http://blog.csdn.net/zeping891103/article/details/50728834)
+
+2017-12-01 17:59 [致良知，让良知的心伴你通行。 - CSDN博客](http://blog.csdn.net/zeping891103/article/category/5702195)
+
 ## hex框架
 
 2016-02-16 09:08 [heX：用HTML5和Node.JS开发桌面应用 | heX Blog](http://hex.youdao.com/blog/?p=25)
@@ -3473,6 +3531,8 @@
 2017-08-02 14:39 [【node】利用PM2实现 node服务器 后台运行和自动重启 - 杨成功的全栈之路 - SegmentFault](https://segmentfault.com/a/1190000008725179)
 
 2017-10-31 17:05 [nodejs部署方式-pm2 - zhangzongshan - 博客园](http://www.cnblogs.com/zzsdream/p/6898974.html)
+
+2017-11-23 17:13 [PM2实用入门指南 - 程序猿小卡 - 博客园](https://www.cnblogs.com/chyingp/p/pm2-documentation.html)
 
 ## nrm
 
@@ -4836,6 +4896,10 @@
 
 2017-08-25 11:03 [Vue自定义过滤器 - 半亩花田 - 博客园](http://www.cnblogs.com/lily1010/p/5837399.html)
 
+2017-12-05 17:20 [Vue中img的src属性绑定与static文件夹 - 简书](http://www.jianshu.com/p/f82c5ecbd3a5)
+
+2017-12-08 10:54 [vue+vue-router+vuex，利用vue-router2.2.0新增特性addRoutes实现路由动态加载，菜单动态加载，运用于后台管理系统，路由数据取自数据库 - CSDN博客](http://blog.csdn.net/s8460049/article/details/61190709)
+
 ### vuex
 
 2016-04-20 21:08 [vuejs/vuex: Flux-inspired Application Architecture for Vue.js.](https://github.com/vuejs/vuex)
@@ -5612,6 +5676,12 @@
 
 2017-11-05 15:43 [CSP内容安全策略 - lmh2072005 - 博客园](http://www.cnblogs.com/lmh2072005/p/6044542.html)
 
+2017-11-17 17:59 [免费 WEB API - 简易工作室](http://www.jianyiit.com/post-131.html)
+
+2017-11-19 19:27 [获取Bing每日壁纸用作首屏大图 - Giuem](https://www.giuem.com/bing-image-get-php/)
+
+2017-11-22 09:19 [求教大神浏览器是根据什么决定from disk cache 与 from memory cache？ - 知乎](https://www.zhihu.com/question/64201378)
+
 ## 规范
 
 2015-08-11 11:05 [前端JavaScript规范](http://www.runoob.com/w3cnote/javascript-guide.html)
@@ -5858,6 +5928,8 @@
 
 2016-11-25 14:55 [RemoteDev](http://remotedev.io/)
 
+2017-12-01 09:26 [使用 DevTools 的工作区设置持久化  |  Tools for Web Developers  |  Google Developers](https://developers.google.com/web/tools/setup/setup-workflow?utm_source=dcc&utm_medium=redirect&utm_campaign=2016q3)
+
 ## SOAP
 
 2016-12-20 16:03 [blog.csdn.net/zhuizhuziwo/article/details/8153327](http://blog.csdn.net/zhuizhuziwo/article/details/8153327)
@@ -5965,6 +6037,8 @@
 2017-03-27 11:20 [CHM Viewer](http://chmviewer.com/)
 
 2017-11-13 12:04 [svg to png - CloudConvert](https://cloudconvert.com/svg-to-png)
+
+2017-12-01 09:28 [ScreenToGif - Record your screen, edit and save as a Gif or video](http://www.screentogif.com/?l=zh_cn)
 
 ## Fiddler
 

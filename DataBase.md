@@ -144,6 +144,20 @@
 
 2017-07-10 10:23 [primary key与unique的区别 - 大头爸爸的博客 - CSDN博客](http://blog.csdn.net/zm2714/article/details/8482625)
 
+2017-11-20 16:02 [详解mysql int类型的长度值问题 - 追逐_something - 博客园](https://www.cnblogs.com/echo-something/archive/2012/08/26/mysql_int.html)
+
+2017-11-23 17:14 [查看mysql数据库及表编码格式 - shootercheng - 博客园](https://www.cnblogs.com/shootercheng/p/5836657.html)
+
+2017-11-23 17:16 [MySQL的几个character_set变量的说明_数据库技术_Linux公社-Linux系统门户网站](http://www.linuxidc.com/Linux/2017-04/143263.htm)
+
+2017-11-23 17:16 [msql character_set_results设置为utf-8 - CSDN博客](http://blog.csdn.net/userguanguan/article/details/8791468)
+
+2017-11-23 17:16 [mysql如何更改character-set-server默认为latin1 - CSDN博客](http://blog.csdn.net/whd526/article/details/54894559)
+
+2017-11-23 17:16 [Mysql中文乱码问题完美解决方案 - CSDN博客](http://blog.csdn.net/luoweifu/article/details/8832492)
+
+2017-12-01 09:16 [Ubuntu的MySQL中文乱码问题--自己躺坑 - 简书](http://www.jianshu.com/p/4c6a27542df4)
+
 ## IndexedDB
 
 2017-05-19 09:27 [前端的数据库：IndexedDB入门 - WEB前端 - 伯乐在线](http://web.jobbole.com/81793/)

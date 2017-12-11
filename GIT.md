@@ -160,6 +160,10 @@
 
 2017-11-03 12:09 [为你的Github README生成漂亮的徽章和进度条 - FH01号自律型科学实验舱](https://shikieiki.github.io/2017/03/01/%E4%B8%BA%E4%BD%A0%E7%9A%84Github%E7%94%9F%E6%88%90%E6%BC%82%E4%BA%AE%E7%9A%84%E5%BE%BD%E7%AB%A0%E5%92%8C%E8%BF%9B%E5%BA%A6%E6%9D%A1/)
 
+2017-12-01 08:48 [如何正确地使用Git Flow？](https://www.toutiao.com/a6232064900786815234/?iid=18682180708&app=news_article)
+
+2017-12-06 09:25 [github release 功能的使用及问题解决 - Eggy2015的博客 - CSDN博客](http://blog.csdn.net/Eggy2015/article/details/52138751)
+
 ## GitHub Pages
 
 2015-10-10 11:18 [怎样做一个漂亮的 GitHub Pages 首页？ - 前端开发 - 知乎](http://www.zhihu.com/question/20376047?sort=created)

@@ -108,6 +108,8 @@
 
 2017-06-22 15:13 [解决PHP之 Allowed memory size of xxx bytes exhausted - ewili的专栏 - 博客频道 - CSDN.NET](http://blog.csdn.net/ewili/article/details/8034199)
 
+2017-11-21 10:59 [php版DES - 调调儿 - 博客园](https://www.cnblogs.com/weberypf/p/5228257.html)
+
 ## composer
 
 2017-02-14 15:43 [Packagist / Composer 中国全量镜像](https://pkg.phpcomposer.com/)
@@ -147,6 +149,8 @@
 2017-03-03 09:50 [PHP再学习4—— slim框架学习和使用 - 物联网 IoT 经验分享小站 - 博客频道 - CSDN.NET](http://blog.csdn.net/xukai871105/article/details/18677215)
 
 2017-03-03 12:52 [PHP slim restfull框架nginx 配置 - jackluo - 博客园](http://www.cnblogs.com/jackluo/p/3737924.html)
+
+2017-11-21 12:09 [Slim 框架 - SlimPHP中文网](http://www.slimphp.net/)
 
 ## CAS 单点登录
 

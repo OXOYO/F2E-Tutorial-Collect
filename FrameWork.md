@@ -1180,6 +1180,10 @@
 
 2017-08-25 11:03 [Vue自定义过滤器 - 半亩花田 - 博客园](http://www.cnblogs.com/lily1010/p/5837399.html)
 
+2017-12-05 17:20 [Vue中img的src属性绑定与static文件夹 - 简书](http://www.jianshu.com/p/f82c5ecbd3a5)
+
+2017-12-08 10:54 [vue+vue-router+vuex，利用vue-router2.2.0新增特性addRoutes实现路由动态加载，菜单动态加载，运用于后台管理系统，路由数据取自数据库 - CSDN博客](http://blog.csdn.net/s8460049/article/details/61190709)
+
 ### vuex
 
 2016-04-20 21:08 [vuejs/vuex: Flux-inspired Application Architecture for Vue.js.](https://github.com/vuejs/vuex)

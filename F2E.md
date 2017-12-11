@@ -148,6 +148,12 @@
 
 2017-11-05 15:43 [CSP内容安全策略 - lmh2072005 - 博客园](http://www.cnblogs.com/lmh2072005/p/6044542.html)
 
+2017-11-17 17:59 [免费 WEB API - 简易工作室](http://www.jianyiit.com/post-131.html)
+
+2017-11-19 19:27 [获取Bing每日壁纸用作首屏大图 - Giuem](https://www.giuem.com/bing-image-get-php/)
+
+2017-11-22 09:19 [求教大神浏览器是根据什么决定from disk cache 与 from memory cache？ - 知乎](https://www.zhihu.com/question/64201378)
+
 ## 规范
 
 2015-08-11 11:05 [前端JavaScript规范](http://www.runoob.com/w3cnote/javascript-guide.html)
@@ -393,6 +399,8 @@
 ## 调试
 
 2016-11-25 14:55 [RemoteDev](http://remotedev.io/)
+
+2017-12-01 09:26 [使用 DevTools 的工作区设置持久化  |  Tools for Web Developers  |  Google Developers](https://developers.google.com/web/tools/setup/setup-workflow?utm_source=dcc&utm_medium=redirect&utm_campaign=2016q3)
 
 ## SOAP
 

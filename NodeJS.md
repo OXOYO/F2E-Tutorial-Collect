@@ -164,6 +164,24 @@
 
 2017-11-03 12:06 [开源项目徽章集锦 - spacewander - SegmentFault](https://segmentfault.com/a/1190000004278253)
 
+2017-11-14 17:59 [Node.js 新手入门 - CNode技术社区](https://cnodejs.org/getstart)
+
+2017-11-16 10:16 [教你从零开始搭建一款前端脚手架工具 - Jrain-前端养成记 - SegmentFault](https://segmentfault.com/a/1190000006190814?utm_source=weekly&utm_medium=email&utm_campaign=email_weekly#articleHeader0)
+
+2017-11-20 17:47 [Node.js加密算法库Crypto | 粉丝日志](http://blog.fens.me/nodejs-crypto/)
+
+2017-11-21 10:38 [使用NodeJS将XML解析成JSON及性能比较 - chen110xi - 博客园](https://www.cnblogs.com/chen110xi/p/5817101.html)
+
+2017-11-21 10:39 [nodejs模块xml2js解析xml的坑 - CSDN博客](http://blog.csdn.net/newjueqi/article/details/48804201)
+
+2017-11-23 17:06 [浅谈nodejs中的Crypto模块 - CNode技术社区](http://cnodejs.org/topic/504061d7fef591855112bab5)
+
+2017-11-23 17:07 [NodeJS 内置模块之crypto - CSDN博客](http://blog.csdn.net/qq_33315185/article/details/53436364)
+
+2017-11-23 17:10 [在Node.js使用mysql模块时遇到的坑 - CNode技术社区](https://cnodejs.org/topic/516b77e86d382773064266df)
+
+2017-12-04 10:49 [GIF 格式图片的存储和压缩 Node.js实现 - CSDN博客](http://blog.csdn.net/bat1992/article/details/70173453)
+
 ## Express框架
 
 2015-04-15 17:14 [Nodejs初阶之express - 聂微东 - 博客园](http://www.cnblogs.com/Darren_code/p/node_express.html)
@@ -316,6 +334,10 @@
 
 2016-02-16 13:22 [NW.js](http://nwjs.io/)
 
+2017-12-01 16:21 [nw.js node-webkit系列（3）基本程序结构与配置 - CSDN博客](http://blog.csdn.net/zeping891103/article/details/50728834)
+
+2017-12-01 17:59 [致良知，让良知的心伴你通行。 - CSDN博客](http://blog.csdn.net/zeping891103/article/category/5702195)
+
 ## hex框架
 
 2016-02-16 09:08 [heX：用HTML5和Node.JS开发桌面应用 | heX Blog](http://hex.youdao.com/blog/?p=25)
@@ -373,6 +395,8 @@
 2017-08-02 14:39 [【node】利用PM2实现 node服务器 后台运行和自动重启 - 杨成功的全栈之路 - SegmentFault](https://segmentfault.com/a/1190000008725179)
 
 2017-10-31 17:05 [nodejs部署方式-pm2 - zhangzongshan - 博客园](http://www.cnblogs.com/zzsdream/p/6898974.html)
+
+2017-11-23 17:13 [PM2实用入门指南 - 程序猿小卡 - 博客园](https://www.cnblogs.com/chyingp/p/pm2-documentation.html)
 
 ## nrm
 
