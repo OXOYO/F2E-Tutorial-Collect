@@ -5,6 +5,5 @@
 ## Use
 ```bash
   cd bookmark2md
-  npm i
   npm run start
 ```

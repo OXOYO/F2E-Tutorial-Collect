@@ -20,6 +20,10 @@
 
 2016-09-02 13:30 [A-Frame – Building Blocks for the VR Web](https://aframe.io/)
 
+2017-12-14 20:55 [WebVR教程 | WebVR中文文档 | A-Frame在线教程 | 踏得网](http://www.techbrood.com/aframe)
+
+2017-12-21 21:37 [A-Frame.js 学习&文档翻译（一）实体 - moonx - SegmentFault](https://segmentfault.com/a/1190000009240281)
+
 ## Primrosevr
 
 2016-08-25 13:11 [Primrose VR: WebVR Application Framework](https://www.primrosevr.com/)
@@ -33,6 +37,8 @@
 2016-09-01 13:49 [Mozilla 开源 web 虚拟现实框架 A-Frame - 开源中国社区](http://www.oschina.net/news/69119/mozilla-open-source-a-frame)
 
 2016-09-01 13:55 [VR开发 入门 使用Three.js 开发的WebVR demo - Ritter Liu的专栏 - 博客频道 - CSDN.NET](http://blog.csdn.net/ritterliu/article/details/51386980)
+
+2017-12-21 21:50 [WebVR Rocks • Your guide to Virtual Reality in the browser](https://webvr.rocks/)
 
 ## Gear VR
 

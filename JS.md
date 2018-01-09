@@ -490,6 +490,14 @@
 
 2017-09-22 09:32 [mo · js - Motion Graphics For The Web](http://mojs.io/)
 
+2017-12-15 18:01 [白话debounce和throttle - 田小计划 - 博客园](https://www.cnblogs.com/wilber2013/p/5893426.html)
+
+2017-12-15 18:01 [Debounce 和 Throttle 的原理及实现 - CSDN博客](http://blog.csdn.net/redtopic/article/details/69396722)
+
+2017-12-15 18:02 [JS魔法堂：函数节流（throttle）与函数去抖（debounce） - ^_^肥仔John - 博客园](https://www.cnblogs.com/fsjohnhuang/p/4147810.html)
+
+2017-12-24 22:34 [require() 源码解读 - 阮一峰的网络日志](http://www.ruanyifeng.com/blog/2015/05/require.html)
+
 ## swiper滑动插件
 
 2015-02-04 18:24 [Swiper 中文API手册（share） - 挨踢前端 - 博客园](http://www.cnblogs.com/duanhuajian/p/4097310.html)
@@ -689,6 +697,8 @@
 2017-06-28 10:38 [使用 ES6 的浏览器兼容性问题 - 秘锐笔记 - SegmentFault](https://segmentfault.com/a/1190000005128101)
 
 2017-08-04 11:07 [Babel核心用法记要 - 简书](http://www.jianshu.com/p/ff7e0de573a9)
+
+2018-01-09 16:35 [js求数组最大值方法汇总 - zhwaner - 博客园](https://www.cnblogs.com/zhwaner/p/7513649.html)
 
 ## 正则
 

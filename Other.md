@@ -84,3 +84,11 @@
 
 2017-09-15 16:59 [Safari, the world's most comprehensive tech & business learning platform](https://www.safaribooksonline.com/)
 
+2017-12-14 16:53 [RDMA_百度百科](https://baike.baidu.com/item/RDMA/1453093?fr=aladdin)
+
+2017-12-14 16:56 [使用 Socket Direct Protocol 实现 DB2 的 RDMA 功能](https://www.ibm.com/developerworks/cn/data/library/techarticle/dm-1207rdmasocketdirect/)
+
+2017-12-20 22:41 [《Apache Velocity用户指南》官方文档 | 并发编程网 – ifeve.com](http://ifeve.com/apache-velocity-dev/)
+
+2018-01-03 10:03 [首页 | Read the Docs](https://readthedocs.org/)
+

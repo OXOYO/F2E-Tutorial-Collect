@@ -932,6 +932,14 @@
 
 2017-09-22 09:32 [mo · js - Motion Graphics For The Web](http://mojs.io/)
 
+2017-12-15 18:01 [白话debounce和throttle - 田小计划 - 博客园](https://www.cnblogs.com/wilber2013/p/5893426.html)
+
+2017-12-15 18:01 [Debounce 和 Throttle 的原理及实现 - CSDN博客](http://blog.csdn.net/redtopic/article/details/69396722)
+
+2017-12-15 18:02 [JS魔法堂：函数节流（throttle）与函数去抖（debounce） - ^_^肥仔John - 博客园](https://www.cnblogs.com/fsjohnhuang/p/4147810.html)
+
+2017-12-24 22:34 [require() 源码解读 - 阮一峰的网络日志](http://www.ruanyifeng.com/blog/2015/05/require.html)
+
 ## swiper滑动插件
 
 2015-02-04 18:24 [Swiper 中文API手册（share） - 挨踢前端 - 博客园](http://www.cnblogs.com/duanhuajian/p/4097310.html)
@@ -1131,6 +1139,8 @@
 2017-06-28 10:38 [使用 ES6 的浏览器兼容性问题 - 秘锐笔记 - SegmentFault](https://segmentfault.com/a/1190000005128101)
 
 2017-08-04 11:07 [Babel核心用法记要 - 简书](http://www.jianshu.com/p/ff7e0de573a9)
+
+2018-01-09 16:35 [js求数组最大值方法汇总 - zhwaner - 博客园](https://www.cnblogs.com/zhwaner/p/7513649.html)
 
 ## 正则
 
@@ -3082,6 +3092,10 @@
 
 2017-05-26 11:58 [webpack 的几个重要概念 - 即刻出发_ - SegmentFault](https://segmentfault.com/a/1190000007649656)
 
+2017-12-24 16:41 [前端模块化工具-webpack - HackerVirus - 博客园](http://www.cnblogs.com/Leo_wl/p/4862714.html)
+
+2017-12-24 22:03 [webpack解惑：require的五种用法 - lanyan - 博客园](https://www.cnblogs.com/laneyfu/p/6262321.html)
+
 ## yo
 
 2015-09-28 17:40 [30天web实践3-yeoman - SegmentFault](http://segmentfault.com/a/1190000000656748)
@@ -3109,6 +3123,8 @@
 2017-06-13 17:01 [Yarn](https://yarnpkg.com/zh-Hans/)
 
 2017-06-21 09:39 [Yarn vs npm: 你需要知道的一切 - WEB前端 - 伯乐在线](http://web.jobbole.com/88459/)
+
+2017-12-19 21:01 [Yarn 中文网](https://yarn.bootcss.com/)
 
 ## Travis Ci
 
@@ -3573,6 +3589,8 @@
 2017-05-17 11:20 [开发nodejs模块并发布到npm的简单示例 - Zhuang miao - 博客园](http://www.cnblogs.com/mz121star/archive/2012/11/15/nodejsandnom.html)
 
 2017-05-18 17:05 [npm升级所有可更新包 - 推酷](http://www.tuicool.com/articles/UbyY7rY)
+
+2017-12-24 15:50 [npm install 报错chromedriver 记录 - CSDN博客](http://blog.csdn.net/sunzhemin/article/details/51979967)
 
 ## JSON Server
 
@@ -4900,6 +4918,8 @@
 
 2017-12-08 10:54 [vue+vue-router+vuex，利用vue-router2.2.0新增特性addRoutes实现路由动态加载，菜单动态加载，运用于后台管理系统，路由数据取自数据库 - CSDN博客](http://blog.csdn.net/s8460049/article/details/61190709)
 
+2017-12-20 17:21 [Vue中使用ElementUI使用第三方图标库iconfont - CSDN博客](http://blog.csdn.net/qq_15646957/article/details/77887068)
+
 ### vuex
 
 2016-04-20 21:08 [vuejs/vuex: Flux-inspired Application Architecture for Vue.js.](https://github.com/vuejs/vuex)
@@ -4909,6 +4929,8 @@
 2016-05-17 17:06 [用 Vuex 构建一个笔记应用 - 掘金](http://gold.xitu.io/entry/5721772bc4c9710056f591c9)
 
 2016-09-08 09:34 [vuex数据在什么时候初始化比较合适(使用vue-resource情况下) - Tomoe的回答 - SegmentFault](https://segmentfault.com/q/1010000005894526/a-1020000005899559)
+
+2017-12-19 22:36 [vuex源码 安装依赖问题 - CSDN博客](http://blog.csdn.net/qq_34629352/article/details/78475769)
 
 ### vue-router
 
@@ -5092,6 +5114,8 @@
 
 2017-06-01 09:07 [DCloud - HBuilder、5+、mui、流应用、HTML5专家](http://www.dcloud.io/)
 
+2017-12-19 22:19 [利用HBuilder将vue项目打包成移动端app - CSDN博客](http://blog.csdn.net/zhoudan232/article/details/73466814)
+
 # Blog
 
 2015-03-25 11:18 [jekyll_百度百科](http://baike.baidu.com/link?url=ORyhLbLLxlb-7l1gjAvMwYC0gcRgdy-O7NxRFsSGKfq9A8lQSi7s8VyNi38mfnTq2g0e72_e2u48IC2QHG4orK)
@@ -5250,6 +5274,14 @@
 
 2017-09-15 16:59 [Safari, the world's most comprehensive tech & business learning platform](https://www.safaribooksonline.com/)
 
+2017-12-14 16:53 [RDMA_百度百科](https://baike.baidu.com/item/RDMA/1453093?fr=aladdin)
+
+2017-12-14 16:56 [使用 Socket Direct Protocol 实现 DB2 的 RDMA 功能](https://www.ibm.com/developerworks/cn/data/library/techarticle/dm-1207rdmasocketdirect/)
+
+2017-12-20 22:41 [《Apache Velocity用户指南》官方文档 | 并发编程网 – ifeve.com](http://ifeve.com/apache-velocity-dev/)
+
+2018-01-03 10:03 [首页 | Read the Docs](https://readthedocs.org/)
+
 # IDE
 
 2017-11-09 15:11 [Android studio如何使用SVN进行版本控制？ - 知乎](https://www.zhihu.com/question/32298079)
@@ -5351,6 +5383,8 @@
 2016-11-27 18:35 [Color Themes](http://color-themes.com/?view=index)
 
 2017-06-07 18:02 [【021今日分享】——IntelliJ IDEA Multi-MarkDown插件安装破J全过程 - 简书](http://www.jianshu.com/p/a0550f81cbd1)
+
+2017-12-20 22:47 [使用IntelliJ IDEA开发前的基本设置，有助于提高开发效率 - CSDN博客](http://blog.csdn.net/sd4015700/article/details/42192325)
 
 ## Eclipse
 
@@ -5681,6 +5715,12 @@
 2017-11-19 19:27 [获取Bing每日壁纸用作首屏大图 - Giuem](https://www.giuem.com/bing-image-get-php/)
 
 2017-11-22 09:19 [求教大神浏览器是根据什么决定from disk cache 与 from memory cache？ - 知乎](https://www.zhihu.com/question/64201378)
+
+2017-12-15 19:56 [Awesomes-Web前端开发资源库](https://www.awesomes.cn/)
+
+2018-01-04 14:47 [winui - Win10风格前端解决方案](https://www.win-ui.com/)
+
+2018-01-05 15:22 [loading.io - Your SVG + GIF Ajax Loading Icons](https://loading.io/)
 
 ## 规范
 
@@ -6126,6 +6166,10 @@
 
 2017-10-27 08:42 [We bring robots to life - Hanson Robotics Ltd.](http://www.hansonrobotics.com/)
 
+2017-12-14 16:21 [TensorFlow中文社区-首页](http://www.tensorfly.cn/)
+
+2017-12-14 16:54 [这才是 TensorFlow 自带可视化工具 TensorBoard 的正确打开方式！（附项目源码） | 雷锋网](https://www.leiphone.com/news/201704/PgRxGpwtFpSgJoAZ.html)
+
 ## 机器人学习
 
 2015-09-18 17:46 [斯坦福博士(生)手把手教你用Javascript写深度学习代码 - stereohomology - 博客频道 - CSDN.NET](http://blog.csdn.net/stereohomology/article/details/41116971)
@@ -6166,6 +6210,10 @@
 
 2016-09-02 13:30 [A-Frame – Building Blocks for the VR Web](https://aframe.io/)
 
+2017-12-14 20:55 [WebVR教程 | WebVR中文文档 | A-Frame在线教程 | 踏得网](http://www.techbrood.com/aframe)
+
+2017-12-21 21:37 [A-Frame.js 学习&文档翻译（一）实体 - moonx - SegmentFault](https://segmentfault.com/a/1190000009240281)
+
 ## Primrosevr
 
 2016-08-25 13:11 [Primrose VR: WebVR Application Framework](https://www.primrosevr.com/)
@@ -6179,6 +6227,8 @@
 2016-09-01 13:49 [Mozilla 开源 web 虚拟现实框架 A-Frame - 开源中国社区](http://www.oschina.net/news/69119/mozilla-open-source-a-frame)
 
 2016-09-01 13:55 [VR开发 入门 使用Three.js 开发的WebVR demo - Ritter Liu的专栏 - 博客频道 - CSDN.NET](http://blog.csdn.net/ritterliu/article/details/51386980)
+
+2017-12-21 21:50 [WebVR Rocks • Your guide to Virtual Reality in the browser](https://webvr.rocks/)
 
 ## Gear VR
 

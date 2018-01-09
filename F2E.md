@@ -154,6 +154,12 @@
 
 2017-11-22 09:19 [求教大神浏览器是根据什么决定from disk cache 与 from memory cache？ - 知乎](https://www.zhihu.com/question/64201378)
 
+2017-12-15 19:56 [Awesomes-Web前端开发资源库](https://www.awesomes.cn/)
+
+2018-01-04 14:47 [winui - Win10风格前端解决方案](https://www.win-ui.com/)
+
+2018-01-05 15:22 [loading.io - Your SVG + GIF Ajax Loading Icons](https://loading.io/)
+
 ## 规范
 
 2015-08-11 11:05 [前端JavaScript规范](http://www.runoob.com/w3cnote/javascript-guide.html)

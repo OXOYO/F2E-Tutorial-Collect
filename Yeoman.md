@@ -326,6 +326,10 @@
 
 2017-05-26 11:58 [webpack 的几个重要概念 - 即刻出发_ - SegmentFault](https://segmentfault.com/a/1190000007649656)
 
+2017-12-24 16:41 [前端模块化工具-webpack - HackerVirus - 博客园](http://www.cnblogs.com/Leo_wl/p/4862714.html)
+
+2017-12-24 22:03 [webpack解惑：require的五种用法 - lanyan - 博客园](https://www.cnblogs.com/laneyfu/p/6262321.html)
+
 ## yo
 
 2015-09-28 17:40 [30天web实践3-yeoman - SegmentFault](http://segmentfault.com/a/1190000000656748)
@@ -353,6 +357,8 @@
 2017-06-13 17:01 [Yarn](https://yarnpkg.com/zh-Hans/)
 
 2017-06-21 09:39 [Yarn vs npm: 你需要知道的一切 - WEB前端 - 伯乐在线](http://web.jobbole.com/88459/)
+
+2017-12-19 21:01 [Yarn 中文网](https://yarn.bootcss.com/)
 
 ## Travis Ci
 

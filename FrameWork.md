@@ -1184,6 +1184,8 @@
 
 2017-12-08 10:54 [vue+vue-router+vuex，利用vue-router2.2.0新增特性addRoutes实现路由动态加载，菜单动态加载，运用于后台管理系统，路由数据取自数据库 - CSDN博客](http://blog.csdn.net/s8460049/article/details/61190709)
 
+2017-12-20 17:21 [Vue中使用ElementUI使用第三方图标库iconfont - CSDN博客](http://blog.csdn.net/qq_15646957/article/details/77887068)
+
 ### vuex
 
 2016-04-20 21:08 [vuejs/vuex: Flux-inspired Application Architecture for Vue.js.](https://github.com/vuejs/vuex)
@@ -1193,6 +1195,8 @@
 2016-05-17 17:06 [用 Vuex 构建一个笔记应用 - 掘金](http://gold.xitu.io/entry/5721772bc4c9710056f591c9)
 
 2016-09-08 09:34 [vuex数据在什么时候初始化比较合适(使用vue-resource情况下) - Tomoe的回答 - SegmentFault](https://segmentfault.com/q/1010000005894526/a-1020000005899559)
+
+2017-12-19 22:36 [vuex源码 安装依赖问题 - CSDN博客](http://blog.csdn.net/qq_34629352/article/details/78475769)
 
 ### vue-router
 
@@ -1375,4 +1379,6 @@
 ## HBuilder
 
 2017-06-01 09:07 [DCloud - HBuilder、5+、mui、流应用、HTML5专家](http://www.dcloud.io/)
+
+2017-12-19 22:19 [利用HBuilder将vue项目打包成移动端app - CSDN博客](http://blog.csdn.net/zhoudan232/article/details/73466814)
 

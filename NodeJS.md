@@ -438,6 +438,8 @@
 
 2017-05-18 17:05 [npm升级所有可更新包 - 推酷](http://www.tuicool.com/articles/UbyY7rY)
 
+2017-12-24 15:50 [npm install 报错chromedriver 记录 - CSDN博客](http://blog.csdn.net/sunzhemin/article/details/51979967)
+
 ## JSON Server
 
 2016-09-08 09:23 [三步使用 JSON Server 模拟 API - OPEN 开发经验库](http://www.open-open.com/lib/view/open1443075501873.html)
