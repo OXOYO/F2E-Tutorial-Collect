@@ -92,3 +92,5 @@
 
 2018-01-03 10:03 [首页 | Read the Docs](https://readthedocs.org/)
 
+2018-01-11 22:38 [安装并配置android sdk - 简书](https://www.jianshu.com/p/4ac1313b50cb)
+

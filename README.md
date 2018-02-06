@@ -236,6 +236,8 @@
 
 2017-03-10 15:24 [CSS五种方式实现Footer置底 - 每天学点前端开发 - SegmentFault](https://segmentfault.com/a/1190000008516654?utm_source=weekly&utm_medium=email&utm_campaign=email_weekly)
 
+2018-01-18 17:45 [使用CSS3开启GPU硬件加速提升网站动画渲染性能 - CSDN博客](http://blog.csdn.net/hsany330/article/details/50925260)
+
 ## LESS
 
 2015-01-27 11:14 [Koala - LESS/Sass/Compass/CoffeeScript编译工具](http://koala-app.com/index-zh.html)
@@ -393,6 +395,8 @@
 2017-05-11 18:10 [CSS Modules 用法教程 - 阮一峰的网络日志](http://www.ruanyifeng.com/blog/2016/06/css_modules.html)
 
 2017-06-30 09:59 [Create Windows 7 start menu using CSS3 only : Janko Jovanovic](http://www.jankoatwarpspeed.com/create-windows-7-start-menu-using-css3-only/)
+
+2018-01-15 14:46 [CSS3模拟window7炫酷界面效果展示 « 张鑫旭-鑫空间-鑫生活](http://www.zhangxinxu.com/wordpress/2010/05/css3%E6%A8%A1%E6%8B%9Fwindow7%E7%82%AB%E9%85%B7%E7%95%8C%E9%9D%A2%E6%95%88%E6%9E%9C%E5%B1%95%E7%A4%BA/)
 
 ## Font
 
@@ -940,6 +944,18 @@
 
 2017-12-24 22:34 [require() 源码解读 - 阮一峰的网络日志](http://www.ruanyifeng.com/blog/2015/05/require.html)
 
+2018-01-12 11:13 [解决Javascript中$(window).resize()多次执行 - 水狼一族 - 博客园](https://www.cnblogs.com/shuilangyizu/p/6816756.html)
+
+2018-01-15 22:36 [使用html2canvas实现浏览器截图 - 焰尾迭 - 博客园](https://www.cnblogs.com/yanweidie/p/5203943.html)
+
+2018-01-16 10:32 [移动端H5页面截图【含 domtoimage、html2canvas 】 - CSDN博客](http://blog.csdn.net/candy_home/article/details/78424642)
+
+2018-01-18 17:06 [JavaScript实现最简单的拖拽效果 « 张鑫旭-鑫空间-鑫生活](http://www.zhangxinxu.com/wordpress/2010/03/javascript%E5%AE%9E%E7%8E%B0%E6%9C%80%E7%AE%80%E5%8D%95%E7%9A%84%E6%8B%96%E6%8B%BD%E6%95%88%E6%9E%9C/)
+
+2018-01-18 21:57 [24行代码，让你的网页元素任意放大、缩小、拖拽、移动 - CSDN博客](http://blog.csdn.net/dqs78833488/article/details/51392833)
+
+2018-01-19 10:45 [运用HTML5原生拖动事件（drag）实现拖动效果 - veitch07 - 博客园](https://www.cnblogs.com/veitch007/p/4006640.html)
+
 ## swiper滑动插件
 
 2015-02-04 18:24 [Swiper 中文API手册（share） - 挨踢前端 - 博客园](http://www.cnblogs.com/duanhuajian/p/4097310.html)
@@ -1330,6 +1346,8 @@
 
 2015-12-24 19:20 [JS设置cookie，删除cookie - KoMiles - 博客园](http://www.cnblogs.com/wangkongming/p/3992644.html)
 
+2018-01-24 11:08 [js与cookie的domain和path之间的关系 - 强大大 - 博客园](https://www.cnblogs.com/gg1234/p/5611086.html)
+
 ## onunload/onbeforeunload
 
 2015-12-14 14:49 [JS监听关闭浏览器事件之Onunload与Onbeforeunload - binyao02123202的专栏 - 博客频道 - CSDN.NET](http://blog.csdn.net/binyao02123202/article/details/9293693)
@@ -1465,6 +1483,8 @@
 ## 酷站
 
 2017-06-08 13:59 [I Remember](http://i-remember.fr/en)
+
+2018-01-24 16:37 [Dribbble - Show and tell for designers](https://dribbble.com/)
 
 # PHP
 
@@ -3334,6 +3354,10 @@
 
 2017-12-04 10:49 [GIF 格式图片的存储和压缩 Node.js实现 - CSDN博客](http://blog.csdn.net/bat1992/article/details/70173453)
 
+2018-01-11 13:50 [通过做一个基于Node的微服务器来学习Docker - 文章 - 伯乐在线](http://blog.jobbole.com/103069/)
+
+2018-01-11 13:50 [制作nodejs项目镜像,实现docker下的快速部署 - 别问是谁 - 博客园](https://www.cnblogs.com/Andrew-XinFei/p/6251885.html)
+
 ## Express框架
 
 2015-04-15 17:14 [Nodejs初阶之express - 聂微东 - 博客园](http://www.cnblogs.com/Darren_code/p/node_express.html)
@@ -4920,6 +4944,12 @@
 
 2017-12-20 17:21 [Vue中使用ElementUI使用第三方图标库iconfont - CSDN博客](http://blog.csdn.net/qq_15646957/article/details/77887068)
 
+2018-01-19 10:49 [Vue服务端渲染和Vue浏览器端渲染的性能对比 - MonkeyWang - 博客园](https://www.cnblogs.com/tiedaweishao/p/6644267.html)
+
+2018-01-22 09:31 [(译)使用Vue & deepstream构建实时CRUD应用 - w3ctech](https://www.w3ctech.com/topic/1985)
+
+2018-01-29 10:49 [vuejs使用v-if隐藏不需要的内容，生成的html标签中有<!----->，请问怎样去掉这些注释？ - 为什么不支持数字的回答 - SegmentFault](https://segmentfault.com/q/1010000010076288/a-1020000010077310)
+
 ### vuex
 
 2016-04-20 21:08 [vuejs/vuex: Flux-inspired Application Architecture for Vue.js.](https://github.com/vuejs/vuex)
@@ -5281,6 +5311,8 @@
 2017-12-20 22:41 [《Apache Velocity用户指南》官方文档 | 并发编程网 – ifeve.com](http://ifeve.com/apache-velocity-dev/)
 
 2018-01-03 10:03 [首页 | Read the Docs](https://readthedocs.org/)
+
+2018-01-11 22:38 [安装并配置android sdk - 简书](https://www.jianshu.com/p/4ac1313b50cb)
 
 # IDE
 
@@ -5860,6 +5892,12 @@
 
 2017-10-18 09:13 [如何优雅地使用 Chrome？ - 知乎](https://www.zhihu.com/question/20595240)
 
+2018-01-19 19:59 [phantomJs之殇，chrome-headless之生 – ThoughtWorks洞见](http://insights.thoughtworks.cn/phantomjs-and-chrome-headless/)
+
+2018-01-26 20:33 [Chrome 控制台新玩法-console显示图片以及为文字加样式 - 刘哇勇 - 博客园](https://www.cnblogs.com/Wayou/p/chrome_dev_tool_style_console.html)
+
+2018-01-29 18:07 [你真的了解 console 吗 - Orange的前端笔记 - SegmentFault](https://segmentfault.com/a/1190000000481884)
+
 ## 加密
 
 2016-02-15 09:26 [挑战应答方式_百度百科](http://baike.baidu.com/link?url=F_gDusUxEJXC0IAl036kD-J3DgmDc4sdetbzU_-CThCy19dJjWAE5W7zs2cQcoPfW-YlggekGVLfOuVlnX9jUK)
@@ -5893,6 +5931,8 @@
 ## JSEveryWhere
 
 2016-03-30 14:04 [JS.everywhere(2013)](http://www.jseverywhere.org/)
+
+2018-01-23 10:19 [JSPatterns.com](http://www.jspatterns.com/)
 
 ## 图片优化
 
@@ -6289,4 +6329,8 @@
 ## weui-wxss
 
 2017-10-29 17:41 [小程序基础篇之使用weui.wxss-微信小程序俱乐部 www.wxappclub.com](http://www.wxappclub.com/topic/583)
+
+# 区块链
+
+2018-01-15 11:01 [一步步教你开发、部署第一个去中心化应用(Dapp) - 宠物商店 | 深入浅出区块链](https://learnblockchain.cn/2018/01/12/first-dapp/)
 

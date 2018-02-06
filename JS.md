@@ -498,6 +498,18 @@
 
 2017-12-24 22:34 [require() 源码解读 - 阮一峰的网络日志](http://www.ruanyifeng.com/blog/2015/05/require.html)
 
+2018-01-12 11:13 [解决Javascript中$(window).resize()多次执行 - 水狼一族 - 博客园](https://www.cnblogs.com/shuilangyizu/p/6816756.html)
+
+2018-01-15 22:36 [使用html2canvas实现浏览器截图 - 焰尾迭 - 博客园](https://www.cnblogs.com/yanweidie/p/5203943.html)
+
+2018-01-16 10:32 [移动端H5页面截图【含 domtoimage、html2canvas 】 - CSDN博客](http://blog.csdn.net/candy_home/article/details/78424642)
+
+2018-01-18 17:06 [JavaScript实现最简单的拖拽效果 « 张鑫旭-鑫空间-鑫生活](http://www.zhangxinxu.com/wordpress/2010/03/javascript%E5%AE%9E%E7%8E%B0%E6%9C%80%E7%AE%80%E5%8D%95%E7%9A%84%E6%8B%96%E6%8B%BD%E6%95%88%E6%9E%9C/)
+
+2018-01-18 21:57 [24行代码，让你的网页元素任意放大、缩小、拖拽、移动 - CSDN博客](http://blog.csdn.net/dqs78833488/article/details/51392833)
+
+2018-01-19 10:45 [运用HTML5原生拖动事件（drag）实现拖动效果 - veitch07 - 博客园](https://www.cnblogs.com/veitch007/p/4006640.html)
+
 ## swiper滑动插件
 
 2015-02-04 18:24 [Swiper 中文API手册（share） - 挨踢前端 - 博客园](http://www.cnblogs.com/duanhuajian/p/4097310.html)
@@ -888,6 +900,8 @@
 
 2015-12-24 19:20 [JS设置cookie，删除cookie - KoMiles - 博客园](http://www.cnblogs.com/wangkongming/p/3992644.html)
 
+2018-01-24 11:08 [js与cookie的domain和path之间的关系 - 强大大 - 博客园](https://www.cnblogs.com/gg1234/p/5611086.html)
+
 ## onunload/onbeforeunload
 
 2015-12-14 14:49 [JS监听关闭浏览器事件之Onunload与Onbeforeunload - binyao02123202的专栏 - 博客频道 - CSDN.NET](http://blog.csdn.net/binyao02123202/article/details/9293693)
@@ -1023,4 +1037,6 @@
 ## 酷站
 
 2017-06-08 13:59 [I Remember](http://i-remember.fr/en)
+
+2018-01-24 16:37 [Dribbble - Show and tell for designers](https://dribbble.com/)
 

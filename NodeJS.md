@@ -182,6 +182,10 @@
 
 2017-12-04 10:49 [GIF 格式图片的存储和压缩 Node.js实现 - CSDN博客](http://blog.csdn.net/bat1992/article/details/70173453)
 
+2018-01-11 13:50 [通过做一个基于Node的微服务器来学习Docker - 文章 - 伯乐在线](http://blog.jobbole.com/103069/)
+
+2018-01-11 13:50 [制作nodejs项目镜像,实现docker下的快速部署 - 别问是谁 - 博客园](https://www.cnblogs.com/Andrew-XinFei/p/6251885.html)
+
 ## Express框架
 
 2015-04-15 17:14 [Nodejs初阶之express - 聂微东 - 博客园](http://www.cnblogs.com/Darren_code/p/node_express.html)

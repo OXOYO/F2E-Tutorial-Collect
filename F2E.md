@@ -298,6 +298,12 @@
 
 2017-10-18 09:13 [如何优雅地使用 Chrome？ - 知乎](https://www.zhihu.com/question/20595240)
 
+2018-01-19 19:59 [phantomJs之殇，chrome-headless之生 – ThoughtWorks洞见](http://insights.thoughtworks.cn/phantomjs-and-chrome-headless/)
+
+2018-01-26 20:33 [Chrome 控制台新玩法-console显示图片以及为文字加样式 - 刘哇勇 - 博客园](https://www.cnblogs.com/Wayou/p/chrome_dev_tool_style_console.html)
+
+2018-01-29 18:07 [你真的了解 console 吗 - Orange的前端笔记 - SegmentFault](https://segmentfault.com/a/1190000000481884)
+
 ## 加密
 
 2016-02-15 09:26 [挑战应答方式_百度百科](http://baike.baidu.com/link?url=F_gDusUxEJXC0IAl036kD-J3DgmDc4sdetbzU_-CThCy19dJjWAE5W7zs2cQcoPfW-YlggekGVLfOuVlnX9jUK)
@@ -331,6 +337,8 @@
 ## JSEveryWhere
 
 2016-03-30 14:04 [JS.everywhere(2013)](http://www.jseverywhere.org/)
+
+2018-01-23 10:19 [JSPatterns.com](http://www.jspatterns.com/)
 
 ## 图片优化
 

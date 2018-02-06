@@ -110,6 +110,8 @@
 
 2017-03-10 15:24 [CSS五种方式实现Footer置底 - 每天学点前端开发 - SegmentFault](https://segmentfault.com/a/1190000008516654?utm_source=weekly&utm_medium=email&utm_campaign=email_weekly)
 
+2018-01-18 17:45 [使用CSS3开启GPU硬件加速提升网站动画渲染性能 - CSDN博客](http://blog.csdn.net/hsany330/article/details/50925260)
+
 ## LESS
 
 2015-01-27 11:14 [Koala - LESS/Sass/Compass/CoffeeScript编译工具](http://koala-app.com/index-zh.html)
@@ -267,6 +269,8 @@
 2017-05-11 18:10 [CSS Modules 用法教程 - 阮一峰的网络日志](http://www.ruanyifeng.com/blog/2016/06/css_modules.html)
 
 2017-06-30 09:59 [Create Windows 7 start menu using CSS3 only : Janko Jovanovic](http://www.jankoatwarpspeed.com/create-windows-7-start-menu-using-css3-only/)
+
+2018-01-15 14:46 [CSS3模拟window7炫酷界面效果展示 « 张鑫旭-鑫空间-鑫生活](http://www.zhangxinxu.com/wordpress/2010/05/css3%E6%A8%A1%E6%8B%9Fwindow7%E7%82%AB%E9%85%B7%E7%95%8C%E9%9D%A2%E6%95%88%E6%9E%9C%E5%B1%95%E7%A4%BA/)
 
 ## Font
 
