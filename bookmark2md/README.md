@@ -5,5 +5,6 @@
 ## Use
 ```bash
   cd bookmark2md
+  npm install
   npm run start
 ```
