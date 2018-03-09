@@ -186,6 +186,8 @@
 
 2018-01-11 13:50 [制作nodejs项目镜像,实现docker下的快速部署 - 别问是谁 - 博客园](https://www.cnblogs.com/Andrew-XinFei/p/6251885.html)
 
+2018-03-07 19:40 [JSON Web Tokens - jwt.io](https://jwt.io/)
+
 ## Express框架
 
 2015-04-15 17:14 [Nodejs初阶之express - 聂微东 - 博客园](http://www.cnblogs.com/Darren_code/p/node_express.html)
@@ -444,6 +446,8 @@
 
 2017-12-24 15:50 [npm install 报错chromedriver 记录 - CSDN博客](http://blog.csdn.net/sunzhemin/article/details/51979967)
 
+2018-03-09 15:29 [用sinopia搭建内部npm服务 - 前端攻城师-CZF - 博客园](https://www.cnblogs.com/czf-zone/p/6860457.html)
+
 ## JSON Server
 
 2016-09-08 09:23 [三步使用 JSON Server 模拟 API - OPEN 开发经验库](http://www.open-open.com/lib/view/open1443075501873.html)
@@ -534,6 +538,8 @@
 
 2017-11-10 14:43 [node koa2图片上传的实现 - 包子源的博客 - CSDN博客](http://blog.csdn.net/ziwoods/article/details/72822730)
 
+2018-03-05 10:53 [从koa-session中间件源码学习cookie与session - 和前端初学者一起进步 - SegmentFault 思否](https://segmentfault.com/a/1190000012412299)
+
 ## npmcdn
 
 2016-09-12 15:15 [unpkg](https://unpkg.com/#/)
@@ -551,6 +557,8 @@
 ## nodemon
 
 2016-12-22 17:08 [nodemon 基本配置与使用 - 推酷](http://www.tuicool.com/articles/2AnmEz7)
+
+2018-03-09 14:52 [nodemon 基本配置与使用 - JuFoFu - 博客园](https://www.cnblogs.com/JuFoFu/p/5140302.html)
 
 ## Sequelize
 
@@ -572,6 +580,10 @@
 
 2017-11-13 14:53 [Manual | Sequelize | The node.js ORM for PostgreSQL, MySQL, SQLite and MSSQL](http://docs.sequelizejs.com/)
 
+2018-02-09 14:48 [Node.js Sequelize 模型(表)之间的关联及关系模型的操作 - CNode技术社区](http://cnodejs.org/topic/5799b0114265959826e7b35c)
+
+2018-02-28 17:36 [sequelize连表include查询问题 - CNode技术社区](https://cnodejs.org/topic/59c12e9fd7cbefc51196450b)
+
 ## pinojs
 
 2017-09-11 15:34 [Home - Pino - Super fast, all natural JSON logger for Node.js](http://getpino.io/#/)
@@ -583,4 +595,16 @@
 ## Egg
 
 2017-11-01 09:35 [深夜放毒——阿里开源的企业级Node框架Egg使用指南 - CNode技术社区](http://cnodejs.org/topic/580a6a7e541dfb7b50f40a60)
+
+## Puppeteer
+
+2018-03-01 16:36 [爬虫利器 Puppeteer 实战 - CNode技术社区](https://cnodejs.org/topic/5a4d8d2299d207fa49f5cbbc)
+
+## Bookshelf
+
+2018-03-05 16:37 [NodeJs 关系数据库ORM库：Bookshelf.js - CSDN博客](http://blog.csdn.net/future_challenger/article/details/51829936)
+
+2018-03-05 16:38 [knex.js笔记 - CSDN博客](http://blog.csdn.net/liuyueyi1995/article/details/53782047)
+
+2018-03-05 16:38 [bookshelf.js笔记 - CSDN博客](http://blog.csdn.net/liuyueyi1995/article/details/53760577)
 

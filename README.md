@@ -398,6 +398,8 @@
 
 2018-01-15 14:46 [CSS3模拟window7炫酷界面效果展示 « 张鑫旭-鑫空间-鑫生活](http://www.zhangxinxu.com/wordpress/2010/05/css3%E6%A8%A1%E6%8B%9Fwindow7%E7%82%AB%E9%85%B7%E7%95%8C%E9%9D%A2%E6%95%88%E6%9E%9C%E5%B1%95%E7%A4%BA/)
 
+2018-02-07 10:04 [Flex 布局教程：语法篇 - 阮一峰的网络日志](http://www.ruanyifeng.com/blog/2015/07/flex-grammar.html?^%$)
+
 ## Font
 
 2015-05-25 11:03 [Font Awesome, the iconic font and CSS toolkit](http://fortawesome.github.io/Font-Awesome/)
@@ -1112,6 +1114,10 @@
 
 2015-04-10 14:38 [Library API — highlight.js 8.5 documentation](http://highlightjs.readthedocs.org/en/latest/api.html#configure-options)
 
+2018-03-07 11:12 [使用highlight.js高亮你的代码 - Ermu丨 - 博客园](https://www.cnblogs.com/ermu-learn/p/5993025.html)
+
+2018-03-07 11:13 [highlight.js使你的代码高亮 - 风雨后见彩虹 - 博客园](https://www.cnblogs.com/moqiutao/p/6541089.html)
+
 ## ES6
 
 2015-06-09 16:55 [ECMAScript 6 compatibility table](http://kangax.github.io/compat-table/es6/)
@@ -1446,6 +1452,10 @@
 
 2017-04-14 15:08 [Angular Directive Example with jsPlumb](https://jsplumb-ng.herokuapp.com/)
 
+2018-02-12 10:14 [toketaWare](https://www.toketaware.com/)
+
+2018-02-12 10:14 [Home - MindNode](https://mindnode.com/)
+
 ## lodashjs
 
 2017-04-06 17:47 [lodash 中文网](http://lodashjs.com/)
@@ -1485,6 +1495,14 @@
 2017-06-08 13:59 [I Remember](http://i-remember.fr/en)
 
 2018-01-24 16:37 [Dribbble - Show and tell for designers](https://dribbble.com/)
+
+## RxJS
+
+2018-02-27 11:23 [RxJS 中文文档](http://cn.rx.js.org/)
+
+2017-05-15 17:20 [rxjs简单入门-博客-云栖社区-阿里云](https://yq.aliyun.com/articles/65027)
+
+2018-02-27 11:23 [RxJs 介绍 - 推酷](https://www.tuicool.com/articles/iYv2qiR)
 
 # PHP
 
@@ -1888,6 +1906,10 @@
 
 2017-12-06 09:25 [github release 功能的使用及问题解决 - Eggy2015的博客 - CSDN博客](http://blog.csdn.net/Eggy2015/article/details/52138751)
 
+2018-02-08 09:19 [GitBook关联GitHub - 不折腾会死 - SegmentFault 思否](https://segmentfault.com/a/1190000011440899)
+
+2018-03-09 09:54 [Gogs](https://gogs.io/)
+
 ## GitHub Pages
 
 2015-10-10 11:18 [怎样做一个漂亮的 GitHub Pages 首页？ - 前端开发 - 知乎](http://www.zhihu.com/question/20376047?sort=created)
@@ -2100,6 +2122,24 @@
 
 2017-10-30 15:27 [GraphQL初探:从REST到GraphQL，更完善的数据查询定义 - 某熊的全栈之路 - SegmentFault](https://segmentfault.com/a/1190000005766732)
 
+## Heroku
+
+2018-02-12 09:29 [Heroku简明教程 - 简书](https://www.jianshu.com/p/638e0f6f1d2a)
+
+2018-02-12 09:29 [Cloud Application Platform | Heroku](https://www.heroku.com/)
+
+2018-02-12 10:11 [从零开始，做一个NodeJS博客（一）：Heroku上的最简NodeJS服务器 - Rocket1184 - 博客园](https://www.cnblogs.com/rocket1184/p/5768373.html)
+
+2018-02-12 10:33 [云数据库-Bmob后端云](https://www.bmob.cn/cloud)
+
+2018-02-12 10:38 [三步将Node应用部署到Heroku上 --转载 - 池塘嗲嗲 - 博客园](https://www.cnblogs.com/ctddjyds/p/5554675.html)
+
+2018-02-12 13:31 [ROR部署到Heroku出现Application Error和code=H10 desc="App crashed“问题 - iaiti的专栏 - CSDN博客](http://blog.csdn.net/iaiti/article/details/50765670)
+
+2018-02-12 14:34 [使用Heroku+mLab 部署Node应用 - 简书](https://www.jianshu.com/p/4f3c01a02620)
+
+2018-02-12 17:46 [在Heroku上部署静态网站-博客-云栖社区-阿里云](https://yq.aliyun.com/articles/40758)
+
 # DataBase
 
 2017-01-13 19:57 [Open Source Search & Analytics · Elasticsearch | Elastic](https://www.elastic.co/)
@@ -2107,6 +2147,10 @@
 2017-01-13 19:58 [Elastic中文社区](http://elasticsearch.cn/)
 
 2017-04-06 16:55 [DQL、DML、DDL、DCL的概念与区别 - tomatofly的专栏 - 博客频道 - CSDN.NET](http://blog.csdn.net/tomatofly/article/details/5949070)
+
+2018-02-12 15:26 [Download HeidiSQL](https://www.heidisql.com/download.php)
+
+2018-03-01 12:34 [Sql中CHARINDEX用法 - 齐_大圣 - 博客园](https://www.cnblogs.com/qianxingdewoniu/p/6858580.html)
 
 ## Mongodb
 
@@ -2160,6 +2204,8 @@
 
 2017-03-16 14:35 [【MongoDB】2.可视化工具的安装和使用 - Angel挤一挤 - 博客园](http://www.cnblogs.com/sxdcgaq8080/p/6144211.html)
 
+2018-02-12 10:51 [MongoDB Hosting: Database-as-a-Service by mLab](https://mlab.com/)
+
 ### mongoose
 
 2017-01-08 18:46 [Mongoose学习参考文档——基础篇 - CNode技术社区](https://cnodejs.org/topic/504b4924e2b84515770103dd)
@@ -2199,6 +2245,10 @@
 2017-03-16 10:58 [查询（queries） · mongoose4.5中文文档](https://mongoose.shujuwajue.com/guide/queries.html)
 
 2017-10-27 13:22 [mongoose连接collection后自动加s的问题 - CSDN博客](http://blog.csdn.net/azureternite/article/details/52349114)
+
+### NeDB
+
+2018-02-26 14:55 [Node嵌入式数据库——NeDB | AlloyTeam](http://www.alloyteam.com/2016/03/node-embedded-database-nedb/)
 
 ## SQL Server
 
@@ -2259,6 +2309,18 @@
 2017-11-23 17:16 [Mysql中文乱码问题完美解决方案 - CSDN博客](http://blog.csdn.net/luoweifu/article/details/8832492)
 
 2017-12-01 09:16 [Ubuntu的MySQL中文乱码问题--自己躺坑 - 简书](http://www.jianshu.com/p/4c6a27542df4)
+
+2018-02-12 14:45 [db4free.net - 免费的 MySQL 数据库](https://www.db4free.net/)
+
+2018-02-12 15:38 [从Mysql迁移到PostgreSQL - 陳聽溪 - 博客园](https://www.cnblogs.com/taosim/articles/4378651.html)
+
+2018-03-01 12:34 [Mysql CHARINDEX用法 - Ving鸣人 - 博客园](https://www.cnblogs.com/phao123/p/5985015.html)
+
+2018-03-01 13:07 [Mysql - 查询之关联查询 - Sniper_ZL - 博客园](https://www.cnblogs.com/elvinle/p/6214894.html)
+
+2018-03-01 13:07 [mysql where in 字符串分割无法查询数据换种思路FIND_IN_SET - 一口毒苹果 - 博客园](https://www.cnblogs.com/wx491592452/p/6404514.html)
+
+2018-03-01 13:08 [mysql使用instr达到in(字符串)的效果 - CSDN博客](http://blog.csdn.net/thomaschant/article/details/54233307)
 
 ## IndexedDB
 
@@ -3358,6 +3420,8 @@
 
 2018-01-11 13:50 [制作nodejs项目镜像,实现docker下的快速部署 - 别问是谁 - 博客园](https://www.cnblogs.com/Andrew-XinFei/p/6251885.html)
 
+2018-03-07 19:40 [JSON Web Tokens - jwt.io](https://jwt.io/)
+
 ## Express框架
 
 2015-04-15 17:14 [Nodejs初阶之express - 聂微东 - 博客园](http://www.cnblogs.com/Darren_code/p/node_express.html)
@@ -3616,6 +3680,8 @@
 
 2017-12-24 15:50 [npm install 报错chromedriver 记录 - CSDN博客](http://blog.csdn.net/sunzhemin/article/details/51979967)
 
+2018-03-09 15:29 [用sinopia搭建内部npm服务 - 前端攻城师-CZF - 博客园](https://www.cnblogs.com/czf-zone/p/6860457.html)
+
 ## JSON Server
 
 2016-09-08 09:23 [三步使用 JSON Server 模拟 API - OPEN 开发经验库](http://www.open-open.com/lib/view/open1443075501873.html)
@@ -3706,6 +3772,8 @@
 
 2017-11-10 14:43 [node koa2图片上传的实现 - 包子源的博客 - CSDN博客](http://blog.csdn.net/ziwoods/article/details/72822730)
 
+2018-03-05 10:53 [从koa-session中间件源码学习cookie与session - 和前端初学者一起进步 - SegmentFault 思否](https://segmentfault.com/a/1190000012412299)
+
 ## npmcdn
 
 2016-09-12 15:15 [unpkg](https://unpkg.com/#/)
@@ -3723,6 +3791,8 @@
 ## nodemon
 
 2016-12-22 17:08 [nodemon 基本配置与使用 - 推酷](http://www.tuicool.com/articles/2AnmEz7)
+
+2018-03-09 14:52 [nodemon 基本配置与使用 - JuFoFu - 博客园](https://www.cnblogs.com/JuFoFu/p/5140302.html)
 
 ## Sequelize
 
@@ -3744,6 +3814,10 @@
 
 2017-11-13 14:53 [Manual | Sequelize | The node.js ORM for PostgreSQL, MySQL, SQLite and MSSQL](http://docs.sequelizejs.com/)
 
+2018-02-09 14:48 [Node.js Sequelize 模型(表)之间的关联及关系模型的操作 - CNode技术社区](http://cnodejs.org/topic/5799b0114265959826e7b35c)
+
+2018-02-28 17:36 [sequelize连表include查询问题 - CNode技术社区](https://cnodejs.org/topic/59c12e9fd7cbefc51196450b)
+
 ## pinojs
 
 2017-09-11 15:34 [Home - Pino - Super fast, all natural JSON logger for Node.js](http://getpino.io/#/)
@@ -3755,6 +3829,18 @@
 ## Egg
 
 2017-11-01 09:35 [深夜放毒——阿里开源的企业级Node框架Egg使用指南 - CNode技术社区](http://cnodejs.org/topic/580a6a7e541dfb7b50f40a60)
+
+## Puppeteer
+
+2018-03-01 16:36 [爬虫利器 Puppeteer 实战 - CNode技术社区](https://cnodejs.org/topic/5a4d8d2299d207fa49f5cbbc)
+
+## Bookshelf
+
+2018-03-05 16:37 [NodeJs 关系数据库ORM库：Bookshelf.js - CSDN博客](http://blog.csdn.net/future_challenger/article/details/51829936)
+
+2018-03-05 16:38 [knex.js笔记 - CSDN博客](http://blog.csdn.net/liuyueyi1995/article/details/53782047)
+
+2018-03-05 16:38 [bookshelf.js笔记 - CSDN博客](http://blog.csdn.net/liuyueyi1995/article/details/53760577)
 
 # FrameWork
 
@@ -4950,6 +5036,10 @@
 
 2018-01-29 10:49 [vuejs使用v-if隐藏不需要的内容，生成的html标签中有<!----->，请问怎样去掉这些注释？ - 为什么不支持数字的回答 - SegmentFault](https://segmentfault.com/q/1010000010076288/a-1020000010077310)
 
+2018-02-28 17:12 [手摸手，带你用vue撸后台 系列二(登录权限篇) - 个人文章 - SegmentFault 思否](https://segmentfault.com/a/1190000009506097)
+
+2018-03-06 18:01 [在Vue中使用highlight.js - placeless - SegmentFault 思否](https://segmentfault.com/a/1190000008188461)
+
 ### vuex
 
 2016-04-20 21:08 [vuejs/vuex: Flux-inspired Application Architecture for Vue.js.](https://github.com/vuejs/vuex)
@@ -5284,8 +5374,6 @@
 
 2017-05-15 17:18 [RxJs 介绍 - 推酷](http://www.tuicool.com/articles/iYv2qiR)
 
-2017-05-15 17:20 [rxjs简单入门-博客-云栖社区-阿里云](https://yq.aliyun.com/articles/65027)
-
 2017-05-16 14:20 [DirectX修复工具 - VBcom的专栏 - 博客频道 - CSDN.NET](http://blog.csdn.net/vbcom/article/details/6962388)
 
 2017-05-16 16:03 [开箱即用 - jwt 无状态分布式授权 - Grissom007 - 博客园](http://www.cnblogs.com/grissom007/p/6294746.html)
@@ -5313,6 +5401,10 @@
 2018-01-03 10:03 [首页 | Read the Docs](https://readthedocs.org/)
 
 2018-01-11 22:38 [安装并配置android sdk - 简书](https://www.jianshu.com/p/4ac1313b50cb)
+
+2018-02-08 14:23 [一套能体现 RBAC 的表结构设计 - 韩宗泽 - 博客园](https://www.cnblogs.com/hanzongze/archive/2017/06/20/oracle-sql-rbac.html)
+
+2018-02-08 14:23 [RBAC打造通用WEB权限 - 郁冬 - 博客园](https://www.cnblogs.com/lamp01/p/6576432.html)
 
 # IDE
 
@@ -5417,6 +5509,8 @@
 2017-06-07 18:02 [【021今日分享】——IntelliJ IDEA Multi-MarkDown插件安装破J全过程 - 简书](http://www.jianshu.com/p/a0550f81cbd1)
 
 2017-12-20 22:47 [使用IntelliJ IDEA开发前的基本设置，有助于提高开发效率 - CSDN博客](http://blog.csdn.net/sd4015700/article/details/42192325)
+
+2018-03-02 10:02 [webstorm配置svn后找不到subversion子菜单 - CSDN博客](http://blog.csdn.net/a641832648/article/details/74958749)
 
 ## Eclipse
 
@@ -5916,6 +6010,8 @@
 
 2016-12-06 16:04 [JerryQu 的小站](https://imququ.com/)
 
+2018-02-26 15:01 [AlloyTeam|腾讯全端 AlloyTeam 团队](http://www.alloyteam.com/)
+
 ## 设计模式
 
 2016-03-11 10:19 [JavaScript大型可扩展的设计模式 - Thinking In Jdon](http://www.jdon.com/45498)
@@ -6210,6 +6306,10 @@
 
 2017-12-14 16:54 [这才是 TensorFlow 自带可视化工具 TensorBoard 的正确打开方式！（附项目源码） | 雷锋网](https://www.leiphone.com/news/201704/PgRxGpwtFpSgJoAZ.html)
 
+2018-03-08 17:41 [Dataguru炼数成金_中国顶尖专业数据分析门户网|专注于Hadoop培训及大数据、数据分析、数据库、编程技术、运维自动化等网络逆向培训](http://www.dataguru.cn/)
+
+2018-03-08 18:01 [TensorFlow|TensorFlow安装|TensorFlow教程|TensorFlow招聘|TensorFlow工作|TensorFlow培训|TensorFlow视频教程 - Powered by Discuz!](http://tensorflow123.com/forum.php)
+
 ## 机器人学习
 
 2015-09-18 17:46 [斯坦福博士(生)手把手教你用Javascript写深度学习代码 - stereohomology - 博客频道 - CSDN.NET](http://blog.csdn.net/stereohomology/article/details/41116971)
@@ -6227,6 +6327,10 @@
 2015-09-18 18:20 [推荐！国外程序员整理的机器学习资源大全 | 程序师](http://www.techug.com/awesome-machine-learning)
 
 2017-04-27 15:41 [机器学习与人工智能技术分享 - 作业部落 Cmd Markdown 编辑阅读器](https://www.zybuluo.com/vivounicorn/note/446479)
+
+## Paddle
+
+2018-03-08 17:28 [PaddlePaddle - Documentation](http://www.paddlepaddle.org/docs/develop/documentation/zh/getstarted/index_cn.html)
 
 # VR
 

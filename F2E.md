@@ -322,6 +322,8 @@
 
 2016-12-06 16:04 [JerryQu 的小站](https://imququ.com/)
 
+2018-02-26 15:01 [AlloyTeam|腾讯全端 AlloyTeam 团队](http://www.alloyteam.com/)
+
 ## 设计模式
 
 2016-03-11 10:19 [JavaScript大型可扩展的设计模式 - Thinking In Jdon](http://www.jdon.com/45498)

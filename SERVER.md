@@ -176,3 +176,21 @@
 
 2017-10-30 15:27 [GraphQL初探:从REST到GraphQL，更完善的数据查询定义 - 某熊的全栈之路 - SegmentFault](https://segmentfault.com/a/1190000005766732)
 
+## Heroku
+
+2018-02-12 09:29 [Heroku简明教程 - 简书](https://www.jianshu.com/p/638e0f6f1d2a)
+
+2018-02-12 09:29 [Cloud Application Platform | Heroku](https://www.heroku.com/)
+
+2018-02-12 10:11 [从零开始，做一个NodeJS博客（一）：Heroku上的最简NodeJS服务器 - Rocket1184 - 博客园](https://www.cnblogs.com/rocket1184/p/5768373.html)
+
+2018-02-12 10:33 [云数据库-Bmob后端云](https://www.bmob.cn/cloud)
+
+2018-02-12 10:38 [三步将Node应用部署到Heroku上 --转载 - 池塘嗲嗲 - 博客园](https://www.cnblogs.com/ctddjyds/p/5554675.html)
+
+2018-02-12 13:31 [ROR部署到Heroku出现Application Error和code=H10 desc="App crashed“问题 - iaiti的专栏 - CSDN博客](http://blog.csdn.net/iaiti/article/details/50765670)
+
+2018-02-12 14:34 [使用Heroku+mLab 部署Node应用 - 简书](https://www.jianshu.com/p/4f3c01a02620)
+
+2018-02-12 17:46 [在Heroku上部署静态网站-博客-云栖社区-阿里云](https://yq.aliyun.com/articles/40758)
+

@@ -666,6 +666,10 @@
 
 2015-04-10 14:38 [Library API — highlight.js 8.5 documentation](http://highlightjs.readthedocs.org/en/latest/api.html#configure-options)
 
+2018-03-07 11:12 [使用highlight.js高亮你的代码 - Ermu丨 - 博客园](https://www.cnblogs.com/ermu-learn/p/5993025.html)
+
+2018-03-07 11:13 [highlight.js使你的代码高亮 - 风雨后见彩虹 - 博客园](https://www.cnblogs.com/moqiutao/p/6541089.html)
+
 ## ES6
 
 2015-06-09 16:55 [ECMAScript 6 compatibility table](http://kangax.github.io/compat-table/es6/)
@@ -1000,6 +1004,10 @@
 
 2017-04-14 15:08 [Angular Directive Example with jsPlumb](https://jsplumb-ng.herokuapp.com/)
 
+2018-02-12 10:14 [toketaWare](https://www.toketaware.com/)
+
+2018-02-12 10:14 [Home - MindNode](https://mindnode.com/)
+
 ## lodashjs
 
 2017-04-06 17:47 [lodash 中文网](http://lodashjs.com/)
@@ -1039,4 +1047,12 @@
 2017-06-08 13:59 [I Remember](http://i-remember.fr/en)
 
 2018-01-24 16:37 [Dribbble - Show and tell for designers](https://dribbble.com/)
+
+## RxJS
+
+2018-02-27 11:23 [RxJS 中文文档](http://cn.rx.js.org/)
+
+2017-05-15 17:20 [rxjs简单入门-博客-云栖社区-阿里云](https://yq.aliyun.com/articles/65027)
+
+2018-02-27 11:23 [RxJs 介绍 - 推酷](https://www.tuicool.com/articles/iYv2qiR)
 

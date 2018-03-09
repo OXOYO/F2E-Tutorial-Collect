@@ -164,6 +164,10 @@
 
 2017-12-06 09:25 [github release 功能的使用及问题解决 - Eggy2015的博客 - CSDN博客](http://blog.csdn.net/Eggy2015/article/details/52138751)
 
+2018-02-08 09:19 [GitBook关联GitHub - 不折腾会死 - SegmentFault 思否](https://segmentfault.com/a/1190000011440899)
+
+2018-03-09 09:54 [Gogs](https://gogs.io/)
+
 ## GitHub Pages
 
 2015-10-10 11:18 [怎样做一个漂亮的 GitHub Pages 首页？ - 前端开发 - 知乎](http://www.zhihu.com/question/20376047?sort=created)

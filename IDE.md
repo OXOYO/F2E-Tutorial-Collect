@@ -102,6 +102,8 @@
 
 2017-12-20 22:47 [使用IntelliJ IDEA开发前的基本设置，有助于提高开发效率 - CSDN博客](http://blog.csdn.net/sd4015700/article/details/42192325)
 
+2018-03-02 10:02 [webstorm配置svn后找不到subversion子菜单 - CSDN博客](http://blog.csdn.net/a641832648/article/details/74958749)
+
 ## Eclipse
 
 2015-01-23 10:29 [eclipse下安装js插件-spket(支持Ext) 能格式化Js（JQuery自动提示） - Andy - ITeye技术网站](http://small-ant.iteye.com/blog/1393397)

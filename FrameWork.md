@@ -1192,6 +1192,10 @@
 
 2018-01-29 10:49 [vuejs使用v-if隐藏不需要的内容，生成的html标签中有<!----->，请问怎样去掉这些注释？ - 为什么不支持数字的回答 - SegmentFault](https://segmentfault.com/q/1010000010076288/a-1020000010077310)
 
+2018-02-28 17:12 [手摸手，带你用vue撸后台 系列二(登录权限篇) - 个人文章 - SegmentFault 思否](https://segmentfault.com/a/1190000009506097)
+
+2018-03-06 18:01 [在Vue中使用highlight.js - placeless - SegmentFault 思否](https://segmentfault.com/a/1190000008188461)
+
 ### vuex
 
 2016-04-20 21:08 [vuejs/vuex: Flux-inspired Application Architecture for Vue.js.](https://github.com/vuejs/vuex)
