@@ -15,6 +15,8 @@ const timeNow = (new Date()).getTime()
 const dirNameObj = {}
 // 分割符
 const separator = '=>'
+// 换行符
+const lineBreak = '\n\n'
 // 格式化信息
 const formatMsg = function (target) {
     let getBLen = function(str) {
@@ -171,13 +173,13 @@ setTimeout(function () {
             }
             let handle = function (obj, count) {
                 if (obj['dir']) {
-                    fileContent += getSize(count) + obj['dir'] + '\n\n'
+                    fileContent += getSize(count) + obj['dir'] + lineBreak
                 }
                 // 判断list是否为空
                 if (obj.list && obj.list.length) {
                     for (let [i, item] of obj.list.entries()) {
                         let createTime = item.create_time ? item.create_time + ' ' : ''
-                        fileContent += createTime + '[' + item.text + '](' + item.href + ')' + '\n\n'
+                        fileContent += createTime + '[' + item.text + '](' + item.href + ')' + lineBreak
                     }
                 }
                 // 判断是否存在子节点
@@ -199,10 +201,21 @@ setTimeout(function () {
         let fileContent = ''
         for (let [i, item] of obj.list.entries()) {
             let createTime = item.create_time ? item.create_time + ' ' : ''
-            fileContent += createTime + '[' + item.text + '](' + item.href + ')' + '\n\n'
+            fileContent += createTime + '[' + item.text + '](' + item.href + ')' + lineBreak
         }
         fileContentArr.push(fileContent)
     }
+    // 读取头部
+    let headerMD = fs.readFileSync(config.headerMD)
+    // 更新时间
+    let updateInfo = '更新时间：' + formatDate(timeNow)
+    fileContentArr = [
+        headerMD,
+        lineBreak,
+        updateInfo,
+        lineBreak,
+        ...fileContentArr
+    ]
     // 生成README.md
     writeFile('README.md', fileContentArr.join(''), config.mdFilePath)
 }, 3000)
