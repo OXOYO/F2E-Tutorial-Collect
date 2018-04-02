@@ -12,3 +12,5 @@
 
 2017-06-21 18:01 [Instagram脸部特征搜索引擎 - Python开发社区 | CTOLib码库](http://www.ctolib.com/kendricktan-iffse.html)
 
+2018-03-20 17:17 [超酷！我不写一行代码，爬取GitHub上几万的Python库_搜狐科技_搜狐网](http://www.sohu.com/a/217481537_752099)
+

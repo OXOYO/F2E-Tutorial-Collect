@@ -2,7 +2,7 @@
 
 点击链接加入群【Web全栈大神群】：https://jq.qq.com/?_wv=1027&k=53iWbrr
 
-更新时间：2018-03-12 17:53
+更新时间：2018-04-02 17:03
 
 # HTML
 
@@ -244,6 +244,8 @@
 
 2018-01-18 17:45 [使用CSS3开启GPU硬件加速提升网站动画渲染性能 - CSDN博客](http://blog.csdn.net/hsany330/article/details/50925260)
 
+2018-03-16 17:43 [Can I animate…?](http://canianimate.com/)
+
 ## LESS
 
 2015-01-27 11:14 [Koala - LESS/Sass/Compass/CoffeeScript编译工具](http://koala-app.com/index-zh.html)
@@ -451,6 +453,10 @@
 2015-04-14 17:37 [BEM思想之彻底弄清BEM语法 | css3教程-css3实例-css3动画 | W3CPlus](http://www.w3cplus.com/css/mindbemding-getting-your-head-round-bem-syntax.html)
 
 2016-11-25 16:59 [Key concepts / Methodology / BEM](https://en.bem.info/methodology/key-concepts/)
+
+## Stylus
+
+2018-03-12 16:32 [stylus中文文档 » 综述 » 张鑫旭-鑫空间-鑫生活](http://www.zhangxinxu.com/jq/stylus/)
 
 # JS
 
@@ -964,6 +970,24 @@
 
 2018-01-19 10:45 [运用HTML5原生拖动事件（drag）实现拖动效果 - veitch07 - 博客园](https://www.cnblogs.com/veitch007/p/4006640.html)
 
+2018-03-12 21:39 [D3.js 中实现svg 保存 png - CSDN博客](http://blog.csdn.net/xx123698/article/details/53580057)
+
+2018-03-20 10:32 [前端存储之Web Sql Database - 再见_孙悟空 - 博客园](https://www.cnblogs.com/dengyulinBlog/p/6145584.html)
+
+2018-03-20 10:41 [前端HTML5几种存储方式的总结 - WEB前端 - 伯乐在线](http://web.jobbole.com/87766/)
+
+2018-03-20 10:52 [HTML5 内置本地数据库之Sqlite - html5-websql-sqlite - ItBoth](http://www.itboth.com/d/jQNJ3u/html5-websql-sqlite)
+
+2018-03-20 10:52 [html5 js 访问 sqlite 数据库的操作类 - string-js-html5 - ItBoth](http://www.itboth.com/d/B77NJj/js-string-callback-html5-sqlite)
+
+2018-03-20 10:55 [html5本地存储和本地数据库 - 江湖丶丿新进程 - 博客园](http://www.cnblogs.com/chjb/articles/5291462.html)
+
+2018-03-20 11:00 [前端常用类库资源 - 掘金](https://juejin.im/post/5a30870c6fb9a04522077c88)
+
+2018-03-20 16:16 [Colorrrs](https://www.webpagefx.com/web-design/random-color-picker/)
+
+2018-03-29 15:44 [网页制作辅助工具-jQuery标尺参考线插件 « 张鑫旭-鑫空间-鑫生活](http://www.zhangxinxu.com/wordpress/2010/08/%E7%BD%91%E9%A1%B5%E5%88%B6%E4%BD%9C%E8%BE%85%E5%8A%A9%E5%B7%A5%E5%85%B7-jquery%E6%A0%87%E5%B0%BA%E5%8F%82%E8%80%83%E7%BA%BF%E6%8F%92%E4%BB%B6/)
+
 ## swiper滑动插件
 
 2015-02-04 18:24 [Swiper 中文API手册（share） - 挨踢前端 - 博客园](http://www.cnblogs.com/duanhuajian/p/4097310.html)
@@ -1220,6 +1244,8 @@
 
 2017-07-10 16:22 [[CORS：跨域资源共享] W3C的CORS Specification - Artech - 博客园](http://www.cnblogs.com/artech/p/cors-4-asp-net-web-api-02.html)
 
+2018-03-13 22:10 [CORS基础要点：关于dataType、contentType、withCredentials - 学明 - 博客园](https://www.cnblogs.com/xueming/p/cors-base.html)
+
 ## Md5
 
 2015-06-25 16:56 [Faulty Labs](http://blog.faultylabs.com/?d=md5)
@@ -1462,6 +1488,8 @@
 
 2018-02-12 10:14 [Home - MindNode](https://mindnode.com/)
 
+2018-03-12 20:34 [百度脑图核心——kityminder-editor 本地化改造 - 简书](https://www.jianshu.com/p/9b53499d9031)
+
 ## lodashjs
 
 2017-04-06 17:47 [lodash 中文网](http://lodashjs.com/)
@@ -1509,6 +1537,28 @@
 2017-05-15 17:20 [rxjs简单入门-博客-云栖社区-阿里云](https://yq.aliyun.com/articles/65027)
 
 2018-02-27 11:23 [RxJs 介绍 - 推酷](https://www.tuicool.com/articles/iYv2qiR)
+
+## CoffeeScript
+
+2018-03-12 11:20 [CoffeeScript 中文](http://coffee-script.org/)
+
+## TypeScript
+
+2018-03-12 11:21 [TypeScript - JavaScript that scales.](http://www.typescriptlang.org/)
+
+## Raphael.js
+
+2018-03-12 20:36 [快速上手RaphaelJS - CSDN博客](http://blog.csdn.net/witsonx/article/details/52386277)
+
+2018-03-12 20:36 [Raphaeljs入门到精通（二） - mthoutai - 博客园](https://www.cnblogs.com/mthoutai/p/6913973.html)
+
+2018-03-12 20:47 [Raphaeljs 插件实现任意SVG节点加载 - 最初的梦 - ITeye博客](http://zha-zi.iteye.com/blog/2090872)
+
+2018-03-12 20:47 [使用raphael.js绘制中国地图_Helloweba](https://www.helloweba.net/javascript/242.html)
+
+2018-03-12 22:01 [RaphaelJS - 简书](https://www.jianshu.com/p/2a2604448f17)
+
+2018-03-12 22:01 [raphael.js 流程图实例 - 沈振华 - 博客园](https://www.cnblogs.com/shenzhenhua/p/5626548.html)
 
 # PHP
 
@@ -1621,6 +1671,8 @@
 2017-06-22 15:13 [解决PHP之 Allowed memory size of xxx bytes exhausted - ewili的专栏 - 博客频道 - CSDN.NET](http://blog.csdn.net/ewili/article/details/8034199)
 
 2017-11-21 10:59 [php版DES - 调调儿 - 博客园](https://www.cnblogs.com/weberypf/p/5228257.html)
+
+2018-03-19 17:59 [高性能的PHP框架 - Phalcon Framework](https://phalconphp.com/zh/)
 
 ## composer
 
@@ -1735,6 +1787,8 @@
 2016-05-13 14:07 [导出chrome书签为Markdown | 梦里风林](https://ahangchen.gitbooks.io/windy-afternoon/content/kit/markdown/chrome_mark2_md.html)
 
 2017-06-21 18:01 [Instagram脸部特征搜索引擎 - Python开发社区 | CTOLib码库](http://www.ctolib.com/kendricktan-iffse.html)
+
+2018-03-20 17:17 [超酷！我不写一行代码，爬取GitHub上几万的Python库_搜狐科技_搜狐网](http://www.sohu.com/a/217481537_752099)
 
 # SVN
 
@@ -1943,6 +1997,8 @@
 2016-05-27 09:42 [静态博客程序大总结_Jekyll_Octopress_Hexo—站长之家建站专题](http://www.chinaz.com/special/static-blog/index.html?qq-pf-to=pcqq.c2c)
 
 2016-05-27 09:47 [使用GitHub和Hexo搭建免费静态Blog | HelloDog](https://wsgzao.github.io/post/hexo-guide/)
+
+2018-03-23 09:49 [GitHub Ribbons | The GitHub Blog](https://blog.github.com/2008-12-19-github-ribbons/)
 
 ### Themes
 
@@ -3238,6 +3294,16 @@
 
 2017-11-01 15:37 [集成测试覆盖率工具 codecov - 简书](http://www.jianshu.com/p/146c4769d4b1)
 
+## Rollup
+
+2018-03-14 22:10 [https://rollupjs.org/guide/en](https://rollupjs.org/guide/en)
+
+## Parcel
+
+2018-03-14 22:11 [📦 Parcel 中文网](http://www.parceljs.io/)
+
+2018-03-15 11:14 [📦 Parcel 中文网](https://parceljs.org/)
+
 # NodeJS
 
 2015-02-27 10:30 [CNode：Node.js专业中文社区](https://cnodejs.org/)
@@ -3427,6 +3493,30 @@
 2018-01-11 13:50 [制作nodejs项目镜像,实现docker下的快速部署 - 别问是谁 - 博客园](https://www.cnblogs.com/Andrew-XinFei/p/6251885.html)
 
 2018-03-07 19:40 [JSON Web Tokens - jwt.io](https://jwt.io/)
+
+2018-03-12 20:50 [Node.js笔记（十）Nodejs与DOM操作 - CSDN博客](http://blog.csdn.net/u010668495/article/details/47108631)
+
+2018-03-12 21:19 [node文字转图片 - CNode技术社区](https://cnodejs.org/topic/583c5d9fba57ffba06c24a89)
+
+2018-03-12 21:23 [nodejs之SVG转图片下载方案 - CSDN博客](http://blog.csdn.net/cangkukuaimanle/article/details/46778041)
+
+2018-03-12 21:54 [Node.js 里用 D3.js 来作图 - CSDN博客](http://blog.csdn.net/lzhlzz/article/details/53857357)
+
+2018-03-12 22:20 [node使用buffer生成图片 - CSDN博客](http://blog.csdn.net/u010081689/article/details/51088068)
+
+2018-03-13 10:38 [node.js 中生成验证码的另类方案——svg 验证码 - CNode技术社区](http://cnodejs.org/topic/58647a54189fd5ad64590017)
+
+2018-03-13 14:14 [《Nodejs开发加密货币》之二十六：轻松从Js文件生成UML类图 - CNode技术社区](http://cnodejs.org/topic/57ccc1f82adfc63a267844a1)
+
+2018-03-13 14:16 [通读cheerio API - CNode技术社区](http://cnodejs.org/topic/5203a71844e76d216a727d2e)
+
+2018-03-14 17:27 [windows下的node-canvas历程 - swzhou - 博客园](https://www.cnblogs.com/virtual/p/3661592.html)
+
+2018-03-14 17:38 [基于NodeCanvas的AQI渲染服务](https://zhuanlan.zhihu.com/p/34035302)
+
+2018-03-20 17:14 [如何使用nodejs做爬虫程序？ - 知乎](https://www.zhihu.com/question/31679802)
+
+2018-03-20 17:34 [Node.js 动态网页爬取 PhantomJS 使用入门 - CSDN博客](http://blog.csdn.net/qq_21265915/article/details/65626712)
 
 ## Express框架
 
@@ -3688,6 +3778,10 @@
 
 2018-03-09 15:29 [用sinopia搭建内部npm服务 - 前端攻城师-CZF - 博客园](https://www.cnblogs.com/czf-zone/p/6860457.html)
 
+2018-03-14 17:22 [npm install canvas简明指南 - 廖雪峰的官方网站](https://www.liaoxuefeng.com/article/001393751950310ce1564f9d572410180eafe7a5dd89c6f000)
+
+2018-03-23 15:35 [npm package.json属性详解 - 桃子夭夭 - 博客园](https://www.cnblogs.com/tzyy/p/5193811.html#_h1_9)
+
 ## JSON Server
 
 2016-09-08 09:23 [三步使用 JSON Server 模拟 API - OPEN 开发经验库](http://www.open-open.com/lib/view/open1443075501873.html)
@@ -3780,6 +3874,8 @@
 
 2018-03-05 10:53 [从koa-session中间件源码学习cookie与session - 和前端初学者一起进步 - SegmentFault 思否](https://segmentfault.com/a/1190000012412299)
 
+2018-03-14 14:40 [Koa2中间件 - 简书](https://www.jianshu.com/p/6a3499138737)
+
 ## npmcdn
 
 2016-09-12 15:15 [unpkg](https://unpkg.com/#/)
@@ -3848,6 +3944,24 @@
 
 2018-03-05 16:38 [bookshelf.js笔记 - CSDN博客](http://blog.csdn.net/liuyueyi1995/article/details/53760577)
 
+## grpc
+
+2018-04-02 15:17 [grpc之node篇(静态代码) - CSDN博客](https://blog.csdn.net/shidaping/article/details/53942476)
+
+2018-04-02 15:17 [gRPC之Node Quick Start - 都市烟火 - 博客园](https://www.cnblogs.com/duhuo/p/5847156.html)
+
+2018-04-02 15:19 [RPC服务和HTTP服务对比 - CSDN博客](https://blog.csdn.net/wangyunpeng0319/article/details/78651998)
+
+2018-04-02 15:29 [什么是 RPC 框架 - CSDN博客](https://blog.csdn.net/b1303110335/article/details/79557292)
+
+2018-04-02 15:40 [[grpc官方指南搬运]Node.js+grpc示例 - CSDN博客](https://blog.csdn.net/qq_31989047/article/details/79139710)
+
+2018-04-02 16:28 [JSON-RPC](http://www.jsonrpc.org/)
+
+2018-04-02 16:34 [高效传输数据格式以及基于HTTP2的RPC框架---gRPC的使用 - CSDN博客](https://blog.csdn.net/canot/article/details/71213392)
+
+2018-04-02 16:37 [gRPC 官方文档中文版_V1.0](http://doc.oschina.net/grpc?t=56831)
+
 # FrameWork
 
 2015-03-27 18:20 [Laravel-简洁、优雅的PHP开发框架(PHP Web Framework)。- Laravel中文网（Laravel中国社区）](http://www.golaravel.com/)
@@ -3866,8 +3980,6 @@
 
 2015-09-15 18:29 [Sea.js - A Module Loader for the Web](http://seajs.org/docs/)
 
-2015-09-23 17:04 [layer官方演示与讲解（jQuery弹出层插件）](http://layer.layui.com/)
-
 2016-05-26 09:24 [TodoMVC](http://todomvc.com/)
 
 2016-06-03 10:22 [dbmon](http://mathieuancelin.github.io/js-repaint-perfs/)
@@ -3877,8 +3989,6 @@
 2016-06-07 18:43 [Thinkster](https://thinkster.io/)
 
 2016-08-05 08:43 [Jackblog react redux版](http://jackhu.top/)
-
-2016-11-08 10:09 [tinper首页](http://tinper.org/)
 
 2016-11-08 15:20 [前端收藏夹](http://collect.w3ctrain.com/)
 
@@ -4878,6 +4988,8 @@
 
 2015-12-24 19:07 [layui官网 - 为web开发提供动力](http://www.layui.com/)
 
+2015-09-23 17:04 [layer官方演示与讲解（jQuery弹出层插件）](http://layer.layui.com/)
+
 ## MUI
 
 2016-01-08 11:29 [MUI - Material Design CSS Framework](https://www.muicss.com/)
@@ -5046,6 +5158,10 @@
 
 2018-03-06 18:01 [在Vue中使用highlight.js - placeless - SegmentFault 思否](https://segmentfault.com/a/1190000008188461)
 
+2018-03-21 21:38 [vue2: template or render function not defined(试过很多办法了) - KingMario的回答 - SegmentFault 思否](https://segmentfault.com/q/1010000011071945/a-1020000011075220)
+
+2018-03-27 18:07 [vuejs搭建的项目如何引入图标字体 - CSDN博客](https://blog.csdn.net/milli236/article/details/77871488)
+
 ### vuex
 
 2016-04-20 21:08 [vuejs/vuex: Flux-inspired Application Architecture for Vue.js.](https://github.com/vuejs/vuex)
@@ -5150,6 +5266,12 @@
 
 2017-06-30 12:05 [Virtual CSS 和 Styletron - 推吧](http://www.tui8.com/articles/news/59866.html)
 
+### require
+
+2018-03-21 21:49 [require.js 加载 vue组件 r.js 合并压缩 - taoquns - 博客园](https://www.cnblogs.com/taoquns/p/5960415.html)
+
+2018-03-22 17:22 [在webpack中require一个变量](https://lvquanblog.com/2016/12/17/zai-webpackzhong-requireyi-ge-bian-liang/)
+
 ## Elm
 
 2016-03-28 19:30 [Elm](http://elm-lang.org/)
@@ -5211,6 +5333,8 @@
 ## iUAP Design
 
 2016-07-22 15:35 [iUAP Design](http://design.yyuap.com/)
+
+2016-11-08 10:09 [tinper首页](http://tinper.org/)
 
 ## APICloud
 
@@ -5314,6 +5438,8 @@
 
 2017-04-28 09:51 [Cmd Markdown 编辑阅读器 - 作业部落出品](https://www.zybuluo.com/mdeditor)
 
+2018-03-12 16:53 [markdown|大型技术文档手册撰写与发布方法 - 简书](https://www.jianshu.com/p/fff3803e975a)
+
 # Other
 
 2015-04-23 11:04 [JacksonTian/fks](https://github.com/JacksonTian/fks)
@@ -5411,6 +5537,14 @@
 2018-02-08 14:23 [一套能体现 RBAC 的表结构设计 - 韩宗泽 - 博客园](https://www.cnblogs.com/hanzongze/archive/2017/06/20/oracle-sql-rbac.html)
 
 2018-02-08 14:23 [RBAC打造通用WEB权限 - 郁冬 - 博客园](https://www.cnblogs.com/lamp01/p/6576432.html)
+
+2018-03-09 17:39 [路过图床 - 全球中文免费图床 专业图片上传 支持外链 全球CDN分发](https://imgchr.com/)
+
+2018-03-14 17:30 [Dependency Walker (depends.exe) Home Page](http://www.dependencywalker.com/)
+
+2018-03-16 10:39 [不翻墙使用Gmail 教你如何在Foxmail里添加Gmail邮箱 - 荣耀之星](https://glorystar.me/archives/How-to-use-Gmail-without-proxy.html)
+
+2018-03-21 09:52 [OverAPI.com | Collecting all the cheat sheets](http://overapi.com/)
 
 # IDE
 
@@ -5854,6 +5988,12 @@
 
 2018-01-05 15:22 [loading.io - Your SVG + GIF Ajax Loading Icons](https://loading.io/)
 
+2018-03-14 21:51 [2016-我的前端之路:工具化与工程化](https://zhuanlan.zhihu.com/p/24575395)
+
+2018-03-21 10:05 [DevDocs API Documentation](http://devdocs.io/)
+
+2018-03-21 10:12 [JS1k - The JavaScript code golfing competition](https://js1k.com/)
+
 ## 规范
 
 2015-08-11 11:05 [前端JavaScript规范](http://www.runoob.com/w3cnote/javascript-guide.html)
@@ -6076,6 +6216,12 @@
 
 2016-12-22 16:11 [Awwwards - Website Awards - Best Web Design Trends](http://www.awwwards.com/)
 
+2018-03-20 16:17 [Palettes | Flat UI Colors 🎨 280 handpicked colors ready for COPY & PASTE](https://flatuicolors.com/)
+
+2018-03-20 16:19 [A Collection of Section Separators](https://tympanus.net/Development/SectionSeparators/)
+
+2018-03-20 16:29 [Proto.io - Prototypes that feel real](https://proto.io/)
+
 ## 文档
 
 2016-05-06 10:29 [Zeal](https://zealdocs.org/)
@@ -6121,6 +6267,14 @@
 ## JSDoc
 
 2017-06-01 09:13 [Use JSDoc: Index](http://usejsdoc.org/)
+
+# FSE
+
+2018-03-15 21:21 [Overstacked? The plight of the full stack web developer — » Cogentia](http://cogentia.io/2016/05/05/Overstacked-journey-of-full-stack-web-developer.html)
+
+2018-03-15 21:48 [全栈工程师技能图谱 - morra - 博客园](https://www.cnblogs.com/whatisfantasy/p/6440638.html)
+
+2018-03-16 17:51 [大前端工具集 - CSDN博客](http://blog.csdn.net/u013063153/article/details/52754650)
 
 # HTTP
 
@@ -6316,6 +6470,16 @@
 
 2018-03-08 18:01 [TensorFlow|TensorFlow安装|TensorFlow教程|TensorFlow招聘|TensorFlow工作|TensorFlow培训|TensorFlow视频教程 - Powered by Discuz!](http://tensorflow123.com/forum.php)
 
+2018-03-15 11:13 [从机器学习谈起 - 计算机的潜意识 - 博客园](http://www.cnblogs.com/subconscious/p/4107357.html)
+
+2018-03-15 11:13 [神经网络浅讲：从神经元到深度学习 - 计算机的潜意识 - 博客园](http://www.cnblogs.com/subconscious/p/5058741.html)
+
+2018-03-19 17:20 [H2O.ai](https://www.h2o.ai/)
+
+2018-03-19 17:20 [面向Linux的十大开源人工智能工具_Linux新闻_Linux公社-Linux系统门户网站](https://www.linuxidc.com/Linux/2016-09/135564.htm)
+
+2018-03-21 10:03 [12 个免费的 Deep Learning 在线学习网站](https://zhuanlan.zhihu.com/p/26501934)
+
 ## 机器人学习
 
 2015-09-18 17:46 [斯坦福博士(生)手把手教你用Javascript写深度学习代码 - stereohomology - 博客频道 - CSDN.NET](http://blog.csdn.net/stereohomology/article/details/41116971)
@@ -6443,4 +6607,36 @@
 # 区块链
 
 2018-01-15 11:01 [一步步教你开发、部署第一个去中心化应用(Dapp) - 宠物商店 | 深入浅出区块链](https://learnblockchain.cn/2018/01/12/first-dapp/)
+
+# CoolSite
+
+2018-03-21 10:15 [“Hello World”大全](http://netsmell.com/apps/helloworldcollection/)
+
+2018-03-21 10:18 [Convertio — 文件转换器](https://convertio.co/zh/)
+
+2018-03-21 10:18 [TinyPNG – Compress PNG images while preserving transparency](https://tinypng.com/)
+
+2018-03-21 10:27 [Rainy Mood - Helps you to focus, relax, and sleep. Now available for iOS and Android](http://www.rainymood.com/)
+
+2018-03-21 10:31 [Chrome Experiments](https://experiments.withgoogle.com/chrome)
+
+2018-03-21 10:35 [AutoDraw](https://www.autodraw.com/)
+
+2018-03-21 10:35 [deepart.io - become a digital artist](https://deepart.io/)
+
+2018-03-21 10:38 [WordArt.com - Word Art Creator](https://wordart.com/)
+
+2018-03-21 10:42 [Silk – Interactive Generative Art](http://weavesilk.com/)
+
+2018-03-21 10:51 [NEO Hacker Typer](http://hackcode.ishoulu.com/scp/)
+
+2018-03-21 10:52 [Kaspersky Cyberthreat real-time map](https://cybermap.kaspersky.com/)
+
+2018-03-21 10:56 [CodePen - Front End Developer Playground & Code Editor in the Browser](https://codepen.io/)
+
+2018-03-21 11:05 [Free Online Photo Editor | Fotor - Photo Editing & Collage Maker & Graphic Design](https://www.fotor.com/)
+
+2018-03-21 19:37 [Bit - Share and build with code components](https://bitsrc.io/?utm_source=vue&utm_medium=vue&utm_campaign=vue&utm_term=vue&utm_content=vue)
+
+2018-03-21 19:37 [StdLib — API development made simple](https://stdlib.com/)
 

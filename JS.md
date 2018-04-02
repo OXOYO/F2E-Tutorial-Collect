@@ -510,6 +510,24 @@
 
 2018-01-19 10:45 [运用HTML5原生拖动事件（drag）实现拖动效果 - veitch07 - 博客园](https://www.cnblogs.com/veitch007/p/4006640.html)
 
+2018-03-12 21:39 [D3.js 中实现svg 保存 png - CSDN博客](http://blog.csdn.net/xx123698/article/details/53580057)
+
+2018-03-20 10:32 [前端存储之Web Sql Database - 再见_孙悟空 - 博客园](https://www.cnblogs.com/dengyulinBlog/p/6145584.html)
+
+2018-03-20 10:41 [前端HTML5几种存储方式的总结 - WEB前端 - 伯乐在线](http://web.jobbole.com/87766/)
+
+2018-03-20 10:52 [HTML5 内置本地数据库之Sqlite - html5-websql-sqlite - ItBoth](http://www.itboth.com/d/jQNJ3u/html5-websql-sqlite)
+
+2018-03-20 10:52 [html5 js 访问 sqlite 数据库的操作类 - string-js-html5 - ItBoth](http://www.itboth.com/d/B77NJj/js-string-callback-html5-sqlite)
+
+2018-03-20 10:55 [html5本地存储和本地数据库 - 江湖丶丿新进程 - 博客园](http://www.cnblogs.com/chjb/articles/5291462.html)
+
+2018-03-20 11:00 [前端常用类库资源 - 掘金](https://juejin.im/post/5a30870c6fb9a04522077c88)
+
+2018-03-20 16:16 [Colorrrs](https://www.webpagefx.com/web-design/random-color-picker/)
+
+2018-03-29 15:44 [网页制作辅助工具-jQuery标尺参考线插件 « 张鑫旭-鑫空间-鑫生活](http://www.zhangxinxu.com/wordpress/2010/08/%E7%BD%91%E9%A1%B5%E5%88%B6%E4%BD%9C%E8%BE%85%E5%8A%A9%E5%B7%A5%E5%85%B7-jquery%E6%A0%87%E5%B0%BA%E5%8F%82%E8%80%83%E7%BA%BF%E6%8F%92%E4%BB%B6/)
+
 ## swiper滑动插件
 
 2015-02-04 18:24 [Swiper 中文API手册（share） - 挨踢前端 - 博客园](http://www.cnblogs.com/duanhuajian/p/4097310.html)
@@ -766,6 +784,8 @@
 
 2017-07-10 16:22 [[CORS：跨域资源共享] W3C的CORS Specification - Artech - 博客园](http://www.cnblogs.com/artech/p/cors-4-asp-net-web-api-02.html)
 
+2018-03-13 22:10 [CORS基础要点：关于dataType、contentType、withCredentials - 学明 - 博客园](https://www.cnblogs.com/xueming/p/cors-base.html)
+
 ## Md5
 
 2015-06-25 16:56 [Faulty Labs](http://blog.faultylabs.com/?d=md5)
@@ -1008,6 +1028,8 @@
 
 2018-02-12 10:14 [Home - MindNode](https://mindnode.com/)
 
+2018-03-12 20:34 [百度脑图核心——kityminder-editor 本地化改造 - 简书](https://www.jianshu.com/p/9b53499d9031)
+
 ## lodashjs
 
 2017-04-06 17:47 [lodash 中文网](http://lodashjs.com/)
@@ -1055,4 +1077,26 @@
 2017-05-15 17:20 [rxjs简单入门-博客-云栖社区-阿里云](https://yq.aliyun.com/articles/65027)
 
 2018-02-27 11:23 [RxJs 介绍 - 推酷](https://www.tuicool.com/articles/iYv2qiR)
+
+## CoffeeScript
+
+2018-03-12 11:20 [CoffeeScript 中文](http://coffee-script.org/)
+
+## TypeScript
+
+2018-03-12 11:21 [TypeScript - JavaScript that scales.](http://www.typescriptlang.org/)
+
+## Raphael.js
+
+2018-03-12 20:36 [快速上手RaphaelJS - CSDN博客](http://blog.csdn.net/witsonx/article/details/52386277)
+
+2018-03-12 20:36 [Raphaeljs入门到精通（二） - mthoutai - 博客园](https://www.cnblogs.com/mthoutai/p/6913973.html)
+
+2018-03-12 20:47 [Raphaeljs 插件实现任意SVG节点加载 - 最初的梦 - ITeye博客](http://zha-zi.iteye.com/blog/2090872)
+
+2018-03-12 20:47 [使用raphael.js绘制中国地图_Helloweba](https://www.helloweba.net/javascript/242.html)
+
+2018-03-12 22:01 [RaphaelJS - 简书](https://www.jianshu.com/p/2a2604448f17)
+
+2018-03-12 22:01 [raphael.js 流程图实例 - 沈振华 - 博客园](https://www.cnblogs.com/shenzhenhua/p/5626548.html)
 

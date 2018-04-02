@@ -160,6 +160,12 @@
 
 2018-01-05 15:22 [loading.io - Your SVG + GIF Ajax Loading Icons](https://loading.io/)
 
+2018-03-14 21:51 [2016-我的前端之路:工具化与工程化](https://zhuanlan.zhihu.com/p/24575395)
+
+2018-03-21 10:05 [DevDocs API Documentation](http://devdocs.io/)
+
+2018-03-21 10:12 [JS1k - The JavaScript code golfing competition](https://js1k.com/)
+
 ## 规范
 
 2015-08-11 11:05 [前端JavaScript规范](http://www.runoob.com/w3cnote/javascript-guide.html)
@@ -381,6 +387,12 @@
 2016-04-26 09:59 [UI中国-专业界面交互设计平台](http://www.ui.cn/)
 
 2016-12-22 16:11 [Awwwards - Website Awards - Best Web Design Trends](http://www.awwwards.com/)
+
+2018-03-20 16:17 [Palettes | Flat UI Colors 🎨 280 handpicked colors ready for COPY & PASTE](https://flatuicolors.com/)
+
+2018-03-20 16:19 [A Collection of Section Separators](https://tympanus.net/Development/SectionSeparators/)
+
+2018-03-20 16:29 [Proto.io - Prototypes that feel real](https://proto.io/)
 
 ## 文档
 

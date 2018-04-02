@@ -384,3 +384,13 @@
 
 2017-11-01 15:37 [集成测试覆盖率工具 codecov - 简书](http://www.jianshu.com/p/146c4769d4b1)
 
+## Rollup
+
+2018-03-14 22:10 [https://rollupjs.org/guide/en](https://rollupjs.org/guide/en)
+
+## Parcel
+
+2018-03-14 22:11 [📦 Parcel 中文网](http://www.parceljs.io/)
+
+2018-03-15 11:14 [📦 Parcel 中文网](https://parceljs.org/)
+

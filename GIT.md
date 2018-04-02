@@ -196,6 +196,8 @@
 
 2016-05-27 09:47 [使用GitHub和Hexo搭建免费静态Blog | HelloDog](https://wsgzao.github.io/post/hexo-guide/)
 
+2018-03-23 09:49 [GitHub Ribbons | The GitHub Blog](https://blog.github.com/2008-12-19-github-ribbons/)
+
 ### Themes
 
 2016-05-27 09:27 [laobubu/jekyll-theme-EasyBook: Another Jekyll Blog Theme "EasyBook"](https://github.com/laobubu/jekyll-theme-EasyBook)

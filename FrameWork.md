@@ -16,8 +16,6 @@
 
 2015-09-15 18:29 [Sea.js - A Module Loader for the Web](http://seajs.org/docs/)
 
-2015-09-23 17:04 [layer官方演示与讲解（jQuery弹出层插件）](http://layer.layui.com/)
-
 2016-05-26 09:24 [TodoMVC](http://todomvc.com/)
 
 2016-06-03 10:22 [dbmon](http://mathieuancelin.github.io/js-repaint-perfs/)
@@ -27,8 +25,6 @@
 2016-06-07 18:43 [Thinkster](https://thinkster.io/)
 
 2016-08-05 08:43 [Jackblog react redux版](http://jackhu.top/)
-
-2016-11-08 10:09 [tinper首页](http://tinper.org/)
 
 2016-11-08 15:20 [前端收藏夹](http://collect.w3ctrain.com/)
 
@@ -1028,6 +1024,8 @@
 
 2015-12-24 19:07 [layui官网 - 为web开发提供动力](http://www.layui.com/)
 
+2015-09-23 17:04 [layer官方演示与讲解（jQuery弹出层插件）](http://layer.layui.com/)
+
 ## MUI
 
 2016-01-08 11:29 [MUI - Material Design CSS Framework](https://www.muicss.com/)
@@ -1196,6 +1194,10 @@
 
 2018-03-06 18:01 [在Vue中使用highlight.js - placeless - SegmentFault 思否](https://segmentfault.com/a/1190000008188461)
 
+2018-03-21 21:38 [vue2: template or render function not defined(试过很多办法了) - KingMario的回答 - SegmentFault 思否](https://segmentfault.com/q/1010000011071945/a-1020000011075220)
+
+2018-03-27 18:07 [vuejs搭建的项目如何引入图标字体 - CSDN博客](https://blog.csdn.net/milli236/article/details/77871488)
+
 ### vuex
 
 2016-04-20 21:08 [vuejs/vuex: Flux-inspired Application Architecture for Vue.js.](https://github.com/vuejs/vuex)
@@ -1300,6 +1302,12 @@
 
 2017-06-30 12:05 [Virtual CSS 和 Styletron - 推吧](http://www.tui8.com/articles/news/59866.html)
 
+### require
+
+2018-03-21 21:49 [require.js 加载 vue组件 r.js 合并压缩 - taoquns - 博客园](https://www.cnblogs.com/taoquns/p/5960415.html)
+
+2018-03-22 17:22 [在webpack中require一个变量](https://lvquanblog.com/2016/12/17/zai-webpackzhong-requireyi-ge-bian-liang/)
+
 ## Elm
 
 2016-03-28 19:30 [Elm](http://elm-lang.org/)
@@ -1361,6 +1369,8 @@
 ## iUAP Design
 
 2016-07-22 15:35 [iUAP Design](http://design.yyuap.com/)
+
+2016-11-08 10:09 [tinper首页](http://tinper.org/)
 
 ## APICloud
 

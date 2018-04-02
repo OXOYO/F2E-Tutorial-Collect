@@ -188,6 +188,30 @@
 
 2018-03-07 19:40 [JSON Web Tokens - jwt.io](https://jwt.io/)
 
+2018-03-12 20:50 [Node.js笔记（十）Nodejs与DOM操作 - CSDN博客](http://blog.csdn.net/u010668495/article/details/47108631)
+
+2018-03-12 21:19 [node文字转图片 - CNode技术社区](https://cnodejs.org/topic/583c5d9fba57ffba06c24a89)
+
+2018-03-12 21:23 [nodejs之SVG转图片下载方案 - CSDN博客](http://blog.csdn.net/cangkukuaimanle/article/details/46778041)
+
+2018-03-12 21:54 [Node.js 里用 D3.js 来作图 - CSDN博客](http://blog.csdn.net/lzhlzz/article/details/53857357)
+
+2018-03-12 22:20 [node使用buffer生成图片 - CSDN博客](http://blog.csdn.net/u010081689/article/details/51088068)
+
+2018-03-13 10:38 [node.js 中生成验证码的另类方案——svg 验证码 - CNode技术社区](http://cnodejs.org/topic/58647a54189fd5ad64590017)
+
+2018-03-13 14:14 [《Nodejs开发加密货币》之二十六：轻松从Js文件生成UML类图 - CNode技术社区](http://cnodejs.org/topic/57ccc1f82adfc63a267844a1)
+
+2018-03-13 14:16 [通读cheerio API - CNode技术社区](http://cnodejs.org/topic/5203a71844e76d216a727d2e)
+
+2018-03-14 17:27 [windows下的node-canvas历程 - swzhou - 博客园](https://www.cnblogs.com/virtual/p/3661592.html)
+
+2018-03-14 17:38 [基于NodeCanvas的AQI渲染服务](https://zhuanlan.zhihu.com/p/34035302)
+
+2018-03-20 17:14 [如何使用nodejs做爬虫程序？ - 知乎](https://www.zhihu.com/question/31679802)
+
+2018-03-20 17:34 [Node.js 动态网页爬取 PhantomJS 使用入门 - CSDN博客](http://blog.csdn.net/qq_21265915/article/details/65626712)
+
 ## Express框架
 
 2015-04-15 17:14 [Nodejs初阶之express - 聂微东 - 博客园](http://www.cnblogs.com/Darren_code/p/node_express.html)
@@ -448,6 +472,10 @@
 
 2018-03-09 15:29 [用sinopia搭建内部npm服务 - 前端攻城师-CZF - 博客园](https://www.cnblogs.com/czf-zone/p/6860457.html)
 
+2018-03-14 17:22 [npm install canvas简明指南 - 廖雪峰的官方网站](https://www.liaoxuefeng.com/article/001393751950310ce1564f9d572410180eafe7a5dd89c6f000)
+
+2018-03-23 15:35 [npm package.json属性详解 - 桃子夭夭 - 博客园](https://www.cnblogs.com/tzyy/p/5193811.html#_h1_9)
+
 ## JSON Server
 
 2016-09-08 09:23 [三步使用 JSON Server 模拟 API - OPEN 开发经验库](http://www.open-open.com/lib/view/open1443075501873.html)
@@ -540,6 +568,8 @@
 
 2018-03-05 10:53 [从koa-session中间件源码学习cookie与session - 和前端初学者一起进步 - SegmentFault 思否](https://segmentfault.com/a/1190000012412299)
 
+2018-03-14 14:40 [Koa2中间件 - 简书](https://www.jianshu.com/p/6a3499138737)
+
 ## npmcdn
 
 2016-09-12 15:15 [unpkg](https://unpkg.com/#/)
@@ -607,4 +637,22 @@
 2018-03-05 16:38 [knex.js笔记 - CSDN博客](http://blog.csdn.net/liuyueyi1995/article/details/53782047)
 
 2018-03-05 16:38 [bookshelf.js笔记 - CSDN博客](http://blog.csdn.net/liuyueyi1995/article/details/53760577)
+
+## grpc
+
+2018-04-02 15:17 [grpc之node篇(静态代码) - CSDN博客](https://blog.csdn.net/shidaping/article/details/53942476)
+
+2018-04-02 15:17 [gRPC之Node Quick Start - 都市烟火 - 博客园](https://www.cnblogs.com/duhuo/p/5847156.html)
+
+2018-04-02 15:19 [RPC服务和HTTP服务对比 - CSDN博客](https://blog.csdn.net/wangyunpeng0319/article/details/78651998)
+
+2018-04-02 15:29 [什么是 RPC 框架 - CSDN博客](https://blog.csdn.net/b1303110335/article/details/79557292)
+
+2018-04-02 15:40 [[grpc官方指南搬运]Node.js+grpc示例 - CSDN博客](https://blog.csdn.net/qq_31989047/article/details/79139710)
+
+2018-04-02 16:28 [JSON-RPC](http://www.jsonrpc.org/)
+
+2018-04-02 16:34 [高效传输数据格式以及基于HTTP2的RPC框架---gRPC的使用 - CSDN博客](https://blog.csdn.net/canot/article/details/71213392)
+
+2018-04-02 16:37 [gRPC 官方文档中文版_V1.0](http://doc.oschina.net/grpc?t=56831)
 
