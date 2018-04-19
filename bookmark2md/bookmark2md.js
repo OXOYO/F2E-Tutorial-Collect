@@ -33,6 +33,18 @@ const formatMsg = function (target) {
     return res
 }
 
+// 转移html标签
+const html2Escape = function (str) {
+    return str.replace(/[<>&"]/g, function (c) {
+        return {
+            '<': '&lt;',
+            '>': '&gt;',
+            '&': '&amp;',
+            '"': '&quot;'
+        }[c]
+    })
+}
+
 // 写文件
 const writeFile = function (fileName, content, filePath) {
     filePath = filePath ? filePath : './md/'
@@ -179,7 +191,7 @@ setTimeout(function () {
                 if (obj.list && obj.list.length) {
                     for (let [i, item] of obj.list.entries()) {
                         let createTime = item.create_time ? item.create_time + ' ' : ''
-                        fileContent += createTime + '[' + item.text + '](' + item.href + ')' + lineBreak
+                        fileContent += createTime + '[' + html2Escape(item.text) + '](' + item.href + ')' + lineBreak
                     }
                 }
                 // 判断是否存在子节点
@@ -201,7 +213,7 @@ setTimeout(function () {
         let fileContent = ''
         for (let [i, item] of obj.list.entries()) {
             let createTime = item.create_time ? item.create_time + ' ' : ''
-            fileContent += createTime + '[' + item.text + '](' + item.href + ')' + lineBreak
+            fileContent += createTime + '[' + html2Escape(item.text) + '](' + item.href + ')' + lineBreak
         }
         fileContentArr.push(fileContent)
     }
