@@ -82,9 +82,9 @@
 
 2015-06-01 15:36 [ngMessage 资料](http://www.yearofmoo.com/2014/05/how-to-use-ngmessages-in-angularjs.html)
 
-2015-06-01 15:40 [表单验证<AngularJs> - Halower - 博客园](http://www.cnblogs.com/rohelm/p/4033513.html)
+2015-06-01 15:40 [表单验证&lt;AngularJs&gt; - Halower - 博客园](http://www.cnblogs.com/rohelm/p/4033513.html)
 
-2015-06-01 17:01 [指令<AngularJs> - Halower - 博客园](http://www.cnblogs.com/rohelm/p/4051437.html)
+2015-06-01 17:01 [指令&lt;AngularJs&gt; - Halower - 博客园](http://www.cnblogs.com/rohelm/p/4051437.html)
 
 2015-06-01 17:24 [AngularJS 指令实践指南（一） - 博客 - 伯乐在线](http://blog.jobbole.com/62249/)
 
@@ -132,7 +132,7 @@
 
 2015-06-15 10:01 [AngularJS中的Promise_小组_ThinkSAAS](http://www.thinksaas.cn/group/topic/264600/)
 
-2015-06-15 10:12 [形象的讲解angular中的$q与promise - 前端开发 | HTML , CSS & JavaScript - 博客大巴](http://www.blogbus.com/monw3c-logs/272038628.html)
+2015-06-15 10:12 [形象的讲解angular中的$q与promise - 前端开发 | HTML , CSS &amp; JavaScript - 博客大巴](http://www.blogbus.com/monw3c-logs/272038628.html)
 
 2015-06-15 10:52 [AngularJS的学习--$on、$emit和$broadcast的使用 - 疯狂的原始人 - 推酷](http://www.tuicool.com/articles/qIBNve)
 
@@ -144,17 +144,17 @@
 
 2015-06-17 16:21 [angularjs: ng-repeat 如何实现嵌套？ - SegmentFault](http://segmentfault.com/q/1010000000405730)
 
-2015-06-18 16:38 [javascript - "Uncaught Error: [$injector:modulerr] Failed to instantiate module" when there are multiple "ng-app" directives - Stack Overflow](http://stackoverflow.com/questions/22295465/uncaught-error-injectormodulerr-failed-to-instantiate-module-when-there-a)
+2015-06-18 16:38 [javascript - &quot;Uncaught Error: [$injector:modulerr] Failed to instantiate module&quot; when there are multiple &quot;ng-app&quot; directives - Stack Overflow](http://stackoverflow.com/questions/22295465/uncaught-error-injectormodulerr-failed-to-instantiate-module-when-there-a)
 
 2015-09-21 18:31 [浅谈AngularJS的$interpolate服务 1 - SegmentFault](http://segmentfault.com/a/1190000002753321)
 
-2015-09-28 11:36 [ng1.3+表单验证<AngularJs> - Halower - 博客园](http://www.cnblogs.com/rohelm/p/4039279.html)
+2015-09-28 11:36 [ng1.3+表单验证&lt;AngularJs&gt; - Halower - 博客园](http://www.cnblogs.com/rohelm/p/4039279.html)
 
 2015-09-28 15:41 [AngularJS从构建项目开始 | 粉丝日志](http://blog.fens.me/angularjs-yeoman-project/)
 
 2015-09-28 16:52 [AngularJS学习笔记 - YS.Zou](http://www.zouyesheng.com/angular.html#toc1)
 
-2015-09-28 17:40 [如何解决跨域问题（调试期&发布后） - AngularJS Nice Things](http://www.ngnice.com/posts/76c4bd0f7a4cdc)
+2015-09-28 17:40 [如何解决跨域问题（调试期&amp;发布后） - AngularJS Nice Things](http://www.ngnice.com/posts/76c4bd0f7a4cdc)
 
 2015-09-28 18:26 [AngularJS ui-router (嵌套路由) - 技术翻译 - 开源中国社区](http://www.oschina.net/translate/angularjs-ui-router-nested-routes?print)
 
@@ -338,7 +338,7 @@
 
 2015-11-17 18:14 [ng-bind-html-unsafe的替代 - $walker - 博客园](http://www.cnblogs.com/walkerwang/p/3556847.html)
 
-2015-11-17 19:00 [使用超动感HTML & JS开发WEB应用! | AngularJS中文社区](http://www.angularjs.cn/A0jl)
+2015-11-17 19:00 [使用超动感HTML &amp; JS开发WEB应用! | AngularJS中文社区](http://www.angularjs.cn/A0jl)
 
 2015-11-21 15:12 [angularjs入门学习【指令篇】 - 推酷](http://www.tuicool.com/articles/ANni63)
 
@@ -486,7 +486,7 @@
 
 2015-12-07 20:27 [百度编辑器UEditor的Yii扩展 - 疯狂的dabing - 关注互联网，关注网络安全](http://www.crazydb.com/archive/%E7%99%BE%E5%BA%A6%E7%BC%96%E8%BE%91%E5%99%A8UEditor%E7%9A%84Yii%E6%89%A9%E5%B1%95)
 
-2015-12-12 15:10 [百度UEditor组件出现Parameters: Invalid chunk &#39;&#39; ignored警告的分析，ueditorchunk_WEB前端教程 | 帮客之家](http://www.bkjia.com/webzh/865435.html)
+2015-12-12 15:10 [百度UEditor组件出现Parameters: Invalid chunk &amp;#39;&amp;#39; ignored警告的分析，ueditorchunk_WEB前端教程 | 帮客之家](http://www.bkjia.com/webzh/865435.html)
 
 #### angular-file-upload
 
@@ -546,9 +546,9 @@
 
 2015-10-21 19:39 [zensh/jsgen](https://github.com/zensh/jsgen)
 
-2015-10-21 19:40 [使用超动感HTML & JS开发WEB应用! | AngularJS中文社区](http://www.angularjs.cn/A001)
+2015-10-21 19:40 [使用超动感HTML &amp; JS开发WEB应用! | AngularJS中文社区](http://www.angularjs.cn/A001)
 
-2015-10-21 19:40 [使用超动感HTML & JS开发WEB应用! | AngularJS中文社区](http://www.angularjs.cn/A02R)
+2015-10-21 19:40 [使用超动感HTML &amp; JS开发WEB应用! | AngularJS中文社区](http://www.angularjs.cn/A02R)
 
 2015-10-22 16:57 [jsgen 在win7 安装 - Enterprise的个人空间 - 开源中国社区](http://my.oschina.net/youli/blog/341501?p=1)
 
@@ -780,7 +780,7 @@
 
 2016-03-22 18:43 [React框架为什么这么火（1）：React的设计思想 - 推酷](http://www.tuicool.com/articles/FVZVBfr)
 
-2016-03-22 21:34 [lewis617/react-redux-tutorial: react-redux-tutorial in Chinese ,catalog&&code examples](https://github.com/lewis617/react-redux-tutorial)
+2016-03-22 21:34 [lewis617/react-redux-tutorial: react-redux-tutorial in Chinese ,catalog&amp;&amp;code examples](https://github.com/lewis617/react-redux-tutorial)
 
 2016-03-23 10:02 [如何在 React 中运用 CSS？ - JavaScript - 知乎](https://www.zhihu.com/question/30757566)
 
@@ -882,7 +882,7 @@
 
 2016-11-23 13:46 [react.js - React 使用ES6+语法时 事件绑定疑惑 - SegmentFault](https://segmentfault.com/q/1010000003763076)
 
-2016-11-25 11:48 [React 组件数据流 && 组件间沟通 - 井底之蛙 - SegmentFault](https://segmentfault.com/a/1190000006831820)
+2016-11-25 11:48 [React 组件数据流 &amp;&amp; 组件间沟通 - 井底之蛙 - SegmentFault](https://segmentfault.com/a/1190000006831820)
 
 2016-11-30 10:27 [结合 ES6+ 开发 React 组件 - 开源中国社区](https://www.oschina.net/question/2012764_242688)
 
@@ -1118,7 +1118,7 @@
 
 2016-11-15 14:43 [Vue.js 快速入门 - FullStackDeveloper - SegmentFault](https://segmentfault.com/a/1190000003968020)
 
-2016-11-30 22:22 [extract-text-webpack-plugin" loader is used without the corresponding plugin How to deal - chengnuo628的专栏 - 博客频道 - CSDN.NET](http://blog.csdn.net/chengnuo628/article/details/52473530)
+2016-11-30 22:22 [extract-text-webpack-plugin&quot; loader is used without the corresponding plugin How to deal - chengnuo628的专栏 - 博客频道 - CSDN.NET](http://blog.csdn.net/chengnuo628/article/details/52473530)
 
 2016-12-05 17:01 [Vue中你不知道但却很实用的黑科技 - TalkingCoder](https://www.talkingcoder.com/article/6360427690129822990)
 
@@ -1186,9 +1186,9 @@
 
 2018-01-19 10:49 [Vue服务端渲染和Vue浏览器端渲染的性能对比 - MonkeyWang - 博客园](https://www.cnblogs.com/tiedaweishao/p/6644267.html)
 
-2018-01-22 09:31 [(译)使用Vue & deepstream构建实时CRUD应用 - w3ctech](https://www.w3ctech.com/topic/1985)
+2018-01-22 09:31 [(译)使用Vue &amp; deepstream构建实时CRUD应用 - w3ctech](https://www.w3ctech.com/topic/1985)
 
-2018-01-29 10:49 [vuejs使用v-if隐藏不需要的内容，生成的html标签中有<!----->，请问怎样去掉这些注释？ - 为什么不支持数字的回答 - SegmentFault](https://segmentfault.com/q/1010000010076288/a-1020000010077310)
+2018-01-29 10:49 [vuejs使用v-if隐藏不需要的内容，生成的html标签中有&lt;!-----&gt;，请问怎样去掉这些注释？ - 为什么不支持数字的回答 - SegmentFault](https://segmentfault.com/q/1010000010076288/a-1020000010077310)
 
 2018-02-28 17:12 [手摸手，带你用vue撸后台 系列二(登录权限篇) - 个人文章 - SegmentFault 思否](https://segmentfault.com/a/1190000009506097)
 
@@ -1197,6 +1197,8 @@
 2018-03-21 21:38 [vue2: template or render function not defined(试过很多办法了) - KingMario的回答 - SegmentFault 思否](https://segmentfault.com/q/1010000011071945/a-1020000011075220)
 
 2018-03-27 18:07 [vuejs搭建的项目如何引入图标字体 - CSDN博客](https://blog.csdn.net/milli236/article/details/77871488)
+
+2018-04-18 10:56 [Vue.js 定义组件模板的七种方式_Vue 教程_w3cplus](https://www.w3cplus.com/vue/seven-ways-to-define-a-component-template-by-vuejs.html)
 
 ### vuex
 

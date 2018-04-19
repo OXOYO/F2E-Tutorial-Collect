@@ -188,7 +188,7 @@
 
 2015-07-10 17:54 [Gulp vs Grunt « 笨笨剥壳](http://www.benben.cc/blog/?p=407)
 
-2015-08-14 14:57 [gulp完全开发指南 => 快来换掉你的Grunt吧 - 推酷](http://www.tuicool.com/articles/J3QnEb)
+2015-08-14 14:57 [gulp完全开发指南 =&gt; 快来换掉你的Grunt吧 - 推酷](http://www.tuicool.com/articles/J3QnEb)
 
 2015-08-14 14:58 [gulp.js - the streaming build system](http://gulpjs.com/)
 

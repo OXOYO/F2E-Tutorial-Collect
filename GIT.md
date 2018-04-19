@@ -34,7 +34,7 @@
 
 2015-01-23 15:43 [github常见操作和常见错误！错误提示：fatal: remote origin already exists. - god_wot的专栏 - 博客频道 - CSDN.NET](http://blog.csdn.net/god_wot/article/details/10522405)
 
-2015-01-23 16:17 [How Can I Resolve:"can not open 'git-upload-pack' " error in eclipse? - Stack Overflow](http://stackoverflow.com/questions/7077016/how-can-i-resolvecan-not-open-git-upload-pack-error-in-eclipse)
+2015-01-23 16:17 [How Can I Resolve:&quot;can not open 'git-upload-pack' &quot; error in eclipse? - Stack Overflow](http://stackoverflow.com/questions/7077016/how-can-i-resolvecan-not-open-git-upload-pack-error-in-eclipse)
 
 2015-03-02 10:08 [如何从Eclipse导入github上的项目源码 - hil2000的专栏 - 博客频道 - CSDN.NET](http://blog.csdn.net/hil2000/article/details/8566456)
 
@@ -76,7 +76,7 @@
 
 2015-06-02 17:34 [Git 添加空文件夹的方法 - today4king - 博客园](http://www.cnblogs.com/jinzhao/archive/2012/03/21/2410156.html)
 
-2015-06-09 11:45 [GitBook · Write & Publish Books](https://www.gitbook.com/)
+2015-06-09 11:45 [GitBook · Write &amp; Publish Books](https://www.gitbook.com/)
 
 2015-06-11 12:59 [使用git、git-flow与gitlab工作 - 推酷](http://www.tuicool.com/articles/BZJRj2)
 
@@ -168,6 +168,8 @@
 
 2018-03-09 09:54 [Gogs](https://gogs.io/)
 
+2018-04-19 21:09 [docsify](https://docsify.js.org/#/)
+
 ## GitHub Pages
 
 2015-10-10 11:18 [怎样做一个漂亮的 GitHub Pages 首页？ - 前端开发 - 知乎](http://www.zhihu.com/question/20376047?sort=created)
@@ -198,9 +200,11 @@
 
 2018-03-23 09:49 [GitHub Ribbons | The GitHub Blog](https://blog.github.com/2008-12-19-github-ribbons/)
 
+2018-04-19 21:18 [docsify：一个神奇的文档生成工具_Helloweba](https://www.helloweba.net/javascript/502.html)
+
 ### Themes
 
-2016-05-27 09:27 [laobubu/jekyll-theme-EasyBook: Another Jekyll Blog Theme "EasyBook"](https://github.com/laobubu/jekyll-theme-EasyBook)
+2016-05-27 09:27 [laobubu/jekyll-theme-EasyBook: Another Jekyll Blog Theme &quot;EasyBook&quot;](https://github.com/laobubu/jekyll-theme-EasyBook)
 
 2016-05-27 09:28 [Simpleyyt/jekyll-jacman: A fresh looking and responsive theme for Jekyll](https://github.com/Simpleyyt/jekyll-jacman)
 

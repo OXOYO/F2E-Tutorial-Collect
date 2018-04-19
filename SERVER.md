@@ -188,7 +188,7 @@
 
 2018-02-12 10:38 [三步将Node应用部署到Heroku上 --转载 - 池塘嗲嗲 - 博客园](https://www.cnblogs.com/ctddjyds/p/5554675.html)
 
-2018-02-12 13:31 [ROR部署到Heroku出现Application Error和code=H10 desc="App crashed“问题 - iaiti的专栏 - CSDN博客](http://blog.csdn.net/iaiti/article/details/50765670)
+2018-02-12 13:31 [ROR部署到Heroku出现Application Error和code=H10 desc=&quot;App crashed“问题 - iaiti的专栏 - CSDN博客](http://blog.csdn.net/iaiti/article/details/50765670)
 
 2018-02-12 14:34 [使用Heroku+mLab 部署Node应用 - 简书](https://www.jianshu.com/p/4f3c01a02620)
 

@@ -10,7 +10,7 @@
 
 2015-07-02 17:56 [HTTP消息头网页缓存控制以及header常用指令(转) - 一个人的天空@ - 博客园](http://www.cnblogs.com/qq78292959/archive/2012/12/28/2836906.html)
 
-2015-07-02 17:56 [html头文件设置常用之<meta>设置缓存_星星索深邃_新浪博客](http://blog.sina.com.cn/s/blog_9c7ba64d01012vn2.html)
+2015-07-02 17:56 [html头文件设置常用之&lt;meta&gt;设置缓存_星星索深邃_新浪博客](http://blog.sina.com.cn/s/blog_9c7ba64d01012vn2.html)
 
 2015-07-06 09:05 [为你详细解读HTTP请求头的具体含意_百度经验](http://jingyan.baidu.com/article/375c8e19770f0e25f2a22900.html)
 

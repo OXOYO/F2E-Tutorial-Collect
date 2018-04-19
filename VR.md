@@ -22,7 +22,7 @@
 
 2017-12-14 20:55 [WebVR教程 | WebVR中文文档 | A-Frame在线教程 | 踏得网](http://www.techbrood.com/aframe)
 
-2017-12-21 21:37 [A-Frame.js 学习&文档翻译（一）实体 - moonx - SegmentFault](https://segmentfault.com/a/1190000009240281)
+2017-12-21 21:37 [A-Frame.js 学习&amp;文档翻译（一）实体 - moonx - SegmentFault](https://segmentfault.com/a/1190000009240281)
 
 ## Primrosevr
 

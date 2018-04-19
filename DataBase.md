@@ -1,6 +1,6 @@
 # DataBase
 
-2017-01-13 19:57 [Open Source Search & Analytics · Elasticsearch | Elastic](https://www.elastic.co/)
+2017-01-13 19:57 [Open Source Search &amp; Analytics · Elasticsearch | Elastic](https://www.elastic.co/)
 
 2017-01-13 19:58 [Elastic中文社区](http://elasticsearch.cn/)
 

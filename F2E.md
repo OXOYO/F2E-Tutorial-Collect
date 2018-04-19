@@ -20,7 +20,7 @@
 
 2015-09-15 18:22 [程序员博客墙](http://blogwall.us/)
 
-2015-09-15 18:37 [Icon Font & SVG Icon Sets ❍ IcoMoon](https://icomoon.io/#home)
+2015-09-15 18:37 [Icon Font &amp; SVG Icon Sets ❍ IcoMoon](https://icomoon.io/#home)
 
 2015-09-15 18:37 [首页 | @Get社区](http://get.jobdeer.com/?c=default)
 
@@ -165,6 +165,8 @@
 2018-03-21 10:05 [DevDocs API Documentation](http://devdocs.io/)
 
 2018-03-21 10:12 [JS1k - The JavaScript code golfing competition](https://js1k.com/)
+
+2018-04-17 10:03 [飞冰 - 赋能中后台建设](https://alibaba.github.io/ice/#/)
 
 ## 规范
 
@@ -388,7 +390,7 @@
 
 2016-12-22 16:11 [Awwwards - Website Awards - Best Web Design Trends](http://www.awwwards.com/)
 
-2018-03-20 16:17 [Palettes | Flat UI Colors 🎨 280 handpicked colors ready for COPY & PASTE](https://flatuicolors.com/)
+2018-03-20 16:17 [Palettes | Flat UI Colors 🎨 280 handpicked colors ready for COPY &amp; PASTE](https://flatuicolors.com/)
 
 2018-03-20 16:19 [A Collection of Section Separators](https://tympanus.net/Development/SectionSeparators/)
 

@@ -36,7 +36,7 @@
 
 2015-05-12 13:46 [RY8005: 各浏览器对于计算后宽度和高度为含有小数的长度值时，其最终值会不一致 - W3Help](http://www.w3help.org/zh-cn/causes/RY8005)
 
-2015-05-17 03:47 [CSS 百分比 margin & padding - 推酷](http://www.tuicool.com/articles/yqIzYrZ)
+2015-05-17 03:47 [CSS 百分比 margin &amp; padding - 推酷](http://www.tuicool.com/articles/yqIzYrZ)
 
 2015-05-18 14:51 [PXtoEM.com: PX to EM conversion made simple.](http://pxtoem.com/)
 
@@ -142,7 +142,7 @@
 
 2015-04-15 11:41 [深入了解 Flexbox 伸缩盒模型 | css3教程-css3实例-css3动画 | W3CPlus](http://www.w3cplus.com/blog/666.html)
 
-2015-04-15 13:35 [HTML5&CSS3：[1]如何使用Flexbox伸缩盒_百度经验](http://jingyan.baidu.com/article/59a015e3439c64f79588657a.html)
+2015-04-15 13:35 [HTML5&amp;CSS3：[1]如何使用Flexbox伸缩盒_百度经验](http://jingyan.baidu.com/article/59a015e3439c64f79588657a.html)
 
 2015-04-15 14:05 [使用 CSS3 Flexible Boxes 布局 - SegmentFault](http://segmentfault.com/a/1190000000484017)
 
@@ -258,7 +258,7 @@
 
 2016-01-07 20:54 [详解css3弹性盒模型（Flexbox） - trigkit4 - SegmentFault](http://segmentfault.com/a/1190000000707526)
 
-2016-11-24 20:23 [详解 CSS 属性 - :before && :after - 推酷](http://www.tuicool.com/articles/uq6ZVb)
+2016-11-24 20:23 [详解 CSS 属性 - :before &amp;&amp; :after - 推酷](http://www.tuicool.com/articles/uq6ZVb)
 
 2017-02-16 16:27 [28种CSS3炫酷loading页面加载动画特效代码_懒人图库](http://d.lanrentuku.com/down/js/qita-1191/)
 
@@ -276,6 +276,10 @@
 
 2018-02-07 10:04 [Flex 布局教程：语法篇 - 阮一峰的网络日志](http://www.ruanyifeng.com/blog/2015/07/flex-grammar.html?^%$)
 
+2018-04-11 15:19 [Animated Photoshop selection on a web page!](http://matthewjamestaylor.com/blog/animated-photoshop-selection-on-a-web-page)
+
+2018-04-11 18:15 [CSS3中border-image属性的最简单的使用方法 - CSDN博客](https://blog.csdn.net/u013063153/article/details/52425637)
+
 ## Font
 
 2015-05-25 11:03 [Font Awesome, the iconic font and CSS toolkit](http://fortawesome.github.io/Font-Awesome/)
@@ -288,7 +292,7 @@
 
 2015-06-08 11:40 [如何灵活利用免费开源图标字体-IcoMoon篇 « 张鑫旭-鑫空间-鑫生活](http://www.zhangxinxu.com/wordpress/2012/06/free-icon-font-usage-icomoon/)
 
-2015-06-08 11:43 [Icon Font & SVG Icon Sets ❍ IcoMoon](https://icomoon.io/)
+2015-06-08 11:43 [Icon Font &amp; SVG Icon Sets ❍ IcoMoon](https://icomoon.io/)
 
 2015-04-01 10:51 [Iconfont-阿里巴巴矢量图标库](http://www.iconfont.cn/)
 

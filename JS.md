@@ -56,7 +56,7 @@
 
 2015-01-26 11:17 [js遍历数组和遍历对象的区别 - yun007 - 博客园](http://www.cnblogs.com/yun007/archive/2013/06/06/3121393.html)
 
-2015-01-26 14:42 [使用超动感HTML & JS开发WEB应用! | AngularJS中文社区](http://www.angularjs.cn/)
+2015-01-26 14:42 [使用超动感HTML &amp; JS开发WEB应用! | AngularJS中文社区](http://www.angularjs.cn/)
 
 2015-01-26 15:56 [给DOM元素绑定click事件也有学问 -- 简明现代魔法](http://www.nowamagic.net/librarys/veda/detail/1698)
 
@@ -232,7 +232,7 @@
 
 2015-06-24 18:07 [Jquery 获取checkbox的checked问题 - 那瞬间 - 博客园](http://www.cnblogs.com/-run/archive/2011/11/16/2251250.html)
 
-2015-06-24 18:07 [checkbox属性checked="checked"已有，但却不显示打勾的解决办法 - BIWEB开源WEBAPP手机网站系统](http://www.biweb.cn/blog/detail.php/id-21.html)
+2015-06-24 18:07 [checkbox属性checked=&quot;checked&quot;已有，但却不显示打勾的解决办法 - BIWEB开源WEBAPP手机网站系统](http://www.biweb.cn/blog/detail.php/id-21.html)
 
 2015-06-26 11:46 [Ajax提交之后，Method从POST变成GET - 开源中国社区](http://www.oschina.net/question/86510_76347)
 
@@ -370,7 +370,7 @@
 
 2015-12-07 20:20 [AJAX POST请求中参数以form data和request payload形式在servlet中的获取方式 - 痴人说梦 - 博客频道 - CSDN.NET](http://blog.csdn.net/mhmyqn/article/details/25561535)
 
-2015-12-15 18:31 [移除HTML5 input在type="number"时的上下小箭头 - qii/sihangshi - 开源中国社区](http://my.oschina.net/qii/blog/341439)
+2015-12-15 18:31 [移除HTML5 input在type=&quot;number&quot;时的上下小箭头 - qii/sihangshi - 开源中国社区](http://my.oschina.net/qii/blog/341439)
 
 2015-12-15 18:31 [让浏览器支持input type=number - 四眼闷的日志 - 网易博客](http://blog.163.com/yhwwen@126/blog/static/170468853201381701414931/)
 
@@ -382,7 +382,7 @@
 
 2016-01-07 11:47 [HTTP协议（二）：header标头说明-hiyachen-ChinaUnix博客](http://blog.chinaunix.net/uid-7374279-id-4518834.html)
 
-2016-01-11 20:59 [HTML5 <script>元素async,defer异步加载 - renfufei的专栏 - 博客频道 - CSDN.NET](http://blog.csdn.net/renfufei/article/details/10210949)
+2016-01-11 20:59 [HTML5 &lt;script&gt;元素async,defer异步加载 - renfufei的专栏 - 博客频道 - CSDN.NET](http://blog.csdn.net/renfufei/article/details/10210949)
 
 2016-01-19 16:03 [window.open()打开窗口的几种方式 - 清箫的专栏 - 博客频道 - CSDN.NET](http://blog.csdn.net/woxueliuyun/article/details/3672268)
 
@@ -406,11 +406,11 @@
 
 2016-03-08 17:51 [html中使用js计算字符串所占宽度 - 混乱的人生 - 博客频道 - CSDN.NET](http://blog.csdn.net/chaoticlife/article/details/25705495)
 
-2016-03-22 18:50 [为什么使用"use strict"可以节约你的时间 - 推酷](http://www.tuicool.com/articles/z2IvumV)
+2016-03-22 18:50 [为什么使用&quot;use strict&quot;可以节约你的时间 - 推酷](http://www.tuicool.com/articles/z2IvumV)
 
 2016-03-22 18:51 [一起来啃犀牛书：BOM - 推酷](http://www.tuicool.com/articles/NzuMVb)
 
-2016-04-29 18:33 [分页控件代码逻辑（JS版本&PHP版本） - 轻拍水面 - 博客园](http://www.cnblogs.com/xue632777974/p/4174276.html)
+2016-04-29 18:33 [分页控件代码逻辑（JS版本&amp;PHP版本） - 轻拍水面 - 博客园](http://www.cnblogs.com/xue632777974/p/4174276.html)
 
 2016-05-25 17:42 [JavaScript instanceof 运算符深入剖析 - 文章 - 伯乐在线](http://blog.jobbole.com/41611/)
 
@@ -472,7 +472,7 @@
 
 2017-07-07 11:12 [兼容各种浏览器的获取clientheight 等参数 - winter_leaf_wei的专栏 - CSDN博客](http://blog.csdn.net/winter_leaf_wei/article/details/6684211)
 
-2017-07-07 15:28 [HTML5魔法堂：全面理解Drag & Drop API - ^_^肥仔John - 博客园](http://www.cnblogs.com/fsjohnhuang/p/3961066.html)
+2017-07-07 15:28 [HTML5魔法堂：全面理解Drag &amp; Drop API - ^_^肥仔John - 博客园](http://www.cnblogs.com/fsjohnhuang/p/3961066.html)
 
 2017-08-25 09:33 [JS实现的4种数字千位符格式化方法分享_javascript技巧_脚本之家](http://www.jb51.net/article/61585.htm)
 
@@ -528,6 +528,16 @@
 
 2018-03-29 15:44 [网页制作辅助工具-jQuery标尺参考线插件 « 张鑫旭-鑫空间-鑫生活](http://www.zhangxinxu.com/wordpress/2010/08/%E7%BD%91%E9%A1%B5%E5%88%B6%E4%BD%9C%E8%BE%85%E5%8A%A9%E5%B7%A5%E5%85%B7-jquery%E6%A0%87%E5%B0%BA%E5%8F%82%E8%80%83%E7%BA%BF%E6%8F%92%E4%BB%B6/)
 
+2018-04-09 10:19 [在vue.js中使用JSZip实现在前端解压文件 - CSDN博客](https://blog.csdn.net/zhongfei1217/article/details/53267648)
+
+2018-04-09 14:59 [快速理解JavaScript 中的 LHS 和 RHS 查询 - savokiss的专栏 - SegmentFault 思否](https://segmentfault.com/a/1190000010645079)
+
+2018-04-10 13:29 [HTML5拖放事件（Drag-and-Drop,DnD） - 自律西红柿 - 博客园](http://www.cnblogs.com/sugar-tomato/p/4533977.html)
+
+2018-04-11 21:49 [关于 JS 拖拽功能的冲突问题及解决方法 - 叙帝利 - 博客园](https://www.cnblogs.com/nzbin/p/8481241.html)
+
+2018-04-13 17:43 [mustache语法 - 小花大方 - 博客园](https://www.cnblogs.com/DF-fzh/p/5979093.html)
+
 ## swiper滑动插件
 
 2015-02-04 18:24 [Swiper 中文API手册（share） - 挨踢前端 - 博客园](http://www.cnblogs.com/duanhuajian/p/4097310.html)
@@ -552,7 +562,7 @@
 
 2015-02-06 15:58 [前端在本地模拟跨域获取后端数据 - snowinmay - 博客园](http://www.cnblogs.com/snowinmay/p/3415498.html)
 
-2015-06-11 09:54 [AJAX POST&跨域 解决方案 - CORS - 聂微东 - 博客园](http://www.cnblogs.com/Darren_code/p/cors.html)
+2015-06-11 09:54 [AJAX POST&amp;跨域 解决方案 - CORS - 聂微东 - 博客园](http://www.cnblogs.com/Darren_code/p/cors.html)
 
 2015-06-11 11:41 [jQueryUI实战之Autocomplete组件的JSONP使用](http://www.gbtags.com/technology/jquery/tutorial4jqueryuiautocomplete/)
 
@@ -642,7 +652,7 @@
 
 2015-05-22 16:19 [设置JqueryUI DatePicker默认语言为中文 - X龙 - 博客园](http://www.cnblogs.com/longjxchina/archive/2012/04/23/2466998.html)
 
-2015-05-29 10:52 [js/jquery 实时监听输入框值变化的完美方案：oninput & onpropertychange - PHP网站开发的日志 - 网易博客](http://blog.163.com/lgh_2002/blog/static/44017526201341511112874/)
+2015-05-29 10:52 [js/jquery 实时监听输入框值变化的完美方案：oninput &amp; onpropertychange - PHP网站开发的日志 - 网易博客](http://blog.163.com/lgh_2002/blog/static/44017526201341511112874/)
 
 2015-08-20 13:58 [jQuery自定义滚动条样式插件mCustomScrollbar | 前端开发-WEB前端开发-专业前端开发网站](http://www.wufangbo.com/mcustomscrollbar/)
 
@@ -673,6 +683,8 @@
 2016-09-02 09:42 [解密jQuery事件核心 - 模拟事件（四） - 【Aaron】 - 博客园](http://www.cnblogs.com/aaronjs/p/3481075.html)
 
 2016-09-02 14:01 [jQuery 对AMD的支持（Require.js中如何使用jQuery） – WEB前端开发 - 专注前端开发，关注用户体验](http://www.css88.com/archives/4826)
+
+2018-04-11 18:16 [jQuery Animated Border: jquery.animatedborders.js - Craig Davis](http://there4.io/2013/01/03/jquery-animated-borders/)
 
 ## 语法高亮
 
@@ -994,7 +1006,7 @@
 
 2017-03-21 18:19 [Web-based tooling for BPMN, DMN and CMMN | bpmn.io](http://bpmn.io/)
 
-2017-03-21 18:37 [jsMind - Developer & Open Source](http://hizzgdev.github.io/jsmind/developer.html)
+2017-03-21 18:37 [jsMind - Developer &amp; Open Source](http://hizzgdev.github.io/jsmind/developer.html)
 
 2017-03-22 10:49 [有哪些值得推荐的数据可视化工具？ - 知乎](https://www.zhihu.com/question/19929609)
 

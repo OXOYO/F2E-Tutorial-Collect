@@ -170,7 +170,7 @@
 
 2015-06-18 14:44 [[Phonegap+Sencha Touch] 移动开发27、禁用iOS系统的webapp电话号码自动识别-IOS-第七城市](http://www.th7.cn/Program/IOS/201407/228892.shtml)
 
-2015-06-18 14:47 [<meta name="format-detection" content="telephone=no">等 - macwhirr123 - 博客频道 - CSDN.NET](http://blog.csdn.net/macwhirr123/article/details/11971303)
+2015-06-18 14:47 [&lt;meta name=&quot;format-detection&quot; content=&quot;telephone=no&quot;&gt;等 - macwhirr123 - 博客频道 - CSDN.NET](http://blog.csdn.net/macwhirr123/article/details/11971303)
 
 2015-06-29 17:35 [html5屏幕旋转事件，html5如何实现屏幕旋转 - html5/css/js技术交流](http://bbs.phonegap100.com/thread-28-1-1.html)
 
@@ -286,7 +286,7 @@
 
 2015-04-01 15:59 [[适配性]移动Webapp自适应方案_小组_ThinkSAAS](http://www.thinksaas.cn/group/topic/349043/)
 
-2015-04-01 15:59 [iOS&Android 移动设计字体规范整理大全 – 25学堂](http://www.25xt.com/appdesign/8011.html)
+2015-04-01 15:59 [iOS&amp;Android 移动设计字体规范整理大全 – 25学堂](http://www.25xt.com/appdesign/8011.html)
 
 2015-04-01 16:00 [最新WebAPP设计指南规范：适配iphone6技巧 – 25学堂](http://www.25xt.com/appdesign/7086.html)
 
@@ -446,7 +446,7 @@
 
 2015-10-13 18:30 [qq浏览器x5内核奇怪的问题，微信中也存在 - SegmentFault](http://segmentfault.com/q/1010000002944322)
 
-2015-10-13 18:32 [手机QQ浏览器和微信内置webview对input type="file" 的change事件不灵 - 武文海的个人空间 - 开源中国社区](http://my.oschina.net/fuckBAT/blog/492887)
+2015-10-13 18:32 [手机QQ浏览器和微信内置webview对input type=&quot;file&quot; 的change事件不灵 - 武文海的个人空间 - 开源中国社区](http://my.oschina.net/fuckBAT/blog/492887)
 
 2015-10-16 18:39 [[JS进阶] HTML5 之文件操作(file) - oscar999的专栏 - 博客频道 - CSDN.NET](http://blog.csdn.net/oscar999/article/details/37499743)
 

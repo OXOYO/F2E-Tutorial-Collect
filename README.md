@@ -1,8 +1,8 @@
 # 前端书签整理
 
-点击链接加入群【Web全栈大神群】：https://jq.qq.com/?_wv=1027&k=53iWbrr
+点击链接加入群【Web全栈大神群】：[https://jq.qq.com/?_wv=1027&k=53iWbrr](https://jq.qq.com/?_wv=1027&k=53iWbrr)
 
-更新时间：2018-04-02 17:03
+更新时间：2018-04-19 21:57
 
 # HTML
 
@@ -14,7 +14,7 @@
 
 2015-01-25 20:30 [Html5项目实战：我要地图项目 - CSDN学院 - CSDN.NET](http://edu.csdn.net/course/detail/332)
 
-2015-02-06 12:56 [网页头部的声明应该是用 lang="zh" 还是 lang="zh-cn"？ - 前端开发 - 知乎](http://www.zhihu.com/question/20797118?utm_source=weibo&utm_medium=weibo_share&utm_content=share_question&utm_campaign=share_sidebar)
+2015-02-06 12:56 [网页头部的声明应该是用 lang=&quot;zh&quot; 还是 lang=&quot;zh-cn&quot;？ - 前端开发 - 知乎](http://www.zhihu.com/question/20797118?utm_source=weibo&utm_medium=weibo_share&utm_content=share_question&utm_campaign=share_sidebar)
 
 2015-02-06 13:03 [HTML中head头结构 - SegmentFault](http://segmentfault.com/blog/paddingme/1190000000697532)
 
@@ -28,7 +28,7 @@
 
 2015-07-30 19:33 [在html页头设置不缓存 - 水之原 - 博客园](http://www.cnblogs.com/zfc2201/p/3425700.html)
 
-2015-09-16 18:16 [URL中“#” “？” &“”号的作用 - jihite - 博客园](http://www.cnblogs.com/kaituorensheng/p/3776527.html#aa?bb=cc)
+2015-09-16 18:16 [URL中“#” “？” &amp;“”号的作用 - jihite - 博客园](http://www.cnblogs.com/kaituorensheng/p/3776527.html#aa?bb=cc)
 
 2016-08-29 14:43 [tabIndex属性 - 司徒正美 - 博客园](http://www.cnblogs.com/rubylouvre/archive/2009/12/07/1618182.html)
 
@@ -38,13 +38,13 @@
 
 2015-01-16 16:48 [HTML5 Canvas 的事件处理 - HTML5开发 - 游戏开发者社区](http://bbs.9ria.com/thread-190079-1-1.html)
 
-2015-01-16 20:17 [玩转html5<canvas>画图 - TimeLangoliers - 博客园](http://www.cnblogs.com/tim-li/archive/2012/08/06/2580252.html#14)
+2015-01-16 20:17 [玩转html5&lt;canvas&gt;画图 - TimeLangoliers - 博客园](http://www.cnblogs.com/tim-li/archive/2012/08/06/2580252.html#14)
 
 2015-01-16 20:18 [HTML5画布(Canvas)速查简表](http://www.webhek.com/misc/html5-canvas-cheat-sheet)
 
 2015-01-19 22:15 [Html5 Canvas 变换矩阵与坐标变形之间的关系_回首_守住美好_百度空间](http://hi.baidu.com/100912bb_bb/item/90c4a7489518b0fa1281daf1)
 
-2015-01-19 22:16 [玩转html5<canvas>画图 - TimeLangoliers - 博客园](http://www.cnblogs.com/tim-li/archive/2012/08/06/2580252.html#10)
+2015-01-19 22:16 [玩转html5&lt;canvas&gt;画图 - TimeLangoliers - 博客园](http://www.cnblogs.com/tim-li/archive/2012/08/06/2580252.html#10)
 
 2015-01-19 22:27 [7 款基于 HTML5 Canvas 的超炫 3D 动画效果_IT新闻_博客园](http://news.cnblogs.com/n/164214/)
 
@@ -122,7 +122,7 @@
 
 2017-03-10 16:16 [H5实例教学--3D全景(ThreeJs全景Demo) - H5-Parser - SegmentFault](https://segmentfault.com/a/1190000008545795?utm_source=weekly&utm_medium=email&utm_campaign=email_weekly)
 
-2017-04-05 09:12 [HTML5 drag & drop 拖拽与拖放简介 « 张鑫旭-鑫空间-鑫生活](http://www.zhangxinxu.com/wordpress/2011/02/html5-drag-drop-%E6%8B%96%E6%8B%BD%E4%B8%8E%E6%8B%96%E6%94%BE%E7%AE%80%E4%BB%8B/)
+2017-04-05 09:12 [HTML5 drag &amp; drop 拖拽与拖放简介 « 张鑫旭-鑫空间-鑫生活](http://www.zhangxinxu.com/wordpress/2011/02/html5-drag-drop-%E6%8B%96%E6%8B%BD%E4%B8%8E%E6%8B%96%E6%94%BE%E7%AE%80%E4%BB%8B/)
 
 2017-06-01 19:31 [简单了解HTML5中的Web Notification桌面通知 « 张鑫旭-鑫空间-鑫生活](http://www.zhangxinxu.com/wordpress/2016/07/know-html5-web-notification/)
 
@@ -168,7 +168,7 @@
 
 2015-05-12 13:46 [RY8005: 各浏览器对于计算后宽度和高度为含有小数的长度值时，其最终值会不一致 - W3Help](http://www.w3help.org/zh-cn/causes/RY8005)
 
-2015-05-17 03:47 [CSS 百分比 margin & padding - 推酷](http://www.tuicool.com/articles/yqIzYrZ)
+2015-05-17 03:47 [CSS 百分比 margin &amp; padding - 推酷](http://www.tuicool.com/articles/yqIzYrZ)
 
 2015-05-18 14:51 [PXtoEM.com: PX to EM conversion made simple.](http://pxtoem.com/)
 
@@ -274,7 +274,7 @@
 
 2015-04-15 11:41 [深入了解 Flexbox 伸缩盒模型 | css3教程-css3实例-css3动画 | W3CPlus](http://www.w3cplus.com/blog/666.html)
 
-2015-04-15 13:35 [HTML5&CSS3：[1]如何使用Flexbox伸缩盒_百度经验](http://jingyan.baidu.com/article/59a015e3439c64f79588657a.html)
+2015-04-15 13:35 [HTML5&amp;CSS3：[1]如何使用Flexbox伸缩盒_百度经验](http://jingyan.baidu.com/article/59a015e3439c64f79588657a.html)
 
 2015-04-15 14:05 [使用 CSS3 Flexible Boxes 布局 - SegmentFault](http://segmentfault.com/a/1190000000484017)
 
@@ -390,7 +390,7 @@
 
 2016-01-07 20:54 [详解css3弹性盒模型（Flexbox） - trigkit4 - SegmentFault](http://segmentfault.com/a/1190000000707526)
 
-2016-11-24 20:23 [详解 CSS 属性 - :before && :after - 推酷](http://www.tuicool.com/articles/uq6ZVb)
+2016-11-24 20:23 [详解 CSS 属性 - :before &amp;&amp; :after - 推酷](http://www.tuicool.com/articles/uq6ZVb)
 
 2017-02-16 16:27 [28种CSS3炫酷loading页面加载动画特效代码_懒人图库](http://d.lanrentuku.com/down/js/qita-1191/)
 
@@ -408,6 +408,10 @@
 
 2018-02-07 10:04 [Flex 布局教程：语法篇 - 阮一峰的网络日志](http://www.ruanyifeng.com/blog/2015/07/flex-grammar.html?^%$)
 
+2018-04-11 15:19 [Animated Photoshop selection on a web page!](http://matthewjamestaylor.com/blog/animated-photoshop-selection-on-a-web-page)
+
+2018-04-11 18:15 [CSS3中border-image属性的最简单的使用方法 - CSDN博客](https://blog.csdn.net/u013063153/article/details/52425637)
+
 ## Font
 
 2015-05-25 11:03 [Font Awesome, the iconic font and CSS toolkit](http://fortawesome.github.io/Font-Awesome/)
@@ -420,7 +424,7 @@
 
 2015-06-08 11:40 [如何灵活利用免费开源图标字体-IcoMoon篇 « 张鑫旭-鑫空间-鑫生活](http://www.zhangxinxu.com/wordpress/2012/06/free-icon-font-usage-icomoon/)
 
-2015-06-08 11:43 [Icon Font & SVG Icon Sets ❍ IcoMoon](https://icomoon.io/)
+2015-06-08 11:43 [Icon Font &amp; SVG Icon Sets ❍ IcoMoon](https://icomoon.io/)
 
 2015-04-01 10:51 [Iconfont-阿里巴巴矢量图标库](http://www.iconfont.cn/)
 
@@ -516,7 +520,7 @@
 
 2015-01-26 11:17 [js遍历数组和遍历对象的区别 - yun007 - 博客园](http://www.cnblogs.com/yun007/archive/2013/06/06/3121393.html)
 
-2015-01-26 14:42 [使用超动感HTML & JS开发WEB应用! | AngularJS中文社区](http://www.angularjs.cn/)
+2015-01-26 14:42 [使用超动感HTML &amp; JS开发WEB应用! | AngularJS中文社区](http://www.angularjs.cn/)
 
 2015-01-26 15:56 [给DOM元素绑定click事件也有学问 -- 简明现代魔法](http://www.nowamagic.net/librarys/veda/detail/1698)
 
@@ -692,7 +696,7 @@
 
 2015-06-24 18:07 [Jquery 获取checkbox的checked问题 - 那瞬间 - 博客园](http://www.cnblogs.com/-run/archive/2011/11/16/2251250.html)
 
-2015-06-24 18:07 [checkbox属性checked="checked"已有，但却不显示打勾的解决办法 - BIWEB开源WEBAPP手机网站系统](http://www.biweb.cn/blog/detail.php/id-21.html)
+2015-06-24 18:07 [checkbox属性checked=&quot;checked&quot;已有，但却不显示打勾的解决办法 - BIWEB开源WEBAPP手机网站系统](http://www.biweb.cn/blog/detail.php/id-21.html)
 
 2015-06-26 11:46 [Ajax提交之后，Method从POST变成GET - 开源中国社区](http://www.oschina.net/question/86510_76347)
 
@@ -830,7 +834,7 @@
 
 2015-12-07 20:20 [AJAX POST请求中参数以form data和request payload形式在servlet中的获取方式 - 痴人说梦 - 博客频道 - CSDN.NET](http://blog.csdn.net/mhmyqn/article/details/25561535)
 
-2015-12-15 18:31 [移除HTML5 input在type="number"时的上下小箭头 - qii/sihangshi - 开源中国社区](http://my.oschina.net/qii/blog/341439)
+2015-12-15 18:31 [移除HTML5 input在type=&quot;number&quot;时的上下小箭头 - qii/sihangshi - 开源中国社区](http://my.oschina.net/qii/blog/341439)
 
 2015-12-15 18:31 [让浏览器支持input type=number - 四眼闷的日志 - 网易博客](http://blog.163.com/yhwwen@126/blog/static/170468853201381701414931/)
 
@@ -842,7 +846,7 @@
 
 2016-01-07 11:47 [HTTP协议（二）：header标头说明-hiyachen-ChinaUnix博客](http://blog.chinaunix.net/uid-7374279-id-4518834.html)
 
-2016-01-11 20:59 [HTML5 <script>元素async,defer异步加载 - renfufei的专栏 - 博客频道 - CSDN.NET](http://blog.csdn.net/renfufei/article/details/10210949)
+2016-01-11 20:59 [HTML5 &lt;script&gt;元素async,defer异步加载 - renfufei的专栏 - 博客频道 - CSDN.NET](http://blog.csdn.net/renfufei/article/details/10210949)
 
 2016-01-19 16:03 [window.open()打开窗口的几种方式 - 清箫的专栏 - 博客频道 - CSDN.NET](http://blog.csdn.net/woxueliuyun/article/details/3672268)
 
@@ -866,11 +870,11 @@
 
 2016-03-08 17:51 [html中使用js计算字符串所占宽度 - 混乱的人生 - 博客频道 - CSDN.NET](http://blog.csdn.net/chaoticlife/article/details/25705495)
 
-2016-03-22 18:50 [为什么使用"use strict"可以节约你的时间 - 推酷](http://www.tuicool.com/articles/z2IvumV)
+2016-03-22 18:50 [为什么使用&quot;use strict&quot;可以节约你的时间 - 推酷](http://www.tuicool.com/articles/z2IvumV)
 
 2016-03-22 18:51 [一起来啃犀牛书：BOM - 推酷](http://www.tuicool.com/articles/NzuMVb)
 
-2016-04-29 18:33 [分页控件代码逻辑（JS版本&PHP版本） - 轻拍水面 - 博客园](http://www.cnblogs.com/xue632777974/p/4174276.html)
+2016-04-29 18:33 [分页控件代码逻辑（JS版本&amp;PHP版本） - 轻拍水面 - 博客园](http://www.cnblogs.com/xue632777974/p/4174276.html)
 
 2016-05-25 17:42 [JavaScript instanceof 运算符深入剖析 - 文章 - 伯乐在线](http://blog.jobbole.com/41611/)
 
@@ -932,7 +936,7 @@
 
 2017-07-07 11:12 [兼容各种浏览器的获取clientheight 等参数 - winter_leaf_wei的专栏 - CSDN博客](http://blog.csdn.net/winter_leaf_wei/article/details/6684211)
 
-2017-07-07 15:28 [HTML5魔法堂：全面理解Drag & Drop API - ^_^肥仔John - 博客园](http://www.cnblogs.com/fsjohnhuang/p/3961066.html)
+2017-07-07 15:28 [HTML5魔法堂：全面理解Drag &amp; Drop API - ^_^肥仔John - 博客园](http://www.cnblogs.com/fsjohnhuang/p/3961066.html)
 
 2017-08-25 09:33 [JS实现的4种数字千位符格式化方法分享_javascript技巧_脚本之家](http://www.jb51.net/article/61585.htm)
 
@@ -988,6 +992,16 @@
 
 2018-03-29 15:44 [网页制作辅助工具-jQuery标尺参考线插件 « 张鑫旭-鑫空间-鑫生活](http://www.zhangxinxu.com/wordpress/2010/08/%E7%BD%91%E9%A1%B5%E5%88%B6%E4%BD%9C%E8%BE%85%E5%8A%A9%E5%B7%A5%E5%85%B7-jquery%E6%A0%87%E5%B0%BA%E5%8F%82%E8%80%83%E7%BA%BF%E6%8F%92%E4%BB%B6/)
 
+2018-04-09 10:19 [在vue.js中使用JSZip实现在前端解压文件 - CSDN博客](https://blog.csdn.net/zhongfei1217/article/details/53267648)
+
+2018-04-09 14:59 [快速理解JavaScript 中的 LHS 和 RHS 查询 - savokiss的专栏 - SegmentFault 思否](https://segmentfault.com/a/1190000010645079)
+
+2018-04-10 13:29 [HTML5拖放事件（Drag-and-Drop,DnD） - 自律西红柿 - 博客园](http://www.cnblogs.com/sugar-tomato/p/4533977.html)
+
+2018-04-11 21:49 [关于 JS 拖拽功能的冲突问题及解决方法 - 叙帝利 - 博客园](https://www.cnblogs.com/nzbin/p/8481241.html)
+
+2018-04-13 17:43 [mustache语法 - 小花大方 - 博客园](https://www.cnblogs.com/DF-fzh/p/5979093.html)
+
 ## swiper滑动插件
 
 2015-02-04 18:24 [Swiper 中文API手册（share） - 挨踢前端 - 博客园](http://www.cnblogs.com/duanhuajian/p/4097310.html)
@@ -1012,7 +1026,7 @@
 
 2015-02-06 15:58 [前端在本地模拟跨域获取后端数据 - snowinmay - 博客园](http://www.cnblogs.com/snowinmay/p/3415498.html)
 
-2015-06-11 09:54 [AJAX POST&跨域 解决方案 - CORS - 聂微东 - 博客园](http://www.cnblogs.com/Darren_code/p/cors.html)
+2015-06-11 09:54 [AJAX POST&amp;跨域 解决方案 - CORS - 聂微东 - 博客园](http://www.cnblogs.com/Darren_code/p/cors.html)
 
 2015-06-11 11:41 [jQueryUI实战之Autocomplete组件的JSONP使用](http://www.gbtags.com/technology/jquery/tutorial4jqueryuiautocomplete/)
 
@@ -1102,7 +1116,7 @@
 
 2015-05-22 16:19 [设置JqueryUI DatePicker默认语言为中文 - X龙 - 博客园](http://www.cnblogs.com/longjxchina/archive/2012/04/23/2466998.html)
 
-2015-05-29 10:52 [js/jquery 实时监听输入框值变化的完美方案：oninput & onpropertychange - PHP网站开发的日志 - 网易博客](http://blog.163.com/lgh_2002/blog/static/44017526201341511112874/)
+2015-05-29 10:52 [js/jquery 实时监听输入框值变化的完美方案：oninput &amp; onpropertychange - PHP网站开发的日志 - 网易博客](http://blog.163.com/lgh_2002/blog/static/44017526201341511112874/)
 
 2015-08-20 13:58 [jQuery自定义滚动条样式插件mCustomScrollbar | 前端开发-WEB前端开发-专业前端开发网站](http://www.wufangbo.com/mcustomscrollbar/)
 
@@ -1133,6 +1147,8 @@
 2016-09-02 09:42 [解密jQuery事件核心 - 模拟事件（四） - 【Aaron】 - 博客园](http://www.cnblogs.com/aaronjs/p/3481075.html)
 
 2016-09-02 14:01 [jQuery 对AMD的支持（Require.js中如何使用jQuery） – WEB前端开发 - 专注前端开发，关注用户体验](http://www.css88.com/archives/4826)
+
+2018-04-11 18:16 [jQuery Animated Border: jquery.animatedborders.js - Craig Davis](http://there4.io/2013/01/03/jquery-animated-borders/)
 
 ## 语法高亮
 
@@ -1454,7 +1470,7 @@
 
 2017-03-21 18:19 [Web-based tooling for BPMN, DMN and CMMN | bpmn.io](http://bpmn.io/)
 
-2017-03-21 18:37 [jsMind - Developer & Open Source](http://hizzgdev.github.io/jsmind/developer.html)
+2017-03-21 18:37 [jsMind - Developer &amp; Open Source](http://hizzgdev.github.io/jsmind/developer.html)
 
 2017-03-22 10:49 [有哪些值得推荐的数据可视化工具？ - 知乎](https://www.zhihu.com/question/19929609)
 
@@ -1796,7 +1812,7 @@
 
 2015-12-12 15:31 [svn提示出错异常为remains in conflict --脚本百事通](http://www.csdn123.com/html/mycsdn20140110/5b/5bb8d97800c29813c8fb4cf23f18400f.html)
 
-2016-01-19 14:41 [svn & git 问题汇总 - Archrjoe - 博客园](http://www.cnblogs.com/piercalex/p/4045735.html)
+2016-01-19 14:41 [svn &amp; git 问题汇总 - Archrjoe - 博客园](http://www.cnblogs.com/piercalex/p/4045735.html)
 
 2016-01-20 20:28 [windows下svn命令行乱码解决 - 愚公移山 - 博客频道 - CSDN.NET](http://blog.csdn.net/5257007/article/details/6093577)
 
@@ -1836,7 +1852,7 @@
 
 2015-01-23 15:43 [github常见操作和常见错误！错误提示：fatal: remote origin already exists. - god_wot的专栏 - 博客频道 - CSDN.NET](http://blog.csdn.net/god_wot/article/details/10522405)
 
-2015-01-23 16:17 [How Can I Resolve:"can not open 'git-upload-pack' " error in eclipse? - Stack Overflow](http://stackoverflow.com/questions/7077016/how-can-i-resolvecan-not-open-git-upload-pack-error-in-eclipse)
+2015-01-23 16:17 [How Can I Resolve:&quot;can not open 'git-upload-pack' &quot; error in eclipse? - Stack Overflow](http://stackoverflow.com/questions/7077016/how-can-i-resolvecan-not-open-git-upload-pack-error-in-eclipse)
 
 2015-03-02 10:08 [如何从Eclipse导入github上的项目源码 - hil2000的专栏 - 博客频道 - CSDN.NET](http://blog.csdn.net/hil2000/article/details/8566456)
 
@@ -1878,7 +1894,7 @@
 
 2015-06-02 17:34 [Git 添加空文件夹的方法 - today4king - 博客园](http://www.cnblogs.com/jinzhao/archive/2012/03/21/2410156.html)
 
-2015-06-09 11:45 [GitBook · Write & Publish Books](https://www.gitbook.com/)
+2015-06-09 11:45 [GitBook · Write &amp; Publish Books](https://www.gitbook.com/)
 
 2015-06-11 12:59 [使用git、git-flow与gitlab工作 - 推酷](http://www.tuicool.com/articles/BZJRj2)
 
@@ -1970,6 +1986,8 @@
 
 2018-03-09 09:54 [Gogs](https://gogs.io/)
 
+2018-04-19 21:09 [docsify](https://docsify.js.org/#/)
+
 ## GitHub Pages
 
 2015-10-10 11:18 [怎样做一个漂亮的 GitHub Pages 首页？ - 前端开发 - 知乎](http://www.zhihu.com/question/20376047?sort=created)
@@ -2000,9 +2018,11 @@
 
 2018-03-23 09:49 [GitHub Ribbons | The GitHub Blog](https://blog.github.com/2008-12-19-github-ribbons/)
 
+2018-04-19 21:18 [docsify：一个神奇的文档生成工具_Helloweba](https://www.helloweba.net/javascript/502.html)
+
 ### Themes
 
-2016-05-27 09:27 [laobubu/jekyll-theme-EasyBook: Another Jekyll Blog Theme "EasyBook"](https://github.com/laobubu/jekyll-theme-EasyBook)
+2016-05-27 09:27 [laobubu/jekyll-theme-EasyBook: Another Jekyll Blog Theme &quot;EasyBook&quot;](https://github.com/laobubu/jekyll-theme-EasyBook)
 
 2016-05-27 09:28 [Simpleyyt/jekyll-jacman: A fresh looking and responsive theme for Jekyll](https://github.com/Simpleyyt/jekyll-jacman)
 
@@ -2196,7 +2216,7 @@
 
 2018-02-12 10:38 [三步将Node应用部署到Heroku上 --转载 - 池塘嗲嗲 - 博客园](https://www.cnblogs.com/ctddjyds/p/5554675.html)
 
-2018-02-12 13:31 [ROR部署到Heroku出现Application Error和code=H10 desc="App crashed“问题 - iaiti的专栏 - CSDN博客](http://blog.csdn.net/iaiti/article/details/50765670)
+2018-02-12 13:31 [ROR部署到Heroku出现Application Error和code=H10 desc=&quot;App crashed“问题 - iaiti的专栏 - CSDN博客](http://blog.csdn.net/iaiti/article/details/50765670)
 
 2018-02-12 14:34 [使用Heroku+mLab 部署Node应用 - 简书](https://www.jianshu.com/p/4f3c01a02620)
 
@@ -2204,7 +2224,7 @@
 
 # DataBase
 
-2017-01-13 19:57 [Open Source Search & Analytics · Elasticsearch | Elastic](https://www.elastic.co/)
+2017-01-13 19:57 [Open Source Search &amp; Analytics · Elasticsearch | Elastic](https://www.elastic.co/)
 
 2017-01-13 19:58 [Elastic中文社区](http://elasticsearch.cn/)
 
@@ -2560,7 +2580,7 @@
 
 2015-06-18 14:44 [[Phonegap+Sencha Touch] 移动开发27、禁用iOS系统的webapp电话号码自动识别-IOS-第七城市](http://www.th7.cn/Program/IOS/201407/228892.shtml)
 
-2015-06-18 14:47 [<meta name="format-detection" content="telephone=no">等 - macwhirr123 - 博客频道 - CSDN.NET](http://blog.csdn.net/macwhirr123/article/details/11971303)
+2015-06-18 14:47 [&lt;meta name=&quot;format-detection&quot; content=&quot;telephone=no&quot;&gt;等 - macwhirr123 - 博客频道 - CSDN.NET](http://blog.csdn.net/macwhirr123/article/details/11971303)
 
 2015-06-29 17:35 [html5屏幕旋转事件，html5如何实现屏幕旋转 - html5/css/js技术交流](http://bbs.phonegap100.com/thread-28-1-1.html)
 
@@ -2676,7 +2696,7 @@
 
 2015-04-01 15:59 [[适配性]移动Webapp自适应方案_小组_ThinkSAAS](http://www.thinksaas.cn/group/topic/349043/)
 
-2015-04-01 15:59 [iOS&Android 移动设计字体规范整理大全 – 25学堂](http://www.25xt.com/appdesign/8011.html)
+2015-04-01 15:59 [iOS&amp;Android 移动设计字体规范整理大全 – 25学堂](http://www.25xt.com/appdesign/8011.html)
 
 2015-04-01 16:00 [最新WebAPP设计指南规范：适配iphone6技巧 – 25学堂](http://www.25xt.com/appdesign/7086.html)
 
@@ -2836,7 +2856,7 @@
 
 2015-10-13 18:30 [qq浏览器x5内核奇怪的问题，微信中也存在 - SegmentFault](http://segmentfault.com/q/1010000002944322)
 
-2015-10-13 18:32 [手机QQ浏览器和微信内置webview对input type="file" 的change事件不灵 - 武文海的个人空间 - 开源中国社区](http://my.oschina.net/fuckBAT/blog/492887)
+2015-10-13 18:32 [手机QQ浏览器和微信内置webview对input type=&quot;file&quot; 的change事件不灵 - 武文海的个人空间 - 开源中国社区](http://my.oschina.net/fuckBAT/blog/492887)
 
 2015-10-16 18:39 [[JS进阶] HTML5 之文件操作(file) - oscar999的专栏 - 博客频道 - CSDN.NET](http://blog.csdn.net/oscar999/article/details/37499743)
 
@@ -2858,7 +2878,7 @@
 
 2015-03-20 17:27 [【计算几何】多边形交集 - 一点心青 - 博客园](http://www.cnblogs.com/dwdxdy/archive/2013/08/02/3232110.html)
 
-2015-03-23 13:37 [谈谈"求线段交点"的几种算法(js实现,完整版) - 大城小胖的大城 - ITeye技术网站](http://fins.iteye.com/blog/1522259)
+2015-03-23 13:37 [谈谈&quot;求线段交点&quot;的几种算法(js实现,完整版) - 大城小胖的大城 - ITeye技术网站](http://fins.iteye.com/blog/1522259)
 
 2015-03-23 18:36 [算法模板-判断线段相交（可求交点）_rapheal_Guo_新浪博客](http://blog.sina.com.cn/s/blog_625c774e0100hits.html)
 
@@ -2866,7 +2886,7 @@
 
 2017-02-15 08:44 [大数据算法-一个关注大数据算法在工业界应用的网站](http://x-algo.cn/)
 
-2017-04-13 09:35 [最短路算法 ：Bellman-ford算法 & Dijkstra算法 & floyd算法 & SPFA算法 详解 - Mr。如夜 - - 推酷](http://www.tuicool.com/articles/YJzyee)
+2017-04-13 09:35 [最短路算法 ：Bellman-ford算法 &amp; Dijkstra算法 &amp; floyd算法 &amp; SPFA算法 详解 - Mr。如夜 - - 推酷](http://www.tuicool.com/articles/YJzyee)
 
 2017-04-13 10:41 [js实现A*寻路算法 - huansky - 博客园](http://www.cnblogs.com/huansky/p/5572631.html)
 
@@ -3098,7 +3118,7 @@
 
 2015-07-10 17:54 [Gulp vs Grunt « 笨笨剥壳](http://www.benben.cc/blog/?p=407)
 
-2015-08-14 14:57 [gulp完全开发指南 => 快来换掉你的Grunt吧 - 推酷](http://www.tuicool.com/articles/J3QnEb)
+2015-08-14 14:57 [gulp完全开发指南 =&gt; 快来换掉你的Grunt吧 - 推酷](http://www.tuicool.com/articles/J3QnEb)
 
 2015-08-14 14:58 [gulp.js - the streaming build system](http://gulpjs.com/)
 
@@ -3376,7 +3396,7 @@
 
 2015-04-30 16:46 [Nodejs异步异常处理domain | 粉丝日志](http://blog.fens.me/nodejs-core-domain/)
 
-2015-04-30 16:47 [出现"Most middleware (like ... | 慕课网](http://www.imooc.com/qadetail/60858)
+2015-04-30 16:47 [出现&quot;Most middleware (like ... | 慕课网](http://www.imooc.com/qadetail/60858)
 
 2015-05-08 17:31 [nodejs npm常用命令 - Ruthless - 博客园](http://www.cnblogs.com/linjiqin/p/3765772.html)
 
@@ -3852,7 +3872,7 @@
 
 2017-07-12 10:41 [[node] koa - 晴明桑 - 博客园](http://www.cnblogs.com/qingmingsang/articles/5554036.html)
 
-2017-09-28 14:12 [使用 AngularJS & NodeJS 实现基于 token 的认证应用 - 知乎专栏](https://zhuanlan.zhihu.com/FrontendMagazine/19920223)
+2017-09-28 14:12 [使用 AngularJS &amp; NodeJS 实现基于 token 的认证应用 - 知乎专栏](https://zhuanlan.zhihu.com/FrontendMagazine/19920223)
 
 2017-09-30 09:53 [Koa 框架教程 - 阮一峰的网络日志](http://www.ruanyifeng.com/blog/2017/08/koa.html)
 
@@ -3864,7 +3884,7 @@
 
 2017-11-02 09:50 [EADDRINUSE when watching tests with mocha and supertest](http://www.marcusoft.net/2015/10/eaddrinuse-when-watching-tests-with-mocha-and-supertest.html)
 
-2017-11-02 10:51 [ES2015 & babel 实战：开发NPM模块 - CNode技术社区](http://cnodejs.org/topic/565c65c4b31692e827fdd00c)
+2017-11-02 10:51 [ES2015 &amp; babel 实战：开发NPM模块 - CNode技术社区](http://cnodejs.org/topic/565c65c4b31692e827fdd00c)
 
 2017-11-02 12:11 [从零搭建Koa2 Server - 相学长怼前端 - SegmentFault](https://segmentfault.com/a/1190000009494041)
 
@@ -3962,6 +3982,10 @@
 
 2018-04-02 16:37 [gRPC 官方文档中文版_V1.0](http://doc.oschina.net/grpc?t=56831)
 
+## 新建文件夹
+
+2018-04-17 09:56 [Electron + Vue 实现一个代理客户端 - 前端开发之道 - SegmentFault 思否](https://segmentfault.com/a/1190000008978174)
+
 # FrameWork
 
 2015-03-27 18:20 [Laravel-简洁、优雅的PHP开发框架(PHP Web Framework)。- Laravel中文网（Laravel中国社区）](http://www.golaravel.com/)
@@ -4046,9 +4070,9 @@
 
 2015-06-01 15:36 [ngMessage 资料](http://www.yearofmoo.com/2014/05/how-to-use-ngmessages-in-angularjs.html)
 
-2015-06-01 15:40 [表单验证<AngularJs> - Halower - 博客园](http://www.cnblogs.com/rohelm/p/4033513.html)
+2015-06-01 15:40 [表单验证&lt;AngularJs&gt; - Halower - 博客园](http://www.cnblogs.com/rohelm/p/4033513.html)
 
-2015-06-01 17:01 [指令<AngularJs> - Halower - 博客园](http://www.cnblogs.com/rohelm/p/4051437.html)
+2015-06-01 17:01 [指令&lt;AngularJs&gt; - Halower - 博客园](http://www.cnblogs.com/rohelm/p/4051437.html)
 
 2015-06-01 17:24 [AngularJS 指令实践指南（一） - 博客 - 伯乐在线](http://blog.jobbole.com/62249/)
 
@@ -4096,7 +4120,7 @@
 
 2015-06-15 10:01 [AngularJS中的Promise_小组_ThinkSAAS](http://www.thinksaas.cn/group/topic/264600/)
 
-2015-06-15 10:12 [形象的讲解angular中的$q与promise - 前端开发 | HTML , CSS & JavaScript - 博客大巴](http://www.blogbus.com/monw3c-logs/272038628.html)
+2015-06-15 10:12 [形象的讲解angular中的$q与promise - 前端开发 | HTML , CSS &amp; JavaScript - 博客大巴](http://www.blogbus.com/monw3c-logs/272038628.html)
 
 2015-06-15 10:52 [AngularJS的学习--$on、$emit和$broadcast的使用 - 疯狂的原始人 - 推酷](http://www.tuicool.com/articles/qIBNve)
 
@@ -4108,17 +4132,17 @@
 
 2015-06-17 16:21 [angularjs: ng-repeat 如何实现嵌套？ - SegmentFault](http://segmentfault.com/q/1010000000405730)
 
-2015-06-18 16:38 [javascript - "Uncaught Error: [$injector:modulerr] Failed to instantiate module" when there are multiple "ng-app" directives - Stack Overflow](http://stackoverflow.com/questions/22295465/uncaught-error-injectormodulerr-failed-to-instantiate-module-when-there-a)
+2015-06-18 16:38 [javascript - &quot;Uncaught Error: [$injector:modulerr] Failed to instantiate module&quot; when there are multiple &quot;ng-app&quot; directives - Stack Overflow](http://stackoverflow.com/questions/22295465/uncaught-error-injectormodulerr-failed-to-instantiate-module-when-there-a)
 
 2015-09-21 18:31 [浅谈AngularJS的$interpolate服务 1 - SegmentFault](http://segmentfault.com/a/1190000002753321)
 
-2015-09-28 11:36 [ng1.3+表单验证<AngularJs> - Halower - 博客园](http://www.cnblogs.com/rohelm/p/4039279.html)
+2015-09-28 11:36 [ng1.3+表单验证&lt;AngularJs&gt; - Halower - 博客园](http://www.cnblogs.com/rohelm/p/4039279.html)
 
 2015-09-28 15:41 [AngularJS从构建项目开始 | 粉丝日志](http://blog.fens.me/angularjs-yeoman-project/)
 
 2015-09-28 16:52 [AngularJS学习笔记 - YS.Zou](http://www.zouyesheng.com/angular.html#toc1)
 
-2015-09-28 17:40 [如何解决跨域问题（调试期&发布后） - AngularJS Nice Things](http://www.ngnice.com/posts/76c4bd0f7a4cdc)
+2015-09-28 17:40 [如何解决跨域问题（调试期&amp;发布后） - AngularJS Nice Things](http://www.ngnice.com/posts/76c4bd0f7a4cdc)
 
 2015-09-28 18:26 [AngularJS ui-router (嵌套路由) - 技术翻译 - 开源中国社区](http://www.oschina.net/translate/angularjs-ui-router-nested-routes?print)
 
@@ -4302,7 +4326,7 @@
 
 2015-11-17 18:14 [ng-bind-html-unsafe的替代 - $walker - 博客园](http://www.cnblogs.com/walkerwang/p/3556847.html)
 
-2015-11-17 19:00 [使用超动感HTML & JS开发WEB应用! | AngularJS中文社区](http://www.angularjs.cn/A0jl)
+2015-11-17 19:00 [使用超动感HTML &amp; JS开发WEB应用! | AngularJS中文社区](http://www.angularjs.cn/A0jl)
 
 2015-11-21 15:12 [angularjs入门学习【指令篇】 - 推酷](http://www.tuicool.com/articles/ANni63)
 
@@ -4450,7 +4474,7 @@
 
 2015-12-07 20:27 [百度编辑器UEditor的Yii扩展 - 疯狂的dabing - 关注互联网，关注网络安全](http://www.crazydb.com/archive/%E7%99%BE%E5%BA%A6%E7%BC%96%E8%BE%91%E5%99%A8UEditor%E7%9A%84Yii%E6%89%A9%E5%B1%95)
 
-2015-12-12 15:10 [百度UEditor组件出现Parameters: Invalid chunk &#39;&#39; ignored警告的分析，ueditorchunk_WEB前端教程 | 帮客之家](http://www.bkjia.com/webzh/865435.html)
+2015-12-12 15:10 [百度UEditor组件出现Parameters: Invalid chunk &amp;#39;&amp;#39; ignored警告的分析，ueditorchunk_WEB前端教程 | 帮客之家](http://www.bkjia.com/webzh/865435.html)
 
 #### angular-file-upload
 
@@ -4510,9 +4534,9 @@
 
 2015-10-21 19:39 [zensh/jsgen](https://github.com/zensh/jsgen)
 
-2015-10-21 19:40 [使用超动感HTML & JS开发WEB应用! | AngularJS中文社区](http://www.angularjs.cn/A001)
+2015-10-21 19:40 [使用超动感HTML &amp; JS开发WEB应用! | AngularJS中文社区](http://www.angularjs.cn/A001)
 
-2015-10-21 19:40 [使用超动感HTML & JS开发WEB应用! | AngularJS中文社区](http://www.angularjs.cn/A02R)
+2015-10-21 19:40 [使用超动感HTML &amp; JS开发WEB应用! | AngularJS中文社区](http://www.angularjs.cn/A02R)
 
 2015-10-22 16:57 [jsgen 在win7 安装 - Enterprise的个人空间 - 开源中国社区](http://my.oschina.net/youli/blog/341501?p=1)
 
@@ -4744,7 +4768,7 @@
 
 2016-03-22 18:43 [React框架为什么这么火（1）：React的设计思想 - 推酷](http://www.tuicool.com/articles/FVZVBfr)
 
-2016-03-22 21:34 [lewis617/react-redux-tutorial: react-redux-tutorial in Chinese ,catalog&&code examples](https://github.com/lewis617/react-redux-tutorial)
+2016-03-22 21:34 [lewis617/react-redux-tutorial: react-redux-tutorial in Chinese ,catalog&amp;&amp;code examples](https://github.com/lewis617/react-redux-tutorial)
 
 2016-03-23 10:02 [如何在 React 中运用 CSS？ - JavaScript - 知乎](https://www.zhihu.com/question/30757566)
 
@@ -4846,7 +4870,7 @@
 
 2016-11-23 13:46 [react.js - React 使用ES6+语法时 事件绑定疑惑 - SegmentFault](https://segmentfault.com/q/1010000003763076)
 
-2016-11-25 11:48 [React 组件数据流 && 组件间沟通 - 井底之蛙 - SegmentFault](https://segmentfault.com/a/1190000006831820)
+2016-11-25 11:48 [React 组件数据流 &amp;&amp; 组件间沟通 - 井底之蛙 - SegmentFault](https://segmentfault.com/a/1190000006831820)
 
 2016-11-30 10:27 [结合 ES6+ 开发 React 组件 - 开源中国社区](https://www.oschina.net/question/2012764_242688)
 
@@ -5082,7 +5106,7 @@
 
 2016-11-15 14:43 [Vue.js 快速入门 - FullStackDeveloper - SegmentFault](https://segmentfault.com/a/1190000003968020)
 
-2016-11-30 22:22 [extract-text-webpack-plugin" loader is used without the corresponding plugin How to deal - chengnuo628的专栏 - 博客频道 - CSDN.NET](http://blog.csdn.net/chengnuo628/article/details/52473530)
+2016-11-30 22:22 [extract-text-webpack-plugin&quot; loader is used without the corresponding plugin How to deal - chengnuo628的专栏 - 博客频道 - CSDN.NET](http://blog.csdn.net/chengnuo628/article/details/52473530)
 
 2016-12-05 17:01 [Vue中你不知道但却很实用的黑科技 - TalkingCoder](https://www.talkingcoder.com/article/6360427690129822990)
 
@@ -5150,9 +5174,9 @@
 
 2018-01-19 10:49 [Vue服务端渲染和Vue浏览器端渲染的性能对比 - MonkeyWang - 博客园](https://www.cnblogs.com/tiedaweishao/p/6644267.html)
 
-2018-01-22 09:31 [(译)使用Vue & deepstream构建实时CRUD应用 - w3ctech](https://www.w3ctech.com/topic/1985)
+2018-01-22 09:31 [(译)使用Vue &amp; deepstream构建实时CRUD应用 - w3ctech](https://www.w3ctech.com/topic/1985)
 
-2018-01-29 10:49 [vuejs使用v-if隐藏不需要的内容，生成的html标签中有<!----->，请问怎样去掉这些注释？ - 为什么不支持数字的回答 - SegmentFault](https://segmentfault.com/q/1010000010076288/a-1020000010077310)
+2018-01-29 10:49 [vuejs使用v-if隐藏不需要的内容，生成的html标签中有&lt;!-----&gt;，请问怎样去掉这些注释？ - 为什么不支持数字的回答 - SegmentFault](https://segmentfault.com/q/1010000010076288/a-1020000010077310)
 
 2018-02-28 17:12 [手摸手，带你用vue撸后台 系列二(登录权限篇) - 个人文章 - SegmentFault 思否](https://segmentfault.com/a/1190000009506097)
 
@@ -5161,6 +5185,8 @@
 2018-03-21 21:38 [vue2: template or render function not defined(试过很多办法了) - KingMario的回答 - SegmentFault 思否](https://segmentfault.com/q/1010000011071945/a-1020000011075220)
 
 2018-03-27 18:07 [vuejs搭建的项目如何引入图标字体 - CSDN博客](https://blog.csdn.net/milli236/article/details/77871488)
+
+2018-04-18 10:56 [Vue.js 定义组件模板的七种方式_Vue 教程_w3cplus](https://www.w3cplus.com/vue/seven-ways-to-define-a-component-template-by-vuejs.html)
 
 ### vuex
 
@@ -5392,7 +5418,7 @@
 
 2015-06-29 21:20 [{韩冰云}栅格系统AIRUYI WEB|门户/社交|网页|韩冰云 - 原创设计作品 - 站酷 (ZCOOL)](http://www.zcool.com.cn/work/ZMTI0MDY3MzY=.html)
 
-2015-06-29 21:25 [<我们毕业啦>邵阳创业科技学校 杨枞 #青春答卷2015#|企业官网|网页|yxbyc - 原创设计作品 - 站酷 (ZCOOL)](http://www.zcool.com.cn/work/ZMTIzODkzOTY=.html)
+2015-06-29 21:25 [&lt;我们毕业啦&gt;邵阳创业科技学校 杨枞 #青春答卷2015#|企业官网|网页|yxbyc - 原创设计作品 - 站酷 (ZCOOL)](http://www.zcool.com.cn/work/ZMTIzODkzOTY=.html)
 
 2015-06-30 11:34 [快速招人|门户/社交|网页|不点小玺 - 原创设计作品 - 站酷 (ZCOOL)](http://www.zcool.com.cn/work/ZNzEyMTg0NA==.html)
 
@@ -5472,7 +5498,7 @@
 
 2015-06-05 17:10 [ASCII码表:ASCII码中文站 www.asciima.com](http://www.asciima.com/)
 
-2015-06-05 18:01 [Home | CloudFlare | The web performance & security company](https://www.cloudflare.com/)
+2015-06-05 18:01 [Home | CloudFlare | The web performance &amp; security company](https://www.cloudflare.com/)
 
 2015-06-05 18:01 [GoAgent 3.1.22 最新版|免费翻墙利器 | Yanu](http://www.ccav1.com/goagent-3-1-22.html)
 
@@ -5522,7 +5548,7 @@
 
 2017-08-01 16:08 [首页 • ZABBIX中文社区](http://www.zabbix.org.cn/)
 
-2017-09-15 16:59 [Safari, the world's most comprehensive tech & business learning platform](https://www.safaribooksonline.com/)
+2017-09-15 16:59 [Safari, the world's most comprehensive tech &amp; business learning platform](https://www.safaribooksonline.com/)
 
 2017-12-14 16:53 [RDMA_百度百科](https://baike.baidu.com/item/RDMA/1453093?fr=aladdin)
 
@@ -5774,7 +5800,7 @@
 
 2015-06-05 17:06 [WebPageTest学习 - 那些过往 - 51Testing软件测试网 51Testing软件测试网-中国软件测试人的精神家园](http://www.51testing.com/html/29/447229-248613.html)
 
-2015-06-05 17:12 [Yslow&PageSpeed– 诊断各种缓慢症状 - leejersey - 博客园](http://www.cnblogs.com/leejersey/p/3386549.html)
+2015-06-05 17:12 [Yslow&amp;PageSpeed– 诊断各种缓慢症状 - leejersey - 博客园](http://www.cnblogs.com/leejersey/p/3386549.html)
 
 2015-06-08 09:26 [PageSpeed Insights](https://developers.google.com/speed/pagespeed/insights/)
 
@@ -5794,7 +5820,7 @@
 
 2015-08-07 20:26 [优化网站设计（十三）：配置ETags - 陈希章 - 博客园](http://www.cnblogs.com/chenxizhang/archive/2013/05/11/3072898.html)
 
-2015-08-10 13:37 [[HTML&CSS3]HTML性能探究 | 学步园](http://www.xuebuyuan.com/2225096.html)
+2015-08-10 13:37 [[HTML&amp;CSS3]HTML性能探究 | 学步园](http://www.xuebuyuan.com/2225096.html)
 
 2015-09-15 17:43 [H5性能优化方案 | @Get社区](http://get.jobdeer.com/8007.get)
 
@@ -5848,7 +5874,7 @@
 
 2015-09-15 18:22 [程序员博客墙](http://blogwall.us/)
 
-2015-09-15 18:37 [Icon Font & SVG Icon Sets ❍ IcoMoon](https://icomoon.io/#home)
+2015-09-15 18:37 [Icon Font &amp; SVG Icon Sets ❍ IcoMoon](https://icomoon.io/#home)
 
 2015-09-15 18:37 [首页 | @Get社区](http://get.jobdeer.com/?c=default)
 
@@ -5993,6 +6019,8 @@
 2018-03-21 10:05 [DevDocs API Documentation](http://devdocs.io/)
 
 2018-03-21 10:12 [JS1k - The JavaScript code golfing competition](https://js1k.com/)
+
+2018-04-17 10:03 [飞冰 - 赋能中后台建设](https://alibaba.github.io/ice/#/)
 
 ## 规范
 
@@ -6216,7 +6244,7 @@
 
 2016-12-22 16:11 [Awwwards - Website Awards - Best Web Design Trends](http://www.awwwards.com/)
 
-2018-03-20 16:17 [Palettes | Flat UI Colors 🎨 280 handpicked colors ready for COPY & PASTE](https://flatuicolors.com/)
+2018-03-20 16:17 [Palettes | Flat UI Colors 🎨 280 handpicked colors ready for COPY &amp; PASTE](https://flatuicolors.com/)
 
 2018-03-20 16:19 [A Collection of Section Separators](https://tympanus.net/Development/SectionSeparators/)
 
@@ -6288,7 +6316,7 @@
 
 2015-07-02 17:56 [HTTP消息头网页缓存控制以及header常用指令(转) - 一个人的天空@ - 博客园](http://www.cnblogs.com/qq78292959/archive/2012/12/28/2836906.html)
 
-2015-07-02 17:56 [html头文件设置常用之<meta>设置缓存_星星索深邃_新浪博客](http://blog.sina.com.cn/s/blog_9c7ba64d01012vn2.html)
+2015-07-02 17:56 [html头文件设置常用之&lt;meta&gt;设置缓存_星星索深邃_新浪博客](http://blog.sina.com.cn/s/blog_9c7ba64d01012vn2.html)
 
 2015-07-06 09:05 [为你详细解读HTTP请求头的具体含意_百度经验](http://jingyan.baidu.com/article/375c8e19770f0e25f2a22900.html)
 
@@ -6526,7 +6554,7 @@
 
 2017-12-14 20:55 [WebVR教程 | WebVR中文文档 | A-Frame在线教程 | 踏得网](http://www.techbrood.com/aframe)
 
-2017-12-21 21:37 [A-Frame.js 学习&文档翻译（一）实体 - moonx - SegmentFault](https://segmentfault.com/a/1190000009240281)
+2017-12-21 21:37 [A-Frame.js 学习&amp;文档翻译（一）实体 - moonx - SegmentFault](https://segmentfault.com/a/1190000009240281)
 
 ## Primrosevr
 
@@ -6568,7 +6596,7 @@
 
 # 应用号
 
-2016-09-22 18:28 [微信小程序(应用号)开发工具&部分API&项目demo放出](http://mp.weixin.qq.com/s?__biz=MzI0MTM0OTUwMg==&mid=2247483701&idx=1&sn=be7bd07d2d9745ef1ba31e68c115b293&chksm=e90da724de7a2e3237915faf0e47c4d7c1592258cfeb4e1170415634c1a4570079a37e2c8273&scene=1&srcid=0922034DnpUJbjqDiXxGoJcI#rd)
+2016-09-22 18:28 [微信小程序(应用号)开发工具&amp;部分API&amp;项目demo放出](http://mp.weixin.qq.com/s?__biz=MzI0MTM0OTUwMg==&mid=2247483701&idx=1&sn=be7bd07d2d9745ef1ba31e68c115b293&chksm=e90da724de7a2e3237915faf0e47c4d7c1592258cfeb4e1170415634c1a4570079a37e2c8273&scene=1&srcid=0922034DnpUJbjqDiXxGoJcI#rd)
 
 # UML
 
@@ -6608,6 +6636,8 @@
 
 2018-01-15 11:01 [一步步教你开发、部署第一个去中心化应用(Dapp) - 宠物商店 | 深入浅出区块链](https://learnblockchain.cn/2018/01/12/first-dapp/)
 
+2018-04-08 18:00 [脑钱包地址私钥遭破解，丢失50BTC?求大神指教 - 比特币论坛](http://8btc.com/thread-21189-1-1.html)
+
 # CoolSite
 
 2018-03-21 10:15 [“Hello World”大全](http://netsmell.com/apps/helloworldcollection/)
@@ -6632,9 +6662,9 @@
 
 2018-03-21 10:52 [Kaspersky Cyberthreat real-time map](https://cybermap.kaspersky.com/)
 
-2018-03-21 10:56 [CodePen - Front End Developer Playground & Code Editor in the Browser](https://codepen.io/)
+2018-03-21 10:56 [CodePen - Front End Developer Playground &amp; Code Editor in the Browser](https://codepen.io/)
 
-2018-03-21 11:05 [Free Online Photo Editor | Fotor - Photo Editing & Collage Maker & Graphic Design](https://www.fotor.com/)
+2018-03-21 11:05 [Free Online Photo Editor | Fotor - Photo Editing &amp; Collage Maker &amp; Graphic Design](https://www.fotor.com/)
 
 2018-03-21 19:37 [Bit - Share and build with code components](https://bitsrc.io/?utm_source=vue&utm_medium=vue&utm_campaign=vue&utm_term=vue&utm_content=vue)
 

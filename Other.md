@@ -30,7 +30,7 @@
 
 2015-06-05 17:10 [ASCII码表:ASCII码中文站 www.asciima.com](http://www.asciima.com/)
 
-2015-06-05 18:01 [Home | CloudFlare | The web performance & security company](https://www.cloudflare.com/)
+2015-06-05 18:01 [Home | CloudFlare | The web performance &amp; security company](https://www.cloudflare.com/)
 
 2015-06-05 18:01 [GoAgent 3.1.22 最新版|免费翻墙利器 | Yanu](http://www.ccav1.com/goagent-3-1-22.html)
 
@@ -80,7 +80,7 @@
 
 2017-08-01 16:08 [首页 • ZABBIX中文社区](http://www.zabbix.org.cn/)
 
-2017-09-15 16:59 [Safari, the world's most comprehensive tech & business learning platform](https://www.safaribooksonline.com/)
+2017-09-15 16:59 [Safari, the world's most comprehensive tech &amp; business learning platform](https://www.safaribooksonline.com/)
 
 2017-12-14 16:53 [RDMA_百度百科](https://baike.baidu.com/item/RDMA/1453093?fr=aladdin)
 
