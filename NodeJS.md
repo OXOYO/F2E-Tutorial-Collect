@@ -614,6 +614,10 @@
 
 2018-02-28 17:36 [sequelize连表include查询问题 - CNode技术社区](https://cnodejs.org/topic/59c12e9fd7cbefc51196450b)
 
+2018-05-07 14:13 [[db] sequelize - 晴明桑 - 博客园](https://www.cnblogs.com/qingmingsang/articles/5607191.html)
+
+2018-05-07 16:15 [Sequelize中用group by进行分组聚合查询_node.js_脚本之家](http://www.jb51.net/article/99691.htm)
+
 ## pinojs
 
 2017-09-11 15:34 [Home - Pino - Super fast, all natural JSON logger for Node.js](http://getpino.io/#/)
@@ -656,7 +660,25 @@
 
 2018-04-02 16:37 [gRPC 官方文档中文版_V1.0](http://doc.oschina.net/grpc?t=56831)
 
-## 新建文件夹
+## Electron
+
+2018-05-04 10:03 [electron-builder打包工具的最简化使用 - CSDN博客](https://blog.csdn.net/hr541659660/article/details/78731394)
 
 2018-04-17 09:56 [Electron + Vue 实现一个代理客户端 - 前端开发之道 - SegmentFault 思否](https://segmentfault.com/a/1190000008978174)
+
+2018-05-04 10:04 [electron打包：electron-packager及electron-builder两种方式实现（for Windows） - 个人文章 - SegmentFault 思否](https://segmentfault.com/a/1190000013924153)
+
+2018-05-04 15:05 [Electron去掉边框(标题栏)并设定可拖动 - CSDN博客](https://blog.csdn.net/toubennuhai/article/details/53039612)
+
+2018-05-04 15:08 [Electron 无边框窗口的拖动 - 简书](https://www.jianshu.com/p/96327b044e85)
+
+2018-05-04 16:55 [使用 electron 实现类似新版 QQ 的登录界面效果（阴影、背景动画、窗体3D翻转） - Starts_2000 - 博客园](https://www.cnblogs.com/Starts_2000/p/electron-qqlogin-demo.html)
+
+2018-05-04 17:28 [electron+vue制作桌面应用--自定义标题栏最大/小化和关闭 - 个人文章 - SegmentFault 思否](https://segmentfault.com/a/1190000011765025)
+
+2018-05-04 20:48 [使用 electron-vue 构建你的桌面应用 - CSDN博客](https://blog.csdn.net/github_36978270/article/details/78460696)
+
+2018-05-04 23:39 [electron cookie实现记住密码 - CSDN博客](https://blog.csdn.net/changhuzhao/article/details/78773279)
+
+2018-05-06 12:31 [【Electron】Electron开发入门（五）：项目打包 - CSDN博客](https://blog.csdn.net/arvin0/article/details/52690023)
 

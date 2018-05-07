@@ -28,6 +28,14 @@
 
 2017-08-03 09:18 [code标签和pre标签 - 李宗辉 - 博客园](http://www.cnblogs.com/lizonghui/archive/2012/09/18/2692355.html)
 
+2018-04-27 16:08 [chrome表单自动填充去掉input黄色背景解决方案 - CSDN博客](https://blog.csdn.net/wangxiaohui6687/article/details/10149579)
+
+2018-04-27 16:10 [解决谷歌浏览器中的input背景色默认是黄色 - 328201736 - 博客园](https://www.cnblogs.com/yjhua/p/5523447.html)
+
+2018-04-27 22:56 [HTML阻止iframe跳转页面并使用iframe在页面内嵌微信网页版 - 饭勺oO - 博客园](https://www.cnblogs.com/fanshaoO/p/8244695.html)
+
+2018-04-28 21:45 [混世魔王的技术博客 » 针对X-Frame-Options的突破与作弊研究](http://26836659.blogcn.com/articles/%E9%92%88%E5%AF%B9x-frame-options%E7%9A%84%E7%AA%81%E7%A0%B4%E4%B8%8E%E4%BD%9C%E5%BC%8A%E7%A0%94%E7%A9%B6.html)
+
 ## CANVAS
 
 2015-01-16 16:48 [HTML5 Canvas 的事件处理 - HTML5开发 - 游戏开发者社区](http://bbs.9ria.com/thread-190079-1-1.html)

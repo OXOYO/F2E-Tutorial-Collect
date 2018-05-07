@@ -50,6 +50,8 @@
 
 2017-12-04 15:03 [【windows】常见的系统环境变量，如%appdata%表示什么意思 - catshitone的专栏 - CSDN博客](http://blog.csdn.net/catshitone/article/details/70238163)
 
+2018-04-26 16:30 [Linux下查看文件内容的命令 - 梨璐2012 - 博客园](https://www.cnblogs.com/luying--lulu/p/5314963.html)
+
 ## Tengine
 
 2015-05-29 16:08 [The Tengine Web Server](http://tengine.taobao.org/index_cn.html)
@@ -193,4 +195,6 @@
 2018-02-12 14:34 [使用Heroku+mLab 部署Node应用 - 简书](https://www.jianshu.com/p/4f3c01a02620)
 
 2018-02-12 17:46 [在Heroku上部署静态网站-博客-云栖社区-阿里云](https://yq.aliyun.com/articles/40758)
+
+2018-04-27 11:00 [heroku 上部署node.js的几个注意点 - CSDN博客](https://blog.csdn.net/u012331758/article/details/53547910)
 

@@ -168,6 +168,12 @@
 
 2018-04-17 10:03 [飞冰 - 赋能中后台建设](https://alibaba.github.io/ice/#/)
 
+2018-04-21 01:11 [首页 - 可道云-KodExplorer 企业私有云&amp;在线文档管理解决方案](https://kodcloud.com/)
+
+2018-04-22 15:20 [分享一枚获取高清壁纸的api | 孟坤博客](https://mkblog.cn/581/)
+
+2018-04-28 21:41 [Content Security Policy Header Generator](https://www.cspisawesome.com/)
+
 ## 规范
 
 2015-08-11 11:05 [前端JavaScript规范](http://www.runoob.com/w3cnote/javascript-guide.html)
@@ -331,6 +337,8 @@
 2016-12-06 16:04 [JerryQu 的小站](https://imququ.com/)
 
 2018-02-26 15:01 [AlloyTeam|腾讯全端 AlloyTeam 团队](http://www.alloyteam.com/)
+
+2018-04-28 21:40 [混世魔王的技术博客](http://26836659.blogcn.com/)
 
 ## 设计模式
 

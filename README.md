@@ -2,7 +2,7 @@
 
 点击链接加入群【Web全栈大神群】：[https://jq.qq.com/?_wv=1027&k=53iWbrr](https://jq.qq.com/?_wv=1027&k=53iWbrr)
 
-更新时间：2018-04-19 21:57
+更新时间：2018-05-07 21:41
 
 # HTML
 
@@ -33,6 +33,14 @@
 2016-08-29 14:43 [tabIndex属性 - 司徒正美 - 博客园](http://www.cnblogs.com/rubylouvre/archive/2009/12/07/1618182.html)
 
 2017-08-03 09:18 [code标签和pre标签 - 李宗辉 - 博客园](http://www.cnblogs.com/lizonghui/archive/2012/09/18/2692355.html)
+
+2018-04-27 16:08 [chrome表单自动填充去掉input黄色背景解决方案 - CSDN博客](https://blog.csdn.net/wangxiaohui6687/article/details/10149579)
+
+2018-04-27 16:10 [解决谷歌浏览器中的input背景色默认是黄色 - 328201736 - 博客园](https://www.cnblogs.com/yjhua/p/5523447.html)
+
+2018-04-27 22:56 [HTML阻止iframe跳转页面并使用iframe在页面内嵌微信网页版 - 饭勺oO - 博客园](https://www.cnblogs.com/fanshaoO/p/8244695.html)
+
+2018-04-28 21:45 [混世魔王的技术博客 » 针对X-Frame-Options的突破与作弊研究](http://26836659.blogcn.com/articles/%E9%92%88%E5%AF%B9x-frame-options%E7%9A%84%E7%AA%81%E7%A0%B4%E4%B8%8E%E4%BD%9C%E5%BC%8A%E7%A0%94%E7%A9%B6.html)
 
 ## CANVAS
 
@@ -429,6 +437,10 @@
 2015-04-01 10:51 [Iconfont-阿里巴巴矢量图标库](http://www.iconfont.cn/)
 
 2015-06-24 15:11 [图标字体化浅谈-腾讯ISUX – 社交用户体验设计 – Better Experience Through Design](http://isux.tencent.com/icon-font.html)
+
+2018-04-26 22:21 [这段时间一直在做iconfont.cn这个平台。积累了些东西，记录下。 1.什么是iconfont？ iconfont不是什么新技术了。 我们知道web网页能使用的字体一直很少，很多时候设计师用ps - CSDN博客](https://blog.csdn.net/jyb123/article/details/51179725)
+
+2018-04-26 22:23 [设计师和程序员必备：全世界最著名的 icon 网站都在这了](http://www.360doc.com/content/17/1230/05/50651975_717563025.shtml)
 
 ## SASS
 
@@ -1001,6 +1013,26 @@
 2018-04-11 21:49 [关于 JS 拖拽功能的冲突问题及解决方法 - 叙帝利 - 博客园](https://www.cnblogs.com/nzbin/p/8481241.html)
 
 2018-04-13 17:43 [mustache语法 - 小花大方 - 博客园](https://www.cnblogs.com/DF-fzh/p/5979093.html)
+
+2018-04-19 22:02 [JS转换HTML转义符 - leejersey - 博客园](https://www.cnblogs.com/leejersey/p/4568092.html)
+
+2018-04-28 14:39 [JS 获取和监听屏幕方向变化（portrait / landscape） - Raychan - 博客园](https://www.cnblogs.com/wx1993/p/5916881.html)
+
+2018-04-28 15:30 [onbeforeunload事件两种写法及效果 - Easy C# - 博客园](https://www.cnblogs.com/easyc/p/javascript_addeventlistener_beforeunload.html)
+
+2018-04-28 21:33 [README - CSDN博客](https://blog.csdn.net/abner_yan/article/details/53255740)
+
+2018-04-28 22:03 [破解google翻译API全过程 - 胖喵~ - 博客园](https://www.cnblogs.com/by-dream/p/6554340.html)
+
+2018-05-01 10:30 [video.js--很赞的H5视频播放库 - stoneniqiu - 博客园](https://www.cnblogs.com/stoneniqiu/p/5807568.html)
+
+2018-05-03 08:23 [Comparison of JavaScript-based source code editors - Wikipedia](https://en.m.wikipedia.org/wiki/Comparison_of_JavaScript-based_source_code_editors)
+
+2018-05-03 12:12 [Javascript版经典游戏之《扫雷》 - wangmeijian - 博客园](https://www.cnblogs.com/wangmeijian/p/4031022.html)
+
+2018-05-03 12:17 [前端加载大图片从模糊到清晰 - wangmeijian - 博客园](http://www.cnblogs.com/wangmeijian/p/6822674.html)
+
+2018-05-03 12:17 [简单的扫雷游戏，原生JS实现 - 菜鸟传奇 - 博客园](https://www.cnblogs.com/settimeout/p/8029280.html)
 
 ## swiper滑动插件
 
@@ -2078,6 +2110,8 @@
 
 2017-12-04 15:03 [【windows】常见的系统环境变量，如%appdata%表示什么意思 - catshitone的专栏 - CSDN博客](http://blog.csdn.net/catshitone/article/details/70238163)
 
+2018-04-26 16:30 [Linux下查看文件内容的命令 - 梨璐2012 - 博客园](https://www.cnblogs.com/luying--lulu/p/5314963.html)
+
 ## Tengine
 
 2015-05-29 16:08 [The Tengine Web Server](http://tengine.taobao.org/index_cn.html)
@@ -2221,6 +2255,8 @@
 2018-02-12 14:34 [使用Heroku+mLab 部署Node应用 - 简书](https://www.jianshu.com/p/4f3c01a02620)
 
 2018-02-12 17:46 [在Heroku上部署静态网站-博客-云栖社区-阿里云](https://yq.aliyun.com/articles/40758)
+
+2018-04-27 11:00 [heroku 上部署node.js的几个注意点 - CSDN博客](https://blog.csdn.net/u012331758/article/details/53547910)
 
 # DataBase
 
@@ -2403,6 +2439,8 @@
 2018-03-01 13:07 [mysql where in 字符串分割无法查询数据换种思路FIND_IN_SET - 一口毒苹果 - 博客园](https://www.cnblogs.com/wx491592452/p/6404514.html)
 
 2018-03-01 13:08 [mysql使用instr达到in(字符串)的效果 - CSDN博客](http://blog.csdn.net/thomaschant/article/details/54233307)
+
+2018-05-03 14:13 [log_bin &amp; log_bin_basename &amp; log_bin_index - CSDN博客](https://blog.csdn.net/chuck_perry/article/details/54908843)
 
 ## IndexedDB
 
@@ -3940,6 +3978,10 @@
 
 2018-02-28 17:36 [sequelize连表include查询问题 - CNode技术社区](https://cnodejs.org/topic/59c12e9fd7cbefc51196450b)
 
+2018-05-07 14:13 [[db] sequelize - 晴明桑 - 博客园](https://www.cnblogs.com/qingmingsang/articles/5607191.html)
+
+2018-05-07 16:15 [Sequelize中用group by进行分组聚合查询_node.js_脚本之家](http://www.jb51.net/article/99691.htm)
+
 ## pinojs
 
 2017-09-11 15:34 [Home - Pino - Super fast, all natural JSON logger for Node.js](http://getpino.io/#/)
@@ -3982,9 +4024,27 @@
 
 2018-04-02 16:37 [gRPC 官方文档中文版_V1.0](http://doc.oschina.net/grpc?t=56831)
 
-## 新建文件夹
+## Electron
+
+2018-05-04 10:03 [electron-builder打包工具的最简化使用 - CSDN博客](https://blog.csdn.net/hr541659660/article/details/78731394)
 
 2018-04-17 09:56 [Electron + Vue 实现一个代理客户端 - 前端开发之道 - SegmentFault 思否](https://segmentfault.com/a/1190000008978174)
+
+2018-05-04 10:04 [electron打包：electron-packager及electron-builder两种方式实现（for Windows） - 个人文章 - SegmentFault 思否](https://segmentfault.com/a/1190000013924153)
+
+2018-05-04 15:05 [Electron去掉边框(标题栏)并设定可拖动 - CSDN博客](https://blog.csdn.net/toubennuhai/article/details/53039612)
+
+2018-05-04 15:08 [Electron 无边框窗口的拖动 - 简书](https://www.jianshu.com/p/96327b044e85)
+
+2018-05-04 16:55 [使用 electron 实现类似新版 QQ 的登录界面效果（阴影、背景动画、窗体3D翻转） - Starts_2000 - 博客园](https://www.cnblogs.com/Starts_2000/p/electron-qqlogin-demo.html)
+
+2018-05-04 17:28 [electron+vue制作桌面应用--自定义标题栏最大/小化和关闭 - 个人文章 - SegmentFault 思否](https://segmentfault.com/a/1190000011765025)
+
+2018-05-04 20:48 [使用 electron-vue 构建你的桌面应用 - CSDN博客](https://blog.csdn.net/github_36978270/article/details/78460696)
+
+2018-05-04 23:39 [electron cookie实现记住密码 - CSDN博客](https://blog.csdn.net/changhuzhao/article/details/78773279)
+
+2018-05-06 12:31 [【Electron】Electron开发入门（五）：项目打包 - CSDN博客](https://blog.csdn.net/arvin0/article/details/52690023)
 
 # FrameWork
 
@@ -4021,6 +4081,8 @@
 2016-11-30 15:25 [G2 - The Grammar Of Graphics](http://g2.alipay.com/)
 
 2017-02-14 09:07 [QingUi开发文档](http://qingui.uis.cc/)
+
+2018-04-21 13:44 [node.js process.env.NODE_ENV 无法判断问题? - SegmentFault 思否](https://segmentfault.com/q/1010000007560766)
 
 ## AngularJS
 
@@ -5188,6 +5250,8 @@
 
 2018-04-18 10:56 [Vue.js 定义组件模板的七种方式_Vue 教程_w3cplus](https://www.w3cplus.com/vue/seven-ways-to-define-a-component-template-by-vuejs.html)
 
+2018-04-24 10:43 [vuex学习之路之出现的错误一 - CSDN博客](https://blog.csdn.net/Dear_Mr/article/details/75729649)
+
 ### vuex
 
 2016-04-20 21:08 [vuejs/vuex: Flux-inspired Application Architecture for Vue.js.](https://github.com/vuejs/vuex)
@@ -5826,6 +5890,10 @@
 
 2015-09-24 18:06 [在Yslow 34 Rules之后 -- 网站性能优化思路和进展 - limu的砖篮儿 - ITeye技术网站](http://limu.iteye.com/blog/755628)
 
+2018-05-03 19:40 [使用window.performance分析web前端性能-shuizhongyue-51CTO博客](http://blog.51cto.com/shuizhongyue/1718327)
+
+2018-05-03 19:42 [前端优化-如何计算白屏和首屏时间-布布扣-bubuko.com](http://www.bubuko.com/infodetail-2265464.html)
+
 # PS
 
 2015-06-08 11:18 [深入探究photoshop辅助线（附工具推荐）](http://www.uisdc.com/photoshop-guides)
@@ -6022,6 +6090,12 @@
 
 2018-04-17 10:03 [飞冰 - 赋能中后台建设](https://alibaba.github.io/ice/#/)
 
+2018-04-21 01:11 [首页 - 可道云-KodExplorer 企业私有云&amp;在线文档管理解决方案](https://kodcloud.com/)
+
+2018-04-22 15:20 [分享一枚获取高清壁纸的api | 孟坤博客](https://mkblog.cn/581/)
+
+2018-04-28 21:41 [Content Security Policy Header Generator](https://www.cspisawesome.com/)
+
 ## 规范
 
 2015-08-11 11:05 [前端JavaScript规范](http://www.runoob.com/w3cnote/javascript-guide.html)
@@ -6185,6 +6259,8 @@
 2016-12-06 16:04 [JerryQu 的小站](https://imququ.com/)
 
 2018-02-26 15:01 [AlloyTeam|腾讯全端 AlloyTeam 团队](http://www.alloyteam.com/)
+
+2018-04-28 21:40 [混世魔王的技术博客](http://26836659.blogcn.com/)
 
 ## 设计模式
 

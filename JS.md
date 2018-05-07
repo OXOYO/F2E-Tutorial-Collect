@@ -538,6 +538,26 @@
 
 2018-04-13 17:43 [mustache语法 - 小花大方 - 博客园](https://www.cnblogs.com/DF-fzh/p/5979093.html)
 
+2018-04-19 22:02 [JS转换HTML转义符 - leejersey - 博客园](https://www.cnblogs.com/leejersey/p/4568092.html)
+
+2018-04-28 14:39 [JS 获取和监听屏幕方向变化（portrait / landscape） - Raychan - 博客园](https://www.cnblogs.com/wx1993/p/5916881.html)
+
+2018-04-28 15:30 [onbeforeunload事件两种写法及效果 - Easy C# - 博客园](https://www.cnblogs.com/easyc/p/javascript_addeventlistener_beforeunload.html)
+
+2018-04-28 21:33 [README - CSDN博客](https://blog.csdn.net/abner_yan/article/details/53255740)
+
+2018-04-28 22:03 [破解google翻译API全过程 - 胖喵~ - 博客园](https://www.cnblogs.com/by-dream/p/6554340.html)
+
+2018-05-01 10:30 [video.js--很赞的H5视频播放库 - stoneniqiu - 博客园](https://www.cnblogs.com/stoneniqiu/p/5807568.html)
+
+2018-05-03 08:23 [Comparison of JavaScript-based source code editors - Wikipedia](https://en.m.wikipedia.org/wiki/Comparison_of_JavaScript-based_source_code_editors)
+
+2018-05-03 12:12 [Javascript版经典游戏之《扫雷》 - wangmeijian - 博客园](https://www.cnblogs.com/wangmeijian/p/4031022.html)
+
+2018-05-03 12:17 [前端加载大图片从模糊到清晰 - wangmeijian - 博客园](http://www.cnblogs.com/wangmeijian/p/6822674.html)
+
+2018-05-03 12:17 [简单的扫雷游戏，原生JS实现 - 菜鸟传奇 - 博客园](https://www.cnblogs.com/settimeout/p/8029280.html)
+
 ## swiper滑动插件
 
 2015-02-04 18:24 [Swiper 中文API手册（share） - 挨踢前端 - 博客园](http://www.cnblogs.com/duanhuajian/p/4097310.html)

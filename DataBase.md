@@ -180,6 +180,8 @@
 
 2018-03-01 13:08 [mysql使用instr达到in(字符串)的效果 - CSDN博客](http://blog.csdn.net/thomaschant/article/details/54233307)
 
+2018-05-03 14:13 [log_bin &amp; log_bin_basename &amp; log_bin_index - CSDN博客](https://blog.csdn.net/chuck_perry/article/details/54908843)
+
 ## IndexedDB
 
 2017-05-19 09:27 [前端的数据库：IndexedDB入门 - WEB前端 - 伯乐在线](http://web.jobbole.com/81793/)

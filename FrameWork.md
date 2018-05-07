@@ -34,6 +34,8 @@
 
 2017-02-14 09:07 [QingUi开发文档](http://qingui.uis.cc/)
 
+2018-04-21 13:44 [node.js process.env.NODE_ENV 无法判断问题? - SegmentFault 思否](https://segmentfault.com/q/1010000007560766)
+
 ## AngularJS
 
 2015-01-26 15:16 [AngularJs学习笔记--bootstrap - Lcllao - 博客园](http://www.cnblogs.com/lcllao/archive/2012/09/03/2668130.html)
@@ -1199,6 +1201,8 @@
 2018-03-27 18:07 [vuejs搭建的项目如何引入图标字体 - CSDN博客](https://blog.csdn.net/milli236/article/details/77871488)
 
 2018-04-18 10:56 [Vue.js 定义组件模板的七种方式_Vue 教程_w3cplus](https://www.w3cplus.com/vue/seven-ways-to-define-a-component-template-by-vuejs.html)
+
+2018-04-24 10:43 [vuex学习之路之出现的错误一 - CSDN博客](https://blog.csdn.net/Dear_Mr/article/details/75729649)
 
 ### vuex
 
