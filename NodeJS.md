@@ -212,6 +212,18 @@
 
 2018-03-20 17:34 [Node.js 动态网页爬取 PhantomJS 使用入门 - CSDN博客](http://blog.csdn.net/qq_21265915/article/details/65626712)
 
+2018-05-25 18:09 [Nodejs进阶：服务端字符编解码&amp;乱码处理 - 程序猿小卡 - 博客园](http://www.cnblogs.com/chyingp/p/charset-enc-dec.html?utm_source=tuicool&utm_medium=referra)
+
+2018-05-28 16:48 [nodejs使用async/await同步操作mysql - 简书](https://www.jianshu.com/p/142f2231355e)
+
+2018-06-01 16:51 [node读写Excel操作 - 我来乔23 - 博客园](https://www.cnblogs.com/MakeView660/p/7902715.html)
+
+2018-06-06 10:43 [node-mysql中防止SQL注入 - CSDN博客](https://blog.csdn.net/lin_tuer/article/details/54809330)
+
+2018-06-06 10:44 [Node.js中用escape解决sql注入 - 简书](https://www.jianshu.com/p/831991cc30a9)
+
+2018-06-06 10:49 [NodeJS mysql2 使用心得 - CSDN博客](https://blog.csdn.net/u010379324/article/details/51228569)
+
 ## Express框架
 
 2015-04-15 17:14 [Nodejs初阶之express - 聂微东 - 博客园](http://www.cnblogs.com/Darren_code/p/node_express.html)
@@ -336,6 +348,8 @@
 
 2016-08-30 10:51 [GoEasy | Web message push expert](https://goeasy.io/www/home)
 
+2018-05-30 10:29 [socket.io 中文手册 socket.io 中文文档 - liuxixi - 博客园](https://www.cnblogs.com/lxxhome/p/5980615.html)
+
 ## CNPM
 
 2016-01-08 14:24 [CNPM搭建私有的NPM服务 | 粉丝日志](http://blog.fens.me/nodejs-cnpm-npm/)
@@ -381,6 +395,10 @@
 ## 模板引擎
 
 2016-05-11 10:59 [Nunjucks](https://mozilla.github.io/nunjucks/)
+
+2018-06-05 17:48 [nodejs前端模板引擎swig入门 - 简书](https://www.jianshu.com/p/f0bffc42c1ce)
+
+2018-06-05 17:48 [Swig 使用指南](http://www.iqianduan.net/blog/how_to_use_swig)
 
 ## Ghost多人博客
 
@@ -570,6 +588,8 @@
 
 2018-03-14 14:40 [Koa2中间件 - 简书](https://www.jianshu.com/p/6a3499138737)
 
+2018-05-15 15:20 [koa2 async和await 实战详解 - 简书](https://www.jianshu.com/p/f8cfb82b4dad)
+
 ## npmcdn
 
 2016-09-12 15:15 [unpkg](https://unpkg.com/#/)
@@ -617,6 +637,12 @@
 2018-05-07 14:13 [[db] sequelize - 晴明桑 - 博客园](https://www.cnblogs.com/qingmingsang/articles/5607191.html)
 
 2018-05-07 16:15 [Sequelize中用group by进行分组聚合查询_node.js_脚本之家](http://www.jb51.net/article/99691.htm)
+
+2018-05-08 10:29 [sequelize常见操作使用方法（增删改查，手把手教学） - CSDN博客](https://blog.csdn.net/qq328691560/article/details/50564697)
+
+2018-05-15 15:45 [mysql - Create or Update Sequelize - Stack Overflow](https://stackoverflow.com/questions/18304504/create-or-update-sequelize)
+
+2018-05-16 14:14 [sequelize调用distinct函数](http://www.brafox.com/post/2015/sequelize/sequelize%E8%B0%83%E7%94%A8distinct%E5%87%BD%E6%95%B0.html)
 
 ## pinojs
 
@@ -681,4 +707,24 @@
 2018-05-04 23:39 [electron cookie实现记住密码 - CSDN博客](https://blog.csdn.net/changhuzhao/article/details/78773279)
 
 2018-05-06 12:31 [【Electron】Electron开发入门（五）：项目打包 - CSDN博客](https://blog.csdn.net/arvin0/article/details/52690023)
+
+2018-05-07 21:48 [使用electron-builder在windows上打包并自动更新 - 个人文章 - SegmentFault 思否](https://segmentfault.com/a/1190000010271226)
+
+2018-05-07 21:54 [electron 完整项目构建过程 - CSDN博客](https://blog.csdn.net/changhuzhao/article/details/78684967)
+
+2018-05-07 22:08 [nsis_百度百科](https://baike.baidu.com/item/nsis/5237663?fr=aladdin)
+
+2018-05-07 22:08 [一、NSIS介绍 - 所以呢 - 博客园](https://www.cnblogs.com/zzllily/articles/5443850.html)
+
+2018-05-07 22:18 [【视频教程】Electron打包成exe发布给用户安装_百度经验](http://jingyan.baidu.com/article/15622f2426c14efdfcbea5e9.html?allowHTTP=1)
+
+2018-05-08 10:02 [如何利用nsis制作electron的安装包](https://newsn.net/say/electron-nsis.html)
+
+2018-05-08 10:02 [如何利用innosetup制作electron的安装包](https://newsn.net/say/electron-innosetup.html)
+
+## iconv-lite
+
+2018-05-28 09:56 [使用iconv-lite解决node当中不支持GBK编码的问题 - 个人文章 - SegmentFault 思否](https://segmentfault.com/a/1190000011351573)
+
+2018-05-28 09:56 [NPM酷库039：iconv-lite，字符串编码转换 - 脉冲云-梁兴臣 - SegmentFault 思否](https://segmentfault.com/a/1190000013232415)
 

@@ -1204,6 +1204,8 @@
 
 2018-04-24 10:43 [vuex学习之路之出现的错误一 - CSDN博客](https://blog.csdn.net/Dear_Mr/article/details/75729649)
 
+2018-06-04 14:31 [vue项目如何刷新当前页面的方法_vue.js_脚本之家](http://www.jb51.net/article/140433.htm)
+
 ### vuex
 
 2016-04-20 21:08 [vuejs/vuex: Flux-inspired Application Architecture for Vue.js.](https://github.com/vuejs/vuex)

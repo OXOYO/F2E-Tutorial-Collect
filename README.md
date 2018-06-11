@@ -2,7 +2,7 @@
 
 点击链接加入群【Web全栈大神群】：[https://jq.qq.com/?_wv=1027&k=53iWbrr](https://jq.qq.com/?_wv=1027&k=53iWbrr)
 
-更新时间：2018-05-07 21:41
+更新时间：2018-06-11 17:23
 
 # HTML
 
@@ -254,6 +254,8 @@
 
 2018-03-16 17:43 [Can I animate…?](http://canianimate.com/)
 
+2018-06-10 21:12 [用纯CSS3绘制26个英文字母](http://www.webhek.com/post/css-sans.html)
+
 ## LESS
 
 2015-01-27 11:14 [Koala - LESS/Sass/Compass/CoffeeScript编译工具](http://koala-app.com/index-zh.html)
@@ -441,6 +443,8 @@
 2018-04-26 22:21 [这段时间一直在做iconfont.cn这个平台。积累了些东西，记录下。 1.什么是iconfont？ iconfont不是什么新技术了。 我们知道web网页能使用的字体一直很少，很多时候设计师用ps - CSDN博客](https://blog.csdn.net/jyb123/article/details/51179725)
 
 2018-04-26 22:23 [设计师和程序员必备：全世界最著名的 icon 网站都在这了](http://www.360doc.com/content/17/1230/05/50651975_717563025.shtml)
+
+2015-04-15 15:50 [Font Awesome, the iconic font and CSS framework](http://www.fontawesome.cn/)
 
 ## SASS
 
@@ -1034,6 +1038,8 @@
 
 2018-05-03 12:17 [简单的扫雷游戏，原生JS实现 - 菜鸟传奇 - 博客园](https://www.cnblogs.com/settimeout/p/8029280.html)
 
+2018-05-11 08:56 [搜云库](https://mp.weixin.qq.com/s?__biz=MzA3MTUzOTcxOQ%3D%3D&mid=2452964662&idx=1&sn=c4f76f5ee9c527560aa2b25f8266da0c&chksm=88ede85ebf9a614828f3197fe20c08a9eba6b4b38cd03eb3a9c1d94fd16bbd75f99c23f90451)
+
 ## swiper滑动插件
 
 2015-02-04 18:24 [Swiper 中文API手册（share） - 挨踢前端 - 博客园](http://www.cnblogs.com/duanhuajian/p/4097310.html)
@@ -1434,6 +1440,8 @@
 
 2018-01-24 11:08 [js与cookie的domain和path之间的关系 - 强大大 - 博客园](https://www.cnblogs.com/gg1234/p/5611086.html)
 
+2018-06-04 10:01 [Cookie/Session机制详解 - 张三的美丽家园 - 博客园](https://www.cnblogs.com/greatluoluo/p/5964888.html)
+
 ## onunload/onbeforeunload
 
 2015-12-14 14:49 [JS监听关闭浏览器事件之Onunload与Onbeforeunload - binyao02123202的专栏 - 博客频道 - CSDN.NET](http://blog.csdn.net/binyao02123202/article/details/9293693)
@@ -1559,6 +1567,10 @@
 2017-05-05 13:57 [XML 问题: 使用 SVG 编程](https://www.ibm.com/developerworks/cn/xml/x-matters40/)
 
 2017-11-13 12:01 [前端实现 SVG 转 PNG - WEB前端 - 伯乐在线](http://web.jobbole.com/84244/)
+
+2018-05-09 10:35 [SVG在线编辑器](http://editor.method.ac/)
+
+2018-05-09 14:32 [20 个有用的 SVG 工具，提供更好的图像处理_Linux新闻_Linux公社-Linux系统门户网站](https://www.linuxidc.com/Linux/2015-08/121933.htm)
 
 ## particles.js
 
@@ -1721,6 +1733,8 @@
 2017-11-21 10:59 [php版DES - 调调儿 - 博客园](https://www.cnblogs.com/weberypf/p/5228257.html)
 
 2018-03-19 17:59 [高性能的PHP框架 - Phalcon Framework](https://phalconphp.com/zh/)
+
+2018-06-04 14:32 [为什么要刷新一下才能获取cookie - xiebruce - 博客园](https://www.cnblogs.com/xiedie/p/4162414.html)
 
 ## composer
 
@@ -2441,6 +2455,10 @@
 2018-03-01 13:08 [mysql使用instr达到in(字符串)的效果 - CSDN博客](http://blog.csdn.net/thomaschant/article/details/54233307)
 
 2018-05-03 14:13 [log_bin &amp; log_bin_basename &amp; log_bin_index - CSDN博客](https://blog.csdn.net/chuck_perry/article/details/54908843)
+
+2018-05-16 10:15 [MySQL 5.7默认ONLY_FULL_GROUP_BY语义介绍 – 运维那点事](http://www.ywnds.com/?p=8184)
+
+2018-05-16 14:53 [MYSQL5.7版本sql_mode=only_full_group_by问题，重启有效的方法 - CSDN博客](https://blog.csdn.net/chencaw/article/details/78867331)
 
 ## IndexedDB
 
@@ -3576,6 +3594,18 @@
 
 2018-03-20 17:34 [Node.js 动态网页爬取 PhantomJS 使用入门 - CSDN博客](http://blog.csdn.net/qq_21265915/article/details/65626712)
 
+2018-05-25 18:09 [Nodejs进阶：服务端字符编解码&amp;乱码处理 - 程序猿小卡 - 博客园](http://www.cnblogs.com/chyingp/p/charset-enc-dec.html?utm_source=tuicool&utm_medium=referra)
+
+2018-05-28 16:48 [nodejs使用async/await同步操作mysql - 简书](https://www.jianshu.com/p/142f2231355e)
+
+2018-06-01 16:51 [node读写Excel操作 - 我来乔23 - 博客园](https://www.cnblogs.com/MakeView660/p/7902715.html)
+
+2018-06-06 10:43 [node-mysql中防止SQL注入 - CSDN博客](https://blog.csdn.net/lin_tuer/article/details/54809330)
+
+2018-06-06 10:44 [Node.js中用escape解决sql注入 - 简书](https://www.jianshu.com/p/831991cc30a9)
+
+2018-06-06 10:49 [NodeJS mysql2 使用心得 - CSDN博客](https://blog.csdn.net/u010379324/article/details/51228569)
+
 ## Express框架
 
 2015-04-15 17:14 [Nodejs初阶之express - 聂微东 - 博客园](http://www.cnblogs.com/Darren_code/p/node_express.html)
@@ -3700,6 +3730,8 @@
 
 2016-08-30 10:51 [GoEasy | Web message push expert](https://goeasy.io/www/home)
 
+2018-05-30 10:29 [socket.io 中文手册 socket.io 中文文档 - liuxixi - 博客园](https://www.cnblogs.com/lxxhome/p/5980615.html)
+
 ## CNPM
 
 2016-01-08 14:24 [CNPM搭建私有的NPM服务 | 粉丝日志](http://blog.fens.me/nodejs-cnpm-npm/)
@@ -3745,6 +3777,10 @@
 ## 模板引擎
 
 2016-05-11 10:59 [Nunjucks](https://mozilla.github.io/nunjucks/)
+
+2018-06-05 17:48 [nodejs前端模板引擎swig入门 - 简书](https://www.jianshu.com/p/f0bffc42c1ce)
+
+2018-06-05 17:48 [Swig 使用指南](http://www.iqianduan.net/blog/how_to_use_swig)
 
 ## Ghost多人博客
 
@@ -3934,6 +3970,8 @@
 
 2018-03-14 14:40 [Koa2中间件 - 简书](https://www.jianshu.com/p/6a3499138737)
 
+2018-05-15 15:20 [koa2 async和await 实战详解 - 简书](https://www.jianshu.com/p/f8cfb82b4dad)
+
 ## npmcdn
 
 2016-09-12 15:15 [unpkg](https://unpkg.com/#/)
@@ -3981,6 +4019,12 @@
 2018-05-07 14:13 [[db] sequelize - 晴明桑 - 博客园](https://www.cnblogs.com/qingmingsang/articles/5607191.html)
 
 2018-05-07 16:15 [Sequelize中用group by进行分组聚合查询_node.js_脚本之家](http://www.jb51.net/article/99691.htm)
+
+2018-05-08 10:29 [sequelize常见操作使用方法（增删改查，手把手教学） - CSDN博客](https://blog.csdn.net/qq328691560/article/details/50564697)
+
+2018-05-15 15:45 [mysql - Create or Update Sequelize - Stack Overflow](https://stackoverflow.com/questions/18304504/create-or-update-sequelize)
+
+2018-05-16 14:14 [sequelize调用distinct函数](http://www.brafox.com/post/2015/sequelize/sequelize%E8%B0%83%E7%94%A8distinct%E5%87%BD%E6%95%B0.html)
 
 ## pinojs
 
@@ -4045,6 +4089,30 @@
 2018-05-04 23:39 [electron cookie实现记住密码 - CSDN博客](https://blog.csdn.net/changhuzhao/article/details/78773279)
 
 2018-05-06 12:31 [【Electron】Electron开发入门（五）：项目打包 - CSDN博客](https://blog.csdn.net/arvin0/article/details/52690023)
+
+2018-05-07 21:48 [使用electron-builder在windows上打包并自动更新 - 个人文章 - SegmentFault 思否](https://segmentfault.com/a/1190000010271226)
+
+2018-05-07 21:54 [electron 完整项目构建过程 - CSDN博客](https://blog.csdn.net/changhuzhao/article/details/78684967)
+
+2018-05-07 22:08 [nsis_百度百科](https://baike.baidu.com/item/nsis/5237663?fr=aladdin)
+
+2018-05-07 22:08 [一、NSIS介绍 - 所以呢 - 博客园](https://www.cnblogs.com/zzllily/articles/5443850.html)
+
+2018-05-07 22:18 [【视频教程】Electron打包成exe发布给用户安装_百度经验](http://jingyan.baidu.com/article/15622f2426c14efdfcbea5e9.html?allowHTTP=1)
+
+2018-05-08 10:02 [如何利用nsis制作electron的安装包](https://newsn.net/say/electron-nsis.html)
+
+2018-05-08 10:02 [如何利用innosetup制作electron的安装包](https://newsn.net/say/electron-innosetup.html)
+
+## iconv-lite
+
+2018-05-28 09:56 [使用iconv-lite解决node当中不支持GBK编码的问题 - 个人文章 - SegmentFault 思否](https://segmentfault.com/a/1190000011351573)
+
+2018-05-28 09:56 [NPM酷库039：iconv-lite，字符串编码转换 - 脉冲云-梁兴臣 - SegmentFault 思否](https://segmentfault.com/a/1190000013232415)
+
+# Deno
+
+2018-06-04 14:37 [Deno 并不是下一代 Node.js - justjavac的前端进阶 - SegmentFault 思否](https://segmentfault.com/a/1190000015159728?utm_source=feed-content)
 
 # FrameWork
 
@@ -5252,6 +5320,8 @@
 
 2018-04-24 10:43 [vuex学习之路之出现的错误一 - CSDN博客](https://blog.csdn.net/Dear_Mr/article/details/75729649)
 
+2018-06-04 14:31 [vue项目如何刷新当前页面的方法_vue.js_脚本之家](http://www.jb51.net/article/140433.htm)
+
 ### vuex
 
 2016-04-20 21:08 [vuejs/vuex: Flux-inspired Application Architecture for Vue.js.](https://github.com/vuejs/vuex)
@@ -5466,8 +5536,6 @@
 
 2015-03-25 14:55 [网页的栅格系统设计 - 设计茶吧 | TaoBaoUED](http://ued.taobao.org/blog/2008/09/grid_systems/)
 
-2015-04-15 15:50 [Font Awesome, the iconic font and CSS framework](http://www.fontawesome.cn/)
-
 2015-05-06 19:09 [个人简介网页版|个人网站/博客|网页|Smile_512 - 原创设计作品 - 站酷 (ZCOOL)](http://www.zcool.com.cn/work/ZNzc4Mjc2NA==.html)
 
 2015-05-06 19:09 [网页练习/二|其他网页|网页|种菜 - 原创设计作品 - 站酷 (ZCOOL)](http://www.zcool.com.cn/work/ZODEwOTkyOA==.html)
@@ -5497,6 +5565,8 @@
 2015-06-30 15:39 [花千骨印象站|游戏/娱乐|网页|策策木 - 原创设计作品 - 站酷 (ZCOOL)](http://www.zcool.com.cn/work/ZMTI0NDUwOTI=.html)
 
 2016-11-30 08:49 [国外设计欣赏网站-DOOOOR.com](http://www.doooor.com/)
+
+2018-06-08 16:09 [Flatty Shadow图标自动产生器——在线生成各种扁平化 ICON | 爱上分享](https://www.isharebest.com/flattyshadow.htm)
 
 ## Grid 栅格
 
@@ -6096,6 +6166,8 @@
 
 2018-04-28 21:41 [Content Security Policy Header Generator](https://www.cspisawesome.com/)
 
+2018-06-08 16:15 [压箱底PPT资源网站汇总 - 简书](https://www.jianshu.com/p/ee0d0678cd0c)
+
 ## 规范
 
 2015-08-11 11:05 [前端JavaScript规范](http://www.runoob.com/w3cnote/javascript-guide.html)
@@ -6298,6 +6370,10 @@
 
 2016-04-20 10:22 [WebAssembly](http://webassembly.github.io/)
 
+2018-06-04 14:50 [WebAssembly 实践：如何写代码 - WebAssembly - SegmentFault 思否](https://segmentfault.com/a/1190000008402872)
+
+2018-06-04 14:52 [让C代码在浏览器中运行——WebAssembly入门介绍 - CSDN博客](https://blog.csdn.net/sinat_32582203/article/details/73355211)
+
 ## CommonJS
 
 2016-04-20 14:39 [CommonJS规范 -- JavaScript 标准参考教程（alpha）](http://javascript.ruanyifeng.com/nodejs/module.html)
@@ -6479,6 +6555,8 @@
 2017-11-13 12:04 [svg to png - CloudConvert](https://cloudconvert.com/svg-to-png)
 
 2017-12-01 09:28 [ScreenToGif - Record your screen, edit and save as a Gif or video](http://www.screentogif.com/?l=zh_cn)
+
+2018-05-08 15:51 [脚本之家在线工具](http://tools.jb51.net/)
 
 ## Fiddler
 
@@ -6745,4 +6823,10 @@
 2018-03-21 19:37 [Bit - Share and build with code components](https://bitsrc.io/?utm_source=vue&utm_medium=vue&utm_campaign=vue&utm_term=vue&utm_content=vue)
 
 2018-03-21 19:37 [StdLib — API development made simple](https://stdlib.com/)
+
+# 积木
+
+2018-05-25 10:30 [UC前端‘搭积木’的模块化开发——scrat.js - 前端旋风](https://my.oschina.net/luozt/blog/304111)
+
+2018-05-25 10:30 [网络前端UI组件设计思想：去框架化、积木化 - CSDN博客](https://blog.csdn.net/tiangej/article/details/8882347?utm_source=tuicool)
 

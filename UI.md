@@ -2,8 +2,6 @@
 
 2015-03-25 14:55 [网页的栅格系统设计 - 设计茶吧 | TaoBaoUED](http://ued.taobao.org/blog/2008/09/grid_systems/)
 
-2015-04-15 15:50 [Font Awesome, the iconic font and CSS framework](http://www.fontawesome.cn/)
-
 2015-05-06 19:09 [个人简介网页版|个人网站/博客|网页|Smile_512 - 原创设计作品 - 站酷 (ZCOOL)](http://www.zcool.com.cn/work/ZNzc4Mjc2NA==.html)
 
 2015-05-06 19:09 [网页练习/二|其他网页|网页|种菜 - 原创设计作品 - 站酷 (ZCOOL)](http://www.zcool.com.cn/work/ZODEwOTkyOA==.html)
@@ -33,6 +31,8 @@
 2015-06-30 15:39 [花千骨印象站|游戏/娱乐|网页|策策木 - 原创设计作品 - 站酷 (ZCOOL)](http://www.zcool.com.cn/work/ZMTI0NDUwOTI=.html)
 
 2016-11-30 08:49 [国外设计欣赏网站-DOOOOR.com](http://www.doooor.com/)
+
+2018-06-08 16:09 [Flatty Shadow图标自动产生器——在线生成各种扁平化 ICON | 爱上分享](https://www.isharebest.com/flattyshadow.htm)
 
 ## Grid 栅格
 

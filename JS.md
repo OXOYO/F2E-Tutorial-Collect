@@ -558,6 +558,8 @@
 
 2018-05-03 12:17 [简单的扫雷游戏，原生JS实现 - 菜鸟传奇 - 博客园](https://www.cnblogs.com/settimeout/p/8029280.html)
 
+2018-05-11 08:56 [搜云库](https://mp.weixin.qq.com/s?__biz=MzA3MTUzOTcxOQ%3D%3D&mid=2452964662&idx=1&sn=c4f76f5ee9c527560aa2b25f8266da0c&chksm=88ede85ebf9a614828f3197fe20c08a9eba6b4b38cd03eb3a9c1d94fd16bbd75f99c23f90451)
+
 ## swiper滑动插件
 
 2015-02-04 18:24 [Swiper 中文API手册（share） - 挨踢前端 - 博客园](http://www.cnblogs.com/duanhuajian/p/4097310.html)
@@ -958,6 +960,8 @@
 
 2018-01-24 11:08 [js与cookie的domain和path之间的关系 - 强大大 - 博客园](https://www.cnblogs.com/gg1234/p/5611086.html)
 
+2018-06-04 10:01 [Cookie/Session机制详解 - 张三的美丽家园 - 博客园](https://www.cnblogs.com/greatluoluo/p/5964888.html)
+
 ## onunload/onbeforeunload
 
 2015-12-14 14:49 [JS监听关闭浏览器事件之Onunload与Onbeforeunload - binyao02123202的专栏 - 博客频道 - CSDN.NET](http://blog.csdn.net/binyao02123202/article/details/9293693)
@@ -1083,6 +1087,10 @@
 2017-05-05 13:57 [XML 问题: 使用 SVG 编程](https://www.ibm.com/developerworks/cn/xml/x-matters40/)
 
 2017-11-13 12:01 [前端实现 SVG 转 PNG - WEB前端 - 伯乐在线](http://web.jobbole.com/84244/)
+
+2018-05-09 10:35 [SVG在线编辑器](http://editor.method.ac/)
+
+2018-05-09 14:32 [20 个有用的 SVG 工具，提供更好的图像处理_Linux新闻_Linux公社-Linux系统门户网站](https://www.linuxidc.com/Linux/2015-08/121933.htm)
 
 ## particles.js
 

@@ -182,6 +182,10 @@
 
 2018-05-03 14:13 [log_bin &amp; log_bin_basename &amp; log_bin_index - CSDN博客](https://blog.csdn.net/chuck_perry/article/details/54908843)
 
+2018-05-16 10:15 [MySQL 5.7默认ONLY_FULL_GROUP_BY语义介绍 – 运维那点事](http://www.ywnds.com/?p=8184)
+
+2018-05-16 14:53 [MYSQL5.7版本sql_mode=only_full_group_by问题，重启有效的方法 - CSDN博客](https://blog.csdn.net/chencaw/article/details/78867331)
+
 ## IndexedDB
 
 2017-05-19 09:27 [前端的数据库：IndexedDB入门 - WEB前端 - 伯乐在线](http://web.jobbole.com/81793/)

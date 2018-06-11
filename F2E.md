@@ -174,6 +174,8 @@
 
 2018-04-28 21:41 [Content Security Policy Header Generator](https://www.cspisawesome.com/)
 
+2018-06-08 16:15 [压箱底PPT资源网站汇总 - 简书](https://www.jianshu.com/p/ee0d0678cd0c)
+
 ## 规范
 
 2015-08-11 11:05 [前端JavaScript规范](http://www.runoob.com/w3cnote/javascript-guide.html)
@@ -375,6 +377,10 @@
 2016-04-20 10:02 [WebAssembly：面向Web的通用二进制和文本格式](http://www.infoq.com/cn/news/2015/06/webassembly-wasm)
 
 2016-04-20 10:22 [WebAssembly](http://webassembly.github.io/)
+
+2018-06-04 14:50 [WebAssembly 实践：如何写代码 - WebAssembly - SegmentFault 思否](https://segmentfault.com/a/1190000008402872)
+
+2018-06-04 14:52 [让C代码在浏览器中运行——WebAssembly入门介绍 - CSDN博客](https://blog.csdn.net/sinat_32582203/article/details/73355211)
 
 ## CommonJS
 

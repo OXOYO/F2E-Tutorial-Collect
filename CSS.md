@@ -114,6 +114,8 @@
 
 2018-03-16 17:43 [Can I animate…?](http://canianimate.com/)
 
+2018-06-10 21:12 [用纯CSS3绘制26个英文字母](http://www.webhek.com/post/css-sans.html)
+
 ## LESS
 
 2015-01-27 11:14 [Koala - LESS/Sass/Compass/CoffeeScript编译工具](http://koala-app.com/index-zh.html)
@@ -301,6 +303,8 @@
 2018-04-26 22:21 [这段时间一直在做iconfont.cn这个平台。积累了些东西，记录下。 1.什么是iconfont？ iconfont不是什么新技术了。 我们知道web网页能使用的字体一直很少，很多时候设计师用ps - CSDN博客](https://blog.csdn.net/jyb123/article/details/51179725)
 
 2018-04-26 22:23 [设计师和程序员必备：全世界最著名的 icon 网站都在这了](http://www.360doc.com/content/17/1230/05/50651975_717563025.shtml)
+
+2015-04-15 15:50 [Font Awesome, the iconic font and CSS framework](http://www.fontawesome.cn/)
 
 ## SASS
 
