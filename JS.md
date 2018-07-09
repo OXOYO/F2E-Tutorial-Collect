@@ -626,18 +626,6 @@
 
 2013-07-14 22:28 [国内外 Heatmap 、热图的应用和相关技术_.Net编程 - 好工具站长分享平台](http://www.haogongju.net/art/1357001)
 
-## prototype原型链
-
-2015-02-27 17:34 [[译] JavaScript核心指南(JavaScript Core) 【转】 - ifishing - 博客园](http://www.cnblogs.com/ifishing/archive/2010/12/08/1900594.html)
-
-2015-02-26 18:01 [__proto__以及prototype的分析_袁家小黑球_新浪博客](http://blog.sina.com.cn/s/blog_75a555e40101qn3s.html)
-
-2015-02-27 17:47 [关于__proto__和prototype的一些理解 - TonyCoolZhu - 博客园](http://www.cnblogs.com/zzcflying/archive/2012/07/20/2601112.html)
-
-2015-02-27 17:47 [__proto__ 属性 (Object) (JavaScript)](https://msdn.microsoft.com/zh-cn/library/ie/dn342818(v=vs.94).aspx)
-
-2015-03-02 13:32 [JavaScript类和继承：constructor 属性探秘 – 青豆前端](http://www.qingdou.me/5040.html)
-
 ## JQuery
 
 2015-03-31 17:23 [[原]jQuery .tmpl(), .template()学习 - think8848 - 博客园](http://www.cnblogs.com/think8848/archive/2011/07/17/2108570.html)

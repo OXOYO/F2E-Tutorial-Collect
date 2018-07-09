@@ -494,6 +494,12 @@
 
 2018-03-23 15:35 [npm package.json属性详解 - 桃子夭夭 - 博客园](https://www.cnblogs.com/tzyy/p/5193811.html#_h1_9)
 
+2018-06-15 14:39 [mac安装jello，安装不过去，报gyp WARN EACCES user &quot;root&quot; does not have permission to access the dev dir &quot;/root/ - CSDN博客](https://blog.csdn.net/gupan86/article/details/46596599)
+
+2018-06-15 15:17 [npm ERR! code EINTEGRITY (npm 5) - 远足者 - ITeye博客](http://wxinpeng.iteye.com/blog/2383442)
+
+2018-06-15 15:31 [玩转npm - 简书](https://www.jianshu.com/p/8a114304dd6e)
+
 ## JSON Server
 
 2016-09-08 09:23 [三步使用 JSON Server 模拟 API - OPEN 开发经验库](http://www.open-open.com/lib/view/open1443075501873.html)
@@ -685,6 +691,16 @@
 2018-04-02 16:34 [高效传输数据格式以及基于HTTP2的RPC框架---gRPC的使用 - CSDN博客](https://blog.csdn.net/canot/article/details/71213392)
 
 2018-04-02 16:37 [gRPC 官方文档中文版_V1.0](http://doc.oschina.net/grpc?t=56831)
+
+2018-06-14 15:26 [RPC的nodejs简单实现 - CSDN博客](https://blog.csdn.net/wang1472jian1110/article/details/78042427)
+
+2018-06-14 15:35 [grpc /](https://grpc.io/docs/tutorials/basic/node.html)
+
+2018-06-15 10:23 [gRPC 官方文档中文版_V1.0](http://doc.oschina.net/grpc?t=60135)
+
+2018-06-21 17:33 [gRPC的几种请求响应模式 | Xenojoshua](https://xenojoshua.com/2018/02/grpc-req-res-modes/)
+
+2018-06-25 15:43 [听说有个 GRPC - 简书](https://www.jianshu.com/p/c006a7c21305)
 
 ## Electron
 

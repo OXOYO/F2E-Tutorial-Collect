@@ -186,6 +186,16 @@
 
 2018-05-16 14:53 [MYSQL5.7版本sql_mode=only_full_group_by问题，重启有效的方法 - CSDN博客](https://blog.csdn.net/chencaw/article/details/78867331)
 
+2018-06-14 16:25 [Mysql查看建表语句以及修改引擎 - manzb - 博客园](https://www.cnblogs.com/manzb/p/6547808.html)
+
+2018-06-20 11:04 [mysql使用instr达到in(字符串)的效果 - CSDN博客](https://blog.csdn.net/thomaschant/article/details/54233307)
+
+2018-06-20 11:06 [MYSQL中INSTR、LOCATE和POSITION函数的使用方法_四海名汀_新浪博客](http://blog.sina.com.cn/s/blog_5ceb51480101shdv.html)
+
+2018-06-20 11:07 [mysql 的 find_in_set,INSTR函数使用方法 - CSDN博客](https://blog.csdn.net/xy2204/article/details/50420658)
+
+2018-07-06 17:15 [【周期性执行事件】MySQL事件（Event）&amp;任务调度 - QiaoZhi - 博客园](https://www.cnblogs.com/qlqwjy/p/7954175.html)
+
 ## IndexedDB
 
 2017-05-19 09:27 [前端的数据库：IndexedDB入门 - WEB前端 - 伯乐在线](http://web.jobbole.com/81793/)

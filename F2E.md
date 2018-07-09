@@ -176,6 +176,8 @@
 
 2018-06-08 16:15 [压箱底PPT资源网站汇总 - 简书](https://www.jianshu.com/p/ee0d0678cd0c)
 
+2018-06-15 17:59 [印记中文 - 深入挖掘国外前端新领域，为中国 Web 前端开发人员提供优质文档！](https://docschina.org/)
+
 ## 规范
 
 2015-08-11 11:05 [前端JavaScript规范](http://www.runoob.com/w3cnote/javascript-guide.html)
@@ -319,6 +321,12 @@
 2018-01-26 20:33 [Chrome 控制台新玩法-console显示图片以及为文字加样式 - 刘哇勇 - 博客园](https://www.cnblogs.com/Wayou/p/chrome_dev_tool_style_console.html)
 
 2018-01-29 18:07 [你真的了解 console 吗 - Orange的前端笔记 - SegmentFault](https://segmentfault.com/a/1190000000481884)
+
+2018-07-06 16:05 [Google优化工具Timeline的使用（Chrome 57已经改为performance（性能模板）） - CSDN博客](https://blog.csdn.net/qq_26878975/article/details/74638018)
+
+2018-07-06 16:09 [web调试优化-chrome开发者工具不完全指南 - 守候书阁 - SegmentFault 思否](https://segmentfault.com/a/1190000011868916)
+
+2018-07-06 16:19 [全新Chrome Devtool Performance使用指南](https://zhuanlan.zhihu.com/p/29879682)
 
 ## 加密
 

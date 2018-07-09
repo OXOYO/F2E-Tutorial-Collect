@@ -1206,6 +1206,8 @@
 
 2018-06-04 14:31 [vue项目如何刷新当前页面的方法_vue.js_脚本之家](http://www.jb51.net/article/140433.htm)
 
+2018-06-19 10:40 [Vue CLI 3.x 简单体验 - 荒原 - SegmentFault 思否](https://segmentfault.com/a/1190000013090943)
+
 ### vuex
 
 2016-04-20 21:08 [vuejs/vuex: Flux-inspired Application Architecture for Vue.js.](https://github.com/vuejs/vuex)
