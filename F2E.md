@@ -178,6 +178,10 @@
 
 2018-06-15 17:59 [印记中文 - 深入挖掘国外前端新领域，为中国 Web 前端开发人员提供优质文档！](https://docschina.org/)
 
+2018-07-09 17:01 [【webssh】网页上的SSH终端 - K.Takanashi - 博客园](https://www.cnblogs.com/franknihao/p/8963634.html)
+
+2018-07-12 15:22 [GIF与APNG，解决GIF锯齿问题-UI中国-专业用户体验设计平台](http://www.ui.cn/detail/34100.html)
+
 ## 规范
 
 2015-08-11 11:05 [前端JavaScript规范](http://www.runoob.com/w3cnote/javascript-guide.html)
@@ -327,6 +331,10 @@
 2018-07-06 16:09 [web调试优化-chrome开发者工具不完全指南 - 守候书阁 - SegmentFault 思否](https://segmentfault.com/a/1190000011868916)
 
 2018-07-06 16:19 [全新Chrome Devtool Performance使用指南](https://zhuanlan.zhihu.com/p/29879682)
+
+2018-08-03 15:44 [【前端工具】Chrome 扩展程序的开发与发布 -- 手把手教你开发扩展程序 - ChokCoco - 博客园](http://www.cnblogs.com/coco1s/p/8004510.html)
+
+2018-08-03 15:47 [Chrome插件开发总结 - 简书](https://www.jianshu.com/p/39652b8eae7e)
 
 ## 加密
 

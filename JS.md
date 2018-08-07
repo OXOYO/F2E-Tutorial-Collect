@@ -182,7 +182,7 @@
 
 2015-03-17 18:47 [Js取数组中最大值和最小值 - ゞ追忆o0ゞ - 博客园](http://www.cnblogs.com/zhuiyi/archive/2011/11/15/2249733.html)
 
-2015-03-18 16:33 [不要再吹水地球人听不懂的技术，咱来点干货!--中文前端UI框架Kit（四）给你真正的原生的drag以及drop事件，而不是像市面上主流的Js框架jQuery，Ext等，利用mousemove事件，判断位置来模拟 - 薛端阳 - 博客园](http://www.cnblogs.com/xueduanyang/archive/2012/05/03/2480505.html)
+2015-03-18 16:33 [不要再吹水地球人听不懂的技术，咱来点干货!--中文前端UI框架Kit（四）给你真正的原生的drag以及drop事件，而不是像市面上主流的Js框架jQuery，Ext等，利用mousemove事件，判断位置来模拟 - 薛端阳](http://www.cnblogs.com/xueduanyang/archive/2012/05/03/2480505.html)
 
 2015-03-19 16:08 [在JS数组指定位置插入元素 - renfufei的专栏 - 博客频道 - CSDN.NET](http://blog.csdn.net/renfufei/article/details/38143947)
 
@@ -559,6 +559,10 @@
 2018-05-03 12:17 [简单的扫雷游戏，原生JS实现 - 菜鸟传奇 - 博客园](https://www.cnblogs.com/settimeout/p/8029280.html)
 
 2018-05-11 08:56 [搜云库](https://mp.weixin.qq.com/s?__biz=MzA3MTUzOTcxOQ%3D%3D&mid=2452964662&idx=1&sn=c4f76f5ee9c527560aa2b25f8266da0c&chksm=88ede85ebf9a614828f3197fe20c08a9eba6b4b38cd03eb3a9c1d94fd16bbd75f99c23f90451)
+
+2018-07-27 10:24 [JavaScript复制内容到剪贴板 - 掘金](https://juejin.im/post/5a94f8eff265da4e9b593c29)
+
+2018-07-27 10:55 [JS Range HTML文档/文字内容选中、库及应用介绍 « 张鑫旭-鑫空间-鑫生活](https://www.zhangxinxu.com/wordpress/2011/04/js-range-html%E6%96%87%E6%A1%A3%E6%96%87%E5%AD%97%E5%86%85%E5%AE%B9%E9%80%89%E4%B8%AD%E3%80%81%E5%BA%93%E5%8F%8A%E5%BA%94%E7%94%A8%E4%BB%8B%E7%BB%8D/)
 
 ## swiper滑动插件
 
@@ -1054,6 +1058,10 @@
 
 2018-03-12 20:34 [百度脑图核心——kityminder-editor 本地化改造 - 简书](https://www.jianshu.com/p/9b53499d9031)
 
+2018-07-13 15:37 [jsPlumb之流程图经验总结-js教程-PHP中文网](http://www.php.cn/js-tutorial-373568.html)
+
+2018-07-13 15:41 [jsPlumb插件做一个模仿viso的可拖拉流程图 - 孤独的十字 - 博客园](https://www.cnblogs.com/sggx/p/3836432.html)
+
 ## lodashjs
 
 2017-04-06 17:47 [lodash 中文网](http://lodashjs.com/)
@@ -1127,4 +1135,16 @@
 2018-03-12 22:01 [RaphaelJS - 简书](https://www.jianshu.com/p/2a2604448f17)
 
 2018-03-12 22:01 [raphael.js 流程图实例 - 沈振华 - 博客园](https://www.cnblogs.com/shenzhenhua/p/5626548.html)
+
+## CodeMirror
+
+2018-07-17 16:13 [codeMirror实现Json编辑器的代码格式化 - Angies - 博客园](https://www.cnblogs.com/Angies/p/7873742.html)
+
+2018-07-17 16:15 [codeMirror实现Json编辑器功能 - Angies - 博客园](https://www.cnblogs.com/Angies/p/7830948.html)
+
+2018-07-17 16:31 [CodeMirror教程，CodeMirrorAPI中文信息 - 一入PHP岁月催 - 博客园](https://www.cnblogs.com/oldphper/p/4065425.html)
+
+2018-07-17 18:03 [在Vue中使用CodeMirror 格式显示错误 行数错乱 &amp; 代码隐藏 - wenr - 博客园](https://www.cnblogs.com/wenruo/p/8274958.html)
+
+2018-07-19 10:25 [Index of /demo/](http://codemirror.net/demo/)
 

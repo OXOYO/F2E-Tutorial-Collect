@@ -174,6 +174,12 @@
 
 2018-07-05 15:10 [git submodule子模块 - CSDN博客](https://blog.csdn.net/chenjh213/article/details/49128749)
 
+2018-07-09 17:24 [用github账户登录你的网站_搜狐科技_搜狐网](https://www.sohu.com/a/229243143_468627)
+
+2018-07-09 17:26 [Web应用接入Github登录 - CSDN博客](https://blog.csdn.net/qq_34292044/article/details/80571369)
+
+2018-08-03 15:41 [使用GitHub-Flask实现GitHub第三方登录 - 掘金](https://juejin.im/post/5b3f5342f265da0f6f1a8190)
+
 ## GitHub Pages
 
 2015-10-10 11:18 [怎样做一个漂亮的 GitHub Pages 首页？ - 前端开发 - 知乎](http://www.zhihu.com/question/20376047?sort=created)

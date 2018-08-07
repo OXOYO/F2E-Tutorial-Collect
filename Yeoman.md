@@ -330,6 +330,12 @@
 
 2017-12-24 22:03 [webpack解惑：require的五种用法 - lanyan - 博客园](https://www.cnblogs.com/laneyfu/p/6262321.html)
 
+2018-07-24 09:27 [webpack-bundle-analyzer 分析 - 简书](https://www.jianshu.com/p/2722e90b72c1)
+
+2018-07-24 09:55 [优化 Webpack 构建结果 - 腾讯Web前端 IMWeb 团队社区 | blog | 团队博客](http://imweb.io/topic/597f47c790ccc00402bb1820)
+
+2018-07-30 14:32 [webpack 换肤功能多主题/配色样式打包解决方案 | Godfery的博客](https://hiyangguo.github.io/2018/04/19/webpack-mutiple-theme-solution-md/)
+
 ## yo
 
 2015-09-28 17:40 [30天web实践3-yeoman - SegmentFault](http://segmentfault.com/a/1190000000656748)
@@ -393,4 +399,8 @@
 2018-03-14 22:11 [📦 Parcel 中文网](http://www.parceljs.io/)
 
 2018-03-15 11:14 [📦 Parcel 中文网](https://parceljs.org/)
+
+## JMeter
+
+2018-07-10 10:32 [Web接口测试工具--Jmeter - 虫师 - 博客园](https://www.cnblogs.com/fnng/p/5827577.html)
 

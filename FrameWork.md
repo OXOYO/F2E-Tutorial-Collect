@@ -1208,6 +1208,22 @@
 
 2018-06-19 10:40 [Vue CLI 3.x 简单体验 - 荒原 - SegmentFault 思否](https://segmentfault.com/a/1190000013090943)
 
+2018-07-20 13:46 [饿了么的PWA升级实践__财经头条](http://t.cj.sina.com.cn/articles/view/6451230928/18085f8d000100a7k1)
+
+2018-07-20 16:52 [做一个具有异步加载特性的 echarts-vue 组件 - DB.Reid - SegmentFault 思否](https://segmentfault.com/a/1190000011230007)
+
+2018-07-20 16:53 [基于Vue.js的大型报告页项目实现过程及问题总结（二） - 李文杨 - 博客园](https://www.cnblogs.com/Smiled/p/7890688.html)
+
+2018-07-24 09:15 [Webpack 打包优化之体积篇 | 晚晴幽草轩](https://jeffjade.com/2017/08/06/124-webpack-packge-optimization-for-volume/)
+
+2018-07-24 09:26 [基于 Webpack 的应用包体尺寸优化 - 某熊的全栈之路 - SegmentFault 思否](https://segmentfault.com/a/1190000008151173)
+
+2018-07-24 10:10 [Vue SPA 打包优化实践 - 掘金](https://juejin.im/post/5a3251ee6fb9a0450f21f6ac)
+
+2018-07-30 14:36 [手摸手，带你用vue撸后台 系列三(实战篇) - 手摸手系列 - SegmentFault 思否](https://segmentfault.com/a/1190000009762198#articleHeader2)
+
+2018-07-30 14:36 [Vue 换肤实践 - 前端 - 掘金](https://juejin.im/entry/5a634dc36fb9a01ca071edba)
+
 ### vuex
 
 2016-04-20 21:08 [vuejs/vuex: Flux-inspired Application Architecture for Vue.js.](https://github.com/vuejs/vuex)
@@ -1317,6 +1333,10 @@
 2018-03-21 21:49 [require.js 加载 vue组件 r.js 合并压缩 - taoquns - 博客园](https://www.cnblogs.com/taoquns/p/5960415.html)
 
 2018-03-22 17:22 [在webpack中require一个变量](https://lvquanblog.com/2016/12/17/zai-webpackzhong-requireyi-ge-bian-liang/)
+
+### vue-cli 3.0
+
+2018-07-09 17:49 [vue-cli3.0-beta vue脚手架3.0的使用 - 简书](https://www.jianshu.com/p/fbcad30031c2)
 
 ## Elm
 

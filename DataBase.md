@@ -196,6 +196,10 @@
 
 2018-07-06 17:15 [【周期性执行事件】MySQL事件（Event）&amp;任务调度 - QiaoZhi - 博客园](https://www.cnblogs.com/qlqwjy/p/7954175.html)
 
+2018-07-16 11:09 [ERROR 1227 (42000): Access denied; you need (at least one of) the PROCESS privilege(s) for this oper - CSDN博客](https://blog.csdn.net/mchdba/article/details/10435883)
+
+2018-07-16 11:10 [Mysql之binlog日志说明及利用binlog日志恢复数据操作记录 - 散尽浮华 - 博客园](https://www.cnblogs.com/kevingrace/p/5907254.html)
+
 ## IndexedDB
 
 2017-05-19 09:27 [前端的数据库：IndexedDB入门 - WEB前端 - 伯乐在线](http://web.jobbole.com/81793/)

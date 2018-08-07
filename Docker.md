@@ -12,3 +12,11 @@
 
 2018-07-05 14:43 [Docker 入门教程 - 阮一峰的网络日志](http://www.ruanyifeng.com/blog/2018/02/docker-tutorial.html)
 
+2018-07-16 15:36 [docker命令和后台参数 - bethal - 博客园](https://www.cnblogs.com/bethal/p/6051256.html)
+
+2018-07-16 15:48 [搭建Docker registry私有仓库（容器方式） | 封尘网](https://www.58jb.com/html/95.html)
+
+2018-08-02 16:24 [基于Docker的日志分析平台(二) 环境搭建 - 左手代码 - SegmentFault 思否](https://segmentfault.com/a/1190000012337053)
+
+2018-08-03 09:51 [REST服务中的日志可视化（关键技术实现） - yurun - 博客园](https://www.cnblogs.com/yurunmiao/p/4167744.html)
+

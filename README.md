@@ -2,7 +2,7 @@
 
 点击链接加入群【Web全栈大神群】：[https://jq.qq.com/?_wv=1027&k=53iWbrr](https://jq.qq.com/?_wv=1027&k=53iWbrr)
 
-更新时间：2018-07-09 15:26
+更新时间：2018-08-07 17:31
 
 # HTML
 
@@ -662,7 +662,7 @@
 
 2015-03-17 18:47 [Js取数组中最大值和最小值 - ゞ追忆o0ゞ - 博客园](http://www.cnblogs.com/zhuiyi/archive/2011/11/15/2249733.html)
 
-2015-03-18 16:33 [不要再吹水地球人听不懂的技术，咱来点干货!--中文前端UI框架Kit（四）给你真正的原生的drag以及drop事件，而不是像市面上主流的Js框架jQuery，Ext等，利用mousemove事件，判断位置来模拟 - 薛端阳 - 博客园](http://www.cnblogs.com/xueduanyang/archive/2012/05/03/2480505.html)
+2015-03-18 16:33 [不要再吹水地球人听不懂的技术，咱来点干货!--中文前端UI框架Kit（四）给你真正的原生的drag以及drop事件，而不是像市面上主流的Js框架jQuery，Ext等，利用mousemove事件，判断位置来模拟 - 薛端阳](http://www.cnblogs.com/xueduanyang/archive/2012/05/03/2480505.html)
 
 2015-03-19 16:08 [在JS数组指定位置插入元素 - renfufei的专栏 - 博客频道 - CSDN.NET](http://blog.csdn.net/renfufei/article/details/38143947)
 
@@ -1039,6 +1039,10 @@
 2018-05-03 12:17 [简单的扫雷游戏，原生JS实现 - 菜鸟传奇 - 博客园](https://www.cnblogs.com/settimeout/p/8029280.html)
 
 2018-05-11 08:56 [搜云库](https://mp.weixin.qq.com/s?__biz=MzA3MTUzOTcxOQ%3D%3D&mid=2452964662&idx=1&sn=c4f76f5ee9c527560aa2b25f8266da0c&chksm=88ede85ebf9a614828f3197fe20c08a9eba6b4b38cd03eb3a9c1d94fd16bbd75f99c23f90451)
+
+2018-07-27 10:24 [JavaScript复制内容到剪贴板 - 掘金](https://juejin.im/post/5a94f8eff265da4e9b593c29)
+
+2018-07-27 10:55 [JS Range HTML文档/文字内容选中、库及应用介绍 « 张鑫旭-鑫空间-鑫生活](https://www.zhangxinxu.com/wordpress/2011/04/js-range-html%E6%96%87%E6%A1%A3%E6%96%87%E5%AD%97%E5%86%85%E5%AE%B9%E9%80%89%E4%B8%AD%E3%80%81%E5%BA%93%E5%8F%8A%E5%BA%94%E7%94%A8%E4%BB%8B%E7%BB%8D/)
 
 ## swiper滑动插件
 
@@ -1534,6 +1538,10 @@
 
 2018-03-12 20:34 [百度脑图核心——kityminder-editor 本地化改造 - 简书](https://www.jianshu.com/p/9b53499d9031)
 
+2018-07-13 15:37 [jsPlumb之流程图经验总结-js教程-PHP中文网](http://www.php.cn/js-tutorial-373568.html)
+
+2018-07-13 15:41 [jsPlumb插件做一个模仿viso的可拖拉流程图 - 孤独的十字 - 博客园](https://www.cnblogs.com/sggx/p/3836432.html)
+
 ## lodashjs
 
 2017-04-06 17:47 [lodash 中文网](http://lodashjs.com/)
@@ -1607,6 +1615,18 @@
 2018-03-12 22:01 [RaphaelJS - 简书](https://www.jianshu.com/p/2a2604448f17)
 
 2018-03-12 22:01 [raphael.js 流程图实例 - 沈振华 - 博客园](https://www.cnblogs.com/shenzhenhua/p/5626548.html)
+
+## CodeMirror
+
+2018-07-17 16:13 [codeMirror实现Json编辑器的代码格式化 - Angies - 博客园](https://www.cnblogs.com/Angies/p/7873742.html)
+
+2018-07-17 16:15 [codeMirror实现Json编辑器功能 - Angies - 博客园](https://www.cnblogs.com/Angies/p/7830948.html)
+
+2018-07-17 16:31 [CodeMirror教程，CodeMirrorAPI中文信息 - 一入PHP岁月催 - 博客园](https://www.cnblogs.com/oldphper/p/4065425.html)
+
+2018-07-17 18:03 [在Vue中使用CodeMirror 格式显示错误 行数错乱 &amp; 代码隐藏 - wenr - 博客园](https://www.cnblogs.com/wenruo/p/8274958.html)
+
+2018-07-19 10:25 [Index of /demo/](http://codemirror.net/demo/)
 
 # PHP
 
@@ -2026,6 +2046,12 @@
 
 2018-07-05 15:10 [git submodule子模块 - CSDN博客](https://blog.csdn.net/chenjh213/article/details/49128749)
 
+2018-07-09 17:24 [用github账户登录你的网站_搜狐科技_搜狐网](https://www.sohu.com/a/229243143_468627)
+
+2018-07-09 17:26 [Web应用接入Github登录 - CSDN博客](https://blog.csdn.net/qq_34292044/article/details/80571369)
+
+2018-08-03 15:41 [使用GitHub-Flask实现GitHub第三方登录 - 掘金](https://juejin.im/post/5b3f5342f265da0f6f1a8190)
+
 ## GitHub Pages
 
 2015-10-10 11:18 [怎样做一个漂亮的 GitHub Pages 首页？ - 前端开发 - 知乎](http://www.zhihu.com/question/20376047?sort=created)
@@ -2280,6 +2306,8 @@
 
 2018-04-27 11:00 [heroku 上部署node.js的几个注意点 - CSDN博客](https://blog.csdn.net/u012331758/article/details/53547910)
 
+2018-07-13 15:26 [transfer.sh - Easy and fast file sharing from the command-line.](https://transfer.sh/)
+
 # DataBase
 
 2017-01-13 19:57 [Open Source Search &amp; Analytics · Elasticsearch | Elastic](https://www.elastic.co/)
@@ -2477,6 +2505,10 @@
 2018-06-20 11:07 [mysql 的 find_in_set,INSTR函数使用方法 - CSDN博客](https://blog.csdn.net/xy2204/article/details/50420658)
 
 2018-07-06 17:15 [【周期性执行事件】MySQL事件（Event）&amp;任务调度 - QiaoZhi - 博客园](https://www.cnblogs.com/qlqwjy/p/7954175.html)
+
+2018-07-16 11:09 [ERROR 1227 (42000): Access denied; you need (at least one of) the PROCESS privilege(s) for this oper - CSDN博客](https://blog.csdn.net/mchdba/article/details/10435883)
+
+2018-07-16 11:10 [Mysql之binlog日志说明及利用binlog日志恢复数据操作记录 - 散尽浮华 - 博客园](https://www.cnblogs.com/kevingrace/p/5907254.html)
 
 ## IndexedDB
 
@@ -3334,6 +3366,12 @@
 
 2017-12-24 22:03 [webpack解惑：require的五种用法 - lanyan - 博客园](https://www.cnblogs.com/laneyfu/p/6262321.html)
 
+2018-07-24 09:27 [webpack-bundle-analyzer 分析 - 简书](https://www.jianshu.com/p/2722e90b72c1)
+
+2018-07-24 09:55 [优化 Webpack 构建结果 - 腾讯Web前端 IMWeb 团队社区 | blog | 团队博客](http://imweb.io/topic/597f47c790ccc00402bb1820)
+
+2018-07-30 14:32 [webpack 换肤功能多主题/配色样式打包解决方案 | Godfery的博客](https://hiyangguo.github.io/2018/04/19/webpack-mutiple-theme-solution-md/)
+
 ## yo
 
 2015-09-28 17:40 [30天web实践3-yeoman - SegmentFault](http://segmentfault.com/a/1190000000656748)
@@ -3397,6 +3435,10 @@
 2018-03-14 22:11 [📦 Parcel 中文网](http://www.parceljs.io/)
 
 2018-03-15 11:14 [📦 Parcel 中文网](https://parceljs.org/)
+
+## JMeter
+
+2018-07-10 10:32 [Web接口测试工具--Jmeter - 虫师 - 博客园](https://www.cnblogs.com/fnng/p/5827577.html)
 
 # NodeJS
 
@@ -3624,6 +3666,10 @@
 
 2018-06-06 10:49 [NodeJS mysql2 使用心得 - CSDN博客](https://blog.csdn.net/u010379324/article/details/51228569)
 
+2018-08-03 09:53 [《大搜车NodeJS日志规范化与分析监控》作者：plusman 来自搜车大无线 团队博客](http://f2e.souche.com/blog/ri-zhi-gui-fan-hua-yu-fen-xi-jian-kong/)
+
+2018-08-03 09:57 [nodejs收集日志，rsyslog同步收集入es的实施](https://zhuanlan.zhihu.com/p/31572953)
+
 ## Express框架
 
 2015-04-15 17:14 [Nodejs初阶之express - 聂微东 - 博客园](http://www.cnblogs.com/Darren_code/p/node_express.html)
@@ -3845,6 +3891,8 @@
 2017-10-31 17:05 [nodejs部署方式-pm2 - zhangzongshan - 博客园](http://www.cnblogs.com/zzsdream/p/6898974.html)
 
 2017-11-23 17:13 [PM2实用入门指南 - 程序猿小卡 - 博客园](https://www.cnblogs.com/chyingp/p/pm2-documentation.html)
+
+2018-07-10 09:50 [pm2常用的命令用法介绍 - CSDN博客](https://blog.csdn.net/sunscheung/article/details/79171608)
 
 ## nrm
 
@@ -4143,6 +4191,10 @@
 2018-05-28 09:56 [使用iconv-lite解决node当中不支持GBK编码的问题 - 个人文章 - SegmentFault 思否](https://segmentfault.com/a/1190000011351573)
 
 2018-05-28 09:56 [NPM酷库039：iconv-lite，字符串编码转换 - 脉冲云-梁兴臣 - SegmentFault 思否](https://segmentfault.com/a/1190000013232415)
+
+## node-inspector
+
+2018-07-17 14:14 [使用webstorm调试node程序 - 金广国 - 博客园](https://www.cnblogs.com/jinguangguo/p/4809886.html)
 
 # Deno
 
@@ -5358,6 +5410,22 @@
 
 2018-06-19 10:40 [Vue CLI 3.x 简单体验 - 荒原 - SegmentFault 思否](https://segmentfault.com/a/1190000013090943)
 
+2018-07-20 13:46 [饿了么的PWA升级实践__财经头条](http://t.cj.sina.com.cn/articles/view/6451230928/18085f8d000100a7k1)
+
+2018-07-20 16:52 [做一个具有异步加载特性的 echarts-vue 组件 - DB.Reid - SegmentFault 思否](https://segmentfault.com/a/1190000011230007)
+
+2018-07-20 16:53 [基于Vue.js的大型报告页项目实现过程及问题总结（二） - 李文杨 - 博客园](https://www.cnblogs.com/Smiled/p/7890688.html)
+
+2018-07-24 09:15 [Webpack 打包优化之体积篇 | 晚晴幽草轩](https://jeffjade.com/2017/08/06/124-webpack-packge-optimization-for-volume/)
+
+2018-07-24 09:26 [基于 Webpack 的应用包体尺寸优化 - 某熊的全栈之路 - SegmentFault 思否](https://segmentfault.com/a/1190000008151173)
+
+2018-07-24 10:10 [Vue SPA 打包优化实践 - 掘金](https://juejin.im/post/5a3251ee6fb9a0450f21f6ac)
+
+2018-07-30 14:36 [手摸手，带你用vue撸后台 系列三(实战篇) - 手摸手系列 - SegmentFault 思否](https://segmentfault.com/a/1190000009762198#articleHeader2)
+
+2018-07-30 14:36 [Vue 换肤实践 - 前端 - 掘金](https://juejin.im/entry/5a634dc36fb9a01ca071edba)
+
 ### vuex
 
 2016-04-20 21:08 [vuejs/vuex: Flux-inspired Application Architecture for Vue.js.](https://github.com/vuejs/vuex)
@@ -5467,6 +5535,10 @@
 2018-03-21 21:49 [require.js 加载 vue组件 r.js 合并压缩 - taoquns - 博客园](https://www.cnblogs.com/taoquns/p/5960415.html)
 
 2018-03-22 17:22 [在webpack中require一个变量](https://lvquanblog.com/2016/12/17/zai-webpackzhong-requireyi-ge-bian-liang/)
+
+### vue-cli 3.0
+
+2018-07-09 17:49 [vue-cli3.0-beta vue脚手架3.0的使用 - 简书](https://www.jianshu.com/p/fbcad30031c2)
 
 ## Elm
 
@@ -5635,112 +5707,6 @@
 2017-04-28 09:51 [Cmd Markdown 编辑阅读器 - 作业部落出品](https://www.zybuluo.com/mdeditor)
 
 2018-03-12 16:53 [markdown|大型技术文档手册撰写与发布方法 - 简书](https://www.jianshu.com/p/fff3803e975a)
-
-# Other
-
-2015-04-23 11:04 [JacksonTian/fks](https://github.com/JacksonTian/fks)
-
-2015-04-28 16:41 [Sign In - Compose](https://app.compose.io/)
-
-2015-04-29 09:59 [RunJS - 在线编辑、展示、分享、交流你的 JavaScript 代码](http://runjs.cn/)
-
-2015-04-29 10:02 [JSDM](http://jsdm.com/)
-
-2015-04-29 15:35 [LRU_百度百科](http://baike.baidu.com/link?url=tuKT8Pmc9_eKcGMFwjFDXKYVJ413WdseN-tYvsUVhSsWtko_YymeAG40IaE6Fm0a5BrnNovDtP3I9uO09iUMZ_)
-
-2015-04-30 09:34 [AMD规范与CMD规范的区别 - 龙恩0707 - 推酷](http://www.tuicool.com/articles/MvuIRn)
-
-2015-04-30 17:20 [奇舞团 | 奇虎360旗下前端开发团队](http://www.75team.com/)
-
-2015-04-30 17:28 [welefen的随笔](http://www.welefen.com/)
-
-2015-05-26 15:21 [PS不能初始化，首选项文件无效（它已被删除）_百度经验](http://jingyan.baidu.com/article/7f41ececf4bf4f593d095ca1.html)
-
-2015-05-29 15:31 [微信中关闭网页输入内容时的安全提示_百度经验](http://jingyan.baidu.com/article/20095761b8a15dcb0721b4dd.html)
-
-2015-06-01 13:22 [秀米 XIUMI | 秀米 XIUMI](http://xiumi.us/)
-
-2015-06-01 13:27 [汉语词典，在线汉语词典](http://www.chinesehelper.cn/)
-
-2015-06-02 15:22 [破狼 Blog](http://greengerong.github.io/)
-
-2015-06-02 17:43 [V2EX](http://www.v2ex.com/)
-
-2015-06-05 17:10 [ASCII码表:ASCII码中文站 www.asciima.com](http://www.asciima.com/)
-
-2015-06-05 18:01 [Home | CloudFlare | The web performance &amp; security company](https://www.cloudflare.com/)
-
-2015-06-05 18:01 [GoAgent 3.1.22 最新版|免费翻墙利器 | Yanu](http://www.ccav1.com/goagent-3-1-22.html)
-
-2015-06-08 16:23 [Sketch中文网](http://www.sketchcn.com/)
-
-2015-06-08 16:39 [gatoatigrado / sketch-frontend / wiki / Tutorial — Bitbucket](https://bitbucket.org/gatoatigrado/sketch-frontend/wiki/Tutorial)
-
-2015-06-24 16:45 [用REST实现优雅的URL显示 -- 简明现代魔法](http://www.nowamagic.net/architecture/architecture_RestUrl.php)
-
-2015-07-10 17:36 [2015企业无线网络安全报告 - FreeBuf.COM | 关注黑客与极客](http://www.freebuf.com/articles/wireless/72084.html)
-
-2015-07-21 12:14 [灵活强大的构建系统Gradle - 美团技术团队](http://tech.meituan.com/gradle-practice.html)
-
-2015-08-10 13:36 [软件版本号管理 - CreazyWindy - 博客园](http://www.cnblogs.com/creazy_windy/archive/2012/02/02/2335427.html)
-
-2015-08-10 09:59 [产品版本管理 | Shawn Wong](http://www.huangshaofeng.com/148)
-
-2015-08-11 18:52 [XX-net/XX-Net](https://github.com/XX-net/XX-Net)
-
-2015-08-27 15:46 [表驱动方法 - 潇湘隐者 - 博客园](http://www.cnblogs.com/kerrycode/archive/2009/08/01/1536440.html)
-
-2016-11-22 19:36 [UML类图几种关系的总结 - OPEN 开发经验库](http://www.open-open.com/lib/view/open1328059700311.html)
-
-2015-05-29 14:32 [极限编程_百度百科](http://baike.baidu.com/link?url=rmX0gyRshwCFmOkRabNsE4d3Fli-lpGXhMiYvXG03vNQwzwTyvzCu0-skGQT5ZLTlVV-ANqFOrDAA1AEUxvyxq)
-
-2016-11-28 09:46 [MacType - The way texts should be](http://www.mactype.net/)
-
-2017-04-07 15:36 [cloudhead.io](http://cloudhead.io/)
-
-2017-05-10 14:07 [sciter – Multiplatform HTML/CSS UI Engine for Desktop and Mobile Application](https://sciter.com/)
-
-2017-05-15 17:18 [RxJs 介绍 - 推酷](http://www.tuicool.com/articles/iYv2qiR)
-
-2017-05-16 14:20 [DirectX修复工具 - VBcom的专栏 - 博客频道 - CSDN.NET](http://blog.csdn.net/vbcom/article/details/6962388)
-
-2017-05-16 16:03 [开箱即用 - jwt 无状态分布式授权 - Grissom007 - 博客园](http://www.cnblogs.com/grissom007/p/6294746.html)
-
-2017-05-16 16:03 [JWT 简介 - 推酷](http://www.tuicool.com/articles/R7Rj6r3)
-
-2017-05-17 10:59 [一张图看懂开源许可协议，开源许可证GPL、BSD、MIT、Mozilla、Apache和LGPL的区别 - 无知人生，记录点滴 - 博客频道 - CSDN.NET](http://blog.csdn.net/testcs_dn/article/details/38496107)
-
-2017-05-17 11:00 [如何选择开源许可证？ - 阮一峰的网络日志](http://www.ruanyifeng.com/blog/2011/05/how_to_choose_free_software_licenses.html)
-
-2017-07-21 09:43 [Sanna Dullaway](http://sannadullaway.com/)
-
-2017-07-30 13:23 [gifs.com | Animated Gif Maker and Gif Editor](https://gifs.com/)
-
-2017-08-01 16:08 [首页 • ZABBIX中文社区](http://www.zabbix.org.cn/)
-
-2017-09-15 16:59 [Safari, the world's most comprehensive tech &amp; business learning platform](https://www.safaribooksonline.com/)
-
-2017-12-14 16:53 [RDMA_百度百科](https://baike.baidu.com/item/RDMA/1453093?fr=aladdin)
-
-2017-12-14 16:56 [使用 Socket Direct Protocol 实现 DB2 的 RDMA 功能](https://www.ibm.com/developerworks/cn/data/library/techarticle/dm-1207rdmasocketdirect/)
-
-2017-12-20 22:41 [《Apache Velocity用户指南》官方文档 | 并发编程网 – ifeve.com](http://ifeve.com/apache-velocity-dev/)
-
-2018-01-03 10:03 [首页 | Read the Docs](https://readthedocs.org/)
-
-2018-01-11 22:38 [安装并配置android sdk - 简书](https://www.jianshu.com/p/4ac1313b50cb)
-
-2018-02-08 14:23 [一套能体现 RBAC 的表结构设计 - 韩宗泽 - 博客园](https://www.cnblogs.com/hanzongze/archive/2017/06/20/oracle-sql-rbac.html)
-
-2018-02-08 14:23 [RBAC打造通用WEB权限 - 郁冬 - 博客园](https://www.cnblogs.com/lamp01/p/6576432.html)
-
-2018-03-09 17:39 [路过图床 - 全球中文免费图床 专业图片上传 支持外链 全球CDN分发](https://imgchr.com/)
-
-2018-03-14 17:30 [Dependency Walker (depends.exe) Home Page](http://www.dependencywalker.com/)
-
-2018-03-16 10:39 [不翻墙使用Gmail 教你如何在Foxmail里添加Gmail邮箱 - 荣耀之星](https://glorystar.me/archives/How-to-use-Gmail-without-proxy.html)
-
-2018-03-21 09:52 [OverAPI.com | Collecting all the cheat sheets](http://overapi.com/)
 
 # IDE
 
@@ -6206,6 +6172,10 @@
 
 2018-06-15 17:59 [印记中文 - 深入挖掘国外前端新领域，为中国 Web 前端开发人员提供优质文档！](https://docschina.org/)
 
+2018-07-09 17:01 [【webssh】网页上的SSH终端 - K.Takanashi - 博客园](https://www.cnblogs.com/franknihao/p/8963634.html)
+
+2018-07-12 15:22 [GIF与APNG，解决GIF锯齿问题-UI中国-专业用户体验设计平台](http://www.ui.cn/detail/34100.html)
+
 ## 规范
 
 2015-08-11 11:05 [前端JavaScript规范](http://www.runoob.com/w3cnote/javascript-guide.html)
@@ -6355,6 +6325,10 @@
 2018-07-06 16:09 [web调试优化-chrome开发者工具不完全指南 - 守候书阁 - SegmentFault 思否](https://segmentfault.com/a/1190000011868916)
 
 2018-07-06 16:19 [全新Chrome Devtool Performance使用指南](https://zhuanlan.zhihu.com/p/29879682)
+
+2018-08-03 15:44 [【前端工具】Chrome 扩展程序的开发与发布 -- 手把手教你开发扩展程序 - ChokCoco - 博客园](http://www.cnblogs.com/coco1s/p/8004510.html)
+
+2018-08-03 15:47 [Chrome插件开发总结 - 简书](https://www.jianshu.com/p/39652b8eae7e)
 
 ## 加密
 
@@ -6728,6 +6702,112 @@
 
 2018-03-08 17:28 [PaddlePaddle - Documentation](http://www.paddlepaddle.org/docs/develop/documentation/zh/getstarted/index_cn.html)
 
+# Other
+
+2015-04-23 11:04 [JacksonTian/fks](https://github.com/JacksonTian/fks)
+
+2015-04-28 16:41 [Sign In - Compose](https://app.compose.io/)
+
+2015-04-29 09:59 [RunJS - 在线编辑、展示、分享、交流你的 JavaScript 代码](http://runjs.cn/)
+
+2015-04-29 10:02 [JSDM](http://jsdm.com/)
+
+2015-04-29 15:35 [LRU_百度百科](http://baike.baidu.com/link?url=tuKT8Pmc9_eKcGMFwjFDXKYVJ413WdseN-tYvsUVhSsWtko_YymeAG40IaE6Fm0a5BrnNovDtP3I9uO09iUMZ_)
+
+2015-04-30 09:34 [AMD规范与CMD规范的区别 - 龙恩0707 - 推酷](http://www.tuicool.com/articles/MvuIRn)
+
+2015-04-30 17:20 [奇舞团 | 奇虎360旗下前端开发团队](http://www.75team.com/)
+
+2015-04-30 17:28 [welefen的随笔](http://www.welefen.com/)
+
+2015-05-26 15:21 [PS不能初始化，首选项文件无效（它已被删除）_百度经验](http://jingyan.baidu.com/article/7f41ececf4bf4f593d095ca1.html)
+
+2015-05-29 15:31 [微信中关闭网页输入内容时的安全提示_百度经验](http://jingyan.baidu.com/article/20095761b8a15dcb0721b4dd.html)
+
+2015-06-01 13:22 [秀米 XIUMI | 秀米 XIUMI](http://xiumi.us/)
+
+2015-06-01 13:27 [汉语词典，在线汉语词典](http://www.chinesehelper.cn/)
+
+2015-06-02 15:22 [破狼 Blog](http://greengerong.github.io/)
+
+2015-06-02 17:43 [V2EX](http://www.v2ex.com/)
+
+2015-06-05 17:10 [ASCII码表:ASCII码中文站 www.asciima.com](http://www.asciima.com/)
+
+2015-06-05 18:01 [Home | CloudFlare | The web performance &amp; security company](https://www.cloudflare.com/)
+
+2015-06-05 18:01 [GoAgent 3.1.22 最新版|免费翻墙利器 | Yanu](http://www.ccav1.com/goagent-3-1-22.html)
+
+2015-06-08 16:23 [Sketch中文网](http://www.sketchcn.com/)
+
+2015-06-08 16:39 [gatoatigrado / sketch-frontend / wiki / Tutorial — Bitbucket](https://bitbucket.org/gatoatigrado/sketch-frontend/wiki/Tutorial)
+
+2015-06-24 16:45 [用REST实现优雅的URL显示 -- 简明现代魔法](http://www.nowamagic.net/architecture/architecture_RestUrl.php)
+
+2015-07-10 17:36 [2015企业无线网络安全报告 - FreeBuf.COM | 关注黑客与极客](http://www.freebuf.com/articles/wireless/72084.html)
+
+2015-07-21 12:14 [灵活强大的构建系统Gradle - 美团技术团队](http://tech.meituan.com/gradle-practice.html)
+
+2015-08-10 13:36 [软件版本号管理 - CreazyWindy - 博客园](http://www.cnblogs.com/creazy_windy/archive/2012/02/02/2335427.html)
+
+2015-08-10 09:59 [产品版本管理 | Shawn Wong](http://www.huangshaofeng.com/148)
+
+2015-08-11 18:52 [XX-net/XX-Net](https://github.com/XX-net/XX-Net)
+
+2015-08-27 15:46 [表驱动方法 - 潇湘隐者 - 博客园](http://www.cnblogs.com/kerrycode/archive/2009/08/01/1536440.html)
+
+2016-11-22 19:36 [UML类图几种关系的总结 - OPEN 开发经验库](http://www.open-open.com/lib/view/open1328059700311.html)
+
+2015-05-29 14:32 [极限编程_百度百科](http://baike.baidu.com/link?url=rmX0gyRshwCFmOkRabNsE4d3Fli-lpGXhMiYvXG03vNQwzwTyvzCu0-skGQT5ZLTlVV-ANqFOrDAA1AEUxvyxq)
+
+2016-11-28 09:46 [MacType - The way texts should be](http://www.mactype.net/)
+
+2017-04-07 15:36 [cloudhead.io](http://cloudhead.io/)
+
+2017-05-10 14:07 [sciter – Multiplatform HTML/CSS UI Engine for Desktop and Mobile Application](https://sciter.com/)
+
+2017-05-15 17:18 [RxJs 介绍 - 推酷](http://www.tuicool.com/articles/iYv2qiR)
+
+2017-05-16 14:20 [DirectX修复工具 - VBcom的专栏 - 博客频道 - CSDN.NET](http://blog.csdn.net/vbcom/article/details/6962388)
+
+2017-05-16 16:03 [开箱即用 - jwt 无状态分布式授权 - Grissom007 - 博客园](http://www.cnblogs.com/grissom007/p/6294746.html)
+
+2017-05-16 16:03 [JWT 简介 - 推酷](http://www.tuicool.com/articles/R7Rj6r3)
+
+2017-05-17 10:59 [一张图看懂开源许可协议，开源许可证GPL、BSD、MIT、Mozilla、Apache和LGPL的区别 - 无知人生，记录点滴 - 博客频道 - CSDN.NET](http://blog.csdn.net/testcs_dn/article/details/38496107)
+
+2017-05-17 11:00 [如何选择开源许可证？ - 阮一峰的网络日志](http://www.ruanyifeng.com/blog/2011/05/how_to_choose_free_software_licenses.html)
+
+2017-07-21 09:43 [Sanna Dullaway](http://sannadullaway.com/)
+
+2017-07-30 13:23 [gifs.com | Animated Gif Maker and Gif Editor](https://gifs.com/)
+
+2017-08-01 16:08 [首页 • ZABBIX中文社区](http://www.zabbix.org.cn/)
+
+2017-09-15 16:59 [Safari, the world's most comprehensive tech &amp; business learning platform](https://www.safaribooksonline.com/)
+
+2017-12-14 16:53 [RDMA_百度百科](https://baike.baidu.com/item/RDMA/1453093?fr=aladdin)
+
+2017-12-14 16:56 [使用 Socket Direct Protocol 实现 DB2 的 RDMA 功能](https://www.ibm.com/developerworks/cn/data/library/techarticle/dm-1207rdmasocketdirect/)
+
+2017-12-20 22:41 [《Apache Velocity用户指南》官方文档 | 并发编程网 – ifeve.com](http://ifeve.com/apache-velocity-dev/)
+
+2018-01-03 10:03 [首页 | Read the Docs](https://readthedocs.org/)
+
+2018-01-11 22:38 [安装并配置android sdk - 简书](https://www.jianshu.com/p/4ac1313b50cb)
+
+2018-02-08 14:23 [一套能体现 RBAC 的表结构设计 - 韩宗泽 - 博客园](https://www.cnblogs.com/hanzongze/archive/2017/06/20/oracle-sql-rbac.html)
+
+2018-02-08 14:23 [RBAC打造通用WEB权限 - 郁冬 - 博客园](https://www.cnblogs.com/lamp01/p/6576432.html)
+
+2018-03-09 17:39 [路过图床 - 全球中文免费图床 专业图片上传 支持外链 全球CDN分发](https://imgchr.com/)
+
+2018-03-14 17:30 [Dependency Walker (depends.exe) Home Page](http://www.dependencywalker.com/)
+
+2018-03-16 10:39 [不翻墙使用Gmail 教你如何在Foxmail里添加Gmail邮箱 - 荣耀之星](https://glorystar.me/archives/How-to-use-Gmail-without-proxy.html)
+
+2018-03-21 09:52 [OverAPI.com | Collecting all the cheat sheets](http://overapi.com/)
+
 # VR
 
 2016-08-25 13:05 [开源框架 A-Frame：只要增加一行代码就可以制作VR网页 | 雷锋网](http://www.leiphone.com/news/201512/ZnxHg0uQ2AfzwbFy.html)
@@ -6816,6 +6896,8 @@
 
 2017-06-07 17:47 [JxBrowser — a Chromium-based Swing/JavaFX component](https://www.teamdev.com/jxbrowser)
 
+2018-07-25 17:49 [手写类似于EL表达式，通过java解析Json，用字符串格式去匹配-技术杂类-动脑学院-技术论坛-java学习](http://bbs.dongnaoedu.com/?thread-134.htm)
+
 # NASA
 
 2017-10-17 13:44 [【福利】NASA宇宙星系图8亿像素图片24G大小 附下载地址_黑洞吧_百度贴吧](https://tieba.baidu.com/p/3268635113?red_tag=2391701261)
@@ -6868,12 +6950,6 @@
 
 2018-03-21 19:37 [StdLib — API development made simple](https://stdlib.com/)
 
-# 积木
-
-2018-05-25 10:30 [UC前端‘搭积木’的模块化开发——scrat.js - 前端旋风](https://my.oschina.net/luozt/blog/304111)
-
-2018-05-25 10:30 [网络前端UI组件设计思想：去框架化、积木化 - CSDN博客](https://blog.csdn.net/tiangej/article/details/8882347?utm_source=tuicool)
-
 # Docker
 
 2018-07-03 17:16 [docker中文社区,docker帮助,docker手册,docker教程,docker安装手册 - docker中文社区](http://www.docker.org.cn/index.html)
@@ -6887,4 +6963,58 @@
 2018-07-04 09:57 [Docker容器系列教程（二）：常用命令与实操 - Java成神之路 - SegmentFault 思否](https://segmentfault.com/a/1190000015125242)
 
 2018-07-05 14:43 [Docker 入门教程 - 阮一峰的网络日志](http://www.ruanyifeng.com/blog/2018/02/docker-tutorial.html)
+
+2018-07-16 15:36 [docker命令和后台参数 - bethal - 博客园](https://www.cnblogs.com/bethal/p/6051256.html)
+
+2018-07-16 15:48 [搭建Docker registry私有仓库（容器方式） | 封尘网](https://www.58jb.com/html/95.html)
+
+2018-08-02 16:24 [基于Docker的日志分析平台(二) 环境搭建 - 左手代码 - SegmentFault 思否](https://segmentfault.com/a/1190000012337053)
+
+2018-08-03 09:51 [REST服务中的日志可视化（关键技术实现） - yurun - 博客园](https://www.cnblogs.com/yurunmiao/p/4167744.html)
+
+# 积木
+
+2018-05-25 10:30 [UC前端‘搭积木’的模块化开发——scrat.js - 前端旋风](https://my.oschina.net/luozt/blog/304111)
+
+2018-05-25 10:30 [网络前端UI组件设计思想：去框架化、积木化 - CSDN博客](https://blog.csdn.net/tiangej/article/details/8882347?utm_source=tuicool)
+
+# 杂项
+
+2013-05-13 16:04 [河南地图网](http://www.hnditu.com/dt.aspx?mapn=410100)
+
+2013-06-07 15:23 [MySQL创建用户与授权_James' Daily Log_百度空间](http://hi.baidu.com/fwsocn/item/8b7b0c2102f2970976272c23)
+
+2013-07-11 16:52 [用谷歌浏览器调试手机WEB应用 - knless@126的日志 - 网易博客](http://blog.163.com/knless@126/blog/static/1642586422012429113343175/)
+
+2013-07-14 22:27 [DUI-heatmap Finland 2012 | Utvecklingsbloggen](http://utveckling.ylebloggen.fi/2013/03/21/dui-heatmap-finland-2012/)
+
+2013-07-14 22:27 [Triposo Blog: Green world](http://blog.triposo.com/2013/03/green-world.html)
+
+2013-07-14 22:27 [Real-time Service Area for Electramedics](http://www.nearbynow.co/profile/electrician/electramedics)
+
+2013-07-16 17:25 [Zepto.js: the aerogel-weight jQuery-compatible JavaScript library](http://zeptojs.com/)
+
+2013-08-07 13:29 [php+swftools+flexpaper实现在线PDF阅读(中) | Yuyu的技术blog | 写有质量的技术博客!](http://www.phperblog.net/?p=601)
+
+2013-08-07 13:30 [flexpaper 参数说明 - 开始学](http://www.kaishixue.com/php/10.html)
+
+2013-08-07 13:30 [Flexpaper学习笔记整理_百度文库](http://wenku.baidu.com/view/541e553483c4bb4cf7ecd1bd.html)
+
+2013-08-07 13:30 [仿百度文库解决方案（六）——利用FlexPaper显示Flash（SWF） - 肖恩也有梦想 - 博客园](http://www.cnblogs.com/luckyxiaoxuan/archive/2012/06/16/2551677.html)
+
+2013-08-07 13:30 [利用FlexPaper实现Word、PPT、PDF在线浏览 - php mysql 足迹 - ITeye技术网站](http://say0507.iteye.com/blog/994849)
+
+2013-08-07 13:30 [SWFTOOLS](http://swftools.org/)
+
+2013-08-07 13:30 [FlexPaper - Documentation](http://flexpaper.devaldi.com/docs_publishing_with_PHP.jsp)
+
+1970-01-01 08:00 [Simditor](http://simditor.tower.im/)
+
+1970-01-01 08:00 [Simditor：简单快速的开源富文本编辑器 - 前端开发 文本工具 - LUPA开源社区](http://www.lupaworld.com/article-238553-1.html)
+
+1970-01-01 08:00 [Awwwards - Website Awards - Best Web Design Trends](http://www.awwwards.com/)
+
+1970-01-01 08:00 [weex暴走青年的自频道](http://i.youku.com/u/UNDEzMDY2NjI0MA==/videos)
+
+2017-02-23 16:50 [域名背后的真相，一个黑产团伙的沦陷 - FreeBuf.COM | 关注黑客与极客](http://www.freebuf.com/articles/terminal/127228.html)
 

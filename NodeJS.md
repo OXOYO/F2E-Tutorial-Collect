@@ -224,6 +224,10 @@
 
 2018-06-06 10:49 [NodeJS mysql2 使用心得 - CSDN博客](https://blog.csdn.net/u010379324/article/details/51228569)
 
+2018-08-03 09:53 [《大搜车NodeJS日志规范化与分析监控》作者：plusman 来自搜车大无线 团队博客](http://f2e.souche.com/blog/ri-zhi-gui-fan-hua-yu-fen-xi-jian-kong/)
+
+2018-08-03 09:57 [nodejs收集日志，rsyslog同步收集入es的实施](https://zhuanlan.zhihu.com/p/31572953)
+
 ## Express框架
 
 2015-04-15 17:14 [Nodejs初阶之express - 聂微东 - 博客园](http://www.cnblogs.com/Darren_code/p/node_express.html)
@@ -445,6 +449,8 @@
 2017-10-31 17:05 [nodejs部署方式-pm2 - zhangzongshan - 博客园](http://www.cnblogs.com/zzsdream/p/6898974.html)
 
 2017-11-23 17:13 [PM2实用入门指南 - 程序猿小卡 - 博客园](https://www.cnblogs.com/chyingp/p/pm2-documentation.html)
+
+2018-07-10 09:50 [pm2常用的命令用法介绍 - CSDN博客](https://blog.csdn.net/sunscheung/article/details/79171608)
 
 ## nrm
 
@@ -743,4 +749,8 @@
 2018-05-28 09:56 [使用iconv-lite解决node当中不支持GBK编码的问题 - 个人文章 - SegmentFault 思否](https://segmentfault.com/a/1190000011351573)
 
 2018-05-28 09:56 [NPM酷库039：iconv-lite，字符串编码转换 - 脉冲云-梁兴臣 - SegmentFault 思否](https://segmentfault.com/a/1190000013232415)
+
+## node-inspector
+
+2018-07-17 14:14 [使用webstorm调试node程序 - 金广国 - 博客园](https://www.cnblogs.com/jinguangguo/p/4809886.html)
 
