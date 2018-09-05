@@ -40,13 +40,7 @@
 
 2015-07-06 17:08 [TCP/IP、Http、Socket的区别_百度经验](http://jingyan.baidu.com/article/08b6a591e07ecc14a80922f1.html)
 
-2017-09-04 15:10 [HTTPS 与 HTTP2 协议分析 - 章志强的专栏 - CSDN博客](http://blog.csdn.net/zhangzq86/article/details/64907340)
-
-2017-09-04 15:17 [如何在 Apache 中启用 HTTP/2-系统运维|Linux.中国-开源社区](https://linux.cn/article-6720-1.html)
-
-2017-09-04 15:40 [Apache服务器启用SPDY协议加快传输本博客内容 – Librehat的部落格](https://www.librehat.com/apache-server-enable-spdy-protocol-to-speed-up-transfers-the-contents-of-this-blog/)
-
-## HTTP2
+#####  HTTP2 
 
 2016-05-14 17:39 [HTTP/2](https://http2.github.io/)
 
@@ -54,11 +48,21 @@
 
 2017-09-04 10:23 [HTTP/2.0 相比1.0有哪些重大改进？ - 知乎](https://www.zhihu.com/question/34074946)
 
-## HTTPS
+
+
+#####  HTTPS 
 
 2017-03-10 15:21 [也许，这样理解HTTPS更容易](http://mp.weixin.qq.com/s/9BkJ90CE6sNuUXJjiwHlGg)
 
 2017-09-04 10:24 [大型网站的 HTTPS 实践（1）：HTTPS 协议和原理 - 文章 - 伯乐在线](http://blog.jobbole.com/86660/)
 
 2017-09-04 10:24 [HTTPS 可能被这样劫持吗？ - 知乎](https://www.zhihu.com/question/22795329)
+
+
+
+2017-09-04 15:10 [HTTPS 与 HTTP2 协议分析 - 章志强的专栏 - CSDN博客](http://blog.csdn.net/zhangzq86/article/details/64907340)
+
+2017-09-04 15:17 [如何在 Apache 中启用 HTTP/2-系统运维|Linux.中国-开源社区](https://linux.cn/article-6720-1.html)
+
+2017-09-04 15:40 [Apache服务器启用SPDY协议加快传输本博客内容 – Librehat的部落格](https://www.librehat.com/apache-server-enable-spdy-protocol-to-speed-up-transfers-the-contents-of-this-blog/)
 
