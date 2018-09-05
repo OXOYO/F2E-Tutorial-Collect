@@ -96,6 +96,46 @@
 
 2015-07-30 15:40 [YangLiu (@iiunknown) on GitBook](https://www.gitbook.com/@iiunknown)
 
+#####  GitHub Pages 
+
+2015-10-10 11:18 [怎样做一个漂亮的 GitHub Pages 首页？ - 前端开发 - 知乎](http://www.zhihu.com/question/20376047?sort=created)
+
+2015-10-10 11:18 [[原]通过GitHub Pages建立个人站点（详细步骤） - 雨知 - 博客园](http://www.cnblogs.com/purediy/archive/2013/03/07/2948892.html)
+
+2015-10-10 11:55 [Github page build failed 可能的解决方案](http://www.perfect-is-shit.com/github-jekyll-page-build-failed.html)
+
+2016-05-18 16:52 [搭建一个免费的，无限流量的Blog----github Pages和Jekyll入门 - 阮一峰的网络日志](http://www.ruanyifeng.com/blog/2012/08/blogging_with_jekyll.html)
+
+2016-05-18 17:03 [使用Github Pages建独立博客 | BeiYuu.com](http://beiyuu.com/github-pages/)
+
+2016-05-18 18:43 [Setting up your GitHub Pages site locally with Jekyll - User Documentation](https://help.github.com/articles/setting-up-your-github-pages-site-locally-with-jekyll/)
+
+2016-05-18 18:56 [Creating Pages with the automatic generator - User Documentation](https://help.github.com/articles/creating-pages-with-the-automatic-generator/)
+
+2016-05-26 21:12 [Jekyll • 简单静态博客网站生成器 - 将纯文本转换为静态博客网站](http://jekyllcn.com/)
+
+2016-05-26 21:15 [如何搭建一个独立博客——简明Github Pages与Hexo教程 - 简书](http://www.jianshu.com/p/05289a4bc8b2)
+
+2016-05-26 21:56 [Jekyll Themes](http://jekyllthemes.org/)
+
+######  Themes 
+
+2016-05-27 09:27 [laobubu/jekyll-theme-EasyBook: Another Jekyll Blog Theme &quot;EasyBook&quot;](https://github.com/laobubu/jekyll-theme-EasyBook)
+
+2016-05-27 09:28 [Simpleyyt/jekyll-jacman: A fresh looking and responsive theme for Jekyll](https://github.com/Simpleyyt/jekyll-jacman)
+
+
+
+2016-05-27 09:42 [使用Github搭建静态博客（Hexo） - 钟白兔 - SegmentFault](https://segmentfault.com/a/1190000000458953)
+
+2016-05-27 09:42 [静态博客程序大总结_Jekyll_Octopress_Hexo—站长之家建站专题](http://www.chinaz.com/special/static-blog/index.html?qq-pf-to=pcqq.c2c)
+
+2016-05-27 09:47 [使用GitHub和Hexo搭建免费静态Blog | HelloDog](https://wsgzao.github.io/post/hexo-guide/)
+
+2018-03-23 09:49 [GitHub Ribbons | The GitHub Blog](https://blog.github.com/2008-12-19-github-ribbons/)
+
+2018-04-19 21:18 [docsify：一个神奇的文档生成工具_Helloweba](https://www.helloweba.net/javascript/502.html)
+
 2016-03-15 23:33 [GIT: error: pathspec 'xxx did not match any file(s) known to git - Stack Overflow](http://stackoverflow.com/questions/33628862/git-error-pathspec-xxx-did-not-match-any-files-known-to-git)
 
 2016-05-05 10:49 [Git忽略文件的几种方法 - VIRTAO](https://blog.virtao.org/articles/148.html)
@@ -180,41 +220,7 @@
 
 2018-08-03 15:41 [使用GitHub-Flask实现GitHub第三方登录 - 掘金](https://juejin.im/post/5b3f5342f265da0f6f1a8190)
 
-## GitHub Pages
+2018-08-08 17:38 [GitHub API Push接口 - CSDN博客](https://blog.csdn.net/WMSOK/article/details/78777935)
 
-2015-10-10 11:18 [怎样做一个漂亮的 GitHub Pages 首页？ - 前端开发 - 知乎](http://www.zhihu.com/question/20376047?sort=created)
-
-2015-10-10 11:18 [[原]通过GitHub Pages建立个人站点（详细步骤） - 雨知 - 博客园](http://www.cnblogs.com/purediy/archive/2013/03/07/2948892.html)
-
-2015-10-10 11:55 [Github page build failed 可能的解决方案](http://www.perfect-is-shit.com/github-jekyll-page-build-failed.html)
-
-2016-05-18 16:52 [搭建一个免费的，无限流量的Blog----github Pages和Jekyll入门 - 阮一峰的网络日志](http://www.ruanyifeng.com/blog/2012/08/blogging_with_jekyll.html)
-
-2016-05-18 17:03 [使用Github Pages建独立博客 | BeiYuu.com](http://beiyuu.com/github-pages/)
-
-2016-05-18 18:43 [Setting up your GitHub Pages site locally with Jekyll - User Documentation](https://help.github.com/articles/setting-up-your-github-pages-site-locally-with-jekyll/)
-
-2016-05-18 18:56 [Creating Pages with the automatic generator - User Documentation](https://help.github.com/articles/creating-pages-with-the-automatic-generator/)
-
-2016-05-26 21:12 [Jekyll • 简单静态博客网站生成器 - 将纯文本转换为静态博客网站](http://jekyllcn.com/)
-
-2016-05-26 21:15 [如何搭建一个独立博客——简明Github Pages与Hexo教程 - 简书](http://www.jianshu.com/p/05289a4bc8b2)
-
-2016-05-26 21:56 [Jekyll Themes](http://jekyllthemes.org/)
-
-2016-05-27 09:42 [使用Github搭建静态博客（Hexo） - 钟白兔 - SegmentFault](https://segmentfault.com/a/1190000000458953)
-
-2016-05-27 09:42 [静态博客程序大总结_Jekyll_Octopress_Hexo—站长之家建站专题](http://www.chinaz.com/special/static-blog/index.html?qq-pf-to=pcqq.c2c)
-
-2016-05-27 09:47 [使用GitHub和Hexo搭建免费静态Blog | HelloDog](https://wsgzao.github.io/post/hexo-guide/)
-
-2018-03-23 09:49 [GitHub Ribbons | The GitHub Blog](https://blog.github.com/2008-12-19-github-ribbons/)
-
-2018-04-19 21:18 [docsify：一个神奇的文档生成工具_Helloweba](https://www.helloweba.net/javascript/502.html)
-
-### Themes
-
-2016-05-27 09:27 [laobubu/jekyll-theme-EasyBook: Another Jekyll Blog Theme &quot;EasyBook&quot;](https://github.com/laobubu/jekyll-theme-EasyBook)
-
-2016-05-27 09:28 [Simpleyyt/jekyll-jacman: A fresh looking and responsive theme for Jekyll](https://github.com/Simpleyyt/jekyll-jacman)
+2018-09-05 09:16 [记一次删除Git记录中的大文件的过程-HollisChuang's Blog](http://www.hollischuang.com/archives/1708)
 
