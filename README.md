@@ -86,6 +86,8 @@
 
 2018-05-08 15:51 [脚本之家在线工具](http://tools.jb51.net/)
 
+2018-09-30 11:12 [桌面应用|Translate Shell ：一款在 Linux 命令行中使用谷歌翻译的工具](https://linux.cn/article-9107-1.html)
+
 ####  积木 
 
 2018-05-25 10:30 [UC前端‘搭积木’的模块化开发——scrat.js - 前端旋风](https://my.oschina.net/luozt/blog/304111)
@@ -167,6 +169,12 @@
 2018-03-19 17:20 [面向Linux的十大开源人工智能工具_Linux新闻_Linux公社-Linux系统门户网站](https://www.linuxidc.com/Linux/2016-09/135564.htm)
 
 2018-03-21 10:03 [12 个免费的 Deep Learning 在线学习网站](https://zhuanlan.zhihu.com/p/26501934)
+
+2018-09-21 14:34 [由“你好”引发的血案——调戏图灵机器人 - CSDN博客](https://blog.csdn.net/chenfei0328/article/details/70738117)
+
+2018-10-12 08:05 [聊天机器人API对比分析 - 作业部落 Cmd Markdown 编辑阅读器](https://www.zybuluo.com/liuhui0803/note/1134605)
+
+2018-10-12 08:06 [人工智能领域不同聊天机器人技术比较 | AI 人工智能 Robot 机器人](http://www.dxai.com/2017/02/21/comparison-of-different-chat-robots-in-the-field-of-artificial-intelligence/)
 
 ####  数学 
 
@@ -333,6 +341,24 @@
  [weex暴走青年的自频道](http://i.youku.com/u/UNDEzMDY2NjI0MA==/videos)
 
 2017-02-23 16:50 [域名背后的真相，一个黑产团伙的沦陷 - FreeBuf.COM | 关注黑客与极客](http://www.freebuf.com/articles/terminal/127228.html)
+
+2018-09-29 14:38 [hotJar 数据 - 简书](https://www.jianshu.com/p/fb7dc9502ed2)
+
+2018-09-29 14:38 [Hotjar - Heatmaps, Visitor Recordings, Conversion Funnels, Form Analytics, Feedback Polls and Surveys in One Platform](https://www.hotjar.com/home1?utm_expid=.Oc6FtaP7QbSvjs-nBQ7z0w.1&utm_referrer=https%3A%2F%2Fwww.baidu.com%2Flink%3Furl%3DFFaARBRZJdwzI3xlEEMpiz4CxqbsJl_4uGkIOWYrfMm%26wd%3D%26eqid%3Daf8566470001ae61000000025baf1d1b)
+
+2018-09-29 14:38 [Hotjar在架构演进中总结的8条经验_性能与架构_传送门](http://chuansong.me/n/365878851543)
+
+2018-09-29 14:43 [mixpanel可视化埋点源码分析01-项目功能介绍 - 简书](https://www.jianshu.com/p/59b86cbbab55)
+
+2018-09-29 14:45 [美团点评前端无痕埋点实践 -](https://tech.meituan.com/mt_mobile_analytics_practice.html)
+
+2018-09-29 14:46 [无埋点实现监测的真相——革新还是噱头？ - 云+社区 - 腾讯云](https://cloud.tencent.com/developer/article/1049439)
+
+2018-09-29 17:42 [如何翻译一本外文书 - 宋净超的博客|Developer Advocate on Cloud Native|jimmysong.io](https://jimmysong.io/posts/how-to-translate-a-book/)
+
+2018-09-29 17:52 [程序员必备的效率工具-Egret社区-第三方工具-白鹭引擎-Egret Engine-免费开源HTML5游戏引擎 - Powered by Discuz!](http://bbs.egret.com/thread-31485-1-1.html)
+
+2018-09-29 18:01 [如何翻译一本外文书 - 宋净超的博客|Developer Advocate on Cloud Native|jimmysong.io](https://jimmysong.io/posts/how-to-translate-a-book/#1-%E5%88%86%E6%9E%90%E5%8E%9F%E7%89%88%E5%8E%8B%E7%BC%A9%E5%8C%85%E7%9A%84%E7%BB%93%E6%9E%84)
 
 
 
@@ -1208,6 +1234,10 @@
 
 2018-08-15 16:39 [Google Chrome商店开发者认证支付$5【图解认证支付成功】 - 快乐每一天 - ITeye博客](http://qiaolevip.iteye.com/blog/2258627)
 
+2018-10-12 11:18 [javascript – 查看Chrome控制台是否已打开 - 代码日志](https://codeday.me/bug/20170716/37432.html)
+
+2018-10-12 11:19 [检测 F12 控制台是否开启 | Japari Park](https://ahaochan.github.io/posts/Check_whether_the_F12_console_is_turned_on.html)
+
 
 
 2015-12-14 14:28 [前端开发面试题 - weakish - SegmentFault](http://segmentfault.com/a/1190000000465431)
@@ -1247,6 +1277,8 @@
 2018-02-26 15:01 [AlloyTeam|腾讯全端 AlloyTeam 团队](http://www.alloyteam.com/)
 
 2018-04-28 21:40 [混世魔王的技术博客](http://26836659.blogcn.com/)
+
+2018-09-05 16:32 [OXXO.STUDIO](https://www.oxxostudio.tw/)
 
 
 
@@ -1337,6 +1369,10 @@
 2018-03-20 16:19 [A Collection of Section Separators](https://tympanus.net/Development/SectionSeparators/)
 
 2018-03-20 16:29 [Proto.io - Prototypes that feel real](https://proto.io/)
+
+2018-09-06 13:36 [设计导航 - 精选最好的设计网站大全](http://hao.shejidaren.com/)
+
+2018-09-19 14:28 [网页设计常用色彩搭配表 - 配色表 | 小影的工具箱](https://tool.c7sky.com/webcolor/)
 
 
 
@@ -2994,6 +3030,10 @@
 
 2018-08-16 16:56 [vue项目优化--服务端渲染优化 - zangse的博客 - SegmentFault 思否](https://segmentfault.com/a/1190000013241193)
 
+2018-09-30 17:42 [vue 双向数据绑定实现原理 - 前端 - 掘金](https://juejin.im/entry/59116fa6a0bb9f0058aaaa4c)
+
+2018-10-10 15:56 [vue 解决循环引用组件报错 - lx_1024的博客 - CSDN博客](https://blog.csdn.net/lx_1024/article/details/79260657)
+
 #####  Elm 
 
 2016-03-28 19:30 [Elm](http://elm-lang.org/)
@@ -3370,6 +3410,8 @@
 
 2018-09-05 09:16 [记一次删除Git记录中的大文件的过程-HollisChuang's Blog](http://www.hollischuang.com/archives/1708)
 
+2018-09-19 15:17 [使用git克隆指定分支的代码 - ButterflyGirl - 博客园](http://www.cnblogs.com/nylcy/p/6569284.html)
+
 ####  Google 
 
 2016-01-13 17:02 [google hosts 2015，持续更新，2015.12.26已更新 - 360知识库](http://www.360kb.com/kb/2_122.html)
@@ -3515,6 +3557,8 @@
 2018-04-27 22:56 [HTML阻止iframe跳转页面并使用iframe在页面内嵌微信网页版 - 饭勺oO - 博客园](https://www.cnblogs.com/fanshaoO/p/8244695.html)
 
 2018-04-28 21:45 [混世魔王的技术博客 » 针对X-Frame-Options的突破与作弊研究](http://26836659.blogcn.com/articles/%E9%92%88%E5%AF%B9x-frame-options%E7%9A%84%E7%AA%81%E7%A0%B4%E4%B8%8E%E4%BD%9C%E5%BC%8A%E7%A0%94%E7%A9%B6.html)
+
+2018-09-30 17:17 [使用localStorage必须了解的点 - 腾讯Web前端 IMWeb 团队社区 | blog | 团队博客](http://imweb.io/topic/5590a443fbb23aae3d5e450a)
 
 ####  HTTP 
 
@@ -5078,6 +5122,30 @@
 
 
 
+#####  p5.js 
+
+2018-09-11 11:08 [p5.js教程01-一文入门p5.js - DataScience](http://mlln.cn/2018/07/06/p5.js%E6%95%99%E7%A8%8B01-%E5%BF%AB%E9%80%9F%E5%85%A5%E9%97%A8/)
+
+2018-09-11 11:16 [p5.js 和 Processing 的恩怨情仇](https://zhuanlan.zhihu.com/p/36167161)
+
+2018-09-11 14:15 [p5.js入门教程(1) p5.js简介&amp;基本形状绘制 - CSDN博客](https://blog.csdn.net/qq_27534999/article/details/75151515)
+
+
+
+2018-09-27 14:45 [图片的异步加载与onload函数 - 简书](https://www.jianshu.com/p/d3a02ffe94b6)
+
+2018-09-30 15:56 [原生JS封装_new函数，实现new关键字的功能 - 难凉热血的博客 - CSDN博客](https://blog.csdn.net/u010342862/article/details/80016695)
+
+2018-09-30 16:08 [详解Object.create(null) - 掘金](https://juejin.im/post/5acd8ced6fb9a028d444ee4e)
+
+2018-09-30 16:10 [js改变this指向的方法：call apply bind - 苦笔的博客 - CSDN博客](https://blog.csdn.net/u014711094/article/details/80468844)
+
+2018-09-30 16:19 [跨域资源共享 CORS 详解 - 阮一峰的网络日志](http://www.ruanyifeng.com/blog/2016/04/cors.html)
+
+2018-09-30 17:12 [JS中判断对象是不是数组的方法 - 掘金](https://juejin.im/post/5a965784f265da4e9449e816)
+
+2018-10-10 17:28 [深入理解 JavaScript 中的 delete 操作符 | bubkoo](http://bubkoo.com/2014/01/23/deep-in-delete/)
+
 ####  LeetCode 
 
 2017-09-11 10:26 [Two Sum 的 javascript 解法 - 简书](http://www.jianshu.com/p/b3be87df03a2)
@@ -5121,6 +5189,22 @@
 2017-04-28 09:51 [Cmd Markdown 编辑阅读器 - 作业部落出品](https://www.zybuluo.com/mdeditor)
 
 2018-03-12 16:53 [markdown|大型技术文档手册撰写与发布方法 - 简书](https://www.jianshu.com/p/fff3803e975a)
+
+2018-09-29 18:01 [MarkdownPad2.5 注册码 - 简书](https://www.jianshu.com/p/9e5cd946696d)
+
+#####  Org-mode 
+
+2018-10-17 15:12 [Org-mode 简明手册 - open source - 博客园](http://www.cnblogs.com/Open_Source/archive/2011/07/17/2108747.html)
+
+2018-10-17 15:13 [org mode文档转成markdown格式 - Rickey - CSDN博客](https://blog.csdn.net/abcamus/article/details/53738481)
+
+2018-10-17 15:14 [Org-mode、reST、 Markdown 各有什么优缺点？ - 知乎](https://www.zhihu.com/question/19851600)
+
+2018-10-17 15:18 [用1天快速上手org-mode（windows系统） - Tavion - 博客园](https://www.cnblogs.com/Tavion/p/5164057.html)
+
+2018-10-17 15:20 [Org mode for Emacs – Your Life in Plain Text](http://orgmode.org/)
+
+2018-10-17 15:26 [Emacs学习笔记(9):org-mode，最好的文档编辑利器，没有之一 - 心内求法 - 博客园](https://www.cnblogs.com/holbrook/archive/2012/04/12/2444992.html)
 
 
 
@@ -6022,6 +6106,12 @@
 
 2018-06-15 15:31 [玩转npm - 简书](https://www.jianshu.com/p/8a114304dd6e)
 
+2018-09-29 11:05 [npx: npm 5.2.0 内置的包执行器](https://zhuanlan.zhihu.com/p/27832595)
+
+2018-09-29 11:16 [npx命令介绍 - lxz - SegmentFault 思否](https://segmentfault.com/a/1190000012974903)
+
+2018-09-30 11:22 [写一个 npm cli](https://zhuanlan.zhihu.com/p/25249117)
+
 
 
 2016-08-16 09:05 [alinode - 基于Node运行时的应用性能管理解决方案](http://alinode.aliyun.com/)
@@ -6461,6 +6551,12 @@
 2018-08-31 18:05 [Nodejs进阶：readline实现日志分析+简易命令行工具 - 腾讯Web前端 IMWeb 团队社区 | blog | 团队博客](http://imweb.io/topic/5963a26ee5017dd2121d2c1f)
 
 2018-08-31 18:06 [在 node.js 中解析大型日志文件逐行读取_node.js_帮酷编程问答](https://ask.helplib.com/node.js/post_12210769)
+
+2018-09-20 10:06 [整理 node-sass 安装失败的原因及解决办法 - 个人文章 - SegmentFault 思否](https://segmentfault.com/a/1190000010984731)
+
+2018-09-21 17:56 [使用Node.js实现文件流转存服务 - Div.IO](https://div.io/topic/1930)
+
+2018-09-30 17:28 [Node.js的事件轮询Event Loop原理解释 -解道Jdon](https://www.jdon.com/idea/nodejs/event-loop.html)
 
 ####  Other 
 
@@ -6960,6 +7056,8 @@
 
 2018-06-14 14:44 [apache url rewrite 的RewriteRule参数详解 - 北京流浪儿 - 博客园](https://www.cnblogs.com/gide/p/4287698.html)
 
+2018-10-24 15:13 [apache的虚拟域名rewrite配置以及.htaccess的使用。 - 作业部落 Cmd Markdown 编辑阅读器](https://www.zybuluo.com/phper/note/73726)
+
 
 
 2017-02-14 10:19 [WAMP中httpd.exe报0xc000007b应用程序错误 - 邹邹的博客 - 博客频道 - CSDN.NET](http://blog.csdn.net/yxwmzouzou/article/details/43938121)
@@ -7074,6 +7172,10 @@
 
 2018-04-26 16:30 [Linux下查看文件内容的命令 - 梨璐2012 - 博客园](https://www.cnblogs.com/luying--lulu/p/5314963.html)
 
+2018-10-16 15:27 [Istio微服务架构初试 - ericnie - 博客园](https://www.cnblogs.com/ericnie/p/7919017.html)
+
+2018-10-23 15:34 [FaaS，未来的后端服务开发之道 - 简书](https://www.jianshu.com/p/6e86c42f85bd)
+
 ####  SVN 
 
 2014-04-13 02:36 [VisualSVN Server的配置和使用方法 图文_win服务器_脚本之家](http://www.jb51.net/article/17365.htm)
@@ -7141,6 +7243,8 @@
 2016-11-30 08:49 [国外设计欣赏网站-DOOOOR.com](http://www.doooor.com/)
 
 2018-06-08 16:09 [Flatty Shadow图标自动产生器——在线生成各种扁平化 ICON | 爱上分享](https://www.isharebest.com/flattyshadow.htm)
+
+2018-09-21 18:00 [Unsplash Source | A Simple API for Embedding Free Photos from Unsplash](https://source.unsplash.com/)
 
 ####  UML 
 
@@ -7677,6 +7781,26 @@
 #####  JMeter 
 
 2018-07-10 10:32 [Web接口测试工具--Jmeter - 虫师 - 博客园](https://www.cnblogs.com/fnng/p/5827577.html)
+
+
+
+####  WebDesktop 
+
+2018-09-19 10:09 [Web Desktop](https://webdesktop.net/)
+
+2018-09-19 10:13 [WebDesktop⋅ᵇⁱᶻ | Business Software | The Online Operating System](https://www.webdesktop.biz/)
+
+2018-09-19 10:30 [HoorayOS - WEB桌面应用框架](http://www.hoorayos.com/)
+
+2018-09-29 10:09 [基于浏览器的Linux - CSDN博客](https://blog.csdn.net/ce123_zhouwei/article/details/6868461)
+
+2018-09-29 09:56 [技术|基于 JavaScript 的操作系统你听说过吗？](https://linux.cn/article-6931-1.html)
+
+2018-09-29 10:10 [10个基于云计算的Web操作系统-CSDN.NET](https://www.csdn.net/article/1970-01-01/277293)
+
+2018-09-29 10:14 [年度盘点:十大基于云计算的Web操作系统_云计算产业趋势-中关村在线](http://cloud.zol.com.cn/254/2544244.html)
+
+2018-09-29 11:09 [eyeOS - 维基百科](https://en.wikipedia.org/wiki/EyeOS)
 
 
 
