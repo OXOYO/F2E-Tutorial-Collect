@@ -400,6 +400,12 @@
 
 2018-06-15 15:31 [玩转npm - 简书](https://www.jianshu.com/p/8a114304dd6e)
 
+2018-09-29 11:05 [npx: npm 5.2.0 内置的包执行器](https://zhuanlan.zhihu.com/p/27832595)
+
+2018-09-29 11:16 [npx命令介绍 - lxz - SegmentFault 思否](https://segmentfault.com/a/1190000012974903)
+
+2018-09-30 11:22 [写一个 npm cli](https://zhuanlan.zhihu.com/p/25249117)
+
 
 
 2016-08-16 09:05 [alinode - 基于Node运行时的应用性能管理解决方案](http://alinode.aliyun.com/)
@@ -839,4 +845,10 @@
 2018-08-31 18:05 [Nodejs进阶：readline实现日志分析+简易命令行工具 - 腾讯Web前端 IMWeb 团队社区 | blog | 团队博客](http://imweb.io/topic/5963a26ee5017dd2121d2c1f)
 
 2018-08-31 18:06 [在 node.js 中解析大型日志文件逐行读取_node.js_帮酷编程问答](https://ask.helplib.com/node.js/post_12210769)
+
+2018-09-20 10:06 [整理 node-sass 安装失败的原因及解决办法 - 个人文章 - SegmentFault 思否](https://segmentfault.com/a/1190000010984731)
+
+2018-09-21 17:56 [使用Node.js实现文件流转存服务 - Div.IO](https://div.io/topic/1930)
+
+2018-09-30 17:28 [Node.js的事件轮询Event Loop原理解释 -解道Jdon](https://www.jdon.com/idea/nodejs/event-loop.html)
 
