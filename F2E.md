@@ -202,6 +202,10 @@
 
 2018-08-15 16:39 [Google Chrome商店开发者认证支付$5【图解认证支付成功】 - 快乐每一天 - ITeye博客](http://qiaolevip.iteye.com/blog/2258627)
 
+2018-10-12 11:18 [javascript – 查看Chrome控制台是否已打开 - 代码日志](https://codeday.me/bug/20170716/37432.html)
+
+2018-10-12 11:19 [检测 F12 控制台是否开启 | Japari Park](https://ahaochan.github.io/posts/Check_whether_the_F12_console_is_turned_on.html)
+
 
 
 2015-12-14 14:28 [前端开发面试题 - weakish - SegmentFault](http://segmentfault.com/a/1190000000465431)
@@ -241,6 +245,8 @@
 2018-02-26 15:01 [AlloyTeam|腾讯全端 AlloyTeam 团队](http://www.alloyteam.com/)
 
 2018-04-28 21:40 [混世魔王的技术博客](http://26836659.blogcn.com/)
+
+2018-09-05 16:32 [OXXO.STUDIO](https://www.oxxostudio.tw/)
 
 
 
@@ -331,6 +337,10 @@
 2018-03-20 16:19 [A Collection of Section Separators](https://tympanus.net/Development/SectionSeparators/)
 
 2018-03-20 16:29 [Proto.io - Prototypes that feel real](https://proto.io/)
+
+2018-09-06 13:36 [设计导航 - 精选最好的设计网站大全](http://hao.shejidaren.com/)
+
+2018-09-19 14:28 [网页设计常用色彩搭配表 - 配色表 | 小影的工具箱](https://tool.c7sky.com/webcolor/)
 
 
 
