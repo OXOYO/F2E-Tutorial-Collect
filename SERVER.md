@@ -140,6 +140,8 @@
 
 2018-06-14 14:44 [apache url rewrite 的RewriteRule参数详解 - 北京流浪儿 - 博客园](https://www.cnblogs.com/gide/p/4287698.html)
 
+2018-10-24 15:13 [apache的虚拟域名rewrite配置以及.htaccess的使用。 - 作业部落 Cmd Markdown 编辑阅读器](https://www.zybuluo.com/phper/note/73726)
+
 
 
 2017-02-14 10:19 [WAMP中httpd.exe报0xc000007b应用程序错误 - 邹邹的博客 - 博客频道 - CSDN.NET](http://blog.csdn.net/yxwmzouzou/article/details/43938121)
@@ -253,4 +255,8 @@
 
 
 2018-04-26 16:30 [Linux下查看文件内容的命令 - 梨璐2012 - 博客园](https://www.cnblogs.com/luying--lulu/p/5314963.html)
+
+2018-10-16 15:27 [Istio微服务架构初试 - ericnie - 博客园](https://www.cnblogs.com/ericnie/p/7919017.html)
+
+2018-10-23 15:34 [FaaS，未来的后端服务开发之道 - 简书](https://www.jianshu.com/p/6e86c42f85bd)
 
