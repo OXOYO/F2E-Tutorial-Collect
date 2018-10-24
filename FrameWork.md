@@ -1462,6 +1462,10 @@
 
 2018-08-16 16:56 [vue项目优化--服务端渲染优化 - zangse的博客 - SegmentFault 思否](https://segmentfault.com/a/1190000013241193)
 
+2018-09-30 17:42 [vue 双向数据绑定实现原理 - 前端 - 掘金](https://juejin.im/entry/59116fa6a0bb9f0058aaaa4c)
+
+2018-10-10 15:56 [vue 解决循环引用组件报错 - lx_1024的博客 - CSDN博客](https://blog.csdn.net/lx_1024/article/details/79260657)
+
 #####  Elm 
 
 2016-03-28 19:30 [Elm](http://elm-lang.org/)
