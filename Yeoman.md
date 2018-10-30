@@ -1,4 +1,4 @@
-# Yeoman
+###  Yeoman
 
 2015-03-24 11:02 [AngularJS：在Windows上安装Yeoman - 天上的神明与星辰，人间的艺术和真纯，我们所敬畏和热爱的，莫过于此。 - ITeye技术网站](http://damoqiongqiu.iteye.com/blog/1885371)
 
@@ -16,7 +16,25 @@
 
 2015-03-24 17:37 [为什么选择 Yeoman 及 Yeoman 的安装_郑雁_新浪博客](http://blog.sina.com.cn/s/blog_761dcfc60101dii0.html)
 
-#####  bower 
+2015-03-24 17:38 [Yeoman 学习笔记 - 植宁 - 博客园](http://www.cnblogs.com/zhining/p/3308277.html)
+
+2015-03-25 10:20 [Yeoman gifsicle error (and others) - Stack Overflow](http://stackoverflow.com/questions/21814592/yeoman-gifsicle-error-and-others?answertab=votes#tab-top)
+
+2015-03-28 20:21 [The web's scaffolding tool for modern webapps | Yeoman](http://yeoman.io/)
+
+2015-06-19 11:36 [Downloads](http://rubyinstaller.org/downloads/)
+
+2015-06-19 11:53 [RubyGems 镜像 - 淘宝网](http://ruby.taobao.org/)
+
+2015-06-19 14:06 [如何处理CSS3属性前缀 - 推酷](http://www.tuicool.com/articles/BRv2Ebn)
+
+2015-06-19 14:11 [Autoprefixer：浏览器厂商前缀的后处理程序 - 资源 - 伯乐在线](http://hao.jobbole.com/autoprefixer/)
+
+2015-06-19 14:12 [Autoprefixer (@autoprefixer) | Twitter](https://twitter.com/autoprefixer)
+
+2017-03-20 14:04 [FIS3 - 前端工程构建工具](http://fis.baidu.com/)
+
+#####  bower
 
 2015-03-24 17:37 [bower的安装与使用 | 张迪的blog](http://www.storagelab.org.cn/zhangdi/2014/06/11/bower%E7%9A%84%E5%AE%89%E8%A3%85%E4%B8%8E%E4%BD%BF%E7%94%A8/)
 
@@ -44,11 +62,7 @@
 
 
 
-2015-03-24 17:38 [Yeoman 学习笔记 - 植宁 - 博客园](http://www.cnblogs.com/zhining/p/3308277.html)
-
-2015-03-25 10:20 [Yeoman gifsicle error (and others) - Stack Overflow](http://stackoverflow.com/questions/21814592/yeoman-gifsicle-error-and-others?answertab=votes#tab-top)
-
-#####  Grunt 
+#####  Grunt
 
 2015-01-23 08:56 [Grunt: JavaScript世界的构建工具 -- Grunt中文网](http://www.gruntjs.net/)
 
@@ -72,7 +86,37 @@
 
 2015-03-25 15:30 [编写可维护的 Gruntfile.js - 推酷](http://www.tuicool.com/articles/yABV73)
 
-######  插件 
+2015-03-25 18:06 [Grunt: The JavaScript Task Runner](http://gruntjs.com/)
+
+2015-03-26 14:52 [load-grunt-tasks出错 | 慕课网](http://www.imooc.com/qadetail/65092)
+
+2015-03-27 15:57 [Grunt之添加文件监视：Grunt-watch (已备份) - PunCha (PCH) - 博客频道 - CSDN.NET](http://blog.csdn.net/puncha/article/details/12172891)
+
+2015-03-27 15:57 [gruntjs开发实例 - Javascript教程_JS教程_技术文章 - 红黑联盟](http://www.2cto.com/kf/201502/374540.html)
+
+2015-04-01 17:25 [Grunt使用入门（一） - leohxj的个人空间 - 开源中国社区](http://my.oschina.net/leohxj/blog/132788)
+
+2015-04-01 17:25 [gruntjs/grunt-init-gruntfile](https://github.com/gruntjs/grunt-init-gruntfile)
+
+2015-04-01 17:53 [grunt默认只允许localhost和访问，如何设置外部IP地_Java123社区](http://www.java123.net/v/985805.html)
+
+2015-06-05 15:27 [Grunt教程——Gurnt任务的配置 | css3教程-css3实例-css3动画 | W3CPlus](http://www.w3cplus.com/tools/grunt-tutorial-configuring-tasks.html)
+
+2015-06-11 11:42 [npm](https://www.npmjs.com/)
+
+2015-06-26 17:31 [详解grunt打包工具中的copy配置之flatten_月夜天霜_新浪博客](http://blog.sina.com.cn/s/blog_79c02b6b0102v03e.html)
+
+2015-06-26 20:48 [Grunt配置文件编写技巧及示范 - 轩枫阁 – 前端开发 | web前端技术博客](http://www.xuanfengge.com/grunt-profile-writing-tips-and-demonstrations-2.html)
+
+2015-07-22 10:08 [入门指南--grunt学习笔记（1） - CSDN博客](http://m.blog.csdn.net/blog/larrywangsun/27428093)
+
+2015-08-12 14:13 [grunt-rev 和 grunt-usemin 替换静态资源 url 的配置 - SegmentFault](http://segmentfault.com/a/1190000000442070)
+
+2015-10-29 09:37 [用 grunt-contrib-connect 构建实时预览开发环境 | 隔叶黄莺 Unmi Blog - 软件编程实践](http://unmi.cc/blog/2014/04/30/grunt-contrib-connect-build-livereload-dev-env/)
+
+2015-11-05 17:37 [Grunt的wiredep任务的配置说明文档 - 姜丝的博客 - 博客频道 - CSDN.NET](http://blog.csdn.net/itpinpai/article/details/48269825)
+
+######  插件
 
 2015-03-25 15:59 [Grunt插件五grunt-contrib-copy参数和使用 - 前端开发工程师小V的技术博客](http://www.xv90.com/post-115.html)
 
@@ -118,43 +162,13 @@
 
 
 
-2015-03-25 18:06 [Grunt: The JavaScript Task Runner](http://gruntjs.com/)
-
-2015-03-26 14:52 [load-grunt-tasks出错 | 慕课网](http://www.imooc.com/qadetail/65092)
-
-2015-03-27 15:57 [Grunt之添加文件监视：Grunt-watch (已备份) - PunCha (PCH) - 博客频道 - CSDN.NET](http://blog.csdn.net/puncha/article/details/12172891)
-
-2015-03-27 15:57 [gruntjs开发实例 - Javascript教程_JS教程_技术文章 - 红黑联盟](http://www.2cto.com/kf/201502/374540.html)
-
-2015-04-01 17:25 [Grunt使用入门（一） - leohxj的个人空间 - 开源中国社区](http://my.oschina.net/leohxj/blog/132788)
-
-2015-04-01 17:25 [gruntjs/grunt-init-gruntfile](https://github.com/gruntjs/grunt-init-gruntfile)
-
-2015-04-01 17:53 [grunt默认只允许localhost和访问，如何设置外部IP地_Java123社区](http://www.java123.net/v/985805.html)
-
-2015-06-05 15:27 [Grunt教程——Gurnt任务的配置 | css3教程-css3实例-css3动画 | W3CPlus](http://www.w3cplus.com/tools/grunt-tutorial-configuring-tasks.html)
-
-2015-06-11 11:42 [npm](https://www.npmjs.com/)
-
-2015-06-26 17:31 [详解grunt打包工具中的copy配置之flatten_月夜天霜_新浪博客](http://blog.sina.com.cn/s/blog_79c02b6b0102v03e.html)
-
-2015-06-26 20:48 [Grunt配置文件编写技巧及示范 - 轩枫阁 – 前端开发 | web前端技术博客](http://www.xuanfengge.com/grunt-profile-writing-tips-and-demonstrations-2.html)
-
-2015-07-22 10:08 [入门指南--grunt学习笔记（1） - CSDN博客](http://m.blog.csdn.net/blog/larrywangsun/27428093)
-
-2015-08-12 14:13 [grunt-rev 和 grunt-usemin 替换静态资源 url 的配置 - SegmentFault](http://segmentfault.com/a/1190000000442070)
-
-2015-10-29 09:37 [用 grunt-contrib-connect 构建实时预览开发环境 | 隔叶黄莺 Unmi Blog - 软件编程实践](http://unmi.cc/blog/2014/04/30/grunt-contrib-connect-build-livereload-dev-env/)
-
-2015-11-05 17:37 [Grunt的wiredep任务的配置说明文档 - 姜丝的博客 - 博客频道 - CSDN.NET](http://blog.csdn.net/itpinpai/article/details/48269825)
-
-#####  Jenkins 
+#####  Jenkins
 
 2015-02-27 11:33 [Jenkins_百度百科](http://baike.baidu.com/link?url=wT9vMRm8CBEny5rP9wBaFJOPut5yGVLRjwfm7i0ds0gNW0sIdfewOc9ar4qEcXSc5aYA7GNLiieApfMTRN3LPK)
 
 
 
-#####  Mocha 
+#####  Mocha
 
 2015-03-25 15:37 [Mocha - 一个功能丰富运行在Node.js和浏览器中的JavaScript测试框架 - OPEN 开发经验库](http://www.open-open.com/lib/view/open1337910447324.html)
 
@@ -174,9 +188,7 @@
 
 
 
-2015-03-28 20:21 [The web's scaffolding tool for modern webapps | Yeoman](http://yeoman.io/)
-
-#####  gulp 
+#####  gulp
 
 2015-03-30 15:16 [gulp API文档 - gulp.js 中文文档 | gulp.js 中文网](http://www.bootcss.com/gulpjs/docs/api/)
 
@@ -228,26 +240,6 @@
 
 2016-01-12 10:51 [gulp插件gulp-usemin简单使用 - 推酷](http://www.tuicool.com/articles/AzqA3uE)
 
-######  插件 
-
-2016-01-12 15:20 [gulp-useref](https://www.npmjs.com/package/gulp-useref)
-
-2016-01-12 16:16 [gulp-json-minify](https://www.npmjs.com/package/gulp-json-minify/)
-
-2016-01-12 17:27 [一点 | gulp教程之gulp-rev-append](http://www.ydcss.com/archives/49)
-
-2016-01-12 17:28 [一点 | gulp教程之gulp-imagemin](http://www.ydcss.com/archives/26)
-
-2016-01-12 17:30 [generator-gulp-webapp/asset-revisioning.md at master · yeoman/generator-gulp-webapp](https://github.com/yeoman/generator-gulp-webapp/blob/master/docs/recipes/asset-revisioning.md)
-
-2016-01-12 17:30 [What method can add a version number at the back of the file? · Issue #131 · jonkemp/gulp-useref](https://github.com/jonkemp/gulp-useref/issues/131)
-
-2016-01-16 15:11 [gulp-svn](https://www.npmjs.com/package/gulp-svn)
-
-2016-01-19 20:51 [teambition/gulp-sequence: Run a series of gulp tasks in order](https://github.com/teambition/gulp-sequence)
-
-
-
 2016-01-12 15:20 [gulp下静态资源的合并、压缩、MD5后缀 - 牧童 - ITeye技术网站](http://mutongwu.iteye.com/blog/2208607)
 
 2016-01-12 15:31 [使用requirejs时怎么解决文件版号和增量更新的问题 - CNode技术社区](https://cnodejs.org/topic/54509502d0c2f0fe2f53393d)
@@ -268,23 +260,33 @@
 
 2017-09-28 09:53 [EsLint入门 - RyanRuan - 博客园](http://www.cnblogs.com/ruanyifeng/p/5283708.html)
 
-2015-06-19 11:36 [Downloads](http://rubyinstaller.org/downloads/)
+######  插件
 
-#####  gem 
+2016-01-12 15:20 [gulp-useref](https://www.npmjs.com/package/gulp-useref)
+
+2016-01-12 16:16 [gulp-json-minify](https://www.npmjs.com/package/gulp-json-minify/)
+
+2016-01-12 17:27 [一点 | gulp教程之gulp-rev-append](http://www.ydcss.com/archives/49)
+
+2016-01-12 17:28 [一点 | gulp教程之gulp-imagemin](http://www.ydcss.com/archives/26)
+
+2016-01-12 17:30 [generator-gulp-webapp/asset-revisioning.md at master · yeoman/generator-gulp-webapp](https://github.com/yeoman/generator-gulp-webapp/blob/master/docs/recipes/asset-revisioning.md)
+
+2016-01-12 17:30 [What method can add a version number at the back of the file? · Issue #131 · jonkemp/gulp-useref](https://github.com/jonkemp/gulp-useref/issues/131)
+
+2016-01-16 15:11 [gulp-svn](https://www.npmjs.com/package/gulp-svn)
+
+2016-01-19 20:51 [teambition/gulp-sequence: Run a series of gulp tasks in order](https://github.com/teambition/gulp-sequence)
+
+
+
+#####  gem
 
 2015-06-19 11:53 [CocoaPods安装与简单使用 - 星仁 - 博客园 - 推酷](http://www.tuicool.com/articles/7vUnay)
 
 
 
-2015-06-19 11:53 [RubyGems 镜像 - 淘宝网](http://ruby.taobao.org/)
-
-2015-06-19 14:06 [如何处理CSS3属性前缀 - 推酷](http://www.tuicool.com/articles/BRv2Ebn)
-
-2015-06-19 14:11 [Autoprefixer：浏览器厂商前缀的后处理程序 - 资源 - 伯乐在线](http://hao.jobbole.com/autoprefixer/)
-
-2015-06-19 14:12 [Autoprefixer (@autoprefixer) | Twitter](https://twitter.com/autoprefixer)
-
-#####  webpack 
+#####  webpack
 
 2015-09-14 11:40 [list of loaders](http://webpack.github.io/docs/list-of-loaders.html)
 
@@ -348,7 +350,7 @@
 
 
 
-#####  yo 
+#####  yo
 
 2015-09-28 17:40 [30天web实践3-yeoman - SegmentFault](http://segmentfault.com/a/1190000000656748)
 
@@ -358,7 +360,7 @@
 
 
 
-#####  browsersync 
+#####  browsersync
 
 2016-03-15 11:04 [Browsersync - Time-saving synchronised browser testing](https://www.browsersync.io/)
 
@@ -366,7 +368,7 @@
 
 
 
-#####  yarn 
+#####  yarn
 
 2017-02-22 12:07 [yarn - 一个可能取代npm的新型包管理器[Facebook出品，附带中文使用教程] - CRPER - 博客频道 - CSDN.NET](http://blog.csdn.net/crper/article/details/52796305)
 
@@ -384,9 +386,7 @@
 
 
 
-2017-03-20 14:04 [FIS3 - 前端工程构建工具](http://fis.baidu.com/)
-
-#####  Travis Ci 
+#####  Travis Ci
 
 2017-09-08 09:19 [Travis Ci的最接底气的中文使用教程 - 简书](http://www.jianshu.com/p/8308b8f08de9)
 
@@ -408,19 +408,19 @@
 
 
 
-#####  Codecov 
+#####  Codecov
 
 2017-11-01 15:37 [集成测试覆盖率工具 codecov - 简书](http://www.jianshu.com/p/146c4769d4b1)
 
 
 
-#####  Rollup 
+#####  Rollup
 
 2018-03-14 22:10 [https://rollupjs.org/guide/en](https://rollupjs.org/guide/en)
 
 
 
-#####  Parcel 
+#####  Parcel
 
 2018-03-14 22:11 [📦 Parcel 中文网](http://www.parceljs.io/)
 
@@ -428,7 +428,7 @@
 
 
 
-#####  JMeter 
+#####  JMeter
 
 2018-07-10 10:32 [Web接口测试工具--Jmeter - 虫师 - 博客园](https://www.cnblogs.com/fnng/p/5827577.html)
 
