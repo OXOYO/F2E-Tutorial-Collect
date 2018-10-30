@@ -1,4 +1,4 @@
-# PHP
+###  PHP
 
 2013-01-17 23:00 [phpcms v9类别调用方法 - phpcms-帮助教程 - phpcms论坛](http://bbs.phpcms.cn/thread-243656-1-1.html)
 
@@ -52,7 +52,69 @@
 
 2017-02-14 15:36 [Windows下安装使用curl命令_百度经验](http://jingyan.baidu.com/article/a681b0dec4c67a3b1943467c.html)
 
-#####  composer 
+2017-02-20 16:41 [PHP AJAX JSONP实现跨域请求使用实例 - 神马和浮云 - 博客园](http://www.cnblogs.com/xcxc/p/3729660.html)
+
+2017-02-22 11:14 [自动生成表单的Form类 - 小竹zz - 博客频道 - CSDN.NET](http://blog.csdn.net/zhujunxxxxx/article/details/15238535)
+
+2017-03-03 10:36 [Apache的Order Allow,Deny 详解 - 与时俱进 - 博客园](http://www.cnblogs.com/top5/archive/2009/09/22/1571709.html)
+
+2017-03-10 10:29 [Apache多虚拟主机多版本PHP（5.2+5.3+5.4）共存运行配置全过程 - Eller](https://my.oschina.net/u/2366984/blog/543148?p={{page}})
+
+2017-03-10 10:29 [部署两套apache-httpd，php不同版本，添加php模块 - zhuchunyan_aijia的博客 - 博客频道 - CSDN.NET](http://blog.csdn.net/zhuchunyan_aijia/article/details/54375394)
+
+2017-03-27 13:46 [PHP5.2至5.6的新增功能详解 - 老彭的博客](http://pengbotao.cn/php5-upgrading.html)
+
+2017-03-27 14:46 [PDO方法与常量_纠结的大肥猫_新浪博客](http://blog.sina.com.cn/s/blog_8b8586b90101et5w.html)
+
+2017-03-29 17:22 [PHP如何把函数通过参数传递 - 开源中国社区](http://www.oschina.net/question/1029305_115257)
+
+2017-05-16 14:20 [wampserver安装错误 应用程序无法正常启动0xc000007b解决方法，wamp0xc000007b_PHP教程 | 帮客之家](http://www.bkjia.com/PHPjc/1195347.html)
+
+2017-05-17 16:03 [php示例代码之类似于C#中的String.Format方法 - 来自非洲大草原的食人虎 - 博客园](http://www.cnblogs.com/yql1986/archive/2011/08/01/2123618.html)
+
+2017-05-18 13:37 [PHP 中比较 true 和 false 的问题 - 追求卓越 - 博客频道 - CSDN.NET](http://blog.csdn.net/kevin6899/article/details/8156337)
+
+2017-05-19 09:26 [PHP Tokenizer 学习笔记 - 無標題文檔](https://www.gracecode.com/posts/2966.html)
+
+2017-05-25 11:06 [Access-Control-Allow-Origin 跨域设置多域名 - 简书](http://www.jianshu.com/p/b587dd1b7086)
+
+2017-05-25 11:06 [ajax 设置Access-Control-Allow-Origin实现跨域访问 - 傲雪星枫 - 博客频道 - CSDN.NET](http://blog.csdn.net/fdipzone/article/details/46390573/)
+
+2017-05-31 15:40 [PHP 中获取当前时间[Datetime Now] - 码不能停 - 博客园](http://www.cnblogs.com/flowerszhong/p/5313794.html)
+
+2017-05-31 18:19 [PHP中拼接sql(insert、update、replace)语句的三种方式 - sunway888的专栏 - 博客频道 - CSDN.NET](http://blog.csdn.net/sunway888/article/details/41257363)
+
+2017-06-05 17:56 [CURL常用命令 - 张贺 - 博客园](http://www.cnblogs.com/gbyukg/p/3326825.html)
+
+2017-06-06 15:42 [php之curl实现http与https请求的方法_php技巧_脚本之家](http://www.jb51.net/article/56492.htm)
+
+2017-06-06 15:43 [php curl用法_专题_脚本之家](http://www.jb51.net/Special/66.htm)
+
+2017-06-06 15:43 [Linux中Curl命令couldn't connect to host解决方案 php操作Curl（http,https）无法获取远程数据解决方案 - “鸟叔“手擒大数据 - 博客频道 - CSDN.NET](http://blog.csdn.net/abang888/article/details/30249009)
+
+2017-06-06 15:44 [详解PHP fsockopen的使用方法 - 51CTO.COM](http://developer.51cto.com/art/200912/166333.htm)
+
+2017-06-20 16:06 [PHP中时区设置的三种方法(timezone) - 推酷](http://www.tuicool.com/articles/UFruA3M)
+
+2017-06-20 17:44 [各操作系统下php.ini文件的位置在哪里 - SpeedBoy007的专栏 - 博客频道 - CSDN.NET](http://blog.csdn.net/meegomeego/article/details/25704645)
+
+2017-06-20 18:13 [Fatal error: Class 'XMLWriter' not found in Classes_高伟_新浪博客](http://blog.sina.com.cn/s/blog_8261811d0101qum4.html)
+
+2017-06-20 18:14 [记录PHP错误日志 display_errors与log_errors的区别_php技巧_脚本之家](http://www.jb51.net/article/31499.htm)
+
+2017-06-20 18:16 [php获取当前域名、主机、URL、端口、参数、网址、路径、代理等 - NiceGY - 博客频道 - CSDN.NET](http://blog.csdn.net/phpfenghuo/article/details/45269347)
+
+2017-06-20 18:16 [PHP $_SERVER详解_php技巧_脚本之家](http://www.jb51.net/article/17108.htm)
+
+2017-06-22 15:13 [解决PHP之 Allowed memory size of xxx bytes exhausted - ewili的专栏 - 博客频道 - CSDN.NET](http://blog.csdn.net/ewili/article/details/8034199)
+
+2017-11-21 10:59 [php版DES - 调调儿 - 博客园](https://www.cnblogs.com/weberypf/p/5228257.html)
+
+2018-03-19 17:59 [高性能的PHP框架 - Phalcon Framework](https://phalconphp.com/zh/)
+
+2018-06-04 14:32 [为什么要刷新一下才能获取cookie - xiebruce - 博客园](https://www.cnblogs.com/xiedie/p/4162414.html)
+
+#####  composer
 
 2017-02-14 15:43 [Packagist / Composer 中国全量镜像](https://pkg.phpcomposer.com/)
 
@@ -70,7 +132,7 @@
 
 
 
-#####  Slim 
+#####  Slim
 
 2017-02-14 15:56 [使用slim3快速开发RESTful API_PHP教程_网络编程_码蚁之家](http://www.codes51.com/article/detail_254116_2.html)
 
@@ -98,23 +160,7 @@
 
 
 
-2017-02-20 16:41 [PHP AJAX JSONP实现跨域请求使用实例 - 神马和浮云 - 博客园](http://www.cnblogs.com/xcxc/p/3729660.html)
-
-2017-02-22 11:14 [自动生成表单的Form类 - 小竹zz - 博客频道 - CSDN.NET](http://blog.csdn.net/zhujunxxxxx/article/details/15238535)
-
-2017-03-03 10:36 [Apache的Order Allow,Deny 详解 - 与时俱进 - 博客园](http://www.cnblogs.com/top5/archive/2009/09/22/1571709.html)
-
-2017-03-10 10:29 [Apache多虚拟主机多版本PHP（5.2+5.3+5.4）共存运行配置全过程 - Eller](https://my.oschina.net/u/2366984/blog/543148?p={{page}})
-
-2017-03-10 10:29 [部署两套apache-httpd，php不同版本，添加php模块 - zhuchunyan_aijia的博客 - 博客频道 - CSDN.NET](http://blog.csdn.net/zhuchunyan_aijia/article/details/54375394)
-
-2017-03-27 13:46 [PHP5.2至5.6的新增功能详解 - 老彭的博客](http://pengbotao.cn/php5-upgrading.html)
-
-2017-03-27 14:46 [PDO方法与常量_纠结的大肥猫_新浪博客](http://blog.sina.com.cn/s/blog_8b8586b90101et5w.html)
-
-2017-03-29 17:22 [PHP如何把函数通过参数传递 - 开源中国社区](http://www.oschina.net/question/1029305_115257)
-
-#####  CAS 单点登录 
+#####  CAS 单点登录
 
 2017-05-15 09:40 [jasig CAS 实现单点登录 - java、php客户端登录实现 - べ袽猓柯苡づ - 博客园](http://www.cnblogs.com/rgky/p/5687096.html?utm_source=itdadao&utm_medium=referral)
 
@@ -134,13 +180,7 @@
 
 
 
-2017-05-16 14:20 [wampserver安装错误 应用程序无法正常启动0xc000007b解决方法，wamp0xc000007b_PHP教程 | 帮客之家](http://www.bkjia.com/PHPjc/1195347.html)
-
-2017-05-17 16:03 [php示例代码之类似于C#中的String.Format方法 - 来自非洲大草原的食人虎 - 博客园](http://www.cnblogs.com/yql1986/archive/2011/08/01/2123618.html)
-
-2017-05-18 13:37 [PHP 中比较 true 和 false 的问题 - 追求卓越 - 博客频道 - CSDN.NET](http://blog.csdn.net/kevin6899/article/details/8156337)
-
-#####  token 
+#####  token
 
 2017-05-19 09:15 [php token的生成 - 不解凡忧 - 博客园](http://www.cnblogs.com/bjfy/p/5909690.html)
 
@@ -150,27 +190,7 @@
 
 
 
-2017-05-19 09:26 [PHP Tokenizer 学习笔记 - 無標題文檔](https://www.gracecode.com/posts/2966.html)
-
-2017-05-25 11:06 [Access-Control-Allow-Origin 跨域设置多域名 - 简书](http://www.jianshu.com/p/b587dd1b7086)
-
-2017-05-25 11:06 [ajax 设置Access-Control-Allow-Origin实现跨域访问 - 傲雪星枫 - 博客频道 - CSDN.NET](http://blog.csdn.net/fdipzone/article/details/46390573/)
-
-2017-05-31 15:40 [PHP 中获取当前时间[Datetime Now] - 码不能停 - 博客园](http://www.cnblogs.com/flowerszhong/p/5313794.html)
-
-2017-05-31 18:19 [PHP中拼接sql(insert、update、replace)语句的三种方式 - sunway888的专栏 - 博客频道 - CSDN.NET](http://blog.csdn.net/sunway888/article/details/41257363)
-
-2017-06-05 17:56 [CURL常用命令 - 张贺 - 博客园](http://www.cnblogs.com/gbyukg/p/3326825.html)
-
-2017-06-06 15:42 [php之curl实现http与https请求的方法_php技巧_脚本之家](http://www.jb51.net/article/56492.htm)
-
-2017-06-06 15:43 [php curl用法_专题_脚本之家](http://www.jb51.net/Special/66.htm)
-
-2017-06-06 15:43 [Linux中Curl命令couldn't connect to host解决方案 php操作Curl（http,https）无法获取远程数据解决方案 - “鸟叔“手擒大数据 - 博客频道 - CSDN.NET](http://blog.csdn.net/abang888/article/details/30249009)
-
-2017-06-06 15:44 [详解PHP fsockopen的使用方法 - 51CTO.COM](http://developer.51cto.com/art/200912/166333.htm)
-
-#####  导出Excel 
+#####  导出Excel
 
 2017-06-20 10:48 [php工具类——导出excel - Leesire的专栏 - 博客频道 - CSDN.NET](http://blog.csdn.net/lee_sire/article/details/49804141)
 
@@ -183,24 +203,4 @@
 2017-06-20 18:16 [phpexcel来做表格导出（多个工作sheet） - wensongyu - 博客园](http://www.cnblogs.com/yuwensong/p/3771787.html)
 
 
-
-2017-06-20 16:06 [PHP中时区设置的三种方法(timezone) - 推酷](http://www.tuicool.com/articles/UFruA3M)
-
-2017-06-20 17:44 [各操作系统下php.ini文件的位置在哪里 - SpeedBoy007的专栏 - 博客频道 - CSDN.NET](http://blog.csdn.net/meegomeego/article/details/25704645)
-
-2017-06-20 18:13 [Fatal error: Class 'XMLWriter' not found in Classes_高伟_新浪博客](http://blog.sina.com.cn/s/blog_8261811d0101qum4.html)
-
-2017-06-20 18:14 [记录PHP错误日志 display_errors与log_errors的区别_php技巧_脚本之家](http://www.jb51.net/article/31499.htm)
-
-2017-06-20 18:16 [php获取当前域名、主机、URL、端口、参数、网址、路径、代理等 - NiceGY - 博客频道 - CSDN.NET](http://blog.csdn.net/phpfenghuo/article/details/45269347)
-
-2017-06-20 18:16 [PHP $_SERVER详解_php技巧_脚本之家](http://www.jb51.net/article/17108.htm)
-
-2017-06-22 15:13 [解决PHP之 Allowed memory size of xxx bytes exhausted - ewili的专栏 - 博客频道 - CSDN.NET](http://blog.csdn.net/ewili/article/details/8034199)
-
-2017-11-21 10:59 [php版DES - 调调儿 - 博客园](https://www.cnblogs.com/weberypf/p/5228257.html)
-
-2018-03-19 17:59 [高性能的PHP框架 - Phalcon Framework](https://phalconphp.com/zh/)
-
-2018-06-04 14:32 [为什么要刷新一下才能获取cookie - xiebruce - 博客园](https://www.cnblogs.com/xiedie/p/4162414.html)
 
