@@ -1,6 +1,8 @@
-# IDE
+###  IDE
 
-#####  Webstorm 
+2017-11-09 15:11 [Android studio如何使用SVN进行版本控制？ - 知乎](https://www.zhihu.com/question/32298079)
+
+#####  Webstorm
 
 2015-03-03 10:11 [前端开发利器webStorm 3.0配置使用 - 豪情 - 博客园](http://www.cnblogs.com/jikey/archive/2012/01/16/2323590.html)
 
@@ -104,7 +106,7 @@
 
 
 
-#####  Eclipse 
+#####  Eclipse
 
 2015-01-23 10:29 [eclipse下安装js插件-spket(支持Ext) 能格式化Js（JQuery自动提示） - Andy - ITeye技术网站](http://small-ant.iteye.com/blog/1393397)
 
@@ -128,7 +130,7 @@
 
 
 
-#####  Notepad++ 
+#####  Notepad++
 
 2015-05-29 14:04 [Notepad++插件Python Script和Emmet的安装 | 秋水逸冰](http://teddysun.com/254.html)
 
@@ -136,7 +138,7 @@
 
 
 
-#####  ATOM 
+#####  ATOM
 
 2015-12-05 12:33 [Atom](https://atom.io/)
 
@@ -174,7 +176,7 @@
 
 
 
-#####  Ace 
+#####  Ace
 
 2016-09-06 10:55 [Ace 基于Web的代码编辑器 - 新闻 - SegmentFault](https://segmentfault.com/a/1190000000357634)
 
@@ -182,13 +184,13 @@
 
 
 
-#####  Brackets 
+#####  Brackets
 
 2016-09-13 17:03 [Brackets - A modern, open source code editor that understands web design.](http://brackets.io/)
 
 
 
-#####  Visual Studio 
+#####  Visual Studio
 
 2016-09-23 13:59 [VS快捷键大全](http://sanwen8.cn/p/114IrRz.html)
 
@@ -204,7 +206,7 @@
 
 
 
-#####  Rider Eap 
+#####  Rider Eap
 
 2016-09-23 14:12 [Project Rider 内测版的体验如何？ - 千里冰封的回答 - 知乎](https://www.zhihu.com/question/41204312/answer/98218460)
 
@@ -212,7 +214,7 @@
 
 
 
-#####  Phpstorm 
+#####  Phpstorm
 
 2017-02-13 16:49 [windows环境phpstorm调试环境搭建 - ikscher的专栏 - 博客频道 - CSDN.NET](http://blog.csdn.net/ikscher/article/details/43672365)
 
@@ -220,13 +222,11 @@
 
 
 
-#####  DataGrip 
+#####  DataGrip
 
 2017-02-17 10:41 [idea DataGrip 使用图解教程 - 靖远小和尚 - 博客园](http://www.cnblogs.com/xbgfy/p/5725538.html)
 
 2017-02-17 10:57 [DataGrip使用入门-常用操作（三） - Kodulf的专栏 - 博客频道 - CSDN.NET](http://blog.csdn.net/rodulf/article/details/53144917)
 
 
-
-2017-11-09 15:11 [Android studio如何使用SVN进行版本控制？ - 知乎](https://www.zhihu.com/question/32298079)
 
