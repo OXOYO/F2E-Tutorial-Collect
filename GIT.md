@@ -218,6 +218,8 @@
 
 2018-04-19 21:18 [docsify：一个神奇的文档生成工具_Helloweba](https://www.helloweba.net/javascript/502.html)
 
+2018-11-16 16:43 [如何在一周之内获得GitHub stars 3500+ —为什么这是如此的重要 - 全栈笔录 - ITeye博客](http://570109268.iteye.com/blog/2409224)
+
 ######  Themes
 
 2016-05-27 09:27 [laobubu/jekyll-theme-EasyBook: Another Jekyll Blog Theme &quot;EasyBook&quot;](https://github.com/laobubu/jekyll-theme-EasyBook)
