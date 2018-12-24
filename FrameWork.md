@@ -1220,7 +1220,7 @@
 
 2016-09-08 09:57 [vue项目实践（vuex + vue-router + vue-resource） - 南洋前端 - SegmentFault](https://segmentfault.com/a/1190000006747096)
 
-2016-09-12 15:52 [bhnddowinf/vuejs-learn: (vue.js official website tutorials ，contains video , codes, baudi yun, youtube) 网路上有很多 VUE 综合应用的视频，但大部份的视频 ，都当你已经了解官网 所以讲的节奏难免偏快。 此视频(都是上代码)，以官网为重，将官网的观念，以视频搭配代码，实际演示。 如果官网有看不懂的地方，比对一下，视频跟代码，就会了解了。 减少你摸索的时间。(註：mvvm 的框架，不管是 ng , react, vue, avalonjs, 都是好的框架，而有经验的前端，至少都会两套以上的 mvvm。)](https://github.com/bhnddowinf/vuejs-learn)
+2016-09-12 15:52 [bhnddowinf/vuejs-learn: (vue.js official website tutorials ，contains video , codes, baudi yun, youtube) 网路上有很多 VUE 综合应用的视频，但大部份的视频 ，都当你已经了解官网 所以讲的节奏难免偏快。 此视频(都](https://github.com/bhnddowinf/vuejs-learn)
 
 2016-09-12 15:54 [Vuejs 1.0 系列教程](https://laravist.com/series/vue-js-1-0-in-action-series)
 
@@ -1533,6 +1533,16 @@
 #####  Electron
 
 2016-05-13 22:46 [Electron](http://electron.atom.io/)
+
+2018-11-01 14:19 [Electron-vue开发实战1——Main进程和Renderer进程的简单开发 - 掘金](https://juejin.im/post/5a5ebb94f265da3e32458205#heading-2)
+
+2018-11-01 16:43 [win7下nsis打包exe安装程序教程 - sean的专栏 - CSDN博客](https://blog.csdn.net/arvin0/article/details/56482370)
+
+2018-11-01 17:22 [NSIS 打包脚本基础 - 云+社区 - 腾讯云](https://cloud.tencent.com/developer/article/1014436)
+
+2018-11-02 18:22 [nsNiuniuSkin，最专业的NSIS+Duilib安装包界面插件。](http://ggniu.cn/articles/nsniuniuskin.html)
+
+2018-11-05 16:57 [NSIS教程(1): 基础语法 - Deep in Windows - CSDN博客](https://blog.csdn.net/china_jeffery/article/details/79095060)
 
 
 
