@@ -108,6 +108,10 @@
 
 2018-08-24 11:04 [Nginx中配置https做反向代理 - 知识林 - CSDN博客](https://blog.csdn.net/zsl129/article/details/54664508)
 
+2018-12-08 14:58 [Ajax跨域、Json跨域、Socket跨域和Canvas跨域等同源策略限制的解决方法 - freshlover的专栏 - CSDN博客](https://blog.csdn.net/freshlover/article/details/44223467)
+
+2018-12-20 18:22 [linux（centos）系统下nginx 服务器重启，关闭的命令-php程序员的笔记](http://www.phpernote.com/linux/1211.html)
+
 
 
 #####  Vagrant
@@ -209,6 +213,30 @@
 2017-03-17 18:06 [centos6.5下使用yum完美搭建LNMP环境(php5.6)_linux教程_开发教程_最模板](http://www.zuimoban.com/jiaocheng/linux/7128.html)
 
 2017-03-17 18:06 [yum安装php，php-fpm - 惊涛随笔 - 博客园](http://www.cnblogs.com/jtnote/p/6118741.html)
+
+2018-12-18 16:31 [Linuxyum源切换阿里云软件源 - jimisun - 博客园](https://www.cnblogs.com/jimisun/p/8174655.html)
+
+2018-12-18 16:49 [yum报错： You could try using --skip-broken to work around the problem - 思想的芦苇 - 博客园](https://www.cnblogs.com/crystal-yee/p/4896968.html)
+
+2018-12-18 17:28 [centos 编译 chrome 踩坑之旅 - 扫文资讯](https://hk.saowen.com/a/fa13ead9f226de7d089a75fc4f56c77e836c43d7317b4fced023af6d133b448e)
+
+2018-12-19 14:05 [分享Centos6.5升级glibc过程 - CNode技术社区](https://cnodejs.org/topic/56dc21f1502596633dc2c3dc)
+
+2018-12-19 17:05 [在CentOS 7上安装Node.js的4种方法（包含npm） - 经典草根Blog - CSDN博客](https://blog.csdn.net/xuaa/article/details/52262586)
+
+2018-12-20 14:04 [查看CentOS版本方法 - 酷玩时刻 - 博客园](https://www.cnblogs.com/zyw-205520/p/4900689.html)
+
+2018-12-20 14:58 [CentOS 7.0下使用yum安装MySQL - 个人文章 - SegmentFault 思否](https://segmentfault.com/a/1190000015216149)
+
+2018-12-20 15:25 [centos yum 安装mysql5.7 以及 默认root密码查看 - zhangzhen894095789 - 博客园](https://www.cnblogs.com/zhangzhen894095789/p/6624510.html)
+
+2018-12-20 16:32 [mysql 5.7 root密码重置(centos 7) - 简书](https://www.jianshu.com/p/5cad576e5270)
+
+2018-12-20 17:40 [CentOS 7下Apache的安装 - 简书](https://www.jianshu.com/p/5b8903709e66)
+
+2018-12-21 15:18 [centos7 上安装mysql5.7后登录报错ERROR 1045 (28000): Access denied for user 'root'@'localhost' (using pas - keepd的博客 - CSDN博客](https://blog.csdn.net/keepd/article/details/77151006)
+
+2018-12-24 10:49 [如何在Linux系统上安装字体 - Linux大神博客](https://www.linuxdashen.com/%E5%A6%82%E4%BD%95%E5%9C%A8linux%E7%B3%BB%E7%BB%9F%E4%B8%8A%E5%AE%89%E8%A3%85%E5%AD%97%E4%BD%93part-1)
 
 
 
