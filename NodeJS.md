@@ -252,6 +252,8 @@
 
 2018-10-26 15:50 [跟着老司机玩转Node命令行 | Aotu.io「凹凸实验室」](https://aotu.io/notes/2016/08/09/command-line-development/index.html)
 
+2018-11-06 10:07 [Node 调试工具入门教程 - 阮一峰的网络日志](http://www.ruanyifeng.com/blog/2018/03/node-debugger.html)
+
 #####  Express框架
 
 2015-04-15 17:14 [Nodejs初阶之express - 聂微东 - 博客园](http://www.cnblogs.com/Darren_code/p/node_express.html)
@@ -436,6 +438,8 @@
 
 2016-04-14 18:14 [PhantomJS快速入门教程 - 推酷](http://www.tuicool.com/articles/beeMNj/)
 
+2018-12-18 09:18 [Related Projects | PhantomJS](http://phantomjs.org/related-projects.html)
+
 
 
 #####  模板引擎
@@ -562,6 +566,8 @@
 
 2018-09-30 11:22 [写一个 npm cli](https://zhuanlan.zhihu.com/p/25249117)
 
+2018-11-12 10:02 [关于npm audit fix - 奋斗的小绿萝 - CSDN博客](https://blog.csdn.net/weixin_40817115/article/details/81007774)
+
 
 
 #####  JSON Server
@@ -662,6 +668,10 @@
 
 2018-05-15 15:20 [koa2 async和await 实战详解 - 简书](https://www.jianshu.com/p/f8cfb82b4dad)
 
+2018-11-30 14:51 [koa2 使用 koa-body 代替 koa-bodyparser 和 koa-multer - Postbird - 招猫逗狗的开发者](http://www.ptbird.cn/koa-body.html)
+
+2018-11-30 17:38 [Koa2 之文件上传下载 - 掘金](https://juejin.im/post/5abc451ff265da23a2292dd4)
+
 
 
 #####  npmcdn
@@ -749,6 +759,20 @@
 #####  Puppeteer
 
 2018-03-01 16:36 [爬虫利器 Puppeteer 实战 - CNode技术社区](https://cnodejs.org/topic/5a4d8d2299d207fa49f5cbbc)
+
+2018-12-17 17:01 [使用puppeteer截图及线上问题调试 - 知乎](https://zhuanlan.zhihu.com/p/29442105)
+
+2018-12-18 15:48 [CentOS6.5-64位安装puppeteer，提示Chrome无法启动，查找并安装缺失依赖包——吕江民·敬上 - 个人文章 - SegmentFault 思否](https://segmentfault.com/a/1190000015802337)
+
+2018-12-18 15:48 [部署 puppeteer 到 centos 上的常见问题 - 简书](https://www.jianshu.com/p/163d355d2454)
+
+2018-12-18 16:10 [centos 编译 chrome 踩坑之旅 - 中二的wilson](http://blog.wils0n.cn/archives/171/)
+
+2018-12-19 16:36 [使用Puppeteer图像识别技术如何实现百度指数爬虫-PHP中文网](http://m.php.cn/article/400953.html)
+
+2018-12-21 15:16 [Puppeteer v1.11.0](https://zhaoqize.github.io/puppeteer-api-zh_CN/#/)
+
+2018-12-24 10:41 [phantomjs 抓取、截图中文网站乱码的问题的解决 - kaosini的专栏 - CSDN博客](https://blog.csdn.net/kaosini/article/details/47252457)
 
 
 
