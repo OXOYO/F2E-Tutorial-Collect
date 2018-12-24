@@ -16,5 +16,11 @@
 
 2018-09-29 11:09 [eyeOS - 维基百科](https://en.wikipedia.org/wiki/EyeOS)
 
+2018-11-13 16:08 [welfear的博客:注册表原理浅析 - 哲思](http://www.zeuux.com/blog/content/994/)
+
+2018-11-13 16:09 [windows注册表详解 - xin_yu_xin的专栏 - CSDN博客](https://blog.csdn.net/xin_yu_xin/article/details/46940457)
+
+2018-11-13 16:09 [windows注册表解析说明 - 爱养花的码农 - 博客园](https://www.cnblogs.com/wfq9330/p/9176654.html)
+
 
 
