@@ -500,6 +500,10 @@
 
 2018-01-12 11:13 [解决Javascript中$(window).resize()多次执行 - 水狼一族 - 博客园](https://www.cnblogs.com/shuilangyizu/p/6816756.html)
 
+2018-01-15 22:36 [使用html2canvas实现浏览器截图 - 焰尾迭 - 博客园](https://www.cnblogs.com/yanweidie/p/5203943.html)
+
+2018-01-16 10:32 [移动端H5页面截图【含 domtoimage、html2canvas 】 - CSDN博客](http://blog.csdn.net/candy_home/article/details/78424642)
+
 2018-01-18 17:06 [JavaScript实现最简单的拖拽效果 « 张鑫旭-鑫空间-鑫生活](http://www.zhangxinxu.com/wordpress/2010/03/javascript%E5%AE%9E%E7%8E%B0%E6%9C%80%E7%AE%80%E5%8D%95%E7%9A%84%E6%8B%96%E6%8B%BD%E6%95%88%E6%9E%9C/)
 
 2018-01-18 21:57 [24行代码，让你的网页元素任意放大、缩小、拖拽、移动 - CSDN博客](http://blog.csdn.net/dqs78833488/article/details/51392833)
@@ -577,6 +581,18 @@
 2018-10-26 15:24 [JavaScript中的内存释放 - 简书](https://www.jianshu.com/p/3b7946c4b118)
 
 2018-10-26 15:24 [JavaScript 内存泄漏教程 - 阮一峰的网络日志](http://www.ruanyifeng.com/blog/2017/04/memory-leak.html)
+
+2018-11-09 16:50 [经验分享 | JavaScript反调试技巧 - FreeBuf互联网安全新媒体平台](https://www.freebuf.com/articles/system/163579.html?f=tt&hmsr=toutiao.io&utm_medium=toutiao.io&utm_source=toutiao.io)
+
+2018-11-12 17:13 [JavaScript Standard Style](https://standardjs.com/readme-zhcn.html)
+
+2018-11-15 14:17 [Js navigator.onLine 获取设备是否可以上网、连接网络 - 贝尔塔猫 - 博客园](https://www.cnblogs.com/CyLee/p/5899568.html)
+
+2018-11-20 09:52 [mailto: HTML e-mail 链接](https://www.haorooms.com/post/mailto_link_html)
+
+2018-11-22 12:01 [一行代码实现一个简单的模板字符串替换 - 微醺岁月 - SegmentFault 思否](https://segmentfault.com/a/1190000013516128)
+
+2018-11-30 12:46 [HTML5的 input:file上传类型控制](https://www.haorooms.com/post/input_file_leixing)
 
 #####  swiper滑动插件
 
@@ -1265,6 +1281,8 @@
 2018-01-16 10:32 [移动端H5页面截图【含 domtoimage、html2canvas 】 - CSDN博客](http://blog.csdn.net/candy_home/article/details/78424642)
 
 2018-08-22 10:57 [html2canvas库使用中出现的问题及解决方案 - CSDN博客](https://blog.csdn.net/SDUST_JSJ/article/details/78122610)
+
+2018-11-29 20:11 [基于html2canvas实现网页保存为图片及图片清晰度优化 - lihuang319的专栏 - CSDN博客](https://blog.csdn.net/lihuang319/article/details/81702201)
 
 
 
