@@ -2,429 +2,147 @@
 
 ###  书签栏
 
-####  工具
+####  HTML
 
-2015-08-28 09:54 [Modern.ie IE在线调试工具](http://dev.modern.ie/tools/vms/windows/)
+2013-10-23 22:01 [雅虎面试题-你真的了解HTML吗? - HTML / CSS 大家论坛](http://club.topsage.com/thread-2738399-1-1.html)
 
-2016-08-01 14:24 [【经验分享】如何在为虚拟机磁盘扩容后合并磁盘分区 - 论坛 - 华为企业互动社区](http://support.huawei.com/ecommunity/bbs/10216249.html)
+2013-10-23 22:02 [Web前端年后跳槽必看的各种面试题 - 51CTO.COM](http://developer.51cto.com/art/201202/314618.htm)
 
-2017-03-27 11:20 [CHM Viewer](http://chmviewer.com/)
+2013-10-23 22:02 [HTML5 Canvas Cheat Sheet - Nihilogic](http://blog.nihilogic.dk/2009/02/html5-canvas-cheat-sheet.html)
 
-2017-11-13 12:04 [svg to png - CloudConvert](https://cloudconvert.com/svg-to-png)
+2015-01-25 20:30 [Html5项目实战：我要地图项目 - CSDN学院 - CSDN.NET](http://edu.csdn.net/course/detail/332)
 
-2017-12-01 09:28 [ScreenToGif - Record your screen, edit and save as a Gif or video](http://www.screentogif.com/?l=zh_cn)
+2015-02-06 12:56 [网页头部的声明应该是用 lang=&quot;zh&quot; 还是 lang=&quot;zh-cn&quot;？ - 前端开发 - 知乎](http://www.zhihu.com/question/20797118?utm_source=weibo&utm_medium=weibo_share&utm_content=share_question&utm_campaign=share_sidebar)
 
-2018-05-08 15:51 [脚本之家在线工具](http://tools.jb51.net/)
+2015-02-06 13:03 [HTML中head头结构 - SegmentFault](http://segmentfault.com/blog/paddingme/1190000000697532)
 
-2018-09-30 11:12 [桌面应用|Translate Shell ：一款在 Linux 命令行中使用谷歌翻译的工具](https://linux.cn/article-9107-1.html)
+2015-03-05 11:41 [div+css自适应3列布局，两侧列定宽，中间宽度自适应 | 0101后花园](http://www.bbs0101.com/archives/42.html)
 
-#####  Fiddler
+2015-03-13 20:02 [Web标准设计中常用字体介绍及选用原则 _pc6资讯](http://www.pc6.com/infoview/Article_48624.html)
 
-2015-06-26 20:47 [Fiddler - 前端开发值得拥有 - 聂微东 - 博客园](http://www.cnblogs.com/Darren_code/archive/2011/09/28/Fiddler.html)
+2015-06-05 15:37 [HTTP 状态消息](http://www.w3school.com.cn/tags/html_ref_httpmessages.asp)
 
-2015-08-26 19:33 [【HTTP】Fiddler（三）- Fiddler命令行和HTTP断点调试 - 专注、专心 - 博客频道 - CSDN.NET](http://blog.csdn.net/ohmygirl/article/details/17855031)
+2015-07-21 18:13 [html标签语义化，原来div是这个意思啊！ | 微前端](http://www.vqianduan.com/802.html)
 
-2015-08-27 13:24 [关于 WEB/HTTP 调试利器 Fiddler 的一些技巧分享 - leejun_2005的个人页面 - 开源中国社区](http://my.oschina.net/leejun2005/blog/151103)
+2015-07-30 19:33 [在html页头设置不缓存 - 水之原 - 博客园](http://www.cnblogs.com/zfc2201/p/3425700.html)
 
-2015-08-27 13:36 [基于fiddler来模拟限速 -- 网络系统 -- IT技术博客大学习 -- 共学习 共进步！](http://blogread.cn/it/article/4540?f=wb)
+2015-09-16 18:16 [URL中“#” “？” &amp;“”号的作用 - jihite - 博客园](http://www.cnblogs.com/kaituorensheng/p/3776527.html#aa?bb=cc)
 
-2015-08-27 13:36 [Fiddler扩展:隐藏某些请求 - 紫云飞 - 博客园](http://www.cnblogs.com/ziyunfei/archive/2012/10/14/2723182.html)
+2016-08-29 14:43 [tabIndex属性 - 司徒正美 - 博客园](http://www.cnblogs.com/rubylouvre/archive/2009/12/07/1618182.html)
 
-2015-08-27 13:36 [Fiddler的高级用法-Fiddler Script « QQ浏览器HTML5技术分享](http://cube.qq.com/?p=973)
+2017-08-03 09:18 [code标签和pre标签 - 李宗辉 - 博客园](http://www.cnblogs.com/lizonghui/archive/2012/09/18/2692355.html)
 
-2015-08-27 13:38 [Fiddler2中文乱码问题 - 技术交流 - ITeye技术网站](http://thinktothings.iteye.com/blog/1139336)
+2018-04-27 16:08 [chrome表单自动填充去掉input黄色背景解决方案 - CSDN博客](https://blog.csdn.net/wangxiaohui6687/article/details/10149579)
 
-2015-08-27 13:44 [关于 WEB/HTTP 调试利器 Fiddler 的一些技巧分享 - leejun_2005的个人页面 - 开源中国社区](http://my.oschina.net/leejun2005/blog/151103#OSC_h4_3)
+2018-04-27 16:10 [解决谷歌浏览器中的input背景色默认是黄色 - 328201736 - 博客园](https://www.cnblogs.com/yjhua/p/5523447.html)
 
-2015-10-10 10:20 [Fiddler 高级用法：Fiddler Script 与 HTTP 断点调试 - leejun_2005的个人页面 - 开源中国社区](http://my.oschina.net/leejun2005/blog/399108)
+2018-04-27 22:56 [HTML阻止iframe跳转页面并使用iframe在页面内嵌微信网页版 - 饭勺oO - 博客园](https://www.cnblogs.com/fanshaoO/p/8244695.html)
 
-2015-12-17 13:16 [如何在 Mac 下使用 Fiddler - 推酷](http://www.tuicool.com/articles/y2muiq)
+2018-04-28 21:45 [混世魔王的技术博客 » 针对X-Frame-Options的突破与作弊研究](http://26836659.blogcn.com/articles/%E9%92%88%E5%AF%B9x-frame-options%E7%9A%84%E7%AA%81%E7%A0%B4%E4%B8%8E%E4%BD%9C%E5%BC%8A%E7%A0%94%E7%A9%B6.html)
 
-2015-12-17 13:53 [Mono - Fiddler](http://fiddler.wikidot.com/mono)
+2018-09-30 17:17 [使用localStorage必须了解的点 - 腾讯Web前端 IMWeb 团队社区 | blog | 团队博客](http://imweb.io/topic/5590a443fbb23aae3d5e450a)
 
-2017-09-04 14:18 [Fiddler在fiddler option设置还是抓不了HTTPS包解决办法_Legend_sight_新浪博客](http://blog.sina.com.cn/s/blog_13afdb2130102wy2w.html)
+#####  CANVAS
 
-2017-09-04 14:18 [三步解决fiddler升级后https无法通过证书验证问题 - 启 - CSDN博客](http://blog.csdn.net/wwdz_rwx/article/details/50396163)
+2015-01-16 16:48 [HTML5 Canvas 的事件处理 - HTML5开发 - 游戏开发者社区](http://bbs.9ria.com/thread-190079-1-1.html)
 
+2015-01-16 20:17 [玩转html5&lt;canvas&gt;画图 - TimeLangoliers - 博客园](http://www.cnblogs.com/tim-li/archive/2012/08/06/2580252.html#14)
 
+2015-01-16 20:18 [HTML5画布(Canvas)速查简表](http://www.webhek.com/misc/html5-canvas-cheat-sheet)
 
-#####  Rythem
+2015-01-19 22:15 [Html5 Canvas 变换矩阵与坐标变形之间的关系_回首_守住美好_百度空间](http://hi.baidu.com/100912bb_bb/item/90c4a7489518b0fa1281daf1)
 
-2015-12-17 13:16 [【AlloyTeam Web前端工具系列2】开源跨平台的Web抓包分析工具 Rythem (2012-09-19更新) | Web前端 腾讯AlloyTeam Blog | 愿景: 成为地球卓越的Web团队！](http://www.alloyteam.com/2012/05/web-front-end-tool-rythem-1/)
+2015-01-19 22:16 [玩转html5&lt;canvas&gt;画图 - TimeLangoliers - 博客园](http://www.cnblogs.com/tim-li/archive/2012/08/06/2580252.html#10)
 
+2015-01-19 22:27 [7 款基于 HTML5 Canvas 的超炫 3D 动画效果_IT新闻_博客园](http://news.cnblogs.com/n/164214/)
 
+2015-01-19 22:28 [Canvas API -- JavaScript 标准参考教程（alpha）](http://javascript.ruanyifeng.com/htmlapi/canvas.html)
 
-#####  Wireshark
+2015-01-19 22:28 [3D版HTML5模拟衣服撕扯动画DEMO演示](http://www.html5tricks.com/demo/3d-html5-cloth-tear/index.html)
 
-2015-12-17 13:53 [fiddler和wireshark工具介绍及对比 - catherine的心路历程 - 博客大巴](http://www.blogbus.com/wanping-logs/238827556.html)
+2015-01-19 22:28 [HTML5 Canvas阴影用法演示 - 流浪的鱼 - 博客频道 - CSDN.NET](http://blog.csdn.net/jia20003/article/details/9342701)
 
-2015-12-17 13:53 [一站式学习Wireshark（一）：Wireshark基本用法 - 博客 - 伯乐在线](http://blog.jobbole.com/70907/)
+2015-03-03 15:52 [图灵社区 : 阅读 : 使用JavaScript进行基本图形操作与处理](http://www.ituring.com.cn/article/121428)
 
-2015-12-17 13:53 [Wireshark · Download](https://www.wireshark.org/download.html)
+2015-05-29 17:43 [ZRender](http://ecomfe.github.io/zrender/)
 
+2016-08-26 17:10 [PixiJS v4](http://www.pixijs.com/)
 
+2017-05-19 14:53 [Canvas处理头像上传 - 作业部落 Cmd Markdown 编辑阅读器](https://www.zybuluo.com/lxjwlt/note/101343)
 
-#####  Everything
+2018-08-29 10:51 [解决 canvas 将图片转为base64报错: Uncaught DOMException:... - 简书](https://www.jianshu.com/p/6fe06667b748)
 
-2016-08-17 10:20 [Everything Search Engine](http://www.voidtools.com/)
+2018-11-27 17:14 [把网页导出为图片的两种方案以及其适用场景 - 知乎](https://zhuanlan.zhihu.com/p/33758432)
 
 
 
-#####  CoolFormat
+#####  H5
 
-2016-08-25 18:00 [CoolFormat源代码格式化工具 - 无幻 - 博客频道 - CSDN.NET](http://blog.csdn.net/akof1314/article/details/5355948/)
+2015-01-26 13:38 [HTML 5 Web 存储](http://www.w3school.com.cn/html5/html_5_webstorage.asp)
 
-2016-08-25 18:01 [akof1314/CoolFormat: CoolFormat Source Code Formatter](https://github.com/akof1314/CoolFormat)
+2015-02-04 15:44 [HTML5 Contact Form - 觉唯](http://www.jiawin.com/demos/685/index.html)
 
+2015-02-04 15:44 [html5配合css3实现带提示文字的输入框(摆脱js)_html5教程技巧_脚本之家](http://www.jb51.net/html5/74832.html)
 
+2015-04-14 14:36 [360安全浏览器_帮助](http://se.360.cn/v6/help/meta.html)
 
-#####  Trello
+2015-05-21 17:50 [HTML5 地理位置定位（HTML5 Geolocation）原理及应用 - 梦想天空（山边小溪） - 博客园](http://www.cnblogs.com/lhb25/archive/2012/07/10/html5-geolocation-api-demo.html)
 
-2016-11-30 13:47 [Trello](https://trello.com/)
+2015-05-22 10:03 [HTML5 地理定位详解（转载） - xuruoxin的专栏 - 博客频道 - CSDN.NET](http://blog.csdn.net/xuruoxin/article/details/9635439)
 
+2015-06-02 14:27 [WebKit最新特性srcset简介 - 51CTO.COM](http://developer.51cto.com/art/201309/410720.htm)
 
+2015-06-02 14:31 [WebKit Has Implemented srcset, And It's A Good Thing – Smashing Magazine](http://www.smashingmagazine.com/2013/08/21/webkit-implements-srcset-and-why-its-a-good-thing/)
 
-#####  Prometheus
+2015-06-02 14:31 [ResponsiveImages.org](http://responsiveimages.org/)
 
-2017-11-02 17:51 [使用Prometheus+Grafana监控MySQL实践 – 运维那点事](http://www.ywnds.com/?p=9656)
+2015-06-02 14:33 [响应式图片srcset全新释义sizes属性w描述符 « 张鑫旭-鑫空间-鑫生活](http://www.zhangxinxu.com/wordpress/2014/10/responsive-images-srcset-size-w-descriptor/)
 
-2017-11-02 17:52 [使用Prometheus和Grafana监控Mysql服务器性能 - icyfire - SegmentFault](https://segmentfault.com/a/1190000007040144)
+2015-06-23 09:29 [HTML5 LocalStorage 本地存储 - xiaowei0705 - 博客园](http://www.cnblogs.com/xiaowei0705/archive/2011/04/19/2021372.html)
 
+2015-06-23 10:52 [html5本地存储（localStorage）使用介绍 - 推酷](http://www.tuicool.com/articles/Y77J3m)
 
+2015-06-23 10:52 [HTML5 localStorage本地存储实际应用举例 « 张鑫旭-鑫空间-鑫生活](http://www.zhangxinxu.com/wordpress/2011/09/html5-localstorage%E6%9C%AC%E5%9C%B0%E5%AD%98%E5%82%A8%E5%AE%9E%E9%99%85%E5%BA%94%E7%94%A8%E4%B8%BE%E4%BE%8B/)
 
-####  积木
+2015-06-30 17:27 [Android webView 缓存 Cache + HTML5离线功能 解决 - 爱生活，爱编程 - 博客园](http://www.cnblogs.com/snake-hand/archive/2013/06/12/3133043.html)
 
-2018-05-25 10:30 [UC前端‘搭积木’的模块化开发——scrat.js - 前端旋风](https://my.oschina.net/luozt/blog/304111)
+2015-07-06 09:04 [HTML5本地存储——IndexedDB（一：基本使用） - Samaritans - 博客园](http://www.cnblogs.com/dolphinX/p/3415761.html)
 
-2018-05-25 10:30 [网络前端UI组件设计思想：去框架化、积木化 - CSDN博客](https://blog.csdn.net/tiangej/article/details/8882347?utm_source=tuicool)
+2015-07-24 12:11 [Learn HTML5, CSS3, Javascript - video style tutorials](http://thecodeplayer.com/)
 
+2015-07-24 13:31 [HTML5标签速查 - SegmentFault](http://segmentfault.com/a/1190000000438191)
 
+2015-08-08 19:08 [白鹭引擎 - Egret Engine-免费开源HTML5游戏引擎](http://www.egret.com/)
 
-####  区块链
+2015-08-11 18:52 [html5压缩图片并上传 - nd - 博客园](http://www.cnblogs.com/tylerdonet/p/4681070.html?utm_source=tuicool)
 
-2018-01-15 11:01 [一步步教你开发、部署第一个去中心化应用(Dapp) - 宠物商店 | 深入浅出区块链](https://learnblockchain.cn/2018/01/12/first-dapp/)
+2015-09-08 16:47 [HTML5如何判断浏览器是否支持audio和video元素_HTML5技术交流_HTML5论坛 - Powered by Discuz!](http://bbs.html5cn.org/thread-2577-1-14.html)
 
-2018-04-08 18:00 [脑钱包地址私钥遭破解，丢失50BTC?求大神指教 - 比特币论坛](http://8btc.com/thread-21189-1-1.html)
+2015-09-21 18:32 [翻译-你必须知道的28个HTML5特征、窍门和技术 « 张鑫旭-鑫空间-鑫生活](http://www.zhangxinxu.com/wordpress/2010/08/%E7%BF%BB%E8%AF%91-%E4%BD%A0%E5%BF%85%E9%A1%BB%E7%9F%A5%E9%81%93%E7%9A%8428%E4%B8%AAhtml5%E7%89%B9%E5%BE%81%E3%80%81%E7%AA%8D%E9%97%A8%E5%92%8C%E6%8A%80%E6%9C%AF/)
 
+2015-09-21 18:32 [HTML5自定义属性对象Dataset简介 « 张鑫旭-鑫空间-鑫生活](http://www.zhangxinxu.com/wordpress/2011/06/html5%E8%87%AA%E5%AE%9A%E4%B9%89%E5%B1%9E%E6%80%A7%E5%AF%B9%E8%B1%A1dataset%E7%AE%80%E4%BB%8B/)
 
+2016-01-20 11:27 [关于shortcut icon和icon代码的区别介绍_HTML/Xhtml_网页制作_脚本之家](http://www.jb51.net/web/44564.html)
 
-####  深度学习
+2016-01-20 11:56 [关于Apple设备私有的apple-touch-icon属性详解 - freshlover的专栏 - 博客频道 - CSDN.NET](http://blog.csdn.net/freshlover/article/details/9310437)
 
-2016-03-25 16:47 [图灵机器人－中文语境下智能度最高的机器人大脑 - Powered By TURING](http://www.tuling123.com/)
+2016-01-20 13:58 [常用meta整理 - Ciaocc - SegmentFault](http://segmentfault.com/a/1190000002407912)
 
-2016-04-14 14:20 [深度学习如何入门？ - 机器学习 - 知乎](http://www.zhihu.com/question/26006703)
+2016-03-23 15:36 [HTML5 Google电吉他 可用键盘弹奏 - 推酷](http://www.tuicool.com/articles/mYBVfy)
 
-2016-04-26 11:49 [TensorFlow -- an Open Source Software Library for Machine Intelligence](https://www.tensorflow.org/)
+2016-05-31 10:06 [HTML5就是现在：深入了解Polyfills - Tacey - 博客频道 - CSDN.NET](http://blog.csdn.net/wang16510/article/details/8960312)
 
-2016-08-12 13:01 [Lisp 中文社区](http://lisp.org.cn/)
+2016-09-01 16:55 [不同浏览器对于html5 audio标签和音频格式的兼容性 - 凌度 - 博客园](http://www.cnblogs.com/linn/p/3408515.html)
 
-2017-02-22 17:46 [使用pix2pix-tensorflow的交互式图象到图象翻译 - 推酷](http://www.tuicool.com/articles/UNfeIzV)
+2017-03-10 16:16 [H5实例教学--3D全景(ThreeJs全景Demo) - H5-Parser - SegmentFault](https://segmentfault.com/a/1190000008545795?utm_source=weekly&utm_medium=email&utm_campaign=email_weekly)
 
-2017-02-22 17:46 [Image-to-Image Demo - Affine Layer](http://affinelayer.com/pixsrv/index.html)
+2017-04-05 09:12 [HTML5 drag &amp; drop 拖拽与拖放简介 « 张鑫旭-鑫空间-鑫生活](http://www.zhangxinxu.com/wordpress/2011/02/html5-drag-drop-%E6%8B%96%E6%8B%BD%E4%B8%8E%E6%8B%96%E6%94%BE%E7%AE%80%E4%BB%8B/)
 
-2017-03-09 14:01 [为什么最近有很多名人，比如比尔盖茨，马斯克、霍金等，让人们警惕人工智能？ - 知乎专栏](https://zhuanlan.zhihu.com/p/19950456)
+2017-06-01 19:31 [简单了解HTML5中的Web Notification桌面通知 « 张鑫旭-鑫空间-鑫生活](http://www.zhangxinxu.com/wordpress/2016/07/know-html5-web-notification/)
 
-2017-06-13 17:45 [为什么Lisp语言如此先进？（译文） - 阮一峰的网络日志](http://www.ruanyifeng.com/blog/2010/10/why_lisp_is_superior.html)
+2017-09-18 16:57 [H5直播起航 | Aotu.io「凹凸实验室」](https://aotu.io/notes/2016/10/09/HTML5-SopCast/index.html)
 
-2017-10-19 10:53 [DeepMind](https://deepmind.com/)
-
-2017-10-27 08:42 [We bring robots to life - Hanson Robotics Ltd.](http://www.hansonrobotics.com/)
-
-2017-12-14 16:21 [TensorFlow中文社区-首页](http://www.tensorfly.cn/)
-
-2017-12-14 16:54 [这才是 TensorFlow 自带可视化工具 TensorBoard 的正确打开方式！（附项目源码） | 雷锋网](https://www.leiphone.com/news/201704/PgRxGpwtFpSgJoAZ.html)
-
-2018-03-08 17:41 [Dataguru炼数成金_中国顶尖专业数据分析门户网|专注于Hadoop培训及大数据、数据分析、数据库、编程技术、运维自动化等网络逆向培训](http://www.dataguru.cn/)
-
-2018-03-08 18:01 [TensorFlow|TensorFlow安装|TensorFlow教程|TensorFlow招聘|TensorFlow工作|TensorFlow培训|TensorFlow视频教程 - Powered by Discuz!](http://tensorflow123.com/forum.php)
-
-2018-03-15 11:13 [从机器学习谈起 - 计算机的潜意识 - 博客园](http://www.cnblogs.com/subconscious/p/4107357.html)
-
-2018-03-15 11:13 [神经网络浅讲：从神经元到深度学习 - 计算机的潜意识 - 博客园](http://www.cnblogs.com/subconscious/p/5058741.html)
-
-2018-03-19 17:20 [H2O.ai](https://www.h2o.ai/)
-
-2018-03-19 17:20 [面向Linux的十大开源人工智能工具_Linux新闻_Linux公社-Linux系统门户网站](https://www.linuxidc.com/Linux/2016-09/135564.htm)
-
-2018-03-21 10:03 [12 个免费的 Deep Learning 在线学习网站](https://zhuanlan.zhihu.com/p/26501934)
-
-2018-09-21 14:34 [由“你好”引发的血案——调戏图灵机器人 - CSDN博客](https://blog.csdn.net/chenfei0328/article/details/70738117)
-
-2018-10-12 08:05 [聊天机器人API对比分析 - 作业部落 Cmd Markdown 编辑阅读器](https://www.zybuluo.com/liuhui0803/note/1134605)
-
-2018-10-12 08:06 [人工智能领域不同聊天机器人技术比较 | AI 人工智能 Robot 机器人](http://www.dxai.com/2017/02/21/comparison-of-different-chat-robots-in-the-field-of-artificial-intelligence/)
-
-#####  机器人学习
-
-2015-09-18 17:46 [斯坦福博士(生)手把手教你用Javascript写深度学习代码 - stereohomology - 博客频道 - CSDN.NET](http://blog.csdn.net/stereohomology/article/details/41116971)
-
-2015-09-18 17:46 [神经网络的JavaScript实现：ConvNetJS - OPEN 开发经验库](http://www.open-open.com/lib/view/open1415288845621.html)
-
-2015-09-18 17:46 [将机器学习带入Java与JavaScript等编程语言的五种方式 - 51CTO.COM](http://developer.51cto.com/art/201408/447493.htm)
-
-2015-09-18 17:46 [ConvNetJS测试，一个半小时跑3万张32*32_人工智能吧_百度贴吧](http://tieba.baidu.com/p/3536134311)
-
-2015-09-18 17:46 [ConvNetJS首页、文档和下载 - JavaScript 神经网络 - 开源中国社区](http://www.oschina.net/p/convnetjs)
-
-2015-09-18 17:48 [各种编程语言的深度学习库整理 - 今日头条(TouTiao.com)](http://toutiao.com/a6194728826781483266/)
-
-2015-09-18 18:20 [推荐！国外程序员整理的机器学习资源大全 | 程序师](http://www.techug.com/awesome-machine-learning)
-
-2017-04-27 15:41 [机器学习与人工智能技术分享 - 作业部落 Cmd Markdown 编辑阅读器](https://www.zybuluo.com/vivounicorn/note/446479)
-
-
-
-#####  Paddle
-
-2018-03-08 17:28 [PaddlePaddle - Documentation](http://www.paddlepaddle.org/docs/develop/documentation/zh/getstarted/index_cn.html)
-
-
-
-####  数学
-
-2015-09-15 16:08 [随记：我们需要怎样的数学教育？ | Matrix67: The Aha Moments](http://www.matrix67.com/blog/archives/4294)
-
-2015-09-15 16:08 [理解矩阵乘法 - 阮一峰的网络日志](http://www.ruanyifeng.com/blog/2015/09/matrix-multiplication.html)
-
-
-
-####  算法
-
-2015-03-20 17:26 [【计算几何】线段相交 - 一点心青 - 博客园](http://www.cnblogs.com/dwdxdy/p/3230485.html)
-
-2015-03-20 17:27 [【计算几何】多边形交集 - 一点心青 - 博客园](http://www.cnblogs.com/dwdxdy/archive/2013/08/02/3232110.html)
-
-2015-03-23 13:37 [谈谈&quot;求线段交点&quot;的几种算法(js实现,完整版) - 大城小胖的大城 - ITeye技术网站](http://fins.iteye.com/blog/1522259)
-
-2015-03-23 18:36 [算法模板-判断线段相交（可求交点）_rapheal_Guo_新浪博客](http://blog.sina.com.cn/s/blog_625c774e0100hits.html)
-
-2015-03-23 18:36 [【计算几何】点在多边形内部 - 一点心青 - 博客园](http://www.cnblogs.com/dwdxdy/p/3230647.html)
-
-2017-02-15 08:44 [大数据算法-一个关注大数据算法在工业界应用的网站](http://x-algo.cn/)
-
-2017-04-13 09:35 [最短路算法 ：Bellman-ford算法 &amp; Dijkstra算法 &amp; floyd算法 &amp; SPFA算法 详解 - Mr。如夜 - - 推酷](http://www.tuicool.com/articles/YJzyee)
-
-2017-04-13 10:41 [js实现A*寻路算法 - huansky - 博客园](http://www.cnblogs.com/huansky/p/5572631.html)
-
-2017-04-14 15:07 [理解A*寻路算法具体过程 - Create Chen - 博客园](http://www.cnblogs.com/technology/archive/2011/05/26/2058842.html)
-
-2017-09-07 09:54 [我的算法学习之路 | Lucida](http://zh.lucida.me/blog/on-learning-algorithms/)
-
-#####  平滑曲线算法
-
-2015-03-02 14:30 [平滑曲线算法研究_summer_新浪博客](http://blog.sina.com.cn/s/blog_9de219560100yxqr.html)
-
-2015-03-02 14:30 [矢量曲线抽稀的实用算法和实现 - 大学课件 - 道客巴巴](http://www.doc88.com/p-651275003160.html)
-
-2015-03-02 14:30 [主曲线算法_互动百科](http://www.baike.com/wiki/%E4%B8%BB%E6%9B%B2%E7%BA%BF%E7%AE%97%E6%B3%95)
-
-2015-03-02 14:42 [超酷算法：用四叉树和希尔伯特曲线做空间索引 - 博客 - 伯乐在线](http://blog.jobbole.com/81106/)
-
-2015-03-02 14:42 [椭圆曲线算法_SEE视界_新浪博客](http://blog.sina.com.cn/s/blog_6e88ecd10101k8cd.html)
-
-2015-03-02 14:44 [矢量曲线抽稀算法分析 - 豆丁网](http://www.docin.com/p-478948638.html)
-
-2015-03-02 14:44 [抽稀_百度百科](http://baike.baidu.com/link?url=Ui7pCyzX9OLaS3f9Td2LFrXAQGqw3cEpdiHJSf9A9ZVayIo1R7FUABX-x0x4FxlkT90gnlXPp48CxKXYschUm_#2_2)
-
-2015-03-02 14:53 [贝塞尔曲线_百度百科](http://baike.baidu.com/link?url=YSgKBIaSknO1hYNMhCdSBpvph8i_KVyrYNJgf8266B8LRc-V7vfWyaPXnbYDfeBRrJBwvA8WWWhiOVUxgLnO-a)
-
-2015-03-02 15:24 [德卡斯特里奥算法（De Casteljau’s Algorithm）绘制贝塞尔曲线 - H!Techer - 博客频道 - CSDN.NET](http://blog.csdn.net/fioman/article/details/2578895)
-
-2015-03-02 15:24 [斐波那契数列_百度百科](http://baike.baidu.com/link?url=2J-mItmelp_vXAGX8OtuI3b2oNPAk63Te89lOO3EgkT4VJcOpNgsLqSRR4NJoboKEa88hGbzhwlPp1FtMJ327q)
-
-2015-03-02 15:48 [深度掌握SVG路径path的贝塞尔曲线指令 « 张鑫旭-鑫空间-鑫生活](http://www.zhangxinxu.com/wordpress/2014/06/deep-understand-svg-path-bezier-curves-command/)
-
-2015-03-02 16:06 [SVG矢量绘图 path路径详解（贝塞尔曲线及平滑） – Dx. Yang](http://xbingoz.com/194.html)
-
-2015-03-02 16:06 [贝塞尔曲线与CSS3动画、SVG和canvas的基情 « 张鑫旭-鑫空间-鑫生活](http://www.zhangxinxu.com/wordpress/2013/08/%E8%B4%9D%E5%A1%9E%E5%B0%94%E6%9B%B2%E7%BA%BF-cubic-bezier-css3%E5%8A%A8%E7%94%BB-svg-canvas/)
-
-2015-03-02 17:09 [用html5的canvas画布绘制贝塞尔曲线 - 计划 - 博客园](http://www.cnblogs.com/jihua/p/bseqx.html)
-
-2015-03-03 16:55 [n次贝塞尔曲线AS再现 - Flash技术 - 游戏开发者社区](http://bbs.9ria.com/thread-71904-1-1.html)
-
-2015-03-03 16:55 [路径 - SVG | MDN](https://developer.mozilla.org/zh-CN/docs/Web/SVG/Tutorial/Paths#Curve_commands)
-
-
-
-####  小程序
-
-#####  weui-wxss
-
-2017-10-29 17:41 [小程序基础篇之使用weui.wxss-微信小程序俱乐部 www.wxappclub.com](http://www.wxappclub.com/topic/583)
-
-
-
-####  应用号
-
-2016-09-22 18:28 [微信小程序(应用号)开发工具&amp;部分API&amp;项目demo放出](http://mp.weixin.qq.com/s?__biz=MzI0MTM0OTUwMg==&mid=2247483701&idx=1&sn=be7bd07d2d9745ef1ba31e68c115b293&chksm=e90da724de7a2e3237915faf0e47c4d7c1592258cfeb4e1170415634c1a4570079a37e2c8273&scene=1&srcid=0922034DnpUJbjqDiXxGoJcI#rd)
-
-
-
-####  优化
-
-2015-06-05 16:54 [Google官方网页载入速度检测工具PageSpeed Insights 使用教程 | DeveWork](http://devework.com/google-chrome-pagespeed-insights.html)
-
-2015-06-05 16:54 [seospeedscript.com](http://seospeedscript.com/)
-
-2015-06-05 16:51 [[转载]pagespeed 安装（chrome版和firefox版）_吴波_新浪博客](http://blog.sina.com.cn/s/blog_69482a9f0101740z.html)
-
-2015-06-05 16:47 [PageSpeed Tools | Google Developers](https://developers.google.com/speed/pagespeed/?csw=1)
-
-2015-06-05 16:35 [谷歌将关闭免费网站监测服务：PageSpeed - 站长之家](http://www.chinaz.com/web/2015/0507/404212.shtml)
-
-2015-06-05 16:58 [[转]Web性能监控自动化探索之路–初识WebPageTest - freeliver54 - 博客园](http://www.cnblogs.com/freeliver54/p/3336303.html)
-
-2015-06-05 17:06 [WebPageTest学习 - 那些过往 - 51Testing软件测试网 51Testing软件测试网-中国软件测试人的精神家园](http://www.51testing.com/html/29/447229-248613.html)
-
-2015-06-05 17:12 [Yslow&amp;PageSpeed– 诊断各种缓慢症状 - leejersey - 博客园](http://www.cnblogs.com/leejersey/p/3386549.html)
-
-2015-06-08 09:26 [PageSpeed Insights](https://developers.google.com/speed/pagespeed/insights/)
-
-2015-06-08 09:28 [Nginx下安装配置PageSpeed模块，轻松完成网站提速 | Linux运维笔记](https://blog.linuxeye.com/318.html)
-
-2015-06-08 09:57 [让网站访问速度飞起来（前端篇） - 性能,前端优化,web优化,访问速度 - web - ITeye论坛](http://www.iteye.com/topic/1122697)
-
-2015-07-02 09:33 [HTTP头的Expires与Cache-control - YuYii - 博客园](http://www.cnblogs.com/yuyii/archive/2008/10/16/1312238.html)
-
-2015-07-02 14:04 [缓存Cache详解 - 付潭 - 博客园](http://www.cnblogs.com/futan/archive/2013/04/21/cachehuancun.html)
-
-2015-07-06 17:48 [网站性能优化](http://www.bewxx.com/news/news_103.html)
-
-2015-07-23 16:58 [Web页面性能测试工具浅析 - higirle - 博客园](http://www.cnblogs.com/Jessy/archive/2013/09/29/3345688.html)
-
-2015-06-05 14:51 [前端性能优化的14个规则，学会就偷着乐经验技巧 - 前端网（W3Cfuns）](http://www.w3cfuns.com/article-1283-1.html)
-
-2015-08-07 20:26 [优化网站设计（十三）：配置ETags - 陈希章 - 博客园](http://www.cnblogs.com/chenxizhang/archive/2013/05/11/3072898.html)
-
-2015-08-10 13:37 [[HTML&amp;CSS3]HTML性能探究 | 学步园](http://www.xuebuyuan.com/2225096.html)
-
-2015-09-15 17:43 [H5性能优化方案 | @Get社区](http://get.jobdeer.com/8007.get)
-
-2015-09-24 18:06 [在Yslow 34 Rules之后 -- 网站性能优化思路和进展 - limu的砖篮儿 - ITeye技术网站](http://limu.iteye.com/blog/755628)
-
-2018-05-03 19:40 [使用window.performance分析web前端性能-shuizhongyue-51CTO博客](http://blog.51cto.com/shuizhongyue/1718327)
-
-2018-05-03 19:42 [前端优化-如何计算白屏和首屏时间-布布扣-bubuko.com](http://www.bubuko.com/infodetail-2265464.html)
-
-
-
-####  杂项
-
-2013-05-13 16:04 [河南地图网](http://www.hnditu.com/dt.aspx?mapn=410100)
-
-2013-06-07 15:23 [MySQL创建用户与授权_James' Daily Log_百度空间](http://hi.baidu.com/fwsocn/item/8b7b0c2102f2970976272c23)
-
-2013-07-11 16:52 [用谷歌浏览器调试手机WEB应用 - knless@126的日志 - 网易博客](http://blog.163.com/knless@126/blog/static/1642586422012429113343175/)
-
-2013-07-14 22:27 [DUI-heatmap Finland 2012 | Utvecklingsbloggen](http://utveckling.ylebloggen.fi/2013/03/21/dui-heatmap-finland-2012/)
-
-2013-07-14 22:27 [Triposo Blog: Green world](http://blog.triposo.com/2013/03/green-world.html)
-
-2013-07-14 22:27 [Real-time Service Area for Electramedics](http://www.nearbynow.co/profile/electrician/electramedics)
-
-2013-07-16 17:25 [Zepto.js: the aerogel-weight jQuery-compatible JavaScript library](http://zeptojs.com/)
-
-2013-08-07 13:29 [php+swftools+flexpaper实现在线PDF阅读(中) | Yuyu的技术blog | 写有质量的技术博客!](http://www.phperblog.net/?p=601)
-
-2013-08-07 13:30 [flexpaper 参数说明 - 开始学](http://www.kaishixue.com/php/10.html)
-
-2013-08-07 13:30 [Flexpaper学习笔记整理_百度文库](http://wenku.baidu.com/view/541e553483c4bb4cf7ecd1bd.html)
-
-2013-08-07 13:30 [仿百度文库解决方案（六）——利用FlexPaper显示Flash（SWF） - 肖恩也有梦想 - 博客园](http://www.cnblogs.com/luckyxiaoxuan/archive/2012/06/16/2551677.html)
-
-2013-08-07 13:30 [利用FlexPaper实现Word、PPT、PDF在线浏览 - php mysql 足迹 - ITeye技术网站](http://say0507.iteye.com/blog/994849)
-
-2013-08-07 13:30 [SWFTOOLS](http://swftools.org/)
-
-2013-08-07 13:30 [FlexPaper - Documentation](http://flexpaper.devaldi.com/docs_publishing_with_PHP.jsp)
-
- [Simditor](http://simditor.tower.im/)
-
- [Simditor：简单快速的开源富文本编辑器 - 前端开发 文本工具 - LUPA开源社区](http://www.lupaworld.com/article-238553-1.html)
-
- [Awwwards - Website Awards - Best Web Design Trends](http://www.awwwards.com/)
-
- [weex暴走青年的自频道](http://i.youku.com/u/UNDEzMDY2NjI0MA==/videos)
-
-2017-02-23 16:50 [域名背后的真相，一个黑产团伙的沦陷 - FreeBuf.COM | 关注黑客与极客](http://www.freebuf.com/articles/terminal/127228.html)
-
-2018-09-29 14:38 [hotJar 数据 - 简书](https://www.jianshu.com/p/fb7dc9502ed2)
-
-2018-09-29 14:38 [Hotjar - Heatmaps, Visitor Recordings, Conversion Funnels, Form Analytics, Feedback Polls and Surveys in One Platform](https://www.hotjar.com/home1?utm_expid=.Oc6FtaP7QbSvjs-nBQ7z0w.1&utm_referrer=https%3A%2F%2Fwww.baidu.com%2Flink%3Furl%3DFFaARBRZJdwzI3xlEEMpiz4CxqbsJl_4uGkIOWYrfMm%26wd%3D%26eqid%3Daf8566470001ae61000000025baf1d1b)
-
-2018-09-29 14:38 [Hotjar在架构演进中总结的8条经验_性能与架构_传送门](http://chuansong.me/n/365878851543)
-
-2018-09-29 14:43 [mixpanel可视化埋点源码分析01-项目功能介绍 - 简书](https://www.jianshu.com/p/59b86cbbab55)
-
-2018-09-29 14:45 [美团点评前端无痕埋点实践 -](https://tech.meituan.com/mt_mobile_analytics_practice.html)
-
-2018-09-29 14:46 [无埋点实现监测的真相——革新还是噱头？ - 云+社区 - 腾讯云](https://cloud.tencent.com/developer/article/1049439)
-
-2018-09-29 17:42 [如何翻译一本外文书 - 宋净超的博客|Developer Advocate on Cloud Native|jimmysong.io](https://jimmysong.io/posts/how-to-translate-a-book/)
-
-2018-09-29 17:52 [程序员必备的效率工具-Egret社区-第三方工具-白鹭引擎-Egret Engine-免费开源HTML5游戏引擎 - Powered by Discuz!](http://bbs.egret.com/thread-31485-1-1.html)
-
-2018-09-29 18:01 [如何翻译一本外文书 - 宋净超的博客|Developer Advocate on Cloud Native|jimmysong.io](https://jimmysong.io/posts/how-to-translate-a-book/#1-%E5%88%86%E6%9E%90%E5%8E%9F%E7%89%88%E5%8E%8B%E7%BC%A9%E5%8C%85%E7%9A%84%E7%BB%93%E6%9E%84)
-
-
-
-####  ASP.NET
-
-2016-11-23 17:00 [ASP.NET中读取XML文件4种方法 - xwdreamer的专栏 - 博客频道 - CSDN.NET](http://blog.csdn.net/xw13106209/article/details/6367865)
-
-2016-12-02 16:06 [【笔记】【VSCode】Windows下VSCode编译调试c/c++ - cathy_mu - 博客园](http://www.cnblogs.com/CATHY-MU/p/5888579.html)
-
-
-
-####  BigData
-
-2017-02-22 10:33 [大数据架构师：hadoop、Storm该选哪一个？-Hadoop大数据架构-about云开发](http://www.aboutyun.com/thread-6858-1-1.html)
-
-2017-02-22 10:34 [《Storm入门》中文版 | 并发编程网 – ifeve.com](http://ifeve.com/getting-started-with-stom-index/)
-
-2017-09-21 10:39 [Druid 在小米公司的技术实践 - 知乎专栏](https://zhuanlan.zhihu.com/p/25593670)
-
-
-
-####  Blog
-
-2015-03-25 11:18 [jekyll_百度百科](http://baike.baidu.com/link?url=ORyhLbLLxlb-7l1gjAvMwYC0gcRgdy-O7NxRFsSGKfq9A8lQSi7s8VyNi38mfnTq2g0e72_e2u48IC2QHG4orK)
-
-2015-03-25 11:18 [textile_百度百科](http://baike.baidu.com/view/2373265.htm)
-
-
-
-####  CoolSite
-
-2018-03-21 10:15 [“Hello World”大全](http://netsmell.com/apps/helloworldcollection/)
-
-2018-03-21 10:18 [Convertio — 文件转换器](https://convertio.co/zh/)
-
-2018-03-21 10:18 [TinyPNG – Compress PNG images while preserving transparency](https://tinypng.com/)
-
-2018-03-21 10:27 [Rainy Mood - Helps you to focus, relax, and sleep. Now available for iOS and Android](http://www.rainymood.com/)
-
-2018-03-21 10:31 [Chrome Experiments](https://experiments.withgoogle.com/chrome)
-
-2018-03-21 10:35 [AutoDraw](https://www.autodraw.com/)
-
-2018-03-21 10:35 [deepart.io - become a digital artist](https://deepart.io/)
-
-2018-03-21 10:38 [WordArt.com - Word Art Creator](https://wordart.com/)
-
-2018-03-21 10:42 [Silk – Interactive Generative Art](http://weavesilk.com/)
-
-2018-03-21 10:51 [NEO Hacker Typer](http://hackcode.ishoulu.com/scp/)
-
-2018-03-21 10:52 [Kaspersky Cyberthreat real-time map](https://cybermap.kaspersky.com/)
-
-2018-03-21 10:56 [CodePen - Front End Developer Playground &amp; Code Editor in the Browser](https://codepen.io/)
-
-2018-03-21 11:05 [Free Online Photo Editor | Fotor - Photo Editing &amp; Collage Maker &amp; Graphic Design](https://www.fotor.com/)
-
-2018-03-21 19:37 [Bit - Share and build with code components](https://bitsrc.io/?utm_source=vue&utm_medium=vue&utm_campaign=vue&utm_term=vue&utm_content=vue)
-
-2018-03-21 19:37 [StdLib — API development made simple](https://stdlib.com/)
+2017-09-18 16:58 [如何使用web录制视频 | 富途Web开发团队](https://futu.im/posts/capture-video-on-web/)
 
 
 
@@ -786,6 +504,2104 @@
 
 
 
+####  JS
+
+2014-04-11 03:25 [jquery getScript动态加载JS方法改进详解_jquery_脚本之家](http://www.jb51.net/article/31973.htm)
+
+2013-10-23 22:02 [LimeJS首页、文档和下载 - JavaScript 游戏开发框架 - 开源中国社区](http://www.oschina.net/p/limejs)
+
+2012-11-30 23:16 [jquery插件开发规范—jquery插件开发进阶教程（1） | ria之家--RIA三部曲：jquery、ext、flex](http://www.36ria.com/2822)
+
+2012-12-03 21:48 [blog.csdn.net/porschev/article/details/6114997](http://blog.csdn.net/porschev/article/details/6114997)
+
+2012-12-04 22:04 [JS操作JSON总结 - daiyueqiang - 博客园](http://www.cnblogs.com/worfdream/articles/1956449.html)
+
+2012-12-04 22:04 [数据类型和Json格式 - 阮一峰的网络日志](http://www.ruanyifeng.com/blog/2009/05/data_types_and_json.html)
+
+2012-12-04 22:04 [JSON 数据格式 - SkySoot - 博客园](http://www.cnblogs.com/SkySoot/archive/2012/04/17/2453010.html)
+
+2013-10-23 22:01 [新浪前端入职测试JS效果--碰壁反弹 详解_博看文思-HTML5_百度空间](http://hi.baidu.com/kuntakinte/item/f4978b7b774efc346e29f6cf)
+
+2012-12-04 22:04 [idTabs](http://www.sunsean.com/idTabs/#t1)
+
+2014-06-01 02:11 [Highcharts中文网](http://www.hcharts.cn/)
+
+2014-09-14 23:02 [常见算法是js实现汇总 - super-d2 - 博客园](http://www.cnblogs.com/super-d2/archive/2011/10/16/2212865.html)
+
+2014-12-31 22:14 [超酷的翻书效果jquery代码-一流素材网](http://www.16sucai.com//uploadfile/show4/jquerybook/)
+
+2014-12-31 22:14 [jQuery tmpl用法总结 - fanhaiwang520的专栏 - 博客频道 - CSDN.NET](http://blog.csdn.net/fanhaiwang520/article/details/8587700)
+
+2014-12-31 22:14 [jquery tmpl 详解 - web开发 - 博客园](http://www.cnblogs.com/zhuzhiyuan/p/3510175.html)
+
+2015-01-20 10:54 [js中this的用法 - ritazhou - 博客园](http://www.cnblogs.com/RitaRichard/archive/2011/10/14/2212161.html)
+
+2015-01-21 13:57 [javascript学习笔记（九）javascript中的原型(prototype)及原型链的继承方式_基础知识_脚本之家](http://www.jb51.net/article/26803.htm)
+
+2015-01-21 13:57 [JS中的prototype - 轩脉刃 - 博客园](http://www.cnblogs.com/yjf512/archive/2011/06/03/2071914.html)
+
+2015-01-23 11:11 [使用 JSLint 保证 JavaScript 代码质量](http://www.ibm.com/developerworks/cn/web/1105_linlin_jslint/)
+
+2015-01-23 11:11 [notepad+的去行号 和代码格式化方法 - syrchina程序园 - 博客频道 - CSDN.NET](http://blog.csdn.net/syrchina/article/details/7846046)
+
+2015-01-23 11:11 [巧用Notepad++插件：Js代码格式化（JsMin） – 小叉子博客 - Winbule.com](http://winbule.com/jsformat.html)
+
+2015-01-23 13:30 [js 全世界最短的IE浏览器判断代码_javascript技巧_脚本之家](http://www.jb51.net/article/23621.htm)
+
+2015-01-23 13:41 [JS 动态加载脚本 执行回调 - ※WYF※ - 博客园](http://www.cnblogs.com/w-y-f/p/3469211.html)
+
+2015-01-23 15:08 [JS创建类和对象 - 啊T - 博客园](http://www.cnblogs.com/tiwlin/archive/2009/08/06/1540161.html)
+
+2015-01-23 15:08 [js判断浏览器类型及版本_百度经验](http://jingyan.baidu.com/article/e4511cf30d47882b855eaf5d.html)
+
+2015-01-23 17:12 [对象字面量 - yxf2011 - 博客园](http://www.cnblogs.com/yxf2011/archive/2012/04/01/2428225.html)
+
+2015-01-26 09:50 [关于js中namespace命名空间模式](http://www.cnblogs.com/kuikui/archive/2013/07/14/3190381.html)
+
+2015-01-26 10:25 [JavaScript 的常见“陷阱” - 博客 - 伯乐在线](http://blog.jobbole.com/66699/)
+
+2015-01-26 11:17 [js遍历数组和遍历对象的区别 - yun007 - 博客园](http://www.cnblogs.com/yun007/archive/2013/06/06/3121393.html)
+
+2015-01-26 14:42 [使用超动感HTML &amp; JS开发WEB应用! | AngularJS中文社区](http://www.angularjs.cn/)
+
+2015-01-26 15:56 [给DOM元素绑定click事件也有学问 -- 简明现代魔法](http://www.nowamagic.net/librarys/veda/detail/1698)
+
+2015-01-26 16:10 [JavaScript中的arguments,callee,caller - 依水间 - 博客园](http://www.cnblogs.com/fullhouse/archive/2011/07/17/2108710.html)
+
+2015-01-26 16:51 [js中匿名函数的N种写法_javascript技巧_脚本之家](http://www.jb51.net/article/24759.htm)
+
+2015-01-29 09:11 [md文件格式介绍](https://github.com/younghz/Markdown)
+
+2015-02-02 09:55 [javascript自定义浏览器右键菜单 - evilfox - 博客园](http://www.cnblogs.com/hejia/articles/2648428.html)
+
+2015-02-02 10:15 [中文汉字 | ASCII | Unicode互相转换工具](http://www.atool.org/chinese2unicode.php)
+
+2015-02-04 11:36 [jquery $(document).ready() 与window.onload的区别_jquery_脚本之家](http://www.jb51.net/article/21628.htm)
+
+2015-02-04 11:45 [RGB转16进制工具 | w3cschool菜鸟教程](http://www.w3cschool.cc/rgb2hex)
+
+2015-02-04 13:35 [用js小类库获取浏览器的高度和宽度信息 - 执手泪眼 - 博客园](http://www.cnblogs.com/liszt/archive/2012/01/15/2322692.html)
+
+2015-02-04 18:57 [Javascript 的addEventListener()及attachEvent()区别分析_javascript技巧_脚本之家](http://www.jb51.net/article/18220.htm)
+
+2015-02-05 14:10 [js编写trim()函数及正则表达式的运用_javascript技巧_脚本之家](http://www.jb51.net/article/42358.htm)
+
+2015-02-05 15:24 [正则表达式的JS验证 - cms kentico - 博客园](http://www.cnblogs.com/kentico/archive/2010/09/06/1819660.html)
+
+2015-02-05 15:24 [JS实现Trim() - Cat Qi - 博客园](http://www.cnblogs.com/qixuejia/archive/2010/08/11/1797523.html)
+
+2015-02-05 15:24 [js最新手机号码、身份证正则表达式 | 前端开发博客_专注于前端开发](http://caibaojian.com/regexp-example.html)
+
+2015-02-05 15:24 [js数据类型判断和数组判断 - 沫鱼 - 博客园](http://www.cnblogs.com/mofish/p/3388427.html)
+
+2015-02-06 11:31 [JS 对象（Object）和字符串（String）互转 - Rex.Yin的专栏 - 博客频道 - CSDN.NET](http://blog.csdn.net/starrexstar/article/details/8083259)
+
+2015-02-06 17:23 [面向对象中嵌套的函数, 关键字 this 怎样处理? - javascript - SegmentFault](http://segmentfault.com/q/1010000000183613)
+
+2015-02-09 16:51 [在Js中得到元素的子元素集合注意事项 - Evilbaniry - 博客园](http://www.cnblogs.com/phonefans/archive/2008/09/04/1283739.html)
+
+2015-02-09 17:04 [js和jquery获取父级元素、子级元素、兄弟元素的方法 - TechBirds在路上 - 博客频道 - CSDN.NET](http://blog.csdn.net/techbirds_bao/article/details/8512750)
+
+2015-02-09 18:08 [javascript的getComputedStyle方法获取节点的计算后的CSS样式 - yunfour - 博客园](http://www.cnblogs.com/yunfour/archive/2012/02/25/2367895.html)
+
+2015-02-10 09:25 [CSS3动画那么强，requestAnimationFrame还有毛线用？ « 张鑫旭-鑫空间-鑫生活](http://www.zhangxinxu.com/wordpress/2013/09/css3-animation-requestanimationframe-tween-%E5%8A%A8%E7%94%BB%E7%AE%97%E6%B3%95/)
+
+2015-02-10 09:26 [requestAnimationFrame，Web中写动画的另一种选择 - 刘哇勇 - 博客园](http://www.cnblogs.com/Wayou/p/requestAnimationFrame.html)
+
+2015-02-10 09:35 [JS教程:Javascript实现缓动效果](http://www.poluoluo.com/jzxy/200909/66297.html)
+
+2015-02-10 16:29 [js中退出语句break,continue和return 比较 - ued_er的日志 - 网易博客](http://blog.163.com/ued_er/blog/static/199703159201210283107315/)
+
+2015-02-10 17:08 [js 优化次数过多的循环 考虑到性能问题_javascript技巧_脚本之家](http://www.jb51.net/article/26464.htm)
+
+2015-02-10 18:03 [js循环数组各种方法array-升级版 - 快乐每一天 - ITeye技术网站](http://qiaolevip.iteye.com/blog/1670984)
+
+2015-02-10 18:16 [编写高质量的js之推荐提高循环性能的策略_前端开发](http://sentsin.com/web/99.html)
+
+2015-02-11 09:55 [Js性能优化--循环体优化 - - ITeye技术网站](http://zhouyihui2010.iteye.com/blog/1836699)
+
+2015-02-12 11:18 [(转)setTimeout延时0毫秒的作用 - Winner.Net(2007) - 博客园](http://www.cnblogs.com/winner/archive/2008/11/15/1334077.html)
+
+2015-02-12 11:20 [认识延迟时间为 0 的 setTimeout](http://www.360doc.com/content/08/1118/23/56145_1954571.shtml)
+
+2015-02-12 11:25 [setTimeout(0) 的作用 - PandaCafe](http://pandacafe.net/blog/337)
+
+2015-02-12 16:24 [js中apply方法的使用 - chaxiaoyou - 博客园](http://www.cnblogs.com/delin/archive/2010/06/17/1759695.html)
+
+2015-02-12 16:28 [JS中apply和call的联系和区别 - shenzhenNBA的专栏 - 博客频道 - CSDN.NET](http://blog.csdn.net/shenzhennba/article/details/17716957)
+
+2015-02-13 09:34 [js delete 用法(删除对象属性及变量)_javascript技巧_脚本之家](http://www.jb51.net/article/54247.htm)
+
+2015-02-13 09:34 [深入详解javascript之delete操作符 - yuzhongwusan - 博客园](http://www.cnblogs.com/yuzhongwusan/archive/2012/06/14/2549879.html)
+
+2015-02-13 11:11 [关于javascript中apply()和call()方法的区别 - 前端开发工程师 - 博客园](http://www.cnblogs.com/fighting_cp/archive/2010/09/20/1831844.html)
+
+2015-02-25 16:01 [使用 JSDoc 3 自动生成 JavaScript API 文档 - 杨小邪的空中楼阁](http://moodpo.com/archives/jsdoc3-tutorial.html)
+
+2015-02-25 17:56 [JS的构造函数 - 豪情 - 博客园](http://www.cnblogs.com/jikey/archive/2011/05/13/2045005.html)
+
+2015-02-26 15:38 [JavaScript中的[[scope]]和Scope Chain - winter-cn - 博客园](http://www.cnblogs.com/winter-cn/archive/2008/07/07/1237168.html)
+
+2015-02-26 15:38 [JavaScript isPrototypeOf和hasOwnProperty使用区别_js面向对象_脚本之家](http://www.jb51.net/article/22336.htm)
+
+2015-02-26 15:38 [javascript 类属性、类方法、类实例、实例属性、实例方法、prototype、__proto__ 测试与小结 - 像阳光一样 - 博客园](http://www.cnblogs.com/mrsunny/archive/2011/05/09/2041185.html)
+
+2015-02-26 15:39 [javascript的propertyIsEnumerable()方法使用介绍_javascript技巧_脚本之家](http://www.jb51.net/article/48852.htm)
+
+2015-02-26 15:39 [JavaScript对象模型-执行模型 - riccc - 博客园](http://www.cnblogs.com/RicCC/archive/2008/02/15/JavaScript-Object-Model-Execution-Model.html)
+
+2015-02-26 15:41 [Javascript Closures](http://jibbering.com/faq/notes/closures/)
+
+2015-02-26 15:52 [JSON在线视图查看器(Online JSON Viewer)](http://www.bejson.com/jsonviewernew/)
+
+2015-02-26 15:54 [propertyIsEnumerable 方法 (Object) (JavaScript)](https://msdn.microsoft.com/zh-tw/library/adebfyya.aspx)
+
+2015-02-26 16:35 [JavaScript 语言参考](https://msdn.microsoft.com/zh-cn/library/d1et7k7c(v=vs.94).aspx)
+
+2015-02-26 16:45 [JavaScript中__proto__与prototype的关系 - snandy - 博客园](http://www.cnblogs.com/snandy/archive/2012/09/01/2664134.html)
+
+2015-02-26 17:58 [JavaScript的写类方式（5） - snandy - 博客园](http://www.cnblogs.com/snandy/archive/2011/03/07/1972508.html)
+
+2015-02-27 11:30 [前端自动化开发工具 - 为程序员服务](http://ju.outofmemory.cn/entry/85028)
+
+2015-02-27 11:36 [贝塞尔曲线](http://outofmemory.cn/wr/?u=http%3A%2F%2Fcubic-bezier.com%2F)
+
+2015-03-02 11:38 [js对cookie的简单操作](http://blog.csdn.net/wyabc1986/article/details/6395570)
+
+2015-03-02 11:41 [JS操作Cookie详解 - songfuqiang的专栏 - 博客频道 - CSDN.NET](http://blog.csdn.net/songfuqiang/article/details/2109112)
+
+2015-03-02 18:05 [JavaScript内存优化 - 鍒樻爧 - 博客园](http://www.cnblogs.com/mliudong/p/3635294.html)
+
+2015-03-02 18:05 [JavaScript内存管理 - 简书](http://www.jianshu.com/p/84a8fd5fa0ee)
+
+2015-03-05 16:17 [Javascript 数组循环遍历之forEach - oscar999的专栏 - 博客频道 - CSDN.NET](http://blog.csdn.net/oscar999/article/details/8671546)
+
+2015-03-06 17:20 [JS截取字符串substr 和 substring方法的区别 - 華安 - 博客园](http://www.cnblogs.com/hema/archive/2009/10/21/1587560.html)
+
+2015-03-06 17:30 [前端开发者进阶之函数反柯里化unCurrying - 穆乙 - 博客园](http://www.cnblogs.com/pigtail/p/3450852.html)
+
+2015-03-06 18:09 [用Chrome开发者工具做JavaScript性能分析 - 博客 - 伯乐在线](http://blog.jobbole.com/31178/)
+
+2015-03-06 18:09 [Zen Coding: 一种快速编写HTML/CSS代码的方法前端观察 | CSS | 前端观察](http://www.qianduan.net/zen-coding-a-new-way-to-write-html-code.html)
+
+2015-03-11 17:58 [谈谈javascript语法里一些难点问题（一） - 博客 - 伯乐在线](http://blog.jobbole.com/81010/#comment-147076)
+
+2015-03-17 18:47 [Js取数组中最大值和最小值 - ゞ追忆o0ゞ - 博客园](http://www.cnblogs.com/zhuiyi/archive/2011/11/15/2249733.html)
+
+2015-03-18 16:33 [不要再吹水地球人听不懂的技术，咱来点干货!--中文前端UI框架Kit（四）给你真正的原生的drag以及drop事件，而不是像市面上主流的Js框架jQuery，Ext等，利用mousemove事件，判断位置来模拟 - 薛端阳](http://www.cnblogs.com/xueduanyang/archive/2012/05/03/2480505.html)
+
+2015-03-19 16:08 [在JS数组指定位置插入元素 - renfufei的专栏 - 博客频道 - CSDN.NET](http://blog.csdn.net/renfufei/article/details/38143947)
+
+2013-05-30 15:46 [js特殊字符过滤 - 棋怜 - 博客园](http://www.cnblogs.com/fumj/archive/2013/01/06/2847612.html)
+
+2013-06-03 13:51 [解决IE与W3C标准冲突的JS库-IE7.js与IE8.js | 信有UED](http://ued.xinyou.com/2011/03/%E8%A7%A3%E5%86%B3ie%E4%B8%8Ew3c%E6%A0%87%E5%87%86%E5%86%B2%E7%AA%81%E7%9A%84js%E5%BA%93-ie7-js%E4%B8%8Eie8-js.html)
+
+2013-06-08 16:33 [js实现php函数urlencode - 小炒花生米 - 博客园](http://www.cnblogs.com/xiaochaohuashengmi/archive/2010/05/28/1746168.html)
+
+2015-03-24 15:00 [js获取url参数值 - jiekk - 博客园](http://www.cnblogs.com/jiekk/archive/2011/06/28/2092444.html)
+
+2015-03-25 13:37 [js array不支持map filter等的解决办法 - Javascript教程_JS教程_技术文章 - 红黑联盟](http://www.2cto.com/kf/201501/371483.html)
+
+2015-03-30 15:12 [Prism](http://prismjs.com/index.html)
+
+2015-02-06 18:08 [Javascript quiz — Perfection Kills](http://perfectionkills.com/javascript-quiz/)
+
+2015-04-14 16:22 [JavaScript 实现简单的双向数据绑定 - 技术翻译 - 开源中国社区](http://www.oschina.net/translate/easy-two-way-data-binding-in-javascript)
+
+2015-04-15 14:15 [Underscore.js(JavaScript对象操作方法) - Ada zheng - 博客园](http://www.cnblogs.com/ada-zheng/p/3924082.html)
+
+2015-05-13 09:33 [jsonp详解 - yuzhongwusan - 博客园](http://www.cnblogs.com/yuzhongwusan/archive/2012/12/11/2812849.html)
+
+2015-05-14 10:23 [关于URL编码/javascript/js url 编码(轉) - 琴鸟 - 博客园](http://www.cnblogs.com/lsfv/archive/2012/04/17/2453391.html)
+
+2015-05-28 14:41 [JS中的call()和apply()方法 - 每天进步一点点！ - ITeye技术网站](http://uule.iteye.com/blog/1158829)
+
+2015-05-29 17:07 [JS设计模式（一）Mixin classes - 太极拳 - 博客频道 - CSDN.NET](http://blog.csdn.net/ppanyong/article/details/3400882)
+
+2015-05-29 17:10 [JS 继承：extend、mixin 和 plugin（二） - zaohe - 博客园](http://www.cnblogs.com/zaohe/archive/2012/10/22/js.html)
+
+2015-05-29 17:29 [javascript库中mixin和extend函数终极pk-javascript-电脑编程网](http://biancheng.dnbcw.info/javascript/372022.html)
+
+2015-06-02 14:02 [键盘事件keydown、keypress、keyup随笔整理总结（摘抄） - 心存善念 - 博客园](http://www.cnblogs.com/xcsn/p/3413074.html)
+
+2015-06-10 11:31 [jQuery.parseJSON() 函数详解 - CodePlayer](http://www.365mini.com/page/jquery_parsejson.htm)
+
+2015-06-10 12:57 [使用JSON.parse遇到的问题 - 技术分享 - 豆豆技术网](http://tech.ddvip.com/2014-05/1399208603210186.html)
+
+2015-06-11 10:00 [理解OAuth 2.0 - 阮一峰的网络日志](http://www.ruanyifeng.com/blog/2014/05/oauth_2_0.html)
+
+2015-06-12 11:11 [Highcharts中文网](http://www.hcharts.cn/index.php)
+
+2015-06-12 18:04 [js 获取前天、昨天、今天、明天、后天的时间 (转) - 耿爱学 - 博客园](http://www.cnblogs.com/gengaixue/archive/2011/07/05/2098299.html)
+
+2015-06-12 18:04 [js时间戳怎么转成日期格式 - 苏飞 - 博客园](http://www.cnblogs.com/sufei/archive/2012/12/03/2799480.html)
+
+2015-06-24 18:07 [Jquery 获取checkbox的checked问题 - 那瞬间 - 博客园](http://www.cnblogs.com/-run/archive/2011/11/16/2251250.html)
+
+2015-06-24 18:07 [checkbox属性checked=&quot;checked&quot;已有，但却不显示打勾的解决办法 - BIWEB开源WEBAPP手机网站系统](http://www.biweb.cn/blog/detail.php/id-21.html)
+
+2015-06-26 11:46 [Ajax提交之后，Method从POST变成GET - 开源中国社区](http://www.oschina.net/question/86510_76347)
+
+2015-07-07 14:08 [详解js面向对象编程 - SegmentFault](http://segmentfault.com/a/1190000000713346)
+
+2015-07-07 19:28 [最全前端面试问题及答案总结 - SegmentFault](http://segmentfault.com/a/1190000002562454)
+
+2015-07-08 11:30 [js事件代理_剑华一笑_新浪博客](http://blog.sina.com.cn/s/blog_65c2ec5e0101oddv.html)
+
+2015-07-23 17:06 [Spine.JS+Rails重客户端Web应用技术选型思路：『风车』架构设计](http://www.infoq.com/cn/articles/fengche-co-architecture/)
+
+2015-07-27 17:48 [JS Range HTML文档/文字内容选中、库及应用介绍 « 张鑫旭-鑫空间-鑫生活](http://www.zhangxinxu.com/wordpress/2011/04/js-range-html%E6%96%87%E6%A1%A3%E6%96%87%E5%AD%97%E5%86%85%E5%AE%B9%E9%80%89%E4%B8%AD%E3%80%81%E5%BA%93%E5%8F%8A%E5%BA%94%E7%94%A8%E4%BB%8B%E7%BB%8D/)
+
+2015-07-28 18:37 [js正则标志/g /i /m的用法，以及实例 - 天使半只翼 - 博客园](http://www.cnblogs.com/william-lin/p/3480231.html)
+
+2015-07-31 10:20 [JQuery-- onload，ready方法详细解说 - dreamzml的专栏 - 博客频道 - CSDN.NET](http://blog.csdn.net/dreamzml/article/details/8859026)
+
+2015-07-31 15:11 [JavaScript表单处理（上） - Javascript教程_JS教程_技术文章 - 红黑联盟](http://www.2cto.com/kf/201406/306688.html)
+
+2015-07-31 18:23 [优秀的JavaScript模块是怎样炼成的](http://www.infoq.com/cn/articles/how-to-create-great-js-module/)
+
+2015-07-31 18:52 [Javascript文件加载：LABjs和RequireJS - 阮一峰的网络日志](http://www.ruanyifeng.com/blog/2011/10/javascript_loading.html)
+
+2015-08-03 17:10 [js基于原型链，对象的类的写法 - break_happy - 博客园](http://www.cnblogs.com/breakdown/archive/2012/07/18/2557157.html)
+
+2015-08-11 18:52 [js 判断文件后缀的方法 - whitechololate的专栏 - 博客频道 - CSDN.NET](http://blog.csdn.net/whitechololate/article/details/3325951)
+
+2015-08-12 17:49 [从浏览器的focus blur说起 - Franky - 博客园](http://www.cnblogs.com/_franky/archive/2010/04/28/1722592.html)
+
+2015-08-14 15:18 [LABjs 动态按需加载 js 的方法实现 js loader_草民麦克_新浪博客](http://blog.sina.com.cn/s/blog_64d8a1d0010101zz.html)
+
+2015-08-14 15:21 [LABjs Script Loader :: Home](http://labjs.com/)
+
+2015-08-14 15:21 [RequireJS](http://requirejs.org/)
+
+2015-08-21 11:57 [Javascript Callback的两种实现方案 - D-tune - ITeye技术网站](http://d-tune.iteye.com/blog/506074)
+
+2015-08-21 18:04 [LABJS浅析 - yuzhongwusan - 博客园](http://www.cnblogs.com/yuzhongwusan/archive/2013/04/14/3020559.html)
+
+2015-08-24 15:04 [HTML5 DOM元素类名相关操作API classList简介 « 张鑫旭-鑫空间-鑫生活](http://www.zhangxinxu.com/wordpress/2013/07/domtokenlist-html5-dom-classlist-%E7%B1%BB%E5%90%8D/)
+
+2015-08-25 10:37 [插件uaredirect.js电脑版跳转到手机版网站 _ 木木博客](http://www.imuum.com/uaredirect-js-plug-download.html)
+
+2015-08-25 13:55 [JS 替换 window.onload 的 document.ready [Web前端] - VGOT Design](http://www.vgot.net/?A65.htm)
+
+2015-08-25 13:55 [js获取客户端操作系统 - zjhsd2007 - 博客园](http://www.cnblogs.com/sky000/archive/2011/03/04/1970737.html)
+
+2015-08-25 13:55 [识别不同平台Window、Mac、Unix(Linux)方法,结合js实例详细介绍](http://www.jxbh.cn/newshow.asp?id=1463&tag=2)
+
+2015-08-25 18:37 [JS获取自身所在文件的目录路径 - MaxIE - 博客园](http://www.cnblogs.com/MaxIE/archive/2007/11/09/936999.html)
+
+2015-08-25 18:37 [通过JS语句判断WEB网站的访问端是电脑还是手机 - JavaScript - 新客网](http://www.xker.com/page/e2014/0325/131654.html)
+
+2015-08-27 10:55 [addEventListener - chenlulouis - 博客园](http://www.cnblogs.com/chenlulouis/archive/2009/10/19/1585751.html)
+
+2015-08-27 10:55 [浏览器兼容性系列--浅谈window.attachEvent_云天妈妈_新浪博客](http://blog.sina.com.cn/s/blog_4aedf6370100zhox.html)
+
+2015-08-27 15:42 [javascript钩子之Backbone里的实现 - angel_loong - 博客园](http://www.cnblogs.com/whitelist/p/4758367.html)
+
+2015-08-27 18:09 [document的createDocumentFragment()方法 - yunfour - 博客园](http://www.cnblogs.com/yunfour/archive/2011/06/21/2085911.html)
+
+2015-08-27 18:41 [事件流与window.addEventListener介绍说明_Nanako_新浪博客](http://blog.sina.com.cn/s/blog_8e1704000101c77p.html)
+
+2015-08-28 15:21 [javascript Date format(js日期格式化) - 一路前行 - 博客园](http://www.cnblogs.com/zhangpengshou/archive/2012/07/19/2599053.html)
+
+2015-08-28 15:29 [window.parent与window.openner区别介绍_基础知识_脚本之家](http://www.jb51.net/article/30086.htm)
+
+2015-08-28 18:38 [Javascript模块化编程（三）：require.js的用法 - 阮一峰的网络日志](http://www.ruanyifeng.com/blog/2012/11/require_js.html)
+
+2015-08-31 17:33 [js如何判断一个对象是不是Array？ -- 简明现代魔法](http://www.nowamagic.net/librarys/veda/detail/1250)
+
+2015-09-01 11:23 [JS滚轮事件(mousewheel/DOMMouseScroll)了解 « 张鑫旭-鑫空间-鑫生活](http://www.zhangxinxu.com/wordpress/2013/04/js-mousewheel-dommousescroll-event/)
+
+2015-09-06 12:16 [js实现按Ctrl+Enter发送效果_javascript技巧_脚本之家](http://www.jb51.net/article/55354.htm)
+
+2015-09-06 15:11 [toLowerCase和toLocaleLowerCase()的区别](http://sentsin.com/web/45.html)
+
+2015-09-06 17:51 [浏览器是怎样工作的 浏览器从头到尾的工作机制_浏览下载_软件教程_脚本之家](http://www.jb51.net/softjc/67746.html)
+
+2015-09-07 10:30 [event.preventDefault方法的使用 - 学习也休闲](http://www.studyofnet.com/news/228.html)
+
+2015-09-07 10:31 [如何去掉a标签的虚框_看灰机灰了_新浪博客](http://blog.sina.com.cn/s/blog_7a901a8701019aw1.html)
+
+2015-09-07 11:05 [错误The request sent by the client was syntactically incorrect ()的解决 - 逆火狂飙 - 博客园](http://www.cnblogs.com/xiandedanteng/p/4168609.html)
+
+2015-09-07 18:38 [Html5 页面中 JavaScript 启动调用的三种方法比较 - Javascript教程_JS教程_技术文章 - 红黑联盟](http://www.2cto.com/kf/201407/321612.html)
+
+2015-09-09 15:44 [window.open打开新窗口 参数 - riconyi的专栏 - 博客频道 - CSDN.NET](http://blog.csdn.net/riconyi/article/details/5540557)
+
+2015-09-10 20:17 [iframe与主框架跨域相互访问方法 - 傲雪星枫 - 博客频道 - CSDN.NET](http://blog.csdn.net/fdipzone/article/details/17619673)
+
+2015-09-11 10:57 [浅谈document.domain](http://yanni4night.com/blog/setting-document-domain.html)
+
+2015-09-14 16:46 [JavaScript Source Map 详解 - 阮一峰的网络日志](http://www.ruanyifeng.com/blog/2013/01/javascript_source_map.html)
+
+2015-09-14 18:00 [[已解决]base64编码上传问题 - CNode技术社区](https://cnodejs.org/topic/51f49b07f4963ade0e59be2d)
+
+2015-09-15 15:42 [defer和async的区别 - SegmentFault](http://segmentfault.com/q/1010000000640869)
+
+2015-09-15 15:56 [Hacker News](https://news.ycombinator.com/)
+
+2015-09-15 17:23 [相似图片搜索的原理（二） - 阮一峰的网络日志](http://www.ruanyifeng.com/blog/2013/03/similar_image_search_part_ii.html)
+
+2015-09-15 17:23 [相似图片搜索的原理 - 阮一峰的网络日志](http://www.ruanyifeng.com/blog/2011/07/principle_of_similar_image_search.html)
+
+2015-09-15 17:25 [代码覆盖率工具 Istanbul 入门教程 - 阮一峰的网络日志](http://www.ruanyifeng.com/blog/2015/06/istanbul.html)
+
+2015-09-15 18:06 [WOW.js – 让页面滚动更有趣_dowebok](http://www.dowebok.com/131.html)
+
+2015-09-15 18:29 [JS NICE: Statistical renaming, Type inference and Deobfuscation](http://www.jsnice.org/)
+
+2015-09-17 15:44 [Web 通信 之 长连接、长轮询（long polling） - hoojo - 博客园](http://www.cnblogs.com/hoojo/p/longPolling_comet_jquery_iframe_ajax.html)
+
+2015-09-17 17:39 [DWR - 随笔分类 - hoojo - 博客园](http://www.cnblogs.com/hoojo/category/276235.html)
+
+2015-09-22 11:11 [window.location.hash属性介绍 - Youbing - 博客园](http://www.cnblogs.com/china-aspx/archive/2008/04/20/1162597.html)
+
+2015-10-13 18:26 [使用FileReader对象的readAsDataURL方法来读取图像文件 - jQuery学习 - 程序员博客](http://blog.okbase.net/jquery2000/archive/1296.html)
+
+2015-10-13 18:26 [[译]JavaScript文件操作(2)-FileReader | i,unbug](http://www.iunbug.com/archives/2012/06/04/220.html)
+
+2015-10-13 18:32 [input file 在不同浏览器中的呈现 « 小居](http://liunian.info/input-file-in-different-browsers.html)
+
+2015-10-29 17:14 [疑问：为什么要使用href=”javascript:void(0);”？ « 张鑫旭-鑫空间-鑫生活](http://www.zhangxinxu.com/wordpress/2013/01/why-use-href-javascript-void0/)
+
+2015-11-12 13:57 [ajax不执行success回调而是执行了error回调_基础知识_脚本之家](http://www.jb51.net/article/32540.htm)
+
+2015-11-20 11:30 [经典的 Web 编辑器——CKEditor 介绍](http://www.ibm.com/developerworks/cn/web/1012_moying_ckeditor/)
+
+2015-11-23 17:09 [jQuery Validation Engine 表单验证 - 前端开发仓库](http://code.ciaoca.com/jquery/validation_engine/)
+
+2015-12-04 09:53 [由Tencent://Message协议想到的一个解决方案 - Phinecos(洞庭散人) - 博客园](http://www.cnblogs.com/phinecos/archive/2009/03/06/1404951.html)
+
+2015-12-04 16:01 [js中的小技艺_js关键字小结_response.setContentType 参数参考__脚本百事通](http://www.csdn123.com/html/exception/578/578371_578367_578369.htm)
+
+2015-12-07 20:20 [AJAX POST请求中参数以form data和request payload形式在servlet中的获取方式 - 痴人说梦 - 博客频道 - CSDN.NET](http://blog.csdn.net/mhmyqn/article/details/25561535)
+
+2015-12-15 18:31 [移除HTML5 input在type=&quot;number&quot;时的上下小箭头 - qii/sihangshi - 开源中国社区](http://my.oschina.net/qii/blog/341439)
+
+2015-12-15 18:31 [让浏览器支持input type=number - 四眼闷的日志 - 网易博客](http://blog.163.com/yhwwen@126/blog/static/170468853201381701414931/)
+
+2015-12-17 11:10 [有关onpropertychange事件 - 穆乙 - 博客园](http://www.cnblogs.com/pigtail/archive/2012/04/17/2452078.html)
+
+2015-12-17 11:10 [oninput,onpropertychange,onchange的用法和区别 - sunlylorn的专栏 - 博客频道 - CSDN.NET](http://blog.csdn.net/sunlylorn/article/details/6123355)
+
+2015-12-21 12:18 [Chrome的console对于数组(对象)的求值是懒惰的 - Jackiesteed - 博客园](http://www.cnblogs.com/jackiesteed/articles/3531401.html)
+
+2016-01-07 11:47 [HTTP协议（二）：header标头说明-hiyachen-ChinaUnix博客](http://blog.chinaunix.net/uid-7374279-id-4518834.html)
+
+2016-01-11 20:59 [HTML5 &lt;script&gt;元素async,defer异步加载 - renfufei的专栏 - 博客频道 - CSDN.NET](http://blog.csdn.net/renfufei/article/details/10210949)
+
+2016-01-19 16:03 [window.open()打开窗口的几种方式 - 清箫的专栏 - 博客频道 - CSDN.NET](http://blog.csdn.net/woxueliuyun/article/details/3672268)
+
+2016-01-27 00:29 [js中substring和substr用法与区别_百度经验](http://jingyan.baidu.com/article/219f4bf7fbdeeade442d380f.html)
+
+2016-01-29 15:53 [为JS扩展Array.prototype.indexOf引发的问题探讨及解决_javascript技巧_脚本之家](http://www.jb51.net/article/35963.htm)
+
+2016-01-29 16:02 [IE 浏览器各个版本 JavaScript 支持情况一览表 - 梦想天空（山边小溪） - 博客园](http://www.cnblogs.com/lhb25/p/ie-javascript-compatibility.html)
+
+2016-02-01 15:07 [js 正则 为url添加http标识 - Tim专栏 - 博客频道 - CSDN.NET](http://blog.csdn.net/q107770540/article/details/9352425)
+
+2016-02-18 11:03 [IE8 innerHTML-未知的运行时错误 - 学习成就未来 - ITeye技术网站](http://qiujiayu.iteye.com/blog/2071127)
+
+2016-02-18 11:03 [IE6789浏览器有没有console.log类似的方法可以输出调试内容但又不影响页面正常运行的JS代码呢？_已解决_博问_博客园](http://q.cnblogs.com/q/33770/)
+
+2016-02-19 10:37 [关于文字内容溢出用点点点(…)省略号表示 « 张鑫旭-鑫空间-鑫生活](http://www.zhangxinxu.com/wordpress/2009/09/%E5%85%B3%E4%BA%8E%E6%96%87%E5%AD%97%E5%86%85%E5%AE%B9%E6%BA%A2%E5%87%BA%E7%94%A8%E7%82%B9%E7%82%B9%E7%82%B9-%E7%9C%81%E7%95%A5%E5%8F%B7%E8%A1%A8%E7%A4%BA/)
+
+2016-02-19 10:37 [www.zhangxinxu.com/study/js/jquery.ellipsis.js](http://www.zhangxinxu.com/study/js/jquery.ellipsis.js)
+
+2016-03-02 20:18 [JavaScript Promise：去而复返 - 司徒正美 - 博客园](http://www.cnblogs.com/rubylouvre/p/3495286.html)
+
+2016-03-08 17:51 [html中使用js计算字符串所占宽度 - 混乱的人生 - 博客频道 - CSDN.NET](http://blog.csdn.net/chaoticlife/article/details/25705495)
+
+2016-03-22 18:50 [为什么使用&quot;use strict&quot;可以节约你的时间 - 推酷](http://www.tuicool.com/articles/z2IvumV)
+
+2016-03-22 18:51 [一起来啃犀牛书：BOM - 推酷](http://www.tuicool.com/articles/NzuMVb)
+
+2016-04-29 18:33 [分页控件代码逻辑（JS版本&amp;PHP版本） - 轻拍水面 - 博客园](http://www.cnblogs.com/xue632777974/p/4174276.html)
+
+2016-05-25 17:42 [JavaScript instanceof 运算符深入剖析 - 文章 - 伯乐在线](http://blog.jobbole.com/41611/)
+
+2016-05-26 18:14 [[JS] 让人犯晕的JavaScript变量赋值 - Hello Bug~](http://hellobug.github.io/blog/javascript-variable-assignment/)
+
+2016-08-30 20:04 [键盘按钮keyCode大全 - 思考者日记 - 博客园](http://www.cnblogs.com/shyy/archive/2012/04/09/2453029.html)
+
+2016-09-06 11:43 [JavaScript 数字与字符串 比较大小 - 雨之殇 - 博客园](http://www.cnblogs.com/icerainsoft/p/3448161.html)
+
+2016-09-14 14:15 [SD2021: 各浏览器对元素在没有设置 tabindex 属性时触发 onfocus 事件以及通过其 focus() 方法获得焦点的情况有差异 - W3Help](http://www.w3help.org/zh-cn/causes/SD2021)
+
+2016-09-14 16:23 [SD2021: 各浏览器对元素在没有设置 tabindex 属性时触发 onfocus 事件以及通过其 focus() 方法获得焦点的情况有差异 - W3Help](http://www.w3help.org/zh-cn/causes/SD2021#)
+
+2016-09-22 15:47 [JS逗号运算符的用法详解 - web 前端 - 博客频道 - CSDN.NET](http://blog.csdn.net/wl110231/article/details/8162732)
+
+2016-09-29 16:25 [Javascript中的for in语句获取对象属性的顺序问题 | IT宅.com](http://www.itzhai.com/obtain-the-order-of-object-properties-in-javascript-for-in-the-statement.html)
+
+2016-12-05 14:29 [详解javascript立即执行函数表达式（IIFE） - WEB前端 - 伯乐在线](http://web.jobbole.com/82520/)
+
+2017-02-17 16:28 [各种JS模板引擎对比数据(高性能JavaScript模板引擎) - 戈胡 - 博客园](http://www.cnblogs.com/guohu/p/3870677.html)
+
+2017-02-22 14:19 [非常简单的js双向数据绑定框架（三）：js model黑科技 - - 博客频道 - CSDN.NET](http://blog.csdn.net/vctisildur/article/details/46454755)
+
+2017-02-22 14:37 [createElement与createDocumentFragment的点点区别 - 西山 - 博客园](http://www.cnblogs.com/xesam/archive/2011/12/19/2293876.html)
+
+2017-02-22 14:38 [深入理解vue.js双向绑定的实现原理_javascript技巧_脚本之家](http://www.jb51.net/article/99129.htm)
+
+2017-02-23 16:10 [浅谈 JS 创建对象的 8 种模式 - 银狐的专栏 - 博客频道 - CSDN.NET](http://blog.csdn.net/baby97/article/details/50435748)
+
+2017-03-06 14:58 [JavaScript模板引擎原理，几行代码的事儿 - Barret Lee - 博客园](http://www.cnblogs.com/hustskyking/p/principle-of-javascript-template.html)
+
+2017-03-21 18:10 [GoJS Diagrams for JavaScript and HTML, by Northwoods Software](http://gojs.net/latest/index.html)
+
+2017-03-22 10:48 [Timeline](http://timeline.knightlab.com/#overview)
+
+2017-03-24 18:40 [JQuery UI - draggable参数中文详细说明 - liu_111111的专栏 - 博客频道 - CSDN.NET](http://blog.csdn.net/liu_111111/article/details/8906025)
+
+2017-03-31 11:21 [html5 record 录音实例 使用websocket - Joyhen的专栏 - 博客频道 - CSDN.NET](http://blog.csdn.net/joyhen/article/details/24505411)
+
+2017-03-31 16:36 [使用html5的getUserMedia()实现拍照上传 - 笔记 - 前端网（QDFuns）](http://www.qdfuns.com/notes/15998/b5ad46a155bf4cec6587cd4871f044c8.html)
+
+2017-04-10 17:10 [JS中dataTransfer对象在拖曳操作中的妙用。 - JIALY的个人页面](https://my.oschina.net/jiangli0502/blog/179197)
+
+2017-04-10 17:10 [html drag api 在firefox 下 拖动出现新窗口的解决办法 - winenr123 - 博客园](http://www.cnblogs.com/strangerqt/p/6133708.html)
+
+2017-04-11 10:51 [一张图轻松搞懂javascript event对象的clientX,offsetX,screenX,pageX区别 - Javascript教程_JS教程_技术文章 - 红黑联盟](http://www.2cto.com/kf/201409/333401.html)
+
+2017-04-28 09:48 [HTML5 中fullscreen 中的几个API和fullscreen欺骗 - jackyrong - ITeye技术网站](http://jackyrong.iteye.com/blog/1830273)
+
+2017-04-28 09:50 [用html5 js实现浏览器全屏 - 天魂地煞 - 博客园](http://www.cnblogs.com/javaee6/p/3756249.html)
+
+2017-05-31 14:21 [js数组的sort排序详解 - 龙则 - 博客园](http://www.cnblogs.com/longze/archive/2012/11/27/2791230.html)
+
+2017-06-28 17:13 [Javascript开启浏览器全屏模式 - WEB前端 - 伯乐在线](http://web.jobbole.com/89098/)
+
+2017-06-30 11:11 [仿写Windows7桌面和任务栏 HTML5+CSS3+Jquery实现 - D调的码农 - 博客园](http://www.cnblogs.com/webconfig/p/3649323.html?utm_source=tuicool&utm_medium=referral)
+
+2017-07-05 15:11 [痕网,痕网博客,痕网工作室 - henw](http://www.cnblogs.com/henw/archive/2011/12/19/2293585.html)
+
+2017-07-07 11:12 [兼容各种浏览器的获取clientheight 等参数 - winter_leaf_wei的专栏 - CSDN博客](http://blog.csdn.net/winter_leaf_wei/article/details/6684211)
+
+2017-07-07 15:28 [HTML5魔法堂：全面理解Drag &amp; Drop API - ^_^肥仔John - 博客园](http://www.cnblogs.com/fsjohnhuang/p/3961066.html)
+
+2017-08-25 09:33 [JS实现的4种数字千位符格式化方法分享_javascript技巧_脚本之家](http://www.jb51.net/article/61585.htm)
+
+2017-08-29 09:49 [深入剖析 JavaScript 的深复制 | 咀嚼之味](http://jerryzou.com/posts/dive-into-deep-clone-in-javascript/)
+
+2017-08-29 09:50 [javascript中的深拷贝和浅拷贝？ - 知乎](https://www.zhihu.com/question/23031215)
+
+2017-08-29 09:51 [ES6对象的扩展 - IT-nose - 博客园](http://www.cnblogs.com/detanx/p/es6dx.html)
+
+2017-09-01 16:42 [ES6中的Object.is()判断对象是否相等 - kongjunchao159的博客 - CSDN博客](http://blog.csdn.net/kongjunchao159/article/details/54906829)
+
+2017-09-11 12:04 [node.js - JavaScript反射机制到底是什么？ - SegmentFault](https://segmentfault.com/q/1010000002761696)
+
+2017-09-11 12:05 [JavaScript反射机制与继承：概念 - 不忘初心，方得始终——PSY - SegmentFault](https://segmentfault.com/a/1190000000593171)
+
+2017-09-22 09:32 [mo · js - Motion Graphics For The Web](http://mojs.io/)
+
+2017-12-15 18:01 [白话debounce和throttle - 田小计划 - 博客园](https://www.cnblogs.com/wilber2013/p/5893426.html)
+
+2017-12-15 18:01 [Debounce 和 Throttle 的原理及实现 - CSDN博客](http://blog.csdn.net/redtopic/article/details/69396722)
+
+2017-12-15 18:02 [JS魔法堂：函数节流（throttle）与函数去抖（debounce） - ^_^肥仔John - 博客园](https://www.cnblogs.com/fsjohnhuang/p/4147810.html)
+
+2017-12-24 22:34 [require() 源码解读 - 阮一峰的网络日志](http://www.ruanyifeng.com/blog/2015/05/require.html)
+
+2018-01-12 11:13 [解决Javascript中$(window).resize()多次执行 - 水狼一族 - 博客园](https://www.cnblogs.com/shuilangyizu/p/6816756.html)
+
+2018-01-15 22:36 [使用html2canvas实现浏览器截图 - 焰尾迭 - 博客园](https://www.cnblogs.com/yanweidie/p/5203943.html)
+
+2018-01-16 10:32 [移动端H5页面截图【含 domtoimage、html2canvas 】 - CSDN博客](http://blog.csdn.net/candy_home/article/details/78424642)
+
+2018-01-18 17:06 [JavaScript实现最简单的拖拽效果 « 张鑫旭-鑫空间-鑫生活](http://www.zhangxinxu.com/wordpress/2010/03/javascript%E5%AE%9E%E7%8E%B0%E6%9C%80%E7%AE%80%E5%8D%95%E7%9A%84%E6%8B%96%E6%8B%BD%E6%95%88%E6%9E%9C/)
+
+2018-01-18 21:57 [24行代码，让你的网页元素任意放大、缩小、拖拽、移动 - CSDN博客](http://blog.csdn.net/dqs78833488/article/details/51392833)
+
+2018-01-19 10:45 [运用HTML5原生拖动事件（drag）实现拖动效果 - veitch07 - 博客园](https://www.cnblogs.com/veitch007/p/4006640.html)
+
+2018-03-12 21:39 [D3.js 中实现svg 保存 png - CSDN博客](http://blog.csdn.net/xx123698/article/details/53580057)
+
+2018-03-20 10:32 [前端存储之Web Sql Database - 再见_孙悟空 - 博客园](https://www.cnblogs.com/dengyulinBlog/p/6145584.html)
+
+2018-03-20 10:41 [前端HTML5几种存储方式的总结 - WEB前端 - 伯乐在线](http://web.jobbole.com/87766/)
+
+2018-03-20 10:52 [HTML5 内置本地数据库之Sqlite - html5-websql-sqlite - ItBoth](http://www.itboth.com/d/jQNJ3u/html5-websql-sqlite)
+
+2018-03-20 10:52 [html5 js 访问 sqlite 数据库的操作类 - string-js-html5 - ItBoth](http://www.itboth.com/d/B77NJj/js-string-callback-html5-sqlite)
+
+2018-03-20 10:55 [html5本地存储和本地数据库 - 江湖丶丿新进程 - 博客园](http://www.cnblogs.com/chjb/articles/5291462.html)
+
+2018-03-20 11:00 [前端常用类库资源 - 掘金](https://juejin.im/post/5a30870c6fb9a04522077c88)
+
+2018-03-20 16:16 [Colorrrs](https://www.webpagefx.com/web-design/random-color-picker/)
+
+2018-03-29 15:44 [网页制作辅助工具-jQuery标尺参考线插件 « 张鑫旭-鑫空间-鑫生活](http://www.zhangxinxu.com/wordpress/2010/08/%E7%BD%91%E9%A1%B5%E5%88%B6%E4%BD%9C%E8%BE%85%E5%8A%A9%E5%B7%A5%E5%85%B7-jquery%E6%A0%87%E5%B0%BA%E5%8F%82%E8%80%83%E7%BA%BF%E6%8F%92%E4%BB%B6/)
+
+2018-04-09 10:19 [在vue.js中使用JSZip实现在前端解压文件 - CSDN博客](https://blog.csdn.net/zhongfei1217/article/details/53267648)
+
+2018-04-09 14:59 [快速理解JavaScript 中的 LHS 和 RHS 查询 - savokiss的专栏 - SegmentFault 思否](https://segmentfault.com/a/1190000010645079)
+
+2018-04-10 13:29 [HTML5拖放事件（Drag-and-Drop,DnD） - 自律西红柿 - 博客园](http://www.cnblogs.com/sugar-tomato/p/4533977.html)
+
+2018-04-11 21:49 [关于 JS 拖拽功能的冲突问题及解决方法 - 叙帝利 - 博客园](https://www.cnblogs.com/nzbin/p/8481241.html)
+
+2018-04-13 17:43 [mustache语法 - 小花大方 - 博客园](https://www.cnblogs.com/DF-fzh/p/5979093.html)
+
+2018-04-19 22:02 [JS转换HTML转义符 - leejersey - 博客园](https://www.cnblogs.com/leejersey/p/4568092.html)
+
+2018-04-28 14:39 [JS 获取和监听屏幕方向变化（portrait / landscape） - Raychan - 博客园](https://www.cnblogs.com/wx1993/p/5916881.html)
+
+2018-04-28 15:30 [onbeforeunload事件两种写法及效果 - Easy C# - 博客园](https://www.cnblogs.com/easyc/p/javascript_addeventlistener_beforeunload.html)
+
+2018-04-28 21:33 [README - CSDN博客](https://blog.csdn.net/abner_yan/article/details/53255740)
+
+2018-04-28 22:03 [破解google翻译API全过程 - 胖喵~ - 博客园](https://www.cnblogs.com/by-dream/p/6554340.html)
+
+2018-05-01 10:30 [video.js--很赞的H5视频播放库 - stoneniqiu - 博客园](https://www.cnblogs.com/stoneniqiu/p/5807568.html)
+
+2018-05-03 08:23 [Comparison of JavaScript-based source code editors - Wikipedia](https://en.m.wikipedia.org/wiki/Comparison_of_JavaScript-based_source_code_editors)
+
+2018-05-03 12:12 [Javascript版经典游戏之《扫雷》 - wangmeijian - 博客园](https://www.cnblogs.com/wangmeijian/p/4031022.html)
+
+2018-05-03 12:17 [前端加载大图片从模糊到清晰 - wangmeijian - 博客园](http://www.cnblogs.com/wangmeijian/p/6822674.html)
+
+2018-05-03 12:17 [简单的扫雷游戏，原生JS实现 - 菜鸟传奇 - 博客园](https://www.cnblogs.com/settimeout/p/8029280.html)
+
+2018-05-11 08:56 [搜云库](https://mp.weixin.qq.com/s?__biz=MzA3MTUzOTcxOQ%3D%3D&mid=2452964662&idx=1&sn=c4f76f5ee9c527560aa2b25f8266da0c&chksm=88ede85ebf9a614828f3197fe20c08a9eba6b4b38cd03eb3a9c1d94fd16bbd75f99c23f90451)
+
+2018-07-27 10:24 [JavaScript复制内容到剪贴板 - 掘金](https://juejin.im/post/5a94f8eff265da4e9b593c29)
+
+2018-07-27 10:55 [JS Range HTML文档/文字内容选中、库及应用介绍 « 张鑫旭-鑫空间-鑫生活](https://www.zhangxinxu.com/wordpress/2011/04/js-range-html%E6%96%87%E6%A1%A3%E6%96%87%E5%AD%97%E5%86%85%E5%AE%B9%E9%80%89%E4%B8%AD%E3%80%81%E5%BA%93%E5%8F%8A%E5%BA%94%E7%94%A8%E4%BB%8B%E7%BB%8D/)
+
+2018-09-27 14:45 [图片的异步加载与onload函数 - 简书](https://www.jianshu.com/p/d3a02ffe94b6)
+
+2018-09-30 15:56 [原生JS封装_new函数，实现new关键字的功能 - 难凉热血的博客 - CSDN博客](https://blog.csdn.net/u010342862/article/details/80016695)
+
+2018-09-30 16:08 [详解Object.create(null) - 掘金](https://juejin.im/post/5acd8ced6fb9a028d444ee4e)
+
+2018-09-30 16:10 [js改变this指向的方法：call apply bind - 苦笔的博客 - CSDN博客](https://blog.csdn.net/u014711094/article/details/80468844)
+
+2018-09-30 16:19 [跨域资源共享 CORS 详解 - 阮一峰的网络日志](http://www.ruanyifeng.com/blog/2016/04/cors.html)
+
+2018-09-30 17:12 [JS中判断对象是不是数组的方法 - 掘金](https://juejin.im/post/5a965784f265da4e9449e816)
+
+2018-10-10 17:28 [深入理解 JavaScript 中的 delete 操作符 | bubkoo](http://bubkoo.com/2014/01/23/deep-in-delete/)
+
+2018-10-26 15:24 [JavaScript中的内存释放 - 简书](https://www.jianshu.com/p/3b7946c4b118)
+
+2018-10-26 15:24 [JavaScript 内存泄漏教程 - 阮一峰的网络日志](http://www.ruanyifeng.com/blog/2017/04/memory-leak.html)
+
+2018-11-09 16:50 [经验分享 | JavaScript反调试技巧 - FreeBuf互联网安全新媒体平台](https://www.freebuf.com/articles/system/163579.html?f=tt&hmsr=toutiao.io&utm_medium=toutiao.io&utm_source=toutiao.io)
+
+2018-11-12 17:13 [JavaScript Standard Style](https://standardjs.com/readme-zhcn.html)
+
+2018-11-15 14:17 [Js navigator.onLine 获取设备是否可以上网、连接网络 - 贝尔塔猫 - 博客园](https://www.cnblogs.com/CyLee/p/5899568.html)
+
+2018-11-20 09:52 [mailto: HTML e-mail 链接](https://www.haorooms.com/post/mailto_link_html)
+
+2018-11-22 12:01 [一行代码实现一个简单的模板字符串替换 - 微醺岁月 - SegmentFault 思否](https://segmentfault.com/a/1190000013516128)
+
+2018-11-30 12:46 [HTML5的 input:file上传类型控制](https://www.haorooms.com/post/input_file_leixing)
+
+#####  swiper滑动插件
+
+2015-02-04 18:24 [Swiper 中文API手册（share） - 挨踢前端 - 博客园](http://www.cnblogs.com/duanhuajian/p/4097310.html)
+
+2015-02-04 18:24 [swipejs–移动web页面内容触摸滑动类库_觉唯](http://www.jiawin.com/swipe-mobile-touch-slider)
+
+2015-05-14 14:52 [中文api - Swiper中文网](http://www.swiper.com.cn/api/)
+
+
+
+#####  Ajax
+
+2015-02-06 08:56 [对比javascript与jquery对ajax的实现 - 发表是最好的记忆 - 博客园](http://www.cnblogs.com/shenliang123/archive/2012/04/19/2456735.html)
+
+2015-02-06 08:56 [js与jQuery实现的兼容多浏览器Ajax请求实例_AJAX相关_脚本之家](http://www.jb51.net/article/57632.htm)
+
+2015-02-06 11:31 [ajax开发框架和XMLhttpRequest、responseText、responseXml和JSON的应用 - 其他 - 红黑联盟](http://www.2cto.com/kf/201303/196431.html)
+
+2015-02-06 11:31 [XmlHttpRequest调用Webservice的一点心得 - Krime Rex - 博客园](http://www.cnblogs.com/dashublog/archive/2012/07/18/2597872.html)
+
+2015-02-06 11:31 [傳送與接收 JSON](http://www.openhome.cc/Gossip/JavaScript/JSON.html)
+
+2015-02-06 11:31 [XMLhttpRequest 请求 XML,JSON ,POJO 数据 - 今天的努力,是为了明天更美好 - ITeye技术网站](http://takeme.iteye.com/blog/1691725)
+
+2015-02-06 15:58 [前端在本地模拟跨域获取后端数据 - snowinmay - 博客园](http://www.cnblogs.com/snowinmay/p/3415498.html)
+
+2015-06-11 09:54 [AJAX POST&amp;跨域 解决方案 - CORS - 聂微东 - 博客园](http://www.cnblogs.com/Darren_code/p/cors.html)
+
+2015-06-11 11:41 [jQueryUI实战之Autocomplete组件的JSONP使用](http://www.gbtags.com/technology/jquery/tutorial4jqueryuiautocomplete/)
+
+2016-03-08 13:57 [【AJAX】反向Ajax第1部分:Comet介绍 - Ronli - 博客园](http://www.cnblogs.com/ronli/archive/2011/10/15/ReverseAjax.html)
+
+2016-03-08 14:08 [反向 Ajax，第 1 部分: Comet 简介](http://www.ibm.com/developerworks/cn/web/wa-reverseajax1/)
+
+2016-06-07 20:03 [Ajax 通过 Request Payload 体发送 JSON 数据体 - CodeWeblog.com](http://www.codeweblog.com/ajax-%E9%80%9A%E8%BF%87-request-payload-%E4%BD%93%E5%8F%91%E9%80%81-json-%E6%95%B0%E6%8D%AE%E4%BD%93/)
+
+2016-08-26 13:11 [HTTP AJAX POST请求中参数以form data和request payload形式在servlet中的获取方式 - 推酷](http://www.tuicool.com/articles/EBnM7b)
+
+2016-08-26 13:11 [ajax - How can I post data as form data instead of a request payload? - Stack Overflow](http://stackoverflow.com/questions/11442632/how-can-i-post-data-as-form-data-instead-of-a-request-payload)
+
+2017-04-10 16:31 [使用xmlHttprequest 发送异步请求（Ajax核心对象） - CrazyShun - 博客园](http://www.cnblogs.com/CrazyShun/p/4835471.html)
+
+
+
+#####  heatMap热力图
+
+2015-02-12 15:22 [heatmap.js 一个用canvas画热力图的利器 | A.I](http://1.aisensiy.sinaapp.com/2011/12/heatmapjs/)
+
+2015-02-12 15:22 [heatmap.js | Dynamic Heatmaps for the Web](http://www.patrick-wied.at/static/heatmapjs/)
+
+2015-02-12 18:02 [浅谈Heatmap | 火丁笔记](http://huoding.com/2011/01/04/39)
+
+2015-02-12 18:02 [热力图功能示例](http://developer.baidu.com/map/jsdemo/demo/c1_15.htm)
+
+2015-02-13 10:36 [» How to make heat maps Corunet. El Blog](http://blog.corunet.com/how-to-make-heat-maps/)
+
+2015-02-13 10:36 [js使用heatmap热力图的一些操作 - fanzhang1990的专栏 - 博客频道 - CSDN.NET](http://blog.csdn.net/fanzhang1990/article/details/18042863)
+
+2015-02-13 11:29 [基于HTML5实现的Heatmap热图3D应用 - 51CTO.COM](http://developer.51cto.com/art/201409/451093.htm)
+
+2013-07-14 22:27 [heatmap.js | Showcases](http://www.patrick-wied.at/static/heatmapjs/showcases.html)
+
+2013-07-14 22:27 [heatmap.js/README.md at master · pa7/heatmap.js · GitHub](https://github.com/pa7/heatmap.js/blob/master/README.md)
+
+2013-07-14 22:28 [C#热图生成（二）——with Silverlight - Gildor Wang - 博客园](http://www.cnblogs.com/Gildor/archive/2010/05/18/1738225.html)
+
+2013-07-14 22:28 [HeatMapAPI.com - Home](http://www.heatmapapi.com/Default.aspx)
+
+2013-07-14 22:28 [国内外 Heatmap 、热图的应用和相关技术_.Net编程 - 好工具站长分享平台](http://www.haogongju.net/art/1357001)
+
+
+
+#####  prototype原型链
+
+2015-02-27 17:34 [[译] JavaScript核心指南(JavaScript Core) 【转】 - ifishing - 博客园](http://www.cnblogs.com/ifishing/archive/2010/12/08/1900594.html)
+
+2015-02-26 18:01 [__proto__以及prototype的分析_袁家小黑球_新浪博客](http://blog.sina.com.cn/s/blog_75a555e40101qn3s.html)
+
+2015-02-27 17:47 [关于__proto__和prototype的一些理解 - TonyCoolZhu - 博客园](http://www.cnblogs.com/zzcflying/archive/2012/07/20/2601112.html)
+
+2015-02-27 17:47 [__proto__ 属性 (Object) (JavaScript)](https://msdn.microsoft.com/zh-cn/library/ie/dn342818(v=vs.94).aspx)
+
+2015-03-02 13:32 [JavaScript类和继承：constructor 属性探秘 – 青豆前端](http://www.qingdou.me/5040.html)
+
+
+
+#####  JQuery
+
+2015-03-31 17:23 [[原]jQuery .tmpl(), .template()学习 - think8848 - 博客园](http://www.cnblogs.com/think8848/archive/2011/07/17/2108570.html)
+
+2015-04-14 10:26 [jQuery easy pie chart 插件使用（基于HTML5） - WEB开发笔记](http://www.chhua.com/web-note4816)
+
+2015-05-08 14:49 [Swipebox | A touchable jQuery lightbox](http://brutaldesign.github.io/swipebox/)
+
+2015-05-12 17:23 [Access-Control-Allow-Origin与跨域 - 推酷](http://www.tuicool.com/articles/7FVnMz)
+
+2015-05-12 17:38 [ajax JSONP请求 处理回调函数的注意：jsonpCallback是区分大小写 - 。。。 - 博客频道 - CSDN.NET](http://blog.csdn.net/default7/article/details/11363143)
+
+2015-05-12 18:11 [跨域请求之jQuery的ajax jsonp的使用解惑_jquery_脚本之家](http://www.jb51.net/article/28502.htm)
+
+2015-05-12 18:11 [jQuery ajax parsererror was not called的解决办法_51运维网--专注Linux/Unix系统安全运维_51OU.COM](http://www.51ou.com/browse/aijquery/57569.html)
+
+2015-05-12 18:11 [jquery ajax parsererror was not called - 流花浮影 - 博客频道 - CSDN.NET](http://blog.csdn.net/baggio7095586/article/details/38421955)
+
+2015-05-12 18:11 [eval解析JSON中的注意点 - Javascript - 郑州网建](http://camnpr.com/archives/564.html)
+
+2015-05-12 18:11 [JQuery ajax请求一直返回Error（parsererror） - yiluoAK_47的专栏 - 博客频道 - CSDN.NET](http://blog.csdn.net/yiluoak_47/article/details/8190598)
+
+2015-05-12 18:12 [Jsonp 跨域访问 - Zemo 学习笔记 - 博客频道 - CSDN.NET](http://blog.csdn.net/zemochen/article/details/19046895)
+
+2015-05-12 18:12 [JSON和JSONP有哪些区别，PhoneGap跨域请求如何实现 - js/jquery 教程](http://www.phonegap100.com/article-72-1.html)
+
+2015-05-13 09:44 [JQuery+ajax+jsonp 跨域访问 - Spring——Java程序员的春天 - ITeye技术网站](http://hanqunfeng.iteye.com/blog/1866712)
+
+2015-05-13 17:45 [[JS前端开发] js/jquery控制页面动态加载数据 滑动滚动条自动加载事件 - 冷眼相看、却不知我的辛酸 - 博客频道 - CSDN.NET](http://blog.csdn.net/yafei450225664/article/details/40889057)
+
+2015-05-15 14:11 [jQuery的deferred对象详解 - 阮一峰的网络日志](http://www.ruanyifeng.com/blog/2011/08/a_detailed_explanation_of_jquery_deferred_object.html)
+
+2015-05-15 14:17 [[转] Jquery滚动加载 - chutianshu_1981 - 博客园](http://www.cnblogs.com/chutianshu1981/p/3603356.html)
+
+2015-05-22 16:19 [设置JqueryUI DatePicker默认语言为中文 - X龙 - 博客园](http://www.cnblogs.com/longjxchina/archive/2012/04/23/2466998.html)
+
+2015-05-29 10:52 [js/jquery 实时监听输入框值变化的完美方案：oninput &amp; onpropertychange - PHP网站开发的日志 - 网易博客](http://blog.163.com/lgh_2002/blog/static/44017526201341511112874/)
+
+2015-08-20 13:58 [jQuery自定义滚动条样式插件mCustomScrollbar | 前端开发-WEB前端开发-专业前端开发网站](http://www.wufangbo.com/mcustomscrollbar/)
+
+2015-08-20 14:05 [11 个最佳 jQuery 滚动条插件 - Web前端 - ITeye资讯](http://www.iteye.com/news/27748)
+
+2015-08-20 14:05 [jQuery custom content scroller – malihu | web design](http://manos.malihu.gr/jquery-custom-content-scroller/)
+
+2015-08-20 14:05 [jquery Sly滚动条插件制作横向滚动条和垂直滚动条_素材中国17素材网](http://www.17sucai.com/pins/51.html)
+
+2015-08-27 14:08 [jquery 实现原理九：css - 阿训的博客 - 博客频道 - CSDN.NET](http://blog.csdn.net/lihongxun945/article/details/13770031)
+
+2015-08-27 14:19 [Sizzle引擎--原理与实践（一） - 西山 - 博客园](http://www.cnblogs.com/xesam/archive/2012/02/15/2352466.html)
+
+2015-08-27 18:41 [解密jQuery内核 DOM操作的核心函数domManip - 【Aaron】 - 博客园](http://www.cnblogs.com/aaronjs/p/3508190.html)
+
+2015-08-27 18:41 [Sizzle首页、文档和下载 - jQuery的选择器引擎 - 开源中国社区](http://www.oschina.net/p/sizzle/)
+
+2015-08-28 17:14 [【一起学习jQuery源码--逐行分析jQuery源码的奥秘】进阶视频 - 妙味视频教程 - 妙味茶馆 - Powered by Discuz!](http://bbs.miaov.com/forum.php?mod=viewthread&tid=7484)
+
+2015-09-06 17:51 [jQuery QQ表情插件jquery.qqFace.js](http://www.jq22.com/jquery-info365)
+
+2015-12-15 20:31 [jQuery.extend 函数详解 - RascallySnake - 博客园](http://www.cnblogs.com/RascallySnake/archive/2010/05/07/1729563.html)
+
+2016-03-03 17:35 [jQuery 3.0 的变化 - snandy - 博客园](http://www.cnblogs.com/snandy/p/4650599.html)
+
+2016-04-13 17:37 [使用jquery.qrcode生成二维码_Helloweba](http://www.helloweba.com/view-blog-226.html)
+
+2016-09-02 09:42 [解密jQuery事件核心 - 模拟事件（四） - 【Aaron】 - 博客园](http://www.cnblogs.com/aaronjs/p/3481075.html)
+
+2016-09-02 14:01 [jQuery 对AMD的支持（Require.js中如何使用jQuery） – WEB前端开发 - 专注前端开发，关注用户体验](http://www.css88.com/archives/4826)
+
+2018-04-11 18:16 [jQuery Animated Border: jquery.animatedborders.js - Craig Davis](http://there4.io/2013/01/03/jquery-animated-borders/)
+
+
+
+#####  语法高亮
+
+2015-04-10 13:39 [highlight.js 语法高亮](https://highlightjs.org/)
+
+2015-04-10 13:39 [用 highlight.js 为文章中的代码添加语法高亮 | Ghost中文网](http://www.ghostchina.com/adding-syntax-highlighting-to-ghost-using-highlight-js/)
+
+2015-04-10 13:39 [使用 highlight.js 高亮你的代码 - zlx's Thinking](http://blog.zlxstar.me/blog/2014/04/05/shi-yong-highlightjs-gao-liang/?utm_source=tuicool)
+
+2015-04-10 14:38 [Library API — highlight.js 8.5 documentation](http://highlightjs.readthedocs.org/en/latest/api.html#configure-options)
+
+2018-03-07 11:12 [使用highlight.js高亮你的代码 - Ermu丨 - 博客园](https://www.cnblogs.com/ermu-learn/p/5993025.html)
+
+2018-03-07 11:13 [highlight.js使你的代码高亮 - 风雨后见彩虹 - 博客园](https://www.cnblogs.com/moqiutao/p/6541089.html)
+
+
+
+#####  ES6
+
+2015-06-09 16:55 [ECMAScript 6 compatibility table](http://kangax.github.io/compat-table/es6/)
+
+2015-06-09 16:55 [ECMAScript 6简介 - ECMAScript 6入门](http://es6.ruanyifeng.com/#docs/intro)
+
+2015-04-21 15:09 [向ES6靠齐的Class.js - 推酷](http://www.tuicool.com/articles/uYNFfm2)
+
+2015-09-15 17:23 [ECMAScript 2015 Language Specification – ECMA-262 6th Edition](http://www.ecma-international.org/ecma-262/6.0/)
+
+2015-09-15 17:23 [www.ecma-international.org/ecma-262/6.0/ECMA-262.pdf](http://www.ecma-international.org/ecma-262/6.0/ECMA-262.pdf)
+
+2016-03-21 17:47 [(转)Babel-现在开始使用 ES6 - 推酷](http://www.tuicool.com/articles/biiyAfI)
+
+2016-03-21 17:48 [Babel · The compiler for writing next generation JavaScript](https://babeljs.io/repl/)
+
+2016-03-21 18:20 [Babel · The compiler for writing next generation JavaScript](https://babeljs.io/)
+
+2016-03-23 15:37 [[译] 基于 Webpack 和 ES6 打造 JavaScript 类库 - 推酷](http://www.tuicool.com/articles/ma6nEz)
+
+2015-06-09 11:47 [ECMAScript 6入门](http://es6.ruanyifeng.com/)
+
+2016-04-28 10:06 [ECMAScript Next compatibility table](http://kangax.github.io/compat-table/esnext/)
+
+2016-04-28 10:08 [How Much of ECMAScript 6 Does Your Browser Support? - ES-Checker](http://ruanyf.github.io/es-checker/)
+
+2016-04-28 10:08 [ES6 的功能侦测库 ES-Checker - 阮一峰的网络日志](http://www.ruanyifeng.com/blog/2015/06/es-checker.html)
+
+2016-04-28 10:09 [深入浅出ES6（七）：箭头函数 Arrow Functions](http://www.infoq.com/cn/articles/es6-in-depth-arrow-functions)
+
+2016-05-09 14:33 [Introduction | ES6](http://es6.imsyu.com/)
+
+2016-05-20 14:31 [ES6 学习笔记 - web前端 - SegmentFault](https://segmentfault.com/a/1190000002904199)
+
+2015-06-09 13:30 [ES6 JavaScript Promise的感性认知 « 张鑫旭-鑫空间-鑫生活](http://www.zhangxinxu.com/wordpress/2014/02/es6-javascript-promise-%E6%84%9F%E6%80%A7%E8%AE%A4%E7%9F%A5/)
+
+2016-12-01 16:27 [目前最好的 JavaScript 异步方案 async/await - OPEN 开发经验库](http://www.open-open.com/lib/view/open1448198037181.html)
+
+2016-12-10 16:06 [利用转码器让ES6在浏览器运行 - luoyjx - 搞起博客](https://blog.gaoqixhb.com/p/55783789cef7e0a008d5d6ef)
+
+2017-06-28 10:38 [使用 ES6 的浏览器兼容性问题 - 秘锐笔记 - SegmentFault](https://segmentfault.com/a/1190000005128101)
+
+2017-08-04 11:07 [Babel核心用法记要 - 简书](http://www.jianshu.com/p/ff7e0de573a9)
+
+2018-01-09 16:35 [js求数组最大值方法汇总 - zhwaner - 博客园](https://www.cnblogs.com/zhwaner/p/7513649.html)
+
+
+
+#####  正则
+
+2015-06-11 15:18 [验证身份证的正则表达式包括15，18 位 - jiang_tao_2010的日志 - 网易博客](http://blog.163.com/jiang_tao_2010/blog/static/1211268902010011102157920/)
+
+2015-06-11 15:18 [JS正则表达式验证身份证号码 - foart的专栏 - 博客频道 - CSDN.NET](http://blog.csdn.net/foart/article/details/6873622)
+
+2015-12-30 16:06 [电话号码正则表达式（支持手机号码，3-4位区号，7-8位直播号码，1－4位分机号） - FlykerWu - 博客园](http://www.cnblogs.com/flyker/archive/2009/02/12/1389435.html)
+
+2016-11-27 20:28 [正则表达式\w并不完全等于[A-Za-z0-9]](http://www.jiaonan.tv/html/blog/1/25419.htm)
+
+2017-02-16 08:30 [正则匹配闭合HTML标签（支持嵌套） - Qi Fei - 博客园](http://www.cnblogs.com/youring2/p/3836259.html)
+
+
+
+#####  MD5
+
+2015-06-23 17:46 [如何实现JS_MD5加密_865296174_新浪博客](http://blog.sina.com.cn/s/blog_815611fb0101f9kq.html)
+
+2015-06-25 17:16 [emn178/js-md5](https://github.com/emn178/js-md5)
+
+
+
+#####  跨域
+
+2015-06-24 16:46 [HTTP access control (CORS) - HTTP | MDN](https://developer.mozilla.org/en-US/docs/Web/HTTP/Access_control_CORS#Browser_compatibility)
+
+2015-06-24 17:36 [跨域post请求实现方案小结--转 - 一天不进步，就是退步 - 博客园](http://www.cnblogs.com/davidwang456/p/3977627.html)
+
+2015-06-25 17:16 [HTML5中Access-Control-Allow-Origin解决跨域问题-html5教程-网页制作-壹聚教程网](http://www.111cn.net/wy/html5/75509.htm)
+
+2015-06-26 13:38 [[经验] - JQuery.Ajax + 跨域 (crossDomain) + POST + JSON + WCF RESTful, 5大陷阱和解决方案 - Ivan Zou - 推酷](http://www.tuicool.com/articles/z67Bvi)
+
+2015-08-14 14:26 [html5 postMessage解决跨域、跨窗口消息传递 - Samaritans - 博客园](http://www.cnblogs.com/dolphinX/p/3464056.html)
+
+2015-08-14 16:32 [HTML5 postMessage 消息传输与 POST 跨域通信 | 志文工作室](http://lzw.me/a/html5-postmessage-post-cross-domain.html)
+
+2015-08-14 16:32 [html5跨域通讯之postMessage的用法 - 钱天兵 - 博客园](http://www.cnblogs.com/wshiqtb/p/3171199.html)
+
+2015-08-28 11:29 [实现跨域通信（跨文档消息传输）的几种方法（crossMessageEvent.js） - SegmentFault](http://segmentfault.com/a/1190000002448922)
+
+2015-06-11 13:23 [使用HTML5中postMessage实现Ajax中的POST跨域问题 - OPEN 开发经验库](http://www.open-open.com/lib/view/open1422239221856.html)
+
+2015-08-28 15:29 [javascript - postMessage Source IFrame - Stack Overflow](http://stackoverflow.com/questions/15329710/postmessage-source-iframe)
+
+2015-09-22 10:08 [iframe跨域通信的解决方案 - 前端网（W3Cfuns）](http://www.w3cfuns.com/article-5595175-1-1.html)
+
+2015-09-22 13:59 [疯狂的跨域技术【转贴】 - Think - 博客园](http://www.cnblogs.com/think/archive/2010/06/23/1763616.html)
+
+2015-09-22 13:59 [biqing/MessengerJS](https://github.com/biqing/MessengerJS)
+
+2015-09-22 14:01 [跨域传值即主页面与iframe之间互相传值_javascript技巧_脚本之家](http://www.jb51.net/article/44278.htm)
+
+2017-07-10 16:22 [[CORS：跨域资源共享] W3C的CORS Specification - Artech - 博客园](http://www.cnblogs.com/artech/p/cors-4-asp-net-web-api-02.html)
+
+2018-03-13 22:10 [CORS基础要点：关于dataType、contentType、withCredentials - 学明 - 博客园](https://www.cnblogs.com/xueming/p/cors-base.html)
+
+
+
+#####  Md5
+
+2015-06-25 16:56 [Faulty Labs](http://blog.faultylabs.com/?d=md5)
+
+
+
+#####  AMD
+
+2015-08-26 19:32 [AMD：浏览器中的模块规范 - snandy - 博客园](http://www.cnblogs.com/snandy/archive/2012/03/12/2390782.html)
+
+
+
+#####  emoji
+
+2015-09-08 19:11 [用来转换 emoji 表情的 jQuery 插件：jQuery Emoji Plugin - OPEN 开发经验库](http://www.open-open.com/lib/view/open1403409691599.html)
+
+2015-09-08 19:11 [[力荐]表情选择器](http://www.jq22.com/jquery-info854)
+
+2015-09-08 19:11 [JavaScript 的 Emoji 转换库：js-emoji - OPEN 开发经验库](http://www.open-open.com/lib/view/open1403079020825.html)
+
+2015-09-14 18:04 [10款受欢迎的Github Emoji开源库-控件新闻-慧都控件网](http://www.evget.com/article/2014/11/14/21821.html)
+
+2015-09-14 18:04 [iamcal/js-emoji](https://github.com/iamcal/js-emoji)
+
+2015-09-14 18:19 [Emoji cheat sheet for GitHub, Basecamp and other services](http://www.emoji-cheat-sheet.com/)
+
+2015-09-14 18:21 [Ranks/emojify.js](https://github.com/Ranks/emojify.js)
+
+2015-09-14 18:21 [arvida/emoji-cheat-sheet.com](https://github.com/arvida/emoji-cheat-sheet.com)
+
+2015-09-14 18:21 [和Emoji相关的那些开源项目 | @Get社区](http://get.jobdeer.com/?a=article&aid=181)
+
+2015-09-14 18:27 [emoji处理方式大起底 - ugg的专栏 - 博客频道 - CSDN.NET](http://blog.csdn.net/ugg/article/details/44225723)
+
+2015-09-15 13:46 [Emoji表情符号兼容方案 - karl的专栏 - 博客频道 - CSDN.NET](http://blog.csdn.net/qdkfriend/article/details/7576524)
+
+2015-09-15 14:43 [Emoji searcher](http://emoji.muan.co/)
+
+2015-09-15 15:07 [iOS Emoji](http://punchdrunker.github.io/iOSEmoji/table_html/index.html)
+
+2017-06-07 10:20 [emoji表情符号编码大全-符号大全](http://www.fuhaodq.com/biaoqingfuhao/1531.html)
+
+2017-06-07 10:20 [Emoji的编码以及常见问题的解决方法 - 推酷](http://www.tuicool.com/articles/zUZjUfJ)
+
+2017-06-07 10:20 [Twitter Emoji (Twemoji)](http://twemoji.maxcdn.com/)
+
+2017-06-07 10:20 [js解析emoji表情](http://www.mamicode.com/info-detail-1130758.html)
+
+2017-06-07 10:26 [揭秘：Emoji表情的前世今生_36氪](http://36kr.com/p/212997.html)
+
+2017-06-07 10:30 [📙 Emojipedia — 😃 Home of Emoji Meanings 💁👌🎍😍](http://emojipedia.org/)
+
+2017-06-07 10:38 [Twitter Emoji (Twemoji) Preview](http://twemoji.maxcdn.com/2/test/preview.html)
+
+2017-06-07 11:11 [Emoji unicode characters for use on the web](http://apps.timwhitlock.info/emoji/tables/unicode#block-6c-other-additional-symbols)
+
+2017-06-07 14:48 [基于emoji 国际通用表情在web上的输入与显示的记录 - jtans - 博客园](http://www.cnblogs.com/jtans/p/3955880.html)
+
+
+
+#####  设计模式
+
+2015-09-18 17:12 [常用的Javascript设计模式 - 博客 - 伯乐在线](http://blog.jobbole.com/29454/)
+
+2015-09-18 17:12 [js五种设计模式说明与示例-前端路上](http://www.51xuediannao.com/qd63/index.php/page-2-53-1.html)
+
+2015-09-18 17:12 [JS设计模式一：单例模式 - 虎猫特工的个人页面 - 开源中国社区](http://my.oschina.net/humaotegong/blog/410666?p=1)
+
+
+
+#####  HTTPS
+
+2015-09-22 18:33 [SSL证书与Https应用部署小结 - hanguokai/Jackie的日志 - 网易博客](http://han.guokai.blog.163.com/blog/static/136718271201211631456811/)
+
+2015-09-22 18:33 [5a Missing schema double download | High Performance Web Sites](http://www.stevesouders.com/blog/2010/02/10/5a-missing-schema-double-download/)
+
+2015-09-22 18:33 [HTTP 和 HTTPS 的异同 - 开源中国社区](http://www.oschina.net/question/12_51314)
+
+2015-09-23 17:19 [浏览器访问https 站点提示安全受到威胁的原因及解决.docx - 服务器软件 - OPEN开源文档](http://www.open-open.com/doc/view/4bdca42e8a3d4103b160d78e90c97ed6)
+
+2015-09-23 17:20 [https和http显示混合内容 - Luminji - 博客园](http://www.cnblogs.com/luminji/archive/2012/07/24/2606248.html)
+
+
+
+#####  JS全栈
+
+2015-09-23 18:03 [全栈式JavaScript - 博客 - 伯乐在线](http://blog.jobbole.com/52745/)
+
+2015-09-23 18:31 [也谈基于NodeJS的全栈式开发经验技巧 - 前端网（W3Cfuns）](http://www.w3cfuns.com/article-1315-1.html)
+
+
+
+#####  Underscore.js
+
+2015-10-29 14:34 [underscore.js学习笔记 - 推酷](http://www.tuicool.com/articles/rUzya2)
+
+2015-03-30 18:04 [Underscore.js 中文文档](http://www.bootcss.com/p/underscore/)
+
+
+
+#####  文件上传
+
+2015-11-25 16:50 [使用 JavaScript File API 实现文件上传](http://www.ibm.com/developerworks/cn/web/1101_hanbf_fileupload/)
+
+2015-11-25 17:11 [jsupload实现js上传文件，并显示文件上传进度 - 沐北 - 博客园](http://www.cnblogs.com/heikediguo/archive/2012/01/30/2332128.html)
+
+2016-01-26 19:24 [理解DOMString、Document、FormData、Blob、File、ArrayBuffer数据类型 « 张鑫旭-鑫空间-鑫生活](http://www.zhangxinxu.com/wordpress/2013/10/understand-domstring-document-formdata-blob-file-arraybuffer/)
+
+2016-01-26 19:24 [XMLHttpRequest实现HTTP协议下文件上传断点续传 « 张鑫旭-鑫空间-鑫生活](http://www.zhangxinxu.com/wordpress/2013/11/xmlhttprequest-ajax-localstorage-%E6%96%87%E4%BB%B6%E6%96%AD%E7%82%B9%E7%BB%AD%E4%BC%A0/)
+
+######  SWFUpload
+
+2016-07-20 15:38 [文件上传利器SWFUpload使用指南 - 无双 - 博客园](http://www.cnblogs.com/2050/archive/2012/08/29/2662932.html)
+
+2016-07-21 12:20 [痕网,痕网博客,痕网工作室 - henw](http://www.cnblogs.com/henw/archive/2012/03/22/2411592.html)
+
+
+
+#####  柯里化
+
+2015-11-30 13:41 [前端开发者进阶之函数柯里化Currying - 穆乙 - 博客园](http://www.cnblogs.com/pigtail/p/3447660.html)
+
+2015-03-06 17:28 [JS中的柯里化(currying) « 张鑫旭-鑫空间-鑫生活](http://www.zhangxinxu.com/wordpress/2013/02/js-currying/)
+
+
+
+#####  jqGrid
+
+2015-12-01 10:42 [jqGrid demos-jqGrid实例-中文-mn886.net](http://blog.mn886.net/jqGrid/)
+
+
+
+#####  localStorage/sessionStorage
+
+2015-12-14 10:36 [localStorage、sessionStorage用法总结 - 猫猫的博客 - ITeye技术网站](http://adamed.iteye.com/blog/1698740)
+
+2015-12-14 10:50 [Storage - Web 开发者指南 | MDN](https://developer.mozilla.org/zh-CN/docs/Web/Guide/API/DOM/Storage)
+
+2015-12-14 11:02 [HTML5 LocalStorage本地存储和sessionStorage使用 - 乔晓松 - 博客频道 - CSDN.NET](http://blog.csdn.net/qxs965266509/article/details/10012821)
+
+2015-12-14 11:35 [浏览器跨标签通讯 - WEB前端 - 伯乐在线](http://web.jobbole.com/82225/)
+
+2015-12-14 14:44 [手把手教你开发Chrome扩展三：关于本地存储数据 - walkingp - 博客园](http://www.cnblogs.com/walkingp/archive/2011/04/04/2003875.html)
+
+2015-12-14 18:04 [bevacqua/local-storage](https://github.com/bevacqua/local-storage)
+
+2015-12-14 18:06 [WQTeam/web-storage-cache](https://github.com/WQTeam/web-storage-cache)
+
+2016-05-24 10:10 [localForage——轻松实现 Web 离线存储 - 司徒正美 - 博客园](http://www.cnblogs.com/rubylouvre/p/3633404.html)
+
+
+
+#####  Cookie
+
+2015-12-14 11:10 [js操作cookie - 乔晓松 - 博客频道 - CSDN.NET](http://blog.csdn.net/qxs965266509/article/details/8967437)
+
+2015-12-14 18:06 [理解HTTP session原理及应用 - switch - SegmentFault](http://segmentfault.com/a/1190000002714236)
+
+2015-12-24 19:20 [JS设置cookie，删除cookie - KoMiles - 博客园](http://www.cnblogs.com/wangkongming/p/3992644.html)
+
+2018-01-24 11:08 [js与cookie的domain和path之间的关系 - 强大大 - 博客园](https://www.cnblogs.com/gg1234/p/5611086.html)
+
+2018-06-04 10:01 [Cookie/Session机制详解 - 张三的美丽家园 - 博客园](https://www.cnblogs.com/greatluoluo/p/5964888.html)
+
+
+
+#####  onunload/onbeforeunload
+
+2015-12-14 14:49 [JS监听关闭浏览器事件之Onunload与Onbeforeunload - binyao02123202的专栏 - 博客频道 - CSDN.NET](http://blog.csdn.net/binyao02123202/article/details/9293693)
+
+
+
+#####  模板引擎
+
+2015-12-23 10:01 [BaiduTemplate模板引擎](http://tangram.baidu.com/BaiduTemplate/)
+
+2015-12-23 10:10 [只有20行Javascript代码！手把手教你写一个页面模板引擎 - 博客 - 伯乐在线](http://blog.jobbole.com/56689/)
+
+
+
+#####  达夫设备
+
+2015-02-11 09:39 [达夫设备（Duff's Device）的详细说明 - kingmax26的专栏 - 博客频道 - CSDN.NET](http://blog.csdn.net/kingmax26/article/details/5252657)
+
+2015-02-11 10:13 [Javascript各种循环测试，达夫设备可用性分析_那时花开_新浪博客](http://blog.sina.com.cn/s/blog_8f49f0060100wwj1.html)
+
+2016-02-22 10:06 [高性能JavaScript 达夫设备 - WEB前端 - 伯乐在线](http://web.jobbole.com/82868/)
+
+
+
+#####  Promise
+
+2016-03-02 14:01 [JavaScript Promise迷你书（中文版）](http://liubin.org/promises-book/)
+
+2016-03-02 14:02 [浅谈Javascript中Promise对象的实现 - Joe - SegmentFault](https://segmentfault.com/a/1190000000684654)
+
+2016-03-02 14:05 [tildeio/rsvp.js: A lightweight library that provides tools for organizing asynchronous code](https://github.com/tildeio/rsvp.js)
+
+2016-03-02 20:18 [手工实现Js的Promise API - 推酷](http://www.tuicool.com/articles/zUBFni)
+
+2017-03-10 16:05 [Promise初级与进阶---都在这了 - Web Learning Step by Step - SegmentFault](https://segmentfault.com/a/1190000008548794?utm_source=weekly&utm_medium=email&utm_campaign=email_weekly)
+
+2017-03-10 16:05 [关于promises，你理解了多少？](http://mp.weixin.qq.com/s?__biz=MzIyMzAwNzExNg==&mid=209354478&idx=1&sn=edd70e826b6f9e8a570024f431c5f7fe&scene=1&key=c76941211a49ab58efed75a0405e3ca61338952103fe9eabf8528d801906e4522737274eecca5489d635a5c1aa5d8b12&ascene=0&uin=MTYxMDY3MjU1&devicetype=iMac%20MacBookPro11,3%20OSX%20OSX%2010.10.4%20build%2814E46%29&version=11020113&pass_ticket=ws1Ar8vSXgH8/uRvUaFkiKCA57pR8100%2bhwA5Ifuc00=)
+
+
+
+#####  Hook
+
+2016-03-02 17:41 [[设计模式]JavaScript钩子机制的应用场景与实现 - 蓝飞技术部落格 —— 关注前沿，追求卓越。](http://www.clanfei.com/2013/10/1730.html/comment-page-1)
+
+2016-03-02 17:45 [jQuery 2.0.3 源码分析 钩子机制 - 属性操作 - 【Aaron】 - 博客园](http://www.cnblogs.com/aaronjs/p/3387906.html)
+
+
+
+#####  函数式编程
+
+2016-06-06 14:21 [JavaScript 中的函数式编程实践](http://www.ibm.com/developerworks/cn/web/1006_qiujt_jsfunctional/)
+
+2016-11-17 19:16 [JS函数式编程指南 · GitBook](https://www.gitbook.com/book/llh911001/mostly-adequate-guide-chinese/details)
+
+
+
+#####  ESLint
+
+2016-09-03 10:58 [ESLint 使用入门 - 推酷](http://www.tuicool.com/articles/7JZZJzn)
+
+2016-09-03 10:58 [feross/standard: :star2: JavaScript Standard Style Guide](https://github.com/feross/standard)
+
+2016-09-03 11:03 [airbnb/javascript: JavaScript Style Guide](https://github.com/airbnb/javascript)
+
+2017-05-26 11:37 [如何使用ESlint - 翻页工 - 博客园](http://www.cnblogs.com/fanyegong/p/5302960.html)
+
+2017-05-26 12:37 [ESLint - Pluggable JavaScript linter - ESLint中文](http://eslint.cn/)
+
+2017-07-06 11:03 [Eslint 规则说明 - 前端笔记 - CSDN博客](http://blog.csdn.net/helpzp2008/article/details/51507428)
+
+
+
+#####  Mustache语法
+
+2017-01-09 20:59 [Javascript 语言的模板引擎：Mustache - OPEN 开发经验库](http://www.open-open.com/lib/view/open1416792564461.html)
+
+2017-01-09 21:02 [{{ mustache }}](http://mustache.github.io/)
+
+
+
+#####  脑图库
+
+2017-03-21 18:19 [Web-based tooling for BPMN, DMN and CMMN | bpmn.io](http://bpmn.io/)
+
+2017-03-21 18:37 [jsMind - Developer &amp; Open Source](http://hizzgdev.github.io/jsmind/developer.html)
+
+2017-03-22 10:49 [有哪些值得推荐的数据可视化工具？ - 知乎](https://www.zhihu.com/question/19929609)
+
+2017-03-22 13:48 [用HTML5构建一个流程图绘制工具 - sunjie - 博客园](http://www.cnblogs.com/sunjie9606/p/4281902.html)
+
+2017-03-22 16:16 [jsPlumb（1） - 开始使用 - 前端左右 - SegmentFault](https://segmentfault.com/a/1190000003826470)
+
+2017-03-23 10:07 [【看完想不会都难的系列教程】- (3) JQuery+JQueryUI+Jsplumb 实现拖拽模块，流程图风格 - 技术弟弟 - 博客园](http://www.cnblogs.com/techborther/archive/2012/04/17/2454101.html)
+
+2017-03-23 10:08 [JS组件系列——JsPlumb连线及相关效果详解-爱编程](http://www.w2bc.com/Article/82400)
+
+2017-03-23 10:17 [使用jsPlumb制作流程图设计器 - Sumer - 博客频道 - CSDN.NET](http://blog.csdn.net/livialiu1234/article/details/25618897)
+
+2017-03-24 18:36 [jsPlumb.js(连线器)API阅读笔记 - leomYili - 博客园](http://www.cnblogs.com/leomYili/p/6346526.html?utm_source=itdadao&utm_medium=referral)
+
+2017-03-24 18:39 [jsPlumb 学习笔记 - yinxianluo的专栏 - 博客频道 - CSDN.NET](http://blog.csdn.net/yinxianluo/article/details/48092037)
+
+2017-03-24 18:42 [JS组件系列——JsPlumb流程图及相关效果详解 - 阅读密码：123456](http://www.cnblogs.com/landeanfen/p/4959584.html)
+
+2017-03-24 18:43 [JS组件系列——JsPlumb流程图及相关效果详解（二：附源码） - 阅读密码：123456](http://www.cnblogs.com/landeanfen/p/4971211.html)
+
+2017-03-27 10:01 [jsPlumb学习笔记 - j.w - 博客园](http://www.cnblogs.com/wang-jing/p/4121559.html)
+
+2017-03-27 10:29 [用HTML5构建一个流程图绘制工具 - 推酷](http://www.tuicool.com/articles/YN7Nfm)
+
+2017-03-27 10:50 [Javascript库之JsPlumb网络拓扑图流程图 - 笔记 - 前端网（QDFuns）](http://www.qdfuns.com/notes/15311/51bd9363b0adf52fbc7d0a32bf49e731.html)
+
+2017-04-14 15:08 [Angular Directive Example with jsPlumb](https://jsplumb-ng.herokuapp.com/)
+
+2018-02-12 10:14 [toketaWare](https://www.toketaware.com/)
+
+2018-02-12 10:14 [Home - MindNode](https://mindnode.com/)
+
+2018-03-12 20:34 [百度脑图核心——kityminder-editor 本地化改造 - 简书](https://www.jianshu.com/p/9b53499d9031)
+
+2018-07-13 15:37 [jsPlumb之流程图经验总结-js教程-PHP中文网](http://www.php.cn/js-tutorial-373568.html)
+
+2018-07-13 15:41 [jsPlumb插件做一个模仿viso的可拖拉流程图 - 孤独的十字 - 博客园](https://www.cnblogs.com/sggx/p/3836432.html)
+
+
+
+#####  lodashjs
+
+2017-04-06 17:47 [lodash 中文网](http://lodashjs.com/)
+
+
+
+#####  SVG
+
+2017-04-12 17:07 [纯CSS实现帅气的SVG路径描边动画效果 « 张鑫旭-鑫空间-鑫生活](http://www.zhangxinxu.com/wordpress/2014/04/animateion-line-drawing-svg-path-%E5%8A%A8%E7%94%BB-%E8%B7%AF%E5%BE%84/)
+
+2017-05-04 08:45 [svg 资料链接 - 赵保龙 - 博客园](http://www.cnblogs.com/zhaobl/archive/2013/02/26/2933704.html)
+
+2017-05-04 08:45 [svg开发总结 - 赵保龙 - 博客园](http://www.cnblogs.com/zhaobl/archive/2013/03/07/2948273.html)
+
+2017-05-04 16:53 [jsPlumb Toolkit - build Flowcharts, Diagrams and connectivity based applications fast](https://jsplumbtoolkit.com/)
+
+2017-05-04 16:53 [帅气的SVG路径描边动画 (path animation) 实战应用 - 推酷](http://www.tuicool.com/articles/aa2iu22)
+
+2017-05-04 16:53 [SVG技术入门：线条动画实现原理 – WEB骇客](http://www.webhek.com/post/how-svg-line-animation-works.html)
+
+2017-05-05 13:57 [XML 问题: 使用 SVG 编程](https://www.ibm.com/developerworks/cn/xml/x-matters40/)
+
+2017-11-13 12:01 [前端实现 SVG 转 PNG - WEB前端 - 伯乐在线](http://web.jobbole.com/84244/)
+
+2018-05-09 10:35 [SVG在线编辑器](http://editor.method.ac/)
+
+2018-05-09 14:32 [20 个有用的 SVG 工具，提供更好的图像处理_Linux新闻_Linux公社-Linux系统门户网站](https://www.linuxidc.com/Linux/2015-08/121933.htm)
+
+
+
+#####  particles.js
+
+2017-05-12 12:09 [particlesJS使用简介 - 分享与交流 - 博客频道 - CSDN.NET](http://blog.csdn.net/csdn_yudong/article/details/53128570)
+
+2017-05-11 18:04 [Particles.js入门: 用于创建粒子系统的JavaScript库 - 推酷](http://www.tuicool.com/articles/UNNf2ej)
+
+
+
+#####  jsrsasign
+
+2017-06-05 10:36 [jsrsasign 前台签名，Java后台验证前台签名 - BizXue - 博客园](http://www.cnblogs.com/yqweber/p/4583140.html)
+
+2017-06-05 10:38 [openssl+前端jsrsa签名+后端nodejs验签 - 衣冠小禽兽 - 博客园](http://www.cnblogs.com/brandonhulala/p/6195815.html)
+
+
+
+#####  酷站
+
+2017-06-08 13:59 [I Remember](http://i-remember.fr/en)
+
+2018-01-24 16:37 [Dribbble - Show and tell for designers](https://dribbble.com/)
+
+
+
+#####  RxJS
+
+2018-02-27 11:23 [RxJS 中文文档](http://cn.rx.js.org/)
+
+2017-05-15 17:20 [rxjs简单入门-博客-云栖社区-阿里云](https://yq.aliyun.com/articles/65027)
+
+2018-02-27 11:23 [RxJs 介绍 - 推酷](https://www.tuicool.com/articles/iYv2qiR)
+
+
+
+#####  CoffeeScript
+
+2018-03-12 11:20 [CoffeeScript 中文](http://coffee-script.org/)
+
+
+
+#####  TypeScript
+
+2018-03-12 11:21 [TypeScript - JavaScript that scales.](http://www.typescriptlang.org/)
+
+
+
+#####  Raphael.js
+
+2018-03-12 20:36 [快速上手RaphaelJS - CSDN博客](http://blog.csdn.net/witsonx/article/details/52386277)
+
+2018-03-12 20:36 [Raphaeljs入门到精通（二） - mthoutai - 博客园](https://www.cnblogs.com/mthoutai/p/6913973.html)
+
+2018-03-12 20:47 [Raphaeljs 插件实现任意SVG节点加载 - 最初的梦 - ITeye博客](http://zha-zi.iteye.com/blog/2090872)
+
+2018-03-12 20:47 [使用raphael.js绘制中国地图_Helloweba](https://www.helloweba.net/javascript/242.html)
+
+2018-03-12 22:01 [RaphaelJS - 简书](https://www.jianshu.com/p/2a2604448f17)
+
+2018-03-12 22:01 [raphael.js 流程图实例 - 沈振华 - 博客园](https://www.cnblogs.com/shenzhenhua/p/5626548.html)
+
+
+
+#####  CodeMirror
+
+2018-07-17 16:13 [codeMirror实现Json编辑器的代码格式化 - Angies - 博客园](https://www.cnblogs.com/Angies/p/7873742.html)
+
+2018-07-17 16:15 [codeMirror实现Json编辑器功能 - Angies - 博客园](https://www.cnblogs.com/Angies/p/7830948.html)
+
+2018-07-17 16:31 [CodeMirror教程，CodeMirrorAPI中文信息 - 一入PHP岁月催 - 博客园](https://www.cnblogs.com/oldphper/p/4065425.html)
+
+2018-07-17 18:03 [在Vue中使用CodeMirror 格式显示错误 行数错乱 &amp; 代码隐藏 - wenr - 博客园](https://www.cnblogs.com/wenruo/p/8274958.html)
+
+2018-07-19 10:25 [Index of /demo/](http://codemirror.net/demo/)
+
+
+
+#####  html2canvas
+
+2018-08-22 10:50 [web实时长图实践 - QQ音乐技术团队 | 十条](http://webcache.googleusercontent.com/search?q=cache:http://www.10tiao.com/html/223/201802/2651232877/1.html&gws_rd=cr)
+
+2018-01-15 22:36 [使用html2canvas实现浏览器截图 - 焰尾迭 - 博客园](https://www.cnblogs.com/yanweidie/p/5203943.html)
+
+2018-01-16 10:32 [移动端H5页面截图【含 domtoimage、html2canvas 】 - CSDN博客](http://blog.csdn.net/candy_home/article/details/78424642)
+
+2018-08-22 10:57 [html2canvas库使用中出现的问题及解决方案 - CSDN博客](https://blog.csdn.net/SDUST_JSJ/article/details/78122610)
+
+2018-11-29 20:11 [基于html2canvas实现网页保存为图片及图片清晰度优化 - lihuang319的专栏 - CSDN博客](https://blog.csdn.net/lihuang319/article/details/81702201)
+
+
+
+#####  p5.js
+
+2018-09-11 11:08 [p5.js教程01-一文入门p5.js - DataScience](http://mlln.cn/2018/07/06/p5.js%E6%95%99%E7%A8%8B01-%E5%BF%AB%E9%80%9F%E5%85%A5%E9%97%A8/)
+
+2018-09-11 11:16 [p5.js 和 Processing 的恩怨情仇](https://zhuanlan.zhihu.com/p/36167161)
+
+2018-09-11 14:15 [p5.js入门教程(1) p5.js简介&amp;基本形状绘制 - CSDN博客](https://blog.csdn.net/qq_27534999/article/details/75151515)
+
+
+
+#####  echarts
+
+2018-06-27 10:54 [ECharts Gallery](http://gallery.echartsjs.com/editor.html?c=xr1W9m5LOG)
+
+2018-06-27 10:55 [ECharts Gallery](http://gallery.echartsjs.com/editor.html?c=xryq1SbiDf)
+
+2018-06-27 10:56 [ECharts Demo](http://echarts.baidu.com/examples/editor.html?c=map-polygon&theme=light)
+
+2018-06-27 10:56 [GeoJSON](http://geojson.org/)
+
+2018-06-27 10:56 [ECharts Demo](http://www.echartsjs.com/gallery/editor.html?c=scatter-map)
+
+2018-06-27 10:56 [ECharts Gallery](http://gallery.echartsjs.com/editor.html?c=xBJDR584vG)
+
+2018-06-28 10:08 [在 ECharts GL 中绘制三维地图](http://echarts.baidu.com/blog/2017/06/14/building-realistic-map-with-echarts-gl.html)
+
+
+
+####  PHP
+
+2013-01-17 23:00 [phpcms v9类别调用方法 - phpcms-帮助教程 - phpcms论坛](http://bbs.phpcms.cn/thread-243656-1-1.html)
+
+2013-01-17 23:04 [phpcms v9类别列表的栏目调用 - phpcms-帮助教程 - phpcms论坛](http://bbs.phpcms.cn/thread-246742-1-1.html)
+
+2013-03-14 13:30 [phpcms v9视频模型第二版正式发布 - phpcms-插件、二次开发 - phpcms论坛](http://bbs.phpcms.cn/forum.php?mod=viewthread&tid=258374&highlight=%CA%D3%C6%B5%C4%A3%D0%CD)
+
+2013-03-14 13:30 [phpcms v9视频模型开放下载中 - phpcms-插件、二次开发 - phpcms论坛](http://bbs.phpcms.cn/thread-246745-1-1.html)
+
+2013-03-14 13:30 [phpcms v9视频模型升级程序 - phpcms-程序发布 - phpcms论坛](http://bbs.phpcms.cn/forum.php?mod=viewthread&tid=767546&highlight=%CA%D3%C6%B5%C4%A3%D0%CD)
+
+2013-03-14 13:30 [PHPCMS V9 视频模型第二版【GBK/UTF-8】完全手册 （貌似万能了） - phpcms-使用与交流 - phpcms论坛](http://bbs.phpcms.cn/forum.php?mod=viewthread&tid=615517&highlight=%CA%D3%C6%B5%C4%A3%D0%CD)
+
+2013-03-24 19:38 [v9二次开发模块的权限问题 - phpcms-使用与交流 - phpcms论坛](http://bbs.phpcms.cn/forum.php?mod=viewthread&tid=268284&highlight=%C8%A8%CF%DE)
+
+2013-03-24 19:39 [phpcms二次开发中提示操作没有权限的解决方法（超实用） - phpcms-使用与交流 - phpcms论坛](http://bbs.phpcms.cn/forum.php?mod=viewthread&tid=706621&highlight=%C8%A8%CF%DE)
+
+2013-03-27 18:25 [OpenLayers: Home](http://www.openlayers.org/)
+
+2013-03-28 17:43 [OpenLayers Cluster Strategy Example](http://openlayers.org/dev/examples/strategy-cluster.html)
+
+2013-03-28 17:43 [OpenLayers: Sundials on a Spherical Mercator Map](http://openlayers.org/dev/examples/sundials-spherical-mercator.html)
+
+2013-04-01 20:53 [Lazy Load, 延迟加载图片的 jQuery 插件 - NeoEase](http://www.neoease.com/lazy-load-jquery-plugin-delay-load-image/)
+
+2013-04-01 20:53 [Lazy Load Plugin for jQuery](http://www.appelsiini.net/projects/lazyload)
+
+2013-07-01 11:49 [CodeIgniter 中国 - PHP 框架 CodeIgniter 中国社区](http://codeigniter.org.cn/)
+
+2013-08-04 17:55 [【2010年3月13号更新】教你在windows 7/xp 下安装使用mencoder_庄子如是说BLOG_百度空间](http://hi.baidu.com/putword/item/e5910a187d2aed14e2f9867f)
+
+2013-08-20 16:08 [num参数 - phpcms-BUG报告 - phpcms论坛](http://bbs.phpcms.cn/forum.php?mod=viewthread&tid=824918&highlight=num)
+
+2013-08-28 16:34 [使用jQuery打造炫丽的滚屏网页效果](http://demo.newhtml.net/LateralOnScrollSliding/index2.html)
+
+2013-09-18 15:17 [打越南语：越南语输入法·越南语键盘·越南语在线输入·越南语特殊字符·越南语字母·vietnamien keyboard](http://www.dawaiyu.com/yuenanyu.htm)
+
+2013-09-18 15:17 [越南语翻译_越南语在线翻译_免费在线翻译_越汉/汉越在线翻译 | 越南知道ynzd.org 全球最好用的越南语在线翻译](http://www.ynzd.org/)
+
+2013-10-26 13:44 [解决[warn] _default_ VirtualHost overlap on port 80, the first has precedence问题 - PHP网站开发的日志 - 网易博客](http://blog.163.com/lgh_2002/blog/static/44017526201141711451919/)
+
+2015-01-31 20:33 [Win10预览版9926官方ISO镜像下载地址大全 - Win10系统下载,Win10镜像下载,Win10下载,Win10预览版9926,Win10消费者预览版 - IT之家](http://www.ithome.com/html/win10/125563.htm)
+
+2016-08-10 09:33 [win7 扩展双屏后 双屏同时显示任务栏 - X-Bing - 博客园](http://www.cnblogs.com/x-bing/p/5226933.html)
+
+2015-07-06 18:02 [很好用的php执行时间分析工具webgrind - mecho的专栏 - 博客频道 - CSDN.NET](http://blog.csdn.net/mecho/article/details/11071079)
+
+2015-07-06 18:02 [webgrind安装使用详细说明 - yukon12345的专栏 - 博客频道 - CSDN.NET](http://blog.csdn.net/yukon12345/article/details/11408617)
+
+2017-02-14 14:59 [Composer](https://getcomposer.org/)
+
+2017-02-14 15:36 [Windows下安装使用curl命令_百度经验](http://jingyan.baidu.com/article/a681b0dec4c67a3b1943467c.html)
+
+2017-02-20 16:41 [PHP AJAX JSONP实现跨域请求使用实例 - 神马和浮云 - 博客园](http://www.cnblogs.com/xcxc/p/3729660.html)
+
+2017-02-22 11:14 [自动生成表单的Form类 - 小竹zz - 博客频道 - CSDN.NET](http://blog.csdn.net/zhujunxxxxx/article/details/15238535)
+
+2017-03-03 10:36 [Apache的Order Allow,Deny 详解 - 与时俱进 - 博客园](http://www.cnblogs.com/top5/archive/2009/09/22/1571709.html)
+
+2017-03-10 10:29 [Apache多虚拟主机多版本PHP（5.2+5.3+5.4）共存运行配置全过程 - Eller](https://my.oschina.net/u/2366984/blog/543148?p={{page}})
+
+2017-03-10 10:29 [部署两套apache-httpd，php不同版本，添加php模块 - zhuchunyan_aijia的博客 - 博客频道 - CSDN.NET](http://blog.csdn.net/zhuchunyan_aijia/article/details/54375394)
+
+2017-03-27 13:46 [PHP5.2至5.6的新增功能详解 - 老彭的博客](http://pengbotao.cn/php5-upgrading.html)
+
+2017-03-27 14:46 [PDO方法与常量_纠结的大肥猫_新浪博客](http://blog.sina.com.cn/s/blog_8b8586b90101et5w.html)
+
+2017-03-29 17:22 [PHP如何把函数通过参数传递 - 开源中国社区](http://www.oschina.net/question/1029305_115257)
+
+2017-05-16 14:20 [wampserver安装错误 应用程序无法正常启动0xc000007b解决方法，wamp0xc000007b_PHP教程 | 帮客之家](http://www.bkjia.com/PHPjc/1195347.html)
+
+2017-05-17 16:03 [php示例代码之类似于C#中的String.Format方法 - 来自非洲大草原的食人虎 - 博客园](http://www.cnblogs.com/yql1986/archive/2011/08/01/2123618.html)
+
+2017-05-18 13:37 [PHP 中比较 true 和 false 的问题 - 追求卓越 - 博客频道 - CSDN.NET](http://blog.csdn.net/kevin6899/article/details/8156337)
+
+2017-05-19 09:26 [PHP Tokenizer 学习笔记 - 無標題文檔](https://www.gracecode.com/posts/2966.html)
+
+2017-05-25 11:06 [Access-Control-Allow-Origin 跨域设置多域名 - 简书](http://www.jianshu.com/p/b587dd1b7086)
+
+2017-05-25 11:06 [ajax 设置Access-Control-Allow-Origin实现跨域访问 - 傲雪星枫 - 博客频道 - CSDN.NET](http://blog.csdn.net/fdipzone/article/details/46390573/)
+
+2017-05-31 15:40 [PHP 中获取当前时间[Datetime Now] - 码不能停 - 博客园](http://www.cnblogs.com/flowerszhong/p/5313794.html)
+
+2017-05-31 18:19 [PHP中拼接sql(insert、update、replace)语句的三种方式 - sunway888的专栏 - 博客频道 - CSDN.NET](http://blog.csdn.net/sunway888/article/details/41257363)
+
+2017-06-05 17:56 [CURL常用命令 - 张贺 - 博客园](http://www.cnblogs.com/gbyukg/p/3326825.html)
+
+2017-06-06 15:42 [php之curl实现http与https请求的方法_php技巧_脚本之家](http://www.jb51.net/article/56492.htm)
+
+2017-06-06 15:43 [php curl用法_专题_脚本之家](http://www.jb51.net/Special/66.htm)
+
+2017-06-06 15:43 [Linux中Curl命令couldn't connect to host解决方案 php操作Curl（http,https）无法获取远程数据解决方案 - “鸟叔“手擒大数据 - 博客频道 - CSDN.NET](http://blog.csdn.net/abang888/article/details/30249009)
+
+2017-06-06 15:44 [详解PHP fsockopen的使用方法 - 51CTO.COM](http://developer.51cto.com/art/200912/166333.htm)
+
+2017-06-20 16:06 [PHP中时区设置的三种方法(timezone) - 推酷](http://www.tuicool.com/articles/UFruA3M)
+
+2017-06-20 17:44 [各操作系统下php.ini文件的位置在哪里 - SpeedBoy007的专栏 - 博客频道 - CSDN.NET](http://blog.csdn.net/meegomeego/article/details/25704645)
+
+2017-06-20 18:13 [Fatal error: Class 'XMLWriter' not found in Classes_高伟_新浪博客](http://blog.sina.com.cn/s/blog_8261811d0101qum4.html)
+
+2017-06-20 18:14 [记录PHP错误日志 display_errors与log_errors的区别_php技巧_脚本之家](http://www.jb51.net/article/31499.htm)
+
+2017-06-20 18:16 [php获取当前域名、主机、URL、端口、参数、网址、路径、代理等 - NiceGY - 博客频道 - CSDN.NET](http://blog.csdn.net/phpfenghuo/article/details/45269347)
+
+2017-06-20 18:16 [PHP $_SERVER详解_php技巧_脚本之家](http://www.jb51.net/article/17108.htm)
+
+2017-06-22 15:13 [解决PHP之 Allowed memory size of xxx bytes exhausted - ewili的专栏 - 博客频道 - CSDN.NET](http://blog.csdn.net/ewili/article/details/8034199)
+
+2017-11-21 10:59 [php版DES - 调调儿 - 博客园](https://www.cnblogs.com/weberypf/p/5228257.html)
+
+2018-03-19 17:59 [高性能的PHP框架 - Phalcon Framework](https://phalconphp.com/zh/)
+
+2018-06-04 14:32 [为什么要刷新一下才能获取cookie - xiebruce - 博客园](https://www.cnblogs.com/xiedie/p/4162414.html)
+
+#####  composer
+
+2017-02-14 15:43 [Packagist / Composer 中国全量镜像](https://pkg.phpcomposer.com/)
+
+2017-02-14 15:19 [composer如何安装？ - PHP - 知乎](https://www.zhihu.com/question/22885542)
+
+2017-05-15 16:48 [composer 报 zlib_decode(): data error - 码农成长记 - 博客频道 - CSDN.NET](http://blog.csdn.net/jt521xlg/article/details/47129919)
+
+2017-05-15 17:09 [Windows 8.1 下 composer self-update 出现 [ErrorException] zlib_decode(): data error提示的解决！ – 水井湾](http://www.shuijingwanwq.com/2015/06/29/604/)
+
+2017-05-16 09:50 [Composer 中文网 / Packagist 中国全量镜像](http://www.phpcomposer.com/)
+
+2017-05-16 09:50 [Packagist](https://packagist.org/)
+
+2017-05-23 08:31 [Composer更新慢的终极解决方案 - fishermanmax的博客 - 博客频道 - CSDN.NET](http://blog.csdn.net/fishermanmax/article/details/51975692)
+
+
+
+#####  Slim
+
+2017-02-14 15:56 [使用slim3快速开发RESTful API_PHP教程_网络编程_码蚁之家](http://www.codes51.com/article/detail_254116_2.html)
+
+2017-02-14 15:56 [Slim 中文文档 | 幽林的博客](http://www.uuling.com/2014/11/05/slim-%E4%B8%AD%E6%96%87%E6%96%87%E6%A1%A3/)
+
+2017-02-14 16:37 [使用Slim框架实现基本的REST API | Paincker | Hacker Meets Painter](http://www.paincker.com/slim-rest-api)
+
+2017-02-14 16:38 [利用Slim模拟服务端REST接口实战](https://sanwen8.cn/p/10bszDp.html)
+
+2017-02-16 08:31 [从这里开始使用 Slim 3 入门篇 - 推酷](http://www.tuicool.com/articles/QFBZFre)
+
+2017-02-20 08:56 [使用slim3快速开发RESTful API - 博客频道 - CSDN.NET](http://blog.csdn.net/u011250882/article/details/50101599)
+
+2017-02-20 08:56 [基于PHP SLIM 框架搭建 RESTful 风格API 示例 - David116的博客 - 博客频道 - CSDN.NET](http://blog.csdn.net/david116/article/details/51720900)
+
+2017-02-20 15:28 [slim restful api 完全解析 ，从配置slim到建成restful api servers-zyy技术博客](http://www.zyyapp.com/post/213.html)
+
+2017-02-20 17:56 [php - Slim JSON Outputs - Stack Overflow](http://stackoverflow.com/questions/6807404/slim-json-outputs)
+
+2017-03-03 09:50 [PHP再学习4—— slim框架学习和使用 - 物联网 IoT 经验分享小站 - 博客频道 - CSDN.NET](http://blog.csdn.net/xukai871105/article/details/18677215)
+
+2017-03-03 12:52 [PHP slim restfull框架nginx 配置 - jackluo - 博客园](http://www.cnblogs.com/jackluo/p/3737924.html)
+
+2017-11-21 12:09 [Slim 框架 - SlimPHP中文网](http://www.slimphp.net/)
+
+
+
+#####  CAS 单点登录
+
+2017-05-15 09:40 [jasig CAS 实现单点登录 - java、php客户端登录实现 - べ袽猓柯苡づ - 博客园](http://www.cnblogs.com/rgky/p/5687096.html?utm_source=itdadao&utm_medium=referral)
+
+2017-05-15 09:40 [apache配置文件AddType application/x-httpd-php .php -老邪的博客-搜狐博客!!!](http://laoxiege.blog.sohu.com/116742025.html)
+
+2017-05-15 09:40 [cas实现单点登录,登出(java和php客户端) - Thinking in life - 博客频道 - CSDN.NET](http://blog.csdn.net/fei1502816/article/details/6695117)
+
+2017-05-15 16:33 [Laravel 集成 phpCAS 踩坑记 - 推酷](http://www.tuicool.com/articles/Y3ARjmb)
+
+2017-05-16 09:49 [php 用CAS实现SSO单点登陆及登出功能 - Sara的专栏 - 博客频道 - CSDN.NET](http://blog.csdn.net/haiqiao_2010/article/details/38365733)
+
+2017-05-16 09:50 [phpCAS - CAS Clients - Apereo Wiki](https://wiki.jasig.org/display/CASC/phpCAS)
+
+2017-06-01 15:36 [CAS+SSO原理浅谈 -写自己的历史-ChinaUnix博客](http://blog.chinaunix.net/uid-22816738-id-3525939.html)
+
+2017-06-01 17:47 [单点登录系统cas资料汇总 - IT十年 - 博客频道 - CSDN.NET](http://blog.csdn.net/matthewei6/article/details/50636333)
+
+
+
+#####  token
+
+2017-05-19 09:15 [php token的生成 - 不解凡忧 - 博客园](http://www.cnblogs.com/bjfy/p/5909690.html)
+
+2017-03-02 17:34 [PHP中token验证 - Huangwenting1990的博客 - 博客频道 - CSDN.NET](http://blog.csdn.net/huangwenting1990/article/details/52261592)
+
+2017-05-19 09:26 [浅谈Token安全及php表单加入Token防止重复提交-Php安全-Php教程-壹聚教程网](http://www.111cn.net/phper/phpanqn/97240.htm)
+
+
+
+#####  导出Excel
+
+2017-06-20 10:48 [php工具类——导出excel - Leesire的专栏 - 博客频道 - CSDN.NET](http://blog.csdn.net/lee_sire/article/details/49804141)
+
+2017-06-20 10:49 [PHPExcel 中文使用手册详解](http://www.jquerycn.cn/a_17115)
+
+2017-06-20 11:13 [PHPExcel与ajax结合进行文件下载 - wyj880220的专栏 - 博客频道 - CSDN.NET](http://blog.csdn.net/wyj880220/article/details/48439153)
+
+2017-06-20 16:05 [PhpExcel中文帮助手册|PhpExcel使用方法 - FreeSpider - 博客园](http://www.cnblogs.com/freespider/p/3284828.html)
+
+2017-06-20 18:16 [phpexcel来做表格导出（多个工作sheet） - wensongyu - 博客园](http://www.cnblogs.com/yuwensong/p/3771787.html)
+
+
+
+####  ASP.NET
+
+2016-11-23 17:00 [ASP.NET中读取XML文件4种方法 - xwdreamer的专栏 - 博客频道 - CSDN.NET](http://blog.csdn.net/xw13106209/article/details/6367865)
+
+2016-12-02 16:06 [【笔记】【VSCode】Windows下VSCode编译调试c/c++ - cathy_mu - 博客园](http://www.cnblogs.com/CATHY-MU/p/5888579.html)
+
+
+
+####  Ruby
+
+2016-05-18 18:34 [Home · ruby-china/rubygems-mirror Wiki](https://github.com/ruby-china/rubygems-mirror/wiki)
+
+2016-05-18 18:37 [gem install SSL 错误。 » 社区 » Ruby China](https://ruby-china.org/topics/29323)
+
+2016-05-18 18:37 [RubyGems 镜像 - Ruby China](https://gems.ruby-china.org/)
+
+2016-05-18 18:38 [RubyGems 镜像 - 淘宝网](https://ruby.taobao.org/)
+
+2016-05-18 18:41 [Ruby 程序设计语言官方网站](https://www.ruby-lang.org/zh_cn/)
+
+2016-05-26 21:28 [Download RubyGems | RubyGems.org | Ruby 社区 Gem 托管](https://rubygems.org/pages/download)
+
+
+
+####  Python
+
+2015-04-29 14:09 [Python开发_python的安装 - Hongten - 博客园](http://www.cnblogs.com/hongten/p/hongten_python_install.html)
+
+2015-04-29 15:11 [Python安装和配置环境变量 - 柳絮飞 - 51Testing软件测试网 51Testing软件测试网-中国软件测试人的精神家园](http://www.51testing.com/html/16/271416-867879.html)
+
+2016-01-13 16:44 [Python解释器 - 廖雪峰的官方网站](http://www.liaoxuefeng.com/wiki/001374738125095c955c1e6d8bb493182103fac9270762a000/001407375700558864523211a5049c4983176de304549c8000)
+
+2016-05-13 12:25 [安装Python - 廖雪峰的官方网站](http://www.liaoxuefeng.com/wiki/001374738125095c955c1e6d8bb493182103fac9270762a000/001374738150500472fd5785c194ebea336061163a8a974000)
+
+2016-05-13 14:07 [导出chrome书签为Markdown | 梦里风林](https://ahangchen.gitbooks.io/windy-afternoon/content/kit/markdown/chrome_mark2_md.html)
+
+2017-06-21 18:01 [Instagram脸部特征搜索引擎 - Python开发社区 | CTOLib码库](http://www.ctolib.com/kendricktan-iffse.html)
+
+2018-03-20 17:17 [超酷！我不写一行代码，爬取GitHub上几万的Python库_搜狐科技_搜狐网](http://www.sohu.com/a/217481537_752099)
+
+
+
+####  SVN
+
+2014-04-13 02:36 [VisualSVN Server的配置和使用方法 图文_win服务器_脚本之家](http://www.jb51.net/article/17365.htm)
+
+2015-12-12 15:31 [svn提示出错异常为remains in conflict --脚本百事通](http://www.csdn123.com/html/mycsdn20140110/5b/5bb8d97800c29813c8fb4cf23f18400f.html)
+
+2016-01-19 14:41 [svn &amp; git 问题汇总 - Archrjoe - 博客园](http://www.cnblogs.com/piercalex/p/4045735.html)
+
+2016-01-20 20:28 [windows下svn命令行乱码解决 - 愚公移山 - 博客频道 - CSDN.NET](http://blog.csdn.net/5257007/article/details/6093577)
+
+
+
+####  GIT
+
+2015-01-22 22:46 [windows版本git的下载地址 - 任跃兵 - 博客园](http://www.cnblogs.com/cnryb/p/3482352.html)
+
+2015-01-23 08:55 [git 使用简易指南](http://www.bootcss.com/p/git-guide/)
+
+2015-01-23 08:57 [Git 参考手册](http://gitref.org/zh/)
+
+2015-01-23 08:58 [Eclipse上安装GIT](http://yufenfei.iteye.com/blog/1750124)
+
+2015-01-23 09:11 [git配合tortoiseGit的基础使用](http://www.cnblogs.com/ssor/archive/2012/02/04/2337823.html)
+
+2015-01-23 09:16 [download.TortoiseGit.org](http://download.tortoisegit.org/tgit/1.8.12.0/)
+
+2015-01-23 09:21 [如何在windows下安装GIT_百度经验](http://jingyan.baidu.com/article/90895e0fb3495f64ed6b0b50.html)
+
+2015-01-23 09:39 [在TortoiseGit中使用SSH host](http://zengrong.net/post/1775.htm)
+
+2015-01-23 09:54 [Git初学者：msysgit和tortoisegit](http://teddysun.com/333.html)
+
+2015-01-23 09:54 [Win7上Git安装及配置过程](http://blog.chinaunix.net/uid-25806493-id-3319781.html)
+
+2015-01-23 09:59 [Git版本控制软件结合GitHub从入门到精通常用命令学习手册](http://www.ihref.com/read-16369.html)
+
+2015-01-23 10:22 [GitHub · Build software better, together.](https://github.com/)
+
+2015-01-23 11:25 [TortoiseGit 使用教程](http://blog.csdn.net/ethan_xue/article/details/7749639)
+
+2015-01-23 15:28 [eclipse 提交代码到 git - 向北西行的专栏 - 博客频道 - CSDN.NET](http://blog.csdn.net/haizhu668/article/details/40584399)
+
+2015-01-23 15:29 [eclipse中使用git - - 博客频道 - CSDN.NET](http://blog.csdn.net/hhhccckkk/article/details/10458159)
+
+2015-01-23 15:35 [解决eclipse中git插件中的cannot open git-upload-pack问题 - Andye - 博客园](http://www.cnblogs.com/yejiurui/p/3386393.html)
+
+2015-01-23 15:43 [github常见操作和常见错误！错误提示：fatal: remote origin already exists. - god_wot的专栏 - 博客频道 - CSDN.NET](http://blog.csdn.net/god_wot/article/details/10522405)
+
+2015-01-23 16:17 [How Can I Resolve:&quot;can not open 'git-upload-pack' &quot; error in eclipse? - Stack Overflow](http://stackoverflow.com/questions/7077016/how-can-i-resolvecan-not-open-git-upload-pack-error-in-eclipse)
+
+2015-03-02 10:08 [如何从Eclipse导入github上的项目源码 - hil2000的专栏 - 博客频道 - CSDN.NET](http://blog.csdn.net/hil2000/article/details/8566456)
+
+2015-03-02 11:27 [使用Gitolite搭建轻量级的Git服务器-a-plus-ChinaUnix博客](http://blog.chinaunix.net/uid-15174104-id-3843570.html)
+
+2015-03-03 10:39 [Git 怎样保证fork出来的project和原project（上游项目）同步更新 - 推酷](http://www.tuicool.com/articles/Mnmmqyi)
+
+2015-03-03 10:39 [github更新自己fork的代码 | 开源 | 施主`牛`步](http://www.shizuwu.cn/post/669.html)
+
+2015-03-09 17:53 [github更新自己fork的代码 | 开源 | 施主`牛`步](http://www.360doc.com/content/13/1217/22/14570841_338006038.shtml)
+
+2015-03-11 16:02 [Git教程 - 廖雪峰的官方网站](http://www.liaoxuefeng.com/wiki/0013739516305929606dd18361248578c67b8067c8c017b000)
+
+2015-03-11 17:42 [Git Step by Step (8)：Git的merge和rebase - 博客 - 伯乐在线](http://blog.jobbole.com/84664/)
+
+2015-03-11 17:54 [Git工作流指南：Forking工作流 - 博客 - 伯乐在线](http://blog.jobbole.com/76861/)
+
+2015-03-11 17:54 [图解Git/图形化的Git参考手册 - 博客 - 伯乐在线](http://blog.jobbole.com/22647/)
+
+2015-03-18 16:33 [Git 常用命令集合 - 快乐的天空 - C++博客](http://www.cppblog.com/HappySky2046/archive/2012/11/29/195804.aspx)
+
+2015-03-24 16:40 [GitHub上README.md教程 - Kaitiren的专栏 - 博客频道 - CSDN.NET](http://blog.csdn.net/kaitiren/article/details/38513715)
+
+2015-03-27 13:36 [Git的Patch功能 - 老z的博客 - 博客园](http://www.cnblogs.com/y041039/articles/2411600.html)
+
+2015-03-28 21:36 [TortoiseGit 1.8.12.0 发布，Git 客户端 - 开源中国社区](http://www.oschina.net/news/57412/tortoisegit-1-8-12-0)
+
+2015-03-28 21:54 [错误“git did not exit cleanly (exit code 128)”的解决办法_综合开发_西部e网](http://www.weste.net/2013/5-20/91516.html)
+
+2015-04-01 16:37 [git 使用过程记录 - juwenz的个人页面 - 开源中国社区](http://my.oschina.net/juwenz/blog/153350)
+
+2015-04-01 16:38 [git修改提交的用户名和Email-Sansen2012-ChinaUnix博客](http://blog.chinaunix.net/uid-26997997-id-3231891.html)
+
+2015-04-02 14:38 [介绍一个成功的 Git 分支模型 - 技术翻译 - 开源中国社区](http://www.oschina.net/translate/a-successful-git-branching-model)
+
+2015-05-08 17:51 [Git常用命令 - kieven2008的专栏 - 博客频道 - CSDN.NET](http://blog.csdn.net/kieven2008/article/details/6594333)
+
+2015-05-08 17:52 [Git 常用命令 - 1-2-3 - 博客园](http://www.cnblogs.com/1-2-3/archive/2010/07/18/git-commands.html)
+
+2015-06-02 17:34 [Git 添加空文件夹的方法 - today4king - 博客园](http://www.cnblogs.com/jinzhao/archive/2012/03/21/2410156.html)
+
+2015-06-09 11:45 [GitBook · Write &amp; Publish Books](https://www.gitbook.com/)
+
+2015-06-11 12:59 [使用git、git-flow与gitlab工作 - 推酷](http://www.tuicool.com/articles/BZJRj2)
+
+2015-06-11 15:13 [使用git 新建分支以及管理分支_小简_新浪博客](http://blog.sina.com.cn/s/blog_7101508c010147s6.html)
+
+2015-07-22 09:48 [Windows下配置Git - EXLsunshine的专栏 - 博客频道 - CSDN.NET](http://blog.csdn.net/exlsunshine/article/details/18939329)
+
+2015-07-22 09:58 [Git for Windows](http://msysgit.github.io/)
+
+2015-07-24 12:11 [Git - Book](http://git-scm.com/book/zh/v1)
+
+2015-07-24 12:13 [Git 参考手册](http://gitref.justjavac.com/)
+
+2015-07-24 12:23 [GitHub 上排名前 100 的 Objective-C 项目简介 - SegmentFault](http://segmentfault.com/a/1190000002665904)
+
+2015-07-24 12:30 [转自github上的前端开发妙文。 - shuawanxiao的专栏 - 博客频道 - CSDN.NET](http://blog.csdn.net/shuawanxiao/article/details/42749119)
+
+2015-07-30 15:40 [YangLiu (@iiunknown) on GitBook](https://www.gitbook.com/@iiunknown)
+
+2016-03-15 23:33 [GIT: error: pathspec 'xxx did not match any file(s) known to git - Stack Overflow](http://stackoverflow.com/questions/33628862/git-error-pathspec-xxx-did-not-match-any-files-known-to-git)
+
+2016-05-05 10:49 [Git忽略文件的几种方法 - VIRTAO](https://blog.virtao.org/articles/148.html)
+
+2016-05-05 10:59 [BFG Repo-Cleaner by rtyley](https://rtyley.github.io/bfg-repo-cleaner/)
+
+2016-05-23 10:53 [Gitter — Where developers come to talk.](https://gitter.im/)
+
+2016-05-25 10:30 [在GIT中修改提交记录 - 天方 - 博客园](http://www.cnblogs.com/TianFang/p/3540911.html)
+
+2016-05-25 10:30 [Git 修改历史提交 - Transformer - 博客频道 - CSDN.NET](http://blog.csdn.net/transformer_han/article/details/7082767)
+
+2016-05-25 10:30 [版本控制的邪术：在特定条件下擦除GIT历史 - 哲学.tar.bz2 - ITeye技术网站](http://liuming.iteye.com/blog/826355)
+
+2016-05-25 10:32 [git - 如何删除远程仓库中的提交信息 - SegmentFault](https://segmentfault.com/q/1010000000641937)
+
+2016-06-01 11:06 [github设置添加SSH - binyao02123202的专栏 - 博客频道 - CSDN.NET](http://blog.csdn.net/binyao02123202/article/details/20130891)
+
+2016-06-28 10:56 [Git for Windows](https://git-for-windows.github.io/)
+
+2016-09-21 16:37 [GitHub的使用——删除Repository(unfork或者取消fork) - 零下九度 - 博客频道 - CSDN.NET](http://blog.csdn.net/limingjian/article/details/8855591)
+
+2016-11-24 15:04 [Git - stash用法 - limichange - SegmentFault](https://segmentfault.com/a/1190000002554160)
+
+2016-12-05 10:23 [Commit message 和 Change log 编写指南 - 阮一峰的网络日志](http://www.ruanyifeng.com/blog/2016/01/commit_message_change_log.html)
+
+2017-02-13 14:23 [Git](https://git-scm.com/)
+
+2017-03-10 11:20 [Git Submodule 使用简介 - 推酷](http://www.tuicool.com/articles/jqiEJzU)
+
+2017-03-10 17:01 [unable to read askpass response from '/usr/libexec/openssh/gnome-ssh-askpass - lvzhuyiyi4的专栏 - 博客频道 - CSDN.NET](http://blog.csdn.net/lvzhuyiyi4/article/details/19564519)
+
+2017-05-22 09:38 [写出好的 commit message · Ruby China](http://ruby-china.org/topics/15737)
+
+2017-05-22 09:39 [git commit 规范指南 - 不挑食的程序员 - SegmentFault](https://segmentfault.com/a/1190000009048911)
+
+2017-05-22 09:40 [Git Commit Message Conventions - Google 文档](https://docs.google.com/document/d/1QrDFcIiPjSLDn3EL15IJygNPiHORgU1_OOAqWjiDU5Y/edit#)
+
+2017-05-22 09:45 [windows上安装使用git-extras - KimmKing的技术博客 - 博客频道 - CSDN.NET](http://blog.csdn.net/KimmKing/article/details/43858225)
+
+2017-06-08 10:03 [https://api.github.com](https://api.github.com/)
+
+2017-06-08 10:03 [基于 Github Issues 的单页面静态博客 - 简书](http://www.jianshu.com/p/e1ef03f1795d)
+
+2017-07-11 08:41 [Git教程 - work hard work smart - 博客园](http://www.cnblogs.com/linlf03/archive/2013/08/01/3229317.html)
+
+2017-10-12 09:54 [Gitlab可视化代码树插件-Octotree - 散尽浮华 - 博客园](http://www.cnblogs.com/kevingrace/p/6438849.html)
+
+2017-10-27 17:03 [Github Rank (China)](http://githubrank.com/)
+
+2017-10-30 16:24 [Gitstar Ranking - Top GitHub users and repositories](https://gitstar-ranking.com/)
+
+2017-10-31 15:19 [使用OAuth2.0协议的github、QQ、weibo第三方登录接入总结 - GabrielChenCN - 博客园](http://www.cnblogs.com/gabrielchen/p/5800225.html)
+
+2017-10-31 15:46 [Github 第三方授权登录教程 - CSDN博客](http://blog.csdn.net/javagaorui5944/article/details/52918772)
+
+2017-11-02 16:14 [David, a dependency management tool for Node.js projects](https://david-dm.org/)
+
+2017-11-02 16:28 [GitHub 项目徽章的添加和设置 - 简书](http://www.jianshu.com/p/e9ce56cb24ef)
+
+2017-11-02 16:29 [Shields.io: Quality metadata badges for open source projects](http://shields.io/)
+
+2017-11-03 12:09 [为你的Github README生成漂亮的徽章和进度条 - FH01号自律型科学实验舱](https://shikieiki.github.io/2017/03/01/%E4%B8%BA%E4%BD%A0%E7%9A%84Github%E7%94%9F%E6%88%90%E6%BC%82%E4%BA%AE%E7%9A%84%E5%BE%BD%E7%AB%A0%E5%92%8C%E8%BF%9B%E5%BA%A6%E6%9D%A1/)
+
+2017-12-01 08:48 [如何正确地使用Git Flow？](https://www.toutiao.com/a6232064900786815234/?iid=18682180708&app=news_article)
+
+2017-12-06 09:25 [github release 功能的使用及问题解决 - Eggy2015的博客 - CSDN博客](http://blog.csdn.net/Eggy2015/article/details/52138751)
+
+2018-02-08 09:19 [GitBook关联GitHub - 不折腾会死 - SegmentFault 思否](https://segmentfault.com/a/1190000011440899)
+
+2018-03-09 09:54 [Gogs](https://gogs.io/)
+
+2018-04-19 21:09 [docsify](https://docsify.js.org/#/)
+
+2018-07-05 15:09 [[笔记]解决git clone 子模块没下载全的问题 - CSDN博客](https://blog.csdn.net/u013553529/article/details/78307072)
+
+2018-07-05 15:10 [git submodule子模块 - CSDN博客](https://blog.csdn.net/chenjh213/article/details/49128749)
+
+2018-07-09 17:24 [用github账户登录你的网站_搜狐科技_搜狐网](https://www.sohu.com/a/229243143_468627)
+
+2018-07-09 17:26 [Web应用接入Github登录 - CSDN博客](https://blog.csdn.net/qq_34292044/article/details/80571369)
+
+2018-08-03 15:41 [使用GitHub-Flask实现GitHub第三方登录 - 掘金](https://juejin.im/post/5b3f5342f265da0f6f1a8190)
+
+2018-08-08 17:38 [GitHub API Push接口 - CSDN博客](https://blog.csdn.net/WMSOK/article/details/78777935)
+
+2018-09-05 09:16 [记一次删除Git记录中的大文件的过程-HollisChuang's Blog](http://www.hollischuang.com/archives/1708)
+
+2018-09-19 15:17 [使用git克隆指定分支的代码 - ButterflyGirl - 博客园](http://www.cnblogs.com/nylcy/p/6569284.html)
+
+#####  GitHub Pages
+
+2015-10-10 11:18 [怎样做一个漂亮的 GitHub Pages 首页？ - 前端开发 - 知乎](http://www.zhihu.com/question/20376047?sort=created)
+
+2015-10-10 11:18 [[原]通过GitHub Pages建立个人站点（详细步骤） - 雨知 - 博客园](http://www.cnblogs.com/purediy/archive/2013/03/07/2948892.html)
+
+2015-10-10 11:55 [Github page build failed 可能的解决方案](http://www.perfect-is-shit.com/github-jekyll-page-build-failed.html)
+
+2016-05-18 16:52 [搭建一个免费的，无限流量的Blog----github Pages和Jekyll入门 - 阮一峰的网络日志](http://www.ruanyifeng.com/blog/2012/08/blogging_with_jekyll.html)
+
+2016-05-18 17:03 [使用Github Pages建独立博客 | BeiYuu.com](http://beiyuu.com/github-pages/)
+
+2016-05-18 18:43 [Setting up your GitHub Pages site locally with Jekyll - User Documentation](https://help.github.com/articles/setting-up-your-github-pages-site-locally-with-jekyll/)
+
+2016-05-18 18:56 [Creating Pages with the automatic generator - User Documentation](https://help.github.com/articles/creating-pages-with-the-automatic-generator/)
+
+2016-05-26 21:12 [Jekyll • 简单静态博客网站生成器 - 将纯文本转换为静态博客网站](http://jekyllcn.com/)
+
+2016-05-26 21:15 [如何搭建一个独立博客——简明Github Pages与Hexo教程 - 简书](http://www.jianshu.com/p/05289a4bc8b2)
+
+2016-05-26 21:56 [Jekyll Themes](http://jekyllthemes.org/)
+
+2016-05-27 09:42 [使用Github搭建静态博客（Hexo） - 钟白兔 - SegmentFault](https://segmentfault.com/a/1190000000458953)
+
+2016-05-27 09:42 [静态博客程序大总结_Jekyll_Octopress_Hexo—站长之家建站专题](http://www.chinaz.com/special/static-blog/index.html?qq-pf-to=pcqq.c2c)
+
+2016-05-27 09:47 [使用GitHub和Hexo搭建免费静态Blog | HelloDog](https://wsgzao.github.io/post/hexo-guide/)
+
+2018-03-23 09:49 [GitHub Ribbons | The GitHub Blog](https://blog.github.com/2008-12-19-github-ribbons/)
+
+2018-04-19 21:18 [docsify：一个神奇的文档生成工具_Helloweba](https://www.helloweba.net/javascript/502.html)
+
+2018-11-16 16:43 [如何在一周之内获得GitHub stars 3500+ —为什么这是如此的重要 - 全栈笔录 - ITeye博客](http://570109268.iteye.com/blog/2409224)
+
+######  Themes
+
+2016-05-27 09:27 [laobubu/jekyll-theme-EasyBook: Another Jekyll Blog Theme &quot;EasyBook&quot;](https://github.com/laobubu/jekyll-theme-EasyBook)
+
+2016-05-27 09:28 [Simpleyyt/jekyll-jacman: A fresh looking and responsive theme for Jekyll](https://github.com/Simpleyyt/jekyll-jacman)
+
+
+
+####  SERVER
+
+2012-06-12 09:51 [Apache HTTP Server Version 2.2 文档 － Apache 2.2 中文版参考手册](http://apache.chinahtml.com/)
+
+2013-10-20 00:52 [CentOS 6.2 Apache+PHP5+MySQL安装环境配置_风信网](http://www.ithov.com/linux/123656.shtml)
+
+2013-10-20 01:37 [CentOS 6.2 Apache+PHP5+MySQL安装环境配置(2)_风信网](http://www.ithov.com/linux/123656_2.shtml)
+
+2013-10-20 02:30 [centos6.2 ftp 配置 - 刘振明 - 博客园](http://www.cnblogs.com/zhenmingliu/archive/2012/04/25/2470646.html)
+
+2013-10-23 20:54 [linux.linuxidc.com - /](http://linux.linuxidc.com/)
+
+2013-10-26 14:04 [警告NameVirtualHost *:80 has no VirtualHosts的原因_爱自由_百度空间](http://hi.baidu.com/monton/item/43d22372084e9046ee1e532a)
+
+2014-01-20 23:54 [COS官网 - 首页](http://www.china-cos.com/site/index.html)
+
+2016-09-08 10:40 [URI Template](http://dorole.com/tag/uri-template/)
+
+2017-02-14 10:19 [WAMP中httpd.exe报0xc000007b应用程序错误 - 邹邹的博客 - 博客频道 - CSDN.NET](http://blog.csdn.net/yxwmzouzou/article/details/43938121)
+
+2017-03-13 15:38 [Linux vi/vim编辑器常用命令与用法总结 - 贾永基 - 博客园](http://www.cnblogs.com/jiayongji/p/5771444.html)
+
+2017-03-27 15:24 [新版WampServer 项目路径前面没有 localhost - 攻城師 日記 - 博客频道 - CSDN.NET](http://blog.csdn.net/web361/article/details/44850887)
+
+2017-04-05 11:04 [Linux命令学习总结：rm命令 - 潇湘隐者 - 博客园](http://www.cnblogs.com/kerrycode/p/3869911.html)
+
+2017-04-05 14:17 [linux zip/unzip命令 - lucyjiayou - 博客园](http://www.cnblogs.com/lucyjiayou/archive/2011/12/25/2301046.html)
+
+2017-04-05 14:17 [linux下rm命令使用详解 - wanqi - 博客园](http://www.cnblogs.com/wanqieddy/archive/2011/06/07/2074113.html)
+
+2017-06-05 17:52 [Linux防火墙iptables配置详解_Linux教程_Linux公社-Linux系统门户网站](http://www.linuxidc.com/Linux/2017-01/140074.htm)
+
+2017-06-05 18:02 [Linux netstat命令详解 - ggjucheng - 博客园](http://www.cnblogs.com/ggjucheng/archive/2012/01/08/2316661.html)
+
+2017-06-06 10:24 [linux查看防火墙状态及开启关闭命令（转） - 人艰不拆_zmc - 博客园](http://www.cnblogs.com/zhangmingcheng/p/6048043.html)
+
+2017-06-06 10:27 [Linux中iptables设置详细_果子_新浪博客](http://blog.sina.com.cn/s/blog_6390cb4c0101p96h.html)
+
+2017-06-06 15:45 [Linux 查看服务器开放的端口号 - 潇湘隐者 - 博客园](http://www.cnblogs.com/kerrycode/p/5609010.html)
+
+2017-06-20 18:14 [linux下vi命令大全 - 星尘 - 博客园](http://www.cnblogs.com/88999660/articles/1581524.html)
+
+2017-07-25 14:03 [如何设计短网址系统(TinyURL) | 灵魂机器](http://cn.soulmachine.me/2017-04-10-how-to-design-tinyurl/#more)
+
+2017-08-01 14:00 [linux中ls、ls -l、ls -al、ll命令 - 未 名 - 博客园](http://www.cnblogs.com/nchar/p/3905660.html)
+
+2017-08-01 14:39 [[转]端口状态说明 LISTENING、ESTABLISHED、TIME_WAIT及CLOSE_WAIT - MN唐Ms - ITeye博客](http://mntms.iteye.com/blog/2231501)
+
+2017-11-23 17:09 [linux下IPTABLES配置详解 - 三毛仔 - 博客园](https://www.cnblogs.com/alimac/p/5848372.html)
+
+2017-12-04 15:03 [【windows】常见的系统环境变量，如%appdata%表示什么意思 - catshitone的专栏 - CSDN博客](http://blog.csdn.net/catshitone/article/details/70238163)
+
+2018-04-26 16:30 [Linux下查看文件内容的命令 - 梨璐2012 - 博客园](https://www.cnblogs.com/luying--lulu/p/5314963.html)
+
+2018-10-16 15:27 [Istio微服务架构初试 - ericnie - 博客园](https://www.cnblogs.com/ericnie/p/7919017.html)
+
+2018-10-23 15:34 [FaaS，未来的后端服务开发之道 - 简书](https://www.jianshu.com/p/6e86c42f85bd)
+
+#####  Tengine
+
+2015-05-29 16:08 [The Tengine Web Server](http://tengine.taobao.org/index_cn.html)
+
+
+
+#####  Nginx
+
+2015-05-29 16:08 [nginx](http://tengine.taobao.org/nginx_docs/cn/)
+
+2015-05-29 16:30 [使用nginx-http-concat自动合并静态资源，加速你的网站请求速度 - 为程序员服务](http://ju.outofmemory.cn/entry/50113)
+
+2015-05-29 16:33 [nginx js、css多个请求合并为一个请求(concat模块) - 运维生存时间](http://www.ttlsa.com/nginx/nginx-modules-concat/)
+
+2015-05-29 16:33 [The Tengine Web Server](http://tengine.taobao.org/document_cn/http_concat_cn.html)
+
+2015-05-29 16:33 [perusio/nginx-http-concat](https://github.com/perusio/nginx-http-concat)
+
+2015-07-06 17:57 [nginx expires 无效 - 开源中国社区](http://www.oschina.net/question/55448_77710?sort=time)
+
+2015-07-06 17:58 [Nginx设置expires设定页面缓存时间 不缓存或一直使用缓存](http://www.douban.com/note/342389019/)
+
+2015-10-19 17:07 [nginx upstream的分配方式。 - 相濡以沫 - 51CTO技术博客](http://onlyzq.blog.51cto.com/1228/557848/)
+
+2015-10-19 17:07 [nginx 代理 proxy_pass设置 - flex_fly - 博客园](http://www.cnblogs.com/flex_fly/p/3363100.html)
+
+2015-11-17 11:25 [nginx静态文件响应post请求，405 Not Allowed – 酷喃｜coolnull｜](http://coolnull.com/3527.html)
+
+2015-11-19 18:32 [nginx配置url重定向-反向代理 - 坐在高山观虎斗，站在桥头看水流 - 博客频道 - CSDN.NET](http://blog.csdn.net/yybjroam05/article/details/41076679)
+
+2015-11-19 18:32 [Nginx作为反向代理时传递客户端IP的设置方法_nginx_脚本之家](http://www.jb51.net/article/53821.htm)
+
+2015-11-19 18:32 [nginx 反向代理 取得真实IP和域名 - huangqiqing123 - ITeye技术网站](http://huangqiqing123.iteye.com/blog/1895192)
+
+2015-12-18 10:22 [✔ Nginx 的线程池与性能剖析 - 编程技术 - 夜眸博客](http://blog.yemou.net/article/query/info/tytfjhfascvhzxcyt158)
+
+2017-08-14 16:58 [nginx配置location总结及rewrite规则写法 | Sean's Notes](http://seanlook.com/2015/05/17/nginx-location-rewrite/)
+
+2018-08-23 17:45 [Nginx 简单的负载/反向代理配置 - 简书](https://www.jianshu.com/p/cded817894c0)
+
+2018-08-23 17:46 [Nginx反向代理配置-Ike-51CTO博客](http://blog.51cto.com/12598157/2088168)
+
+2018-08-23 17:54 [nginx使用ssl模块配置支持HTTPS访问 - 梦徒 - 博客园](https://www.cnblogs.com/saneri/p/5391821.html)
+
+2018-08-23 18:01 [Nginx实现https反向代理配置 - CSDN博客](https://blog.csdn.net/qq_33404395/article/details/80577433)
+
+2018-08-23 18:01 [nginx 配置 ssl 模块支持 https - CSDN博客](https://blog.csdn.net/wanglei_storage/article/details/48782485)
+
+2018-08-24 10:27 [Let’s Encrypt 免费SSL证书自动续期的方法 - CSDN博客](https://blog.csdn.net/Trustauth/article/details/78423242?tdsourcetag=s_pcqq_aiomsg)
+
+2018-08-24 11:04 [Nginx中配置https做反向代理 - 知识林 - CSDN博客](https://blog.csdn.net/zsl129/article/details/54664508)
+
+2018-12-08 14:58 [Ajax跨域、Json跨域、Socket跨域和Canvas跨域等同源策略限制的解决方法 - freshlover的专栏 - CSDN博客](https://blog.csdn.net/freshlover/article/details/44223467)
+
+2018-12-20 18:22 [linux（centos）系统下nginx 服务器重启，关闭的命令-php程序员的笔记](http://www.phpernote.com/linux/1211.html)
+
+
+
+#####  Vagrant
+
+2015-10-21 14:18 [使用 Vagrant 打造跨平台开发环境 - SegmentFault](http://segmentfault.com/a/1190000000264347)
+
+2015-10-21 14:31 [Getting Started - Vagrant Documentation](http://docs.vagrantup.com/v2/getting-started/)
+
+
+
+#####  RESTful
+
+2016-03-11 10:00 [理解RESTful架构 - 阮一峰的网络日志](http://www.ruanyifeng.com/blog/2011/09/restful)
+
+2016-03-11 10:02 [RESTful_百度百科](http://baike.baidu.com/link?url=N7zdBY2c9164qxhkFC27WSpg0ARzumD1TYrJUobBI1E-IpFmUdG9c1nfsxJMfud9BkIRd37j-4DHwGD-rk3Fnq)
+
+2015-04-21 18:04 [理解RESTful架构_知识库_博客园](http://kb.cnblogs.com/page/114905/)
+
+
+
+#####  CQRS
+
+#####  Redis
+
+2015-04-17 15:11 [Redis中文官方网站 -- redis中文资料、中文文档尽在redis中文官方网站](http://www.redis.cn/)
+
+2015-04-29 16:03 [Windows下Redis的安装使用 - 51CTO.COM](http://os.51cto.com/art/201403/431103.htm)
+
+2015-04-29 16:03 [Redis](http://redis.io/)
+
+2015-10-21 14:17 [ServiceStack/redis-windows](https://github.com/ServiceStack/redis-windows)
+
+2015-10-22 15:08 [Redis在Windows下安装和PHP中使用 - 鸿网互联[68IDC.CN]](http://www.68idc.cn/help/server/20141128135092.html)
+
+
+
+#####  Firebase
+
+2016-12-14 13:45 [Firebase很酷，来部署一个自己的吧 - CNode技术社区](https://cnodejs.org/topic/51f0edf7f4963ade0e082c19)
+
+2016-12-14 13:50 [您访问的网页出错了！](https://firebase.google.com/)
+
+
+
+#####  Apache
+
+2016-12-14 14:50 [Apache Thrift - 可伸缩的跨语言服务开发框架](https://www.ibm.com/developerworks/cn/java/j-lo-apachethrift/)
+
+2017-11-23 17:17 [mod_proxy － Apache 2.2 中文版参考手册](http://man.chinaunix.net/newsoft/Apache2.2_chinese_manual/mod/mod_proxy.html)
+
+2017-11-23 17:18 [Linux Apache 配置反向代理 - CSDN博客](http://blog.csdn.net/zhdl11/article/details/44182725)
+
+2017-11-23 17:18 [通过apache的反向代理实现多用途服务器 - 慎终如始 - SegmentFault](https://segmentfault.com/a/1190000005041026)
+
+2017-11-23 17:20 [[转]用apache反向代理解决单外网ip对应内网多个web主机的问题 - 老汉学IT - 博客园](https://www.cnblogs.com/coffeebox/p/3717753.html)
+
+2017-11-23 17:20 [简单的配置Apache2.4.7反向代理 - 简书](http://www.jianshu.com/p/475ef0ccc421)
+
+2018-06-13 17:06 [Apache Rewrite规则详解 - ZH奶酪 - 博客园](https://www.cnblogs.com/CheeseZH/p/5169352.html)
+
+2018-06-13 17:32 [Apache中 RewriteRule 规则参数介绍 - CSDN博客](https://blog.csdn.net/wjtlht928/article/details/49232429)
+
+2018-06-14 09:14 [Apache Proxy和Redirect(Proxy与Redirect冲突问题) - CSDN博客](https://blog.csdn.net/u012362458/article/details/57405225)
+
+2018-06-14 09:20 [apache启动失败查看错误信息 - CSDN博客](https://blog.csdn.net/mxdzchallpp/article/details/51333755)
+
+2018-06-14 10:08 [apache重写带有get参数的url地址 - CSDN博客](https://blog.csdn.net/qq_31648761/article/details/53612318)
+
+2018-06-14 14:44 [.htaccess RewriteRule 问题探究 - 行者，无疆 - 博客园](https://www.cnblogs.com/Lovetuya/p/5477966.html)
+
+2018-06-14 14:44 [apache+tomcat 同时使用 RewriteRule 和 ProxyPass 实现静态网址转 tomcat处理 - CSDN博客](https://blog.csdn.net/iua1024/article/details/3526909)
+
+2018-06-14 14:44 [apache url rewrite 的RewriteRule参数详解 - 北京流浪儿 - 博客园](https://www.cnblogs.com/gide/p/4287698.html)
+
+2018-10-24 15:13 [apache的虚拟域名rewrite配置以及.htaccess的使用。 - 作业部落 Cmd Markdown 编辑阅读器](https://www.zybuluo.com/phper/note/73726)
+
+
+
+#####  CentOS
+
+2017-03-17 10:29 [查看centos系统版本命令](http://www.centoscn.com/CentOS/help/2015/0311/4853.html)
+
+2017-03-17 10:46 [CentOS 6.6安装配置LAMP服务器(Apache+PHP5+MySQL)_Linux_脚本之家](http://www.jb51.net/article/94119.htm)
+
+2017-03-17 10:59 [将Centos的yum源更换为国内的阿里云源](http://www.centoscn.com/CentOS/config/2015/0416/5189.html)
+
+2017-03-17 13:35 [linux下报错bash: service: command not found - 霜之哀伤 - ITeye技术网站](http://lishaorui.iteye.com/blog/1583789)
+
+2017-03-17 15:26 [CentOS下查看apache,php,mysql版本信息](http://www.centoscn.com/CentOS/2014/0113/2362.html)
+
+2017-03-17 15:26 [/etc/sysconfig/下找不到iptables文件解决方法](http://www.centoscn.com/CentosBug/osbug/2014/1219/4340.html)
+
+2017-03-17 15:54 [CentOS中zip压缩和unzip解压缩命令详解 - CareChere的博客 - 博客频道 - CSDN.NET](http://blog.csdn.net/carechere/article/details/50844846)
+
+2017-03-17 18:06 [centos下yum搭建安装linux+apache+mysql+php环境 - 渗透测试中心 - 博客园](http://www.cnblogs.com/backlion/p/6000486.html)
+
+2017-03-17 18:06 [CentOS6.6环境安装PHP5.6超级详细笔记 - 奇幻屋的专栏 - 博客频道 - CSDN.NET](http://blog.csdn.net/u014236259/article/details/54143211)
+
+2017-03-17 18:06 [centos6.5下使用yum完美搭建LNMP环境(php5.6)_linux教程_开发教程_最模板](http://www.zuimoban.com/jiaocheng/linux/7128.html)
+
+2017-03-17 18:06 [yum安装php，php-fpm - 惊涛随笔 - 博客园](http://www.cnblogs.com/jtnote/p/6118741.html)
+
+2018-12-18 16:31 [Linuxyum源切换阿里云软件源 - jimisun - 博客园](https://www.cnblogs.com/jimisun/p/8174655.html)
+
+2018-12-18 16:49 [yum报错： You could try using --skip-broken to work around the problem - 思想的芦苇 - 博客园](https://www.cnblogs.com/crystal-yee/p/4896968.html)
+
+2018-12-18 17:28 [centos 编译 chrome 踩坑之旅 - 扫文资讯](https://hk.saowen.com/a/fa13ead9f226de7d089a75fc4f56c77e836c43d7317b4fced023af6d133b448e)
+
+2018-12-19 14:05 [分享Centos6.5升级glibc过程 - CNode技术社区](https://cnodejs.org/topic/56dc21f1502596633dc2c3dc)
+
+2018-12-19 17:05 [在CentOS 7上安装Node.js的4种方法（包含npm） - 经典草根Blog - CSDN博客](https://blog.csdn.net/xuaa/article/details/52262586)
+
+2018-12-20 14:04 [查看CentOS版本方法 - 酷玩时刻 - 博客园](https://www.cnblogs.com/zyw-205520/p/4900689.html)
+
+2018-12-20 14:58 [CentOS 7.0下使用yum安装MySQL - 个人文章 - SegmentFault 思否](https://segmentfault.com/a/1190000015216149)
+
+2018-12-20 15:25 [centos yum 安装mysql5.7 以及 默认root密码查看 - zhangzhen894095789 - 博客园](https://www.cnblogs.com/zhangzhen894095789/p/6624510.html)
+
+2018-12-20 16:32 [mysql 5.7 root密码重置(centos 7) - 简书](https://www.jianshu.com/p/5cad576e5270)
+
+2018-12-20 17:40 [CentOS 7下Apache的安装 - 简书](https://www.jianshu.com/p/5b8903709e66)
+
+2018-12-21 15:18 [centos7 上安装mysql5.7后登录报错ERROR 1045 (28000): Access denied for user 'root'@'localhost' (using pas - keepd的博客 - CSDN博客](https://blog.csdn.net/keepd/article/details/77151006)
+
+2018-12-24 10:49 [如何在Linux系统上安装字体 - Linux大神博客](https://www.linuxdashen.com/%E5%A6%82%E4%BD%95%E5%9C%A8linux%E7%B3%BB%E7%BB%9F%E4%B8%8A%E5%AE%89%E8%A3%85%E5%AD%97%E4%BD%93part-1)
+
+
+
+#####  Consul
+
+2017-07-24 09:19 [服务发现系统consul-HTTP API - 孤天浪雨 - CSDN博客](http://blog.csdn.net/u010246789/article/details/51871051)
+
+2017-07-24 09:19 [Catalog - HTTP API - Consul by HashiCorp](https://www.consul.io/api/catalog.html)
+
+2017-07-24 09:36 [Consul 使用手册 | 一个梦](http://liangxiansen.cn/2017/04/06/consul/)
+
+2017-07-24 09:49 [使用consul实现分布式服务注册和发现 | Tony Bai](http://tonybai.com/2015/07/06/implement-distributed-services-registery-and-discovery-by-consul/)
+
+2017-11-07 14:13 [【Consul】Consul实践指导-健康检查（Checks） - 程序园](http://www.voidcn.com/article/p-nlbvzmsg-bee.html)
+
+
+
+#####  H2O
+
+2017-09-04 14:44 [H2O - the optimized HTTP/2 server](https://h2o.examp1e.net/)
+
+
+
+#####  GraphQL
+
+2017-10-30 15:27 [GraphQL初探:从REST到GraphQL，更完善的数据查询定义 - 某熊的全栈之路 - SegmentFault](https://segmentfault.com/a/1190000005766732)
+
+
+
+#####  Heroku
+
+2018-02-12 09:29 [Heroku简明教程 - 简书](https://www.jianshu.com/p/638e0f6f1d2a)
+
+2018-02-12 09:29 [Cloud Application Platform | Heroku](https://www.heroku.com/)
+
+2018-02-12 10:11 [从零开始，做一个NodeJS博客（一）：Heroku上的最简NodeJS服务器 - Rocket1184 - 博客园](https://www.cnblogs.com/rocket1184/p/5768373.html)
+
+2018-02-12 10:33 [云数据库-Bmob后端云](https://www.bmob.cn/cloud)
+
+2018-02-12 10:38 [三步将Node应用部署到Heroku上 --转载 - 池塘嗲嗲 - 博客园](https://www.cnblogs.com/ctddjyds/p/5554675.html)
+
+2018-02-12 13:31 [ROR部署到Heroku出现Application Error和code=H10 desc=&quot;App crashed“问题 - iaiti的专栏 - CSDN博客](http://blog.csdn.net/iaiti/article/details/50765670)
+
+2018-02-12 14:34 [使用Heroku+mLab 部署Node应用 - 简书](https://www.jianshu.com/p/4f3c01a02620)
+
+2018-02-12 17:46 [在Heroku上部署静态网站-博客-云栖社区-阿里云](https://yq.aliyun.com/articles/40758)
+
+2018-04-27 11:00 [heroku 上部署node.js的几个注意点 - CSDN博客](https://blog.csdn.net/u012331758/article/details/53547910)
+
+2018-07-13 15:26 [transfer.sh - Easy and fast file sharing from the command-line.](https://transfer.sh/)
+
+
+
 ####  DataBase
 
 2017-01-13 19:57 [Open Source Search &amp; Analytics · Elasticsearch | Elastic](https://www.elastic.co/)
@@ -1006,571 +2822,1889 @@
 
 
 
-####  Deno
+####  Mobile
 
-2018-06-04 14:37 [Deno 并不是下一代 Node.js - justjavac的前端进阶 - SegmentFault 思否](https://segmentfault.com/a/1190000015159728?utm_source=feed-content)
+2015-01-30 09:37 [javascript移动端开发框架：Qmik - OPEN 开发经验库](http://www.open-open.com/lib/view/open1381642113130.html)
 
+2015-01-30 09:38 [leochen36/qmik · GitHub](https://github.com/leochen36/qmik)
 
+2015-01-30 09:38 [Web 组件 | Amaze UI](http://amazeui.org/widgets)
 
-####  Docker
+2015-01-30 09:42 [经典收藏 50个jQuery Mobile开发技巧集萃 - 楚广明 - 博客园](http://www.cnblogs.com/chu888chu888/archive/2011/11/10/2244181.html)
 
-2018-07-03 17:16 [docker中文社区,docker帮助,docker手册,docker教程,docker安装手册 - docker中文社区](http://www.docker.org.cn/index.html)
+2015-01-30 09:54 [Amaze UI | 中国首个开源 HTML5 跨屏前端框架 | Amaze UI](http://amazeui.org/)
 
-2018-07-03 17:16 [Docker中文文档 Docker概述-DockerInfo](http://www.dockerinfo.net/document)
+2015-01-30 09:58 [PhoneGap | Home](http://phonegap.com/)
 
-2018-07-03 17:29 [Docker学习系列（一）：windows下安装docker - CSDN博客](https://blog.csdn.net/tina_ttl/article/details/51372604)
+2015-01-30 09:58 [手把手教学：详解HTML5移动开发框架PhoneJS](http://www.wuseyun.com/htmldata/news/0/62250.html)
 
-2018-07-04 09:26 [Docker容器系列教程（一）：简介与安装 - Java成神之路 - SegmentFault 思否](https://segmentfault.com/a/1190000015016299)
+2015-01-29 18:07 [移动web最简洁的滑动效果Swipe JS（适合初学者） - xiongxianhe的专栏 - 博客频道 - CSDN.NET](http://blog.csdn.net/xiongxianhe/article/details/39993193)
 
-2018-07-04 09:57 [Docker容器系列教程（二）：常用命令与实操 - Java成神之路 - SegmentFault 思否](https://segmentfault.com/a/1190000015125242)
+2015-01-29 18:07 [使用Slip.js快速创建整屏滑动的手机网页](http://segmentfault.com/blog/laopopo/1190000000708417)
 
-2018-07-05 14:43 [Docker 入门教程 - 阮一峰的网络日志](http://www.ruanyifeng.com/blog/2018/02/docker-tutorial.html)
+2015-01-30 09:59 [跨平台开发：PhoneGap移动开发框架初探 - html5与PhoneGap开发教程 - Android开发论坛 - 安卓开发论坛 - Android开发 - 安卓论坛 - 移动互联网门户 - Powered by Discuz!](http://www.apkbus.com/android-20056-1-1.html)
 
-2018-07-16 15:36 [docker命令和后台参数 - bethal - 博客园](https://www.cnblogs.com/bethal/p/6051256.html)
+2015-01-30 16:51 [Qmik 是一个移动端的HTML5 javascript 开发框架](http://www.qmik.org/)
 
-2018-07-16 15:48 [搭建Docker registry私有仓库（容器方式） | 封尘网](https://www.58jb.com/html/95.html)
+2015-02-02 17:25 [H5页面测试总结 - qileilove - BlogJava](http://www.blogjava.net/qileilove/archive/2014/07/24/416154.html)
 
-2018-08-02 16:24 [基于Docker的日志分析平台(二) 环境搭建 - 左手代码 - SegmentFault 思否](https://segmentfault.com/a/1190000012337053)
+2015-02-02 17:34 [唐巧：谈谈React Native-CSDN.NET](http://www.csdn.net/article/2015-02-02/2823790-talk-about-react-native)
 
-2018-08-03 09:51 [REST服务中的日志可视化（关键技术实现） - yurun - 博客园](https://www.cnblogs.com/yurunmiao/p/4167744.html)
+2015-02-02 18:06 [使用 jQuery Mobile 与 HTML5 开发 Web App ——开发原则 | Kayo's Melody](http://kayosite.com/web-app-by-jquery-mobile-and-html5-principles.html)
 
+2015-02-04 09:56 [移动应用表单设计秘籍](http://www.uml.org.cn/jmshj/201205022.asp)
 
+2015-02-04 09:56 [教程：让你的表单升级到css3和html5客户端验证_觉唯](http://www.jiawin.com/forms-css3-html5-validation)
 
-####  F2E
+2015-02-04 09:56 [移动端使用HTML5表单增强体验 - kingwell - 博客园](http://www.cnblogs.com/kingwell/p/3909272.html)
 
-2015-06-08 11:31 [F2E - 前端技术社区](http://www.f2e.im/)
+2015-02-04 13:22 [手机浏览器真假内核调查 - 京华时报·京华网](http://epaper.jinghua.cn/html/2012-04/27/content_783938.htm)
 
-2015-08-21 16:25 [前后端分离的思考与实践（一） - 博客 - 伯乐在线](http://blog.jobbole.com/65513/)
+2015-02-04 13:54 [JS判断客户端是手机还是PC的2个代码_javascript技巧_脚本之家](http://www.jb51.net/article/48939.htm)
 
-2015-08-21 17:43 [responsive-page by ufologist](http://ufologist.github.io/responsive-page/)
+2015-02-04 15:43 [js手机浏览器触摸事件实例-大家站IT社区](http://www.dajiaz.com/programe/javascript/mobile-touchevent-example.html)
 
-2015-08-21 17:45 [帮助解决 IE 兼容性的一些资源 - F2E](http://www.f2e.im/t/773#reply0)
+2015-02-04 15:43 [移动设备、手机浏览器Javascript滑动事件代码 - 海涛的CSDN博客 - 博客频道 - CSDN.NET](http://blog.csdn.net/zht666/article/details/8621332)
 
-2015-08-21 18:06 [ie6,ie7,ie8 css bug兼容解决记录 | 前端开发-WEB前端开发-专业前端开发网站](http://www.wufangbo.com/ie6-ie7-ie8-css-bug-2/)
+2015-02-04 15:44 [webapp网页调试工具Chrome Devtools前端观察 | Tips | 前端观察](http://www.qianduan.net/webapp-wang-ye-diao-shi-gong-ju-chrome-devtools.html)
 
-2015-08-21 18:06 [一行代码解决各种IE兼容问题,IE6,IE7,IE8,IE9,IE10 - jgwei的专栏 - 博客频道 - CSDN.NET](http://blog.csdn.net/jgwei/article/details/18599433)
+2015-02-04 18:57 [touchstart,touchmove,touchend触摸事件的小小实践心得 - jiangcs520的专栏 - 博客频道 - CSDN.NET](http://blog.csdn.net/jiangcs520/article/details/17564065)
 
-2015-08-21 18:27 [D2 前端技术论坛流水账 - SegmentFault](http://segmentfault.com/a/1190000000743308)
+2015-02-05 09:39 [使用 HTML5 input 类型提升移动端输入体验 / 手游应用网](http://www.7x.cc/html5/html5/news/201407/2529047.html)
 
-2015-08-21 18:40 [2014-10-25 南京源创会 fibjs 分享 ppt - 那么，一起玩吧](http://baoz.cn/498326)
+2015-02-05 15:25 [响应式布局 - jQuery Mobile 布局](http://www.lampweb.org/jquerymobile/6/20.html)
 
-2015-09-15 17:45 [GitHub上整理的一些工具，求补充 - | @Get社区](http://get.jobdeer.com/6661.get)
+2015-02-06 13:57 [jQuery Mobile 移动开发中的日期插件Mobiscroll 2.3 使用说明 - 疯狂秀才 - 博客园](http://www.cnblogs.com/hxling/archive/2012/12/12/2814207.html)
 
-2015-09-15 18:22 [程序员博客墙](http://blogwall.us/)
+2015-02-09 09:24 [移动WEB开发之JS内置touch事件[转]_杨俊_新浪博客](http://blog.sina.com.cn/s/blog_5ee2c4040101391o.html)
 
-2015-09-15 18:37 [Icon Font &amp; SVG Icon Sets ❍ IcoMoon](https://icomoon.io/#home)
+2015-02-09 17:12 [js滑动触屏事件监听 - 残星 - 博客园](http://www.cnblogs.com/mingforyou/archive/2013/02/18/2915151.html)
 
-2015-09-15 18:37 [首页 | @Get社区](http://get.jobdeer.com/?c=default)
+2015-02-10 09:29 [手持设备点击响应速度，鼠标事件与touch事件的那些事 - 叶小钗 - 博客园](http://www.cnblogs.com/yexiaochai/archive/2013/10/19/3377900.html)
 
-2015-10-12 14:55 [直接拿来用！最火的前端开源项目（一）-CSDN.NET](http://www.csdn.net/article/2013-06-25/2815979-front-end-development)
+2015-02-10 10:50 [html 移动互联网终端的javascript touch事件,touchstart, touchend, touchmove - clh604的专栏 - 博客频道 - CSDN.NET](http://blog.csdn.net/clh604/article/details/9861411)
 
-2015-10-14 18:22 [《高性能javascript》一书要点和延伸（上） - 推酷](http://www.tuicool.com/articles/jyMzqay)
+2015-03-03 17:53 [jtyjty99999/mobileTech · GitHub](https://github.com/jtyjty99999/mobileTech)
 
-2015-10-22 16:37 [开发资源总结 2015-10-20 更新 - SegmentFault](http://segmentfault.com/a/1190000002691861)
+2015-03-03 17:54 [RubyLouvre/mobileTech · GitHub](https://github.com/RubyLouvre/mobileTech)
 
-2015-11-19 11:04 [kevinsu1989/f2etest](https://github.com/kevinsu1989/f2etest)
+2015-03-03 17:55 [Issues · maxzhang/maxzhang.github.com · GitHub](https://github.com/maxzhang/maxzhang.github.com/issues?q=is%3Aopen+is%3Aissue)
 
-2015-12-14 11:55 [My-blog/Front-end-Developer-Questions at master · markyun/My-blog](https://github.com/markyun/My-blog/tree/master/Front-end-Developer-Questions)
+2015-03-03 17:56 [无线调试攻略 - THX](http://thx.github.io/mobile/debugging-in-mobile/)
 
-2015-12-14 14:28 [前端开发面试题 - weakish - SegmentFault](http://segmentfault.com/a/1190000000465431)
+2015-03-03 17:57 [智能手机Web开发笔记 - 王哈哈 - 博客园](http://www.cnblogs.com/wanghaha/p/3155025.html)
 
-2015-12-14 14:31 [前端开发面试知识小结 - 推酷](http://www.tuicool.com/articles/Rz6RNrf)
+2015-03-03 17:59 [hoosin/mobile-web-favorites · GitHub](https://github.com/hoosin/mobile-web-favorites)
 
-2015-12-14 14:37 [所谓全栈——《Web全栈工程师的自我修养》读书笔记 // 亚里士朱德的博客](http://yalishizhude.github.io/2015/12/12/fullstack-self-improvement/)
+2015-03-03 18:02 [手机页面切图有什么需要注意的地方么-CSDN论坛-CSDN.NET-中国最大的IT技术社区](http://bbs.csdn.net/topics/390959812?page=1)
 
-2015-12-17 13:53 [腾讯 AlloyTeam](https://github.com/AlloyTeam?page=2)
+2015-03-06 11:18 [手机端网页点击链接触发自动拨打或保存电话的示例代码_软机网](http://www.microwp.cn/code/javascript/2014/0818/6250.html)
 
-2016-01-13 19:43 [HTTP Content-type 对照表](http://tool.oschina.net/commons)
+2015-03-10 10:49 [记一次 JS 模拟 CSS active 效果的过程 - 容祯的专栏 - 博客频道 - CSDN.NET](http://blog.csdn.net/zhangxin09/article/details/8253679)
 
-2016-01-21 19:59 [Tencent AlloyTeam - 腾讯 Web 前端团队](http://alloyteam.github.io/)
+2015-03-10 10:55 [自适应网页设计的方法(手机端良好的访问体验)_建站技巧_网管之家](http://www.bitscn.com/school/jzjq/201312/287115.html)
 
-2016-01-26 19:44 [腾讯ISUX – 社交用户体验设计](http://isux.tencent.com/)
+2015-03-10 13:58 [【原】[webkit移动开发笔记]之如何去除android上a标签产生的边框 - 白树 - 博客园](http://www.cnblogs.com/PeunZhang/archive/2013/02/28/2907708.html)
 
-2016-03-12 11:53 [一份优秀的前端开发工程师简历是怎么样的？ - 前端工程师 - 知乎](https://www.zhihu.com/question/23150301)
+2015-03-10 13:59 [css禁止用户选择文本（兼容所有浏览器） - 为程序员服务](http://outofmemory.cn/code-snippet/310/css-disable-user-select-text-jianrong-suoyou-liulanqi)
 
-2016-03-22 21:56 [Mozilla 开发者网络](https://developer.mozilla.org/zh-CN/)
+2015-03-10 15:40 [理解viewport与device-width - 推酷](http://www.tuicool.com/articles/ri2AJv)
 
-2016-03-23 11:54 [前端资源教程 - CNode技术社区](https://cnodejs.org/topic/56ef3edd532839c33a99d00e)
+2015-03-10 16:45 [Andoird用户界面设计上手指南：设置字体大小 - 51CTO.COM](http://mobile.51cto.com/design-351567.htm)
 
-2016-04-20 14:46 [amfe/article](https://github.com/amfe/article)
+2015-03-10 16:45 [手机web——自适应网页设计（html/css控制） - 51CTO.COM](http://mobile.51cto.com/ahot-409516.htm)
 
-2016-04-26 16:09 [致我们终将组件化的Web | Web前端 腾讯AlloyTeam Blog | 愿景: 成为地球卓越的Web团队！](http://www.alloyteam.com/2015/11/we-will-be-componentized-web-long-text/)
+2015-03-10 17:47 [dpi 、 dip 、分辨率、屏幕尺寸、px、density 关系以及换算 - 人间奇迹 - 博客园](http://www.cnblogs.com/yaozhongxiao/archive/2014/07/14/3842908.html)
 
-2016-04-27 11:47 [Chrome 控制台新玩法-console显示图片以及为文字加样式 - 刘哇勇 - 博客园](http://www.cnblogs.com/Wayou/p/chrome_dev_tool_style_console.html)
+2015-03-10 18:19 [Android系统字体规范与应用探索 | 设计达人](http://www.shejidaren.com/android%E7%B3%BB%E7%BB%9F%E5%AD%97%E4%BD%93%E8%A7%84%E8%8C%83%E4%B8%8E%E5%BA%94%E7%94%A8%E6%8E%A2%E7%B4%A2.html)
 
-2016-04-27 11:48 [console对象 -- JavaScript 标准参考教程（alpha）](http://javascript.ruanyifeng.com/tool/console.html)
+2015-03-11 14:00 [Android 4.1 4.2 webkit开启默认缩放设置后meta中target-densitydpi配置会影响其他页面的解决方法 | 天宇空间](http://www.xdty.org/1480)
 
-2016-05-06 21:52 [CSS vs JS动画：谁更快？](http://zencode.in/19.CSS-vs-JS%E5%8A%A8%E7%94%BB%EF%BC%9A%E8%B0%81%E6%9B%B4%E5%BF%AB%EF%BC%9F.html#rd?sukey=fa67fe3435f5c4beacbfe457b9a035532d6e1e4d69f86587f15a4829bebd01e24cce697d32314a28aafad42df5d6f8e5)
+2015-03-11 14:00 [关于meta viewport中target-densitydpi属性 - fengri5566的专栏 - 博客频道 - CSDN.NET](http://blog.csdn.net/fengri5566/article/details/9414599)
 
-2016-06-02 18:52 [学习编程语言最好的方法是什么？ - 五河士道的回答 - 知乎](https://www.zhihu.com/question/20252436/answer/78426464?group_id=720946974815186944)
+2015-03-11 14:00 [html5开发之viewport使用](http://www.php100.com/html/webkaifa/HTML5/2012/0831/10979.html)
 
-2016-08-03 10:50 [UDN 专注企业互联网技术开发：IT技术社区_Web前端开发工具_Web开发文档_HTML5_CSS3_JavaScript_Jquery_数据库开发_移动开发技术](http://udn.yyuap.com/)
+2015-03-11 14:00 [关于不同分辨率手机显示有区别的解决办法-AppCan交流社区 - Powered by Discuz!](http://bbs.appcan.cn/forum.php?mod=viewthread&tid=11693&extra=page%3D5)
 
-2016-08-26 11:31 [Framer - Design tool for creating interactive designs, interfaces and animations](https://framerjs.com/)
+2015-03-11 14:00 [移动端webapp开发必备知识](http://www.poluoluo.com/jzxy/201211/188320.html)
 
-2016-09-06 10:53 [GitHub上整理的一些工具，求补充 - | @Get社区](http://get.ftqq.com/6661.get)
+2015-03-11 14:01 [网页宽度自动适应手机屏幕宽度的方法 - D!eR 个人博客 - 博客频道 - CSDN.NET](http://blog.csdn.net/dier4836/article/details/7533879)
 
-2016-10-29 14:39 [QCon 上海 2016 PPT 下载合集](http://ppt.geekbang.org/qconsh2016)
+2015-03-11 14:01 [移动前端开发之viewport的深入理解 - 无双 - 博客园](http://www.cnblogs.com/2050/p/3877280.html)
 
-2016-11-14 11:00 [浏览器: F5 和 Ctrl+F5的区别（两种强制刷新的不同） - Snooda - Snooda's Blog](http://www.snooda.com/read/224)
+2015-03-11 14:05 [小米手机target-densitydpi不正确-AppCan交流社区 - Powered by Discuz!](http://bbs.appcan.cn/forum.php?mod=viewthread&tid=11373)
 
-2016-11-14 11:01 [在浏览器地址栏按回车、F5、Ctrl+F5刷新网页的区别](http://www.360doc.com/content/14/0925/22/8504707_412366228.shtml)
+2015-03-11 16:04 [[WebApp]定宽网页设计下，固定宽度布局开发WebApp并实现多终端下WebApp布局自适应 - plums - 博客园](http://www.cnblogs.com/plums/archive/2013/01/10/WebApp-fixed-width-layout-of-multi-terminal-adapter-since.html)
 
-2016-11-14 11:12 [F5和CTRL+F5的区别 - 紫云飞 - 博客园](http://www.cnblogs.com/ziyunfei/archive/2012/09/13/2683177.html)
+2015-03-13 20:02 [移动WEB开发中媒体查询里的width, device-width, resolution - rentj - 博客园](http://www.cnblogs.com/rentj1/p/3553223.html)
 
-2016-11-14 11:18 [How to force refresh without cache in Google Chrome? - Super User](http://superuser.com/questions/89809/how-to-force-refresh-without-cache-in-google-chrome/278393#278393)
+2015-03-16 10:21 [关于webapp中的文字单位的一些捣腾前端观察 | CSS | 前端观察](http://www.qianduan.net/guan-yu-webapp-zhong-di-wen-zi-dan-wei-di-yi-xie-dao-teng.html)
 
-2016-11-14 11:18 [Ctrl+F5 vs Ctrl+R (On Browsers) - Super User](http://superuser.com/questions/205279/ctrlf5-vs-ctrlr-on-browsers)
+2015-03-16 10:29 [图灵社区 : 阅读 : 移动端屏幕适配方案](http://www.ituring.com.cn/article/130015)
 
-2016-11-17 21:28 [Overflow Stack](http://overflowstack.github.io/)
+2015-03-16 11:00 [做手机页面的时候为什么在不同手机上面字体的大小会不一样呢？_百度知道](http://zhidao.baidu.com/link?url=bacQiXI1UjFIFfJZ4s78Aa0PwjlV_pB6kaIq-o4vDaF4jEzek6XnLwrqWHyUSSoX2wF4-gfABLNJqQn1vtKMgUA-h2xtWKCq9-ugVC9lOda)
 
-2016-11-17 21:29 [unruledboy/WebFrontEndStack: web front end stack: browsers, platforms, libraries, frameworks, tools etc.](https://github.com/unruledboy/WebFrontEndStack)
+2015-03-16 11:01 [移动web开发，文字是否有必要根据分辨率调整文字大小？_html/css_WEB-ITnose](http://www.itnose.net/detail/6139437.html)
 
-2016-11-22 14:38 [GEEKTyper.com - Be The One](http://geektyper.com/)
+2015-03-16 11:01 [友盟_中国最大的移动开发者服务平台 - umeng.com](http://www.umeng.com/)
 
-2016-11-22 14:38 [Hacker Typer](http://hackertyper.net/)
+2015-03-16 11:01 [手机版网页设计html5元素meta name=”viewport”设置需要注意的地方 | 有爱一街](http://www.uiej.com/960.html)
 
-2016-11-22 15:17 [How Much Does a Website Cost](http://howmuchdoesawebsiteco.st/)
+2015-03-16 15:30 [【WebApp】单页webapp应用开发总结【暂完】 - 呢喃的猫咪 - 开源中国社区](http://my.oschina.net/maomi/blog/183790?p=1)
 
-2016-11-25 09:06 [大公司或专业团队目前流行的前端工具有什么？ - 知乎](https://www.zhihu.com/question/28638304)
+2015-04-02 18:30 [-webkit-min-device-pixel-ratio的常见值对照 - Focus-Fe - ITeye技术网站](http://zhangyaochun.iteye.com/blog/1816582)
 
-2015-09-18 18:12 [20位活跃在Github上的国内技术大牛 - YaoXTao的专栏 - 博客频道 - CSDN.NET](http://blog.csdn.net/yaoxtao/article/details/38518933)
+2015-04-02 18:31 [近期手机网页项目一些杂碎心得分享 « 张鑫旭-鑫空间-鑫生活](http://www.zhangxinxu.com/wordpress/2012/08/mobile-wap-page-knowledge-share/)
 
-2016-12-04 23:01 [CSS 中 -webkit-font-smoothing: antialiased 反而让字体更难看了? - SegmentFault](https://segmentfault.com/q/1010000000467910)
+2015-04-02 18:31 [devicePixelRatio « 张鑫旭-鑫空间-鑫生活](http://www.zhangxinxu.com/wordpress/tag/devicepixelratio/)
 
-2017-02-14 09:08 [uis.cc - 前端技术博客](https://www.uis.cc/)
+2015-04-02 18:31 [设备像素比devicePixelRatio简单介绍 « 张鑫旭-鑫空间-鑫生活](http://www.zhangxinxu.com/wordpress/2012/08/window-devicepixelratio/)
 
-2017-02-20 08:58 [Free Website Builder | Create a Free Website | WIX.com](http://www.wix.com/)
+2015-04-02 18:32 [两个viewport的故事（第一部分）](http://weizhifeng.net/viewports.html)
 
-2017-02-20 17:12 [看云 | 专注技术文档在线创作、阅读、分享和托管](http://www.kancloud.cn/)
+2015-04-02 18:32 [JavaScript中的立即执行函数表达式](http://weizhifeng.net/immediately-invoked-function-expression.html)
 
-2017-03-07 09:33 [谈谈对 Web 安全的理解 - 知乎专栏](https://zhuanlan.zhihu.com/p/25486768?group_id=820705780520079360)
+2015-04-02 18:32 [移动Web页面，为什么都喜欢width=device-width，并且关闭系统缩放功能？ - SegmentFault](http://segmentfault.com/q/1010000000305316)
 
-2017-03-09 08:36 [首页 - JSPatch 平台 - iOS APP 热更新热修复平台](http://jspatch.com/)
+2015-04-02 18:32 [devicePixelRatio = 1.5 引发的问题 | JerryQu 的小站](https://www.imququ.com/post/devicepixelratio-and-border-width.html)
 
-2017-03-14 13:54 [IT eBooks - Free Download - Big Library](http://www.it-ebooks.info/)
+2015-04-02 18:32 [一些关于Viewport与device-width的东西～ - 口口一凡 - 博客园](http://www.cnblogs.com/koukouyifan/p/4066567.html)
 
-2017-03-20 13:45 [Kity官网](http://kity.baidu.com/)
+2015-04-16 10:28 [apple-touch-icon和apple-touch-icon-precomposed区别使用 – 天空网志](http://www.sky84.cn/blog/archives/87.html)
 
-2017-03-20 14:08 [FEX - FEX](http://fex.baidu.com/)
+2015-04-16 10:33 [响应式网页设计-腾讯ISUX – 社交用户体验设计 – Better Experience Through Design](http://isux.tencent.com/responsive-web-design.html)
 
-2017-03-21 17:49 [最全前端资源汇集 - hello2 - SegmentFault](https://segmentfault.com/a/1190000004978770)
+2015-04-16 10:33 [移动平台的meta标签-----神奇的功效_芬芬_新浪博客](http://blog.sina.com.cn/s/blog_6d48e77101015kqr.html)
 
-2017-03-21 18:23 [WeFlow | 一个高效、强大、跨平台的前端开发工作流工具](https://weflow.io/)
+2015-04-16 10:34 [前端笔记 | 移动平台对 meta 标签的定义](http://www.cssue.com/xhtml-css/html5-css3/mobile-meta.html)
 
-2017-03-23 09:25 [F2etest by alibaba](http://f2etest.com/)
+2015-05-21 09:41 [移动web开发框架研究 - 张兴业的博客 - 博客频道 - CSDN.NET](http://blog.csdn.net/xyz_lmn/article/details/41052977)
 
-2017-04-05 09:24 [What's my IP Address? What's my browser?](http://fmbip.com/)
+2015-05-21 09:50 [手机Web开发框架 - 开源软件库 - 开源中国社区](http://www.oschina.net/project/tag/322/mobile-web)
 
-2017-04-26 17:27 [WebP 探寻之路 - 前端技术 - 腾讯ISUX](http://isux.tencent.com/introduction-of-webp.html)
+2015-06-08 17:37 [在网页中添加“分享到微信朋友圈”按钮的代码分享 - 微信营销 - 酷站代码](http://www.5icool.org/a/201308/a2297.html)
 
-2017-05-10 10:59 [JSConf.cn — Conferences for the JavaScript community in China](http://jsconf.cn/)
+2015-06-08 17:41 [如何使用微信JS-SDK实际分享功能_百度经验](http://jingyan.baidu.com/article/d3b74d64c517051f77e609ed.html)
 
-2017-06-01 09:12 [HTML5中国产业联盟](http://www.html5plus.org/#home)
+2015-06-10 17:11 [微信开发之移动手机WEB页面(HTML5)Javascript实现一键拨号及短信发送功能 - 仰天一笑 - 博客园](http://www.cnblogs.com/skylaugh/p/3277899.html)
 
-2017-06-05 10:41 [OAuth 2.0 — OAuth](https://oauth.net/2/)
+2015-06-10 18:05 [微信开发实现一键拨号出现屏蔽问题的解决方案 - 仰天一笑 - 博客园](http://www.cnblogs.com/skylaugh/p/3401825.html)
 
-2017-06-06 15:39 [ProcessOn - 免费在线作图，实时协作](https://www.processon.com/)
+2015-06-18 14:17 [WEBAPP介绍及其iOS Web开发技巧总结 - freshlover的专栏 - 博客频道 - CSDN.NET](http://blog.csdn.net/freshlover/article/details/10361689)
 
-2017-06-06 15:41 [未命名的表单 - draw.io](https://www.draw.io/)
+2015-06-18 14:44 [[Phonegap+Sencha Touch] 移动开发27、禁用iOS系统的webapp电话号码自动识别-IOS-第七城市](http://www.th7.cn/Program/IOS/201407/228892.shtml)
 
-2017-06-08 16:11 [Paper.js](http://paperjs.org/)
+2015-06-18 14:47 [&lt;meta name=&quot;format-detection&quot; content=&quot;telephone=no&quot;&gt;等 - macwhirr123 - 博客频道 - CSDN.NET](http://blog.csdn.net/macwhirr123/article/details/11971303)
 
-2017-07-25 14:20 [一起开源网_做中国最大的开源项目分享平台](http://www.17ky.net/)
+2015-06-29 17:35 [html5屏幕旋转事件，html5如何实现屏幕旋转 - html5/css/js技术交流](http://bbs.phonegap100.com/thread-28-1-1.html)
 
-2017-08-16 14:00 [BDP个人版－零门槛数据分析平台](https://me.bdp.cn/index.html)
+2015-06-29 20:47 [Viewport Sizes](http://viewportsizes.com/)
 
-2017-08-16 14:35 [看板|诸葛IO-精细化数据分析工具](https://demo.zhugeio.com/apppanel/panel.jsp?app_id=35510&p=3#Ym9hcmRJZD0yODQ0)
+2015-07-02 11:31 [前端页面中 iOS 版微信长按识别二维码的bug 与解决方案 | DeveWork](http://devework.com/weixin-qrcode-bug.html)
 
-2017-09-21 21:04 [EFE Tech - 百度EFE（Excellent FrontEnd）技术体系](http://efe.baidu.com/)
+2015-07-21 13:52 [HTML5 Battery电池状态相关API简介 « 张鑫旭-鑫空间-鑫生活](http://www.zhangxinxu.com/wordpress/2014/01/an-overview-of-html5-battery-api/)
 
-2017-11-05 15:43 [CSP内容安全策略 - lmh2072005 - 博客园](http://www.cnblogs.com/lmh2072005/p/6044542.html)
+2015-07-21 13:57 [使用 HTML5 input 类型提升移动端输入体验 - 开源中国社区](http://www.oschina.net/translate/using-html5-input-types-to-enhance-the-mobile-browsing-experience?cmp)
 
-2017-11-17 17:59 [免费 WEB API - 简易工作室](http://www.jianyiit.com/post-131.html)
+2015-07-21 18:01 [js隐藏手机浏览器地址栏 | 微前端](http://www.vqianduan.com/245.html)
 
-2017-11-19 19:27 [获取Bing每日壁纸用作首屏大图 - Giuem](https://www.giuem.com/bing-image-get-php/)
+2015-07-21 18:09 [移动端的触屏事件 | 微前端](http://www.vqianduan.com/766.html)
 
-2017-11-22 09:19 [求教大神浏览器是根据什么决定from disk cache 与 from memory cache？ - 知乎](https://www.zhihu.com/question/64201378)
+2015-07-21 18:31 [JS 事件（JS高级程序编程） - js教程 - ab蓝学网](http://www.ablanxue.com/prone_15189_1.html)
 
-2017-12-15 19:56 [Awesomes-Web前端开发资源库](https://www.awesomes.cn/)
+2015-07-22 17:49 [移动前端制作篇之javascript篇 | FM的前端路](http://chenfengming.cn/front-end/mobile-front-end-javascript.html)
 
-2018-01-04 14:47 [winui - Win10风格前端解决方案](https://www.win-ui.com/)
+2015-07-22 19:03 [通过userAgent判断手机浏览器类型 - 好饱的博客 - 程序员博客](http://blog.okbase.net/haobao/archive/1262.html)
 
-2018-01-05 15:22 [loading.io - Your SVG + GIF Ajax Loading Icons](https://loading.io/)
+2015-07-23 10:13 [不同设备浏览器的userAgent值大全 - 闻道有先后，术业有专攻，如是而已！ - 博客频道 - CSDN.NET](http://blog.csdn.net/lvjin110/article/details/12944333)
 
-2018-03-14 21:51 [2016-我的前端之路:工具化与工程化](https://zhuanlan.zhihu.com/p/24575395)
+2015-07-23 14:30 [iPhone Safari 开发中的一些特效样式_一杯白开水_新浪博客](http://blog.sina.com.cn/s/blog_4eecae090100m7c9.html)
 
-2018-03-21 10:05 [DevDocs API Documentation](http://devdocs.io/)
+2015-07-23 19:18 [iOS 的 APP 如何适应 iPhone 5s/6/6Plus 三种屏幕的尺寸？ - 推酷](http://www.tuicool.com/articles/yEFbE3)
 
-2018-03-21 10:12 [JS1k - The JavaScript code golfing competition](https://js1k.com/)
+2015-07-24 12:15 [移动前端不得不了解的 html5 head 头标签 - SegmentFault](http://segmentfault.com/a/1190000002586217)
 
-2018-04-17 10:03 [飞冰 - 赋能中后台建设](https://alibaba.github.io/ice/#/)
+2015-07-24 12:21 [移动web开发中，好用的小方法 - SegmentFault](http://segmentfault.com/a/1190000002460016)
 
-2018-04-21 01:11 [首页 - 可道云-KodExplorer 企业私有云&amp;在线文档管理解决方案](https://kodcloud.com/)
+2015-07-24 12:21 [移动端webapp开发必备知识](http://www.qianduan.net/mobile-webapp-develop-essential-knowledge/)
 
-2018-04-22 15:20 [分享一枚获取高清壁纸的api | 孟坤博客](https://mkblog.cn/581/)
+2015-07-24 13:08 [webapp前端开发软键盘与position:fixed为我们带来的不便 - 大大白兔子 - 博客园](http://www.cnblogs.com/johnl/p/4199314.html)
 
-2018-04-28 21:41 [Content Security Policy Header Generator](https://www.cspisawesome.com/)
+2015-07-24 13:30 [iPhone 6屏幕揭秘](http://wileam.com/iphone-6-screen-cn/)
 
-2018-06-08 16:15 [压箱底PPT资源网站汇总 - 简书](https://www.jianshu.com/p/ee0d0678cd0c)
+2015-07-24 13:30 [2015年成为业内顶尖前端开发工程师自我提升计划 - 大大白兔子 - 博客园](http://www.cnblogs.com/johnl/p/4199142.html)
 
-2018-06-15 17:59 [印记中文 - 深入挖掘国外前端新领域，为中国 Web 前端开发人员提供优质文档！](https://docschina.org/)
+2015-07-27 10:37 [iPhone与Android手机 各个型号的UserAgent - 小蜜锋 - 云代码空间](http://yuncode.net/article/a_512715c7a368c35)
 
-2018-07-09 17:01 [【webssh】网页上的SSH终端 - K.Takanashi - 博客园](https://www.cnblogs.com/franknihao/p/8963634.html)
+2015-07-27 10:48 [jQuery 获取屏幕高度、宽度 - hoojo - 博客园](http://www.cnblogs.com/hoojo/archive/2012/02/16/2354663.html)
 
-2018-07-12 15:22 [GIF与APNG，解决GIF锯齿问题-UI中国-专业用户体验设计平台](http://www.ui.cn/detail/34100.html)
+2015-07-27 16:58 [iOS H5的那些坑 - 推酷](http://www.tuicool.com/articles/RZB7ru6)
 
-2018-08-15 17:31 [Kikk - Fold / Unfold - Homepage](http://www.kikk.be/2015/)
+2015-07-27 17:01 [移动端H5页面之iphone6的适配 - 推酷](http://www.tuicool.com/articles/7N7bAfu)
 
-#####  规范
+2015-07-28 15:44 [Meta标签中的apple-mobile-web-app-capable属性及含义_最初的你_新浪博客](http://blog.sina.com.cn/s/blog_51048da70101cggj.html)
 
-2015-08-11 11:05 [前端JavaScript规范](http://www.runoob.com/w3cnote/javascript-guide.html)
+2015-07-28 18:38 [通过JS自动隐藏手机浏览器的地址栏 - hbcui1984的专栏 - 博客频道 - CSDN.NET](http://blog.csdn.net/hbcui1984/article/details/8350107)
 
-2016-02-01 11:23 [JavaScript 风格指南/编码规范（Airbnb公司版） - 博客 - 伯乐在线](http://blog.jobbole.com/79484/)
+2015-07-29 13:46 [用JS有效解决移动web浏览器中HTML元素的overflow:scroll滚动属性失效问题_勤思网，IT技术服务论坛](http://www.qinsiwang.com/theme_bbs_6/136.html)
 
-2016-09-03 11:00 [前端规范(ES6\BEM\OOCSS\SMACSS) - iStudy - SegmentFault](https://segmentfault.com/a/1190000005123938)
+2015-07-29 13:49 [HTML5之小米手机上300毫秒延迟问题 | 暗影行者(bfc)](http://www.bucry.com/?p=460)
 
+2015-07-29 13:59 [移动Web之触摸和指针事件详解](http://www.infoq.com/cn/articles/touch-pointer-event)
 
+2015-07-29 17:02 [app内嵌web的一些问题记录 - hlily - 博客园](http://www.cnblogs.com/lilyimage/p/3410967.html)
 
-#####  BigPipe
+2015-07-29 17:07 [移动Web开发技巧汇总 - 前端分享 - 前端乱炖](http://www.html-js.com/article/Front-end-sharing%202983)
 
-2015-09-24 10:28 [rose pipe–一次对http技术的伟大革新实现（54chen乱弹版） | 五四陈科学院-坚信科学，分享技术](http://www.54chen.com/architecture/rose-pipe-http-54chen.html)
+2015-07-29 17:15 [移动端、手机网站中文输入法下keyup事件部分按键无效](http://www.bubuko.com/infodetail-419397.html)
 
-2015-09-24 10:28 [一场技术的圣战：rose开源框架之portal | 五四陈科学院-坚信科学，分享技术](http://www.54chen.com/architecture/rose-open-source-portal-framework.html)
+2015-07-29 17:20 [在andriod系统的浏览器中，input框获焦点并自动弹出软键盘的方法？ - 开源中国社区](http://www.oschina.net/question/567163_149989)
 
-2015-08-25 16:59 [BigPipe学习研究 « 搜索技术博客－淘宝](http://www.searchtb.com/2011/04/an-introduction-to-bigpipe.html)
+2015-07-30 12:18 [移动web开发常用技巧 -高级应用-Css教程-壹聚教程网](http://www.111cn.net/cssdiv/css/59654.htm)
 
-2015-09-24 10:28 [Facebook创新之BigPipe：优化页面加载时间](http://www.infoq.com/cn/news/2010/08/bigpipe-facebook-optimize)
+2015-08-12 19:42 [使用HTML5+Canvas调用IPHONE摄像头拍照并压缩处理-林氏智造-专注网站建设,用智力创造生活](http://www.0773linji.com/article/index/id/109)
 
-2015-09-24 10:29 [名站技术分析 — facebook奇特的页面加载技术 - BearRui(AK-47) - 博客园](http://www.cnblogs.com/BearsTaR/archive/2010/06/18/facebook_html_chunk.html)
+2015-08-20 16:59 [浏览器userAgent大全 - taro - ITeye技术网站](http://taro.iteye.com/blog/1634253)
 
-2015-09-24 11:01 [BigPipe_百度百科](http://baike.baidu.com/link?url=5FEkjwdBxzD2npRsea4lxnp49h8C0pNwzjDqN6X6yMjaI40Jr83GV4wg_MN9OZi6gOpjDa0ad9aCgoW1CFHiOK)
+2015-08-25 15:37 [ipad-webapp的一些总结 - 推酷](http://www.tuicool.com/articles/Q7R7v2)
 
-2015-09-24 17:57 [Node.js实现的BigPipe - meteoric_cry - 博客园](http://www.cnblogs.com/meteoric_cry/archive/2013/04/23/3037384.html)
+2015-09-10 12:15 [在webapp上使用input:file_Alien的笔记](http://www.baidufe.com/item/6e3b3028d410c2ba13de.html)
 
-2015-09-24 17:57 [nodejs+bigpipe+angularjs技术实现 - CNode技术社区](https://cnodejs.org/topic/52d64a30e20b7c8214bc14f1)
+2015-10-16 18:02 [移动端web页面使用position:fixed问题总结-css-电脑编程网](http://biancheng.dnbcw.info/css/459090.html)
 
-2015-09-24 18:02 [BigPipe的正确使用姿势 - SegmentFault](http://segmentfault.com/a/1190000002998812)
+2015-12-29 14:03 [在手持设备上使用 touchstart 事件代替 click 事件是不是个好主意？ - 前端开发 - 知乎](http://www.zhihu.com/question/20702822)
 
-2015-09-24 18:03 [Facebook让网站速度提升一倍的BigPipe技术分析 - limu的砖篮儿 - ITeye技术网站](http://limu.iteye.com/blog/765173)
+2016-01-20 20:32 [移动端UC /QQ 浏览器的部分私有Meta 属性 | DeveWork](http://devework.com/uc-qq-brower-meta.html)
 
-2016-11-25 09:28 [BigPipe 学习 - web前端 - SegmentFault](https://segmentfault.com/a/1190000002940886)
+2016-01-21 17:20 [移动端的头部标签和 meta - humingx - SegmentFault](http://segmentfault.com/a/1190000002532413)
 
-2016-11-25 09:57 [利用bigpipe机制实现页面模块的异步渲染 - 随机 - 博客园](http://www.cnblogs.com/Random/archive/2011/06/30/2093913.html)
+2016-01-21 17:21 [移动端重构系列2——新建空白页面_移动端重构系列, mobile 教程_w3cplus](http://www.w3cplus.com/mobile/mobile-terminal-refactoring-create-page.html)
 
+2016-01-21 17:22 [HTML中head头结构 - PaddingMe - SegmentFault](http://segmentfault.com/a/1190000000697532)
 
+2016-01-21 17:25 [[Html5]mobile-agent移动Agent,就是具有移动性的智能Agent_极酷播放器官方网站](http://www.cuplayer.com/player/PlayerCode/Html5/2014/1103/1650.html)
 
-#####  Token
+2016-01-21 17:54 [Web移动端Fixed布局的解决方案 | EFE Tech](http://efe.baidu.com/blog/mobile-fixed-layout/?qq-pf-to=pcqq.group)
 
-2015-10-13 11:05 [使用json web token | 皓眸大前端](http://www.haomou.net/2014/08/13/2014_web_token/)
+2016-01-21 17:54 [CSSOM视图模式scrollIntoView方法 » 张鑫旭-鑫空间-鑫生活](http://www.zhangxinxu.com/study/201109/scroll-into-view.html)
 
-2017-10-11 16:06 [CORS实现跨域时授权问题（401错误）的解决_慕课手记](http://www.imooc.com/article/7989)
+2016-03-07 14:53 [手机中的javascript事件 - 一只柯楠 - 博客园](http://www.cnblogs.com/webzhangnan/archive/2012/06/03/2532439.html)
 
+2016-03-07 19:31 [ftlabs/fastclick: Polyfill to remove click delays on browsers with touch UIs](https://github.com/ftlabs/fastclick)
 
+2016-03-07 19:31 [javascript - 移动页面滚动穿透如何解决 - SegmentFault](https://segmentfault.com/q/1010000002942948)
 
-#####  Cookie
+2016-03-07 19:31 [javascript - 手机浏览器点击事件的穿透问题 - SegmentFault](https://segmentfault.com/q/1010000003043546)
 
-2015-10-22 14:15 [如何为cookie设置HttpOnly - 星期五的日志 - 网易博客](http://zhenghaoju700.blog.163.com/blog/static/13585951820138267195385/)
+2017-03-10 16:21 [【译】渐进式 Web App 的离线存储 - 我的前端探索 - SegmentFault](https://segmentfault.com/a/1190000006640450)
 
-2015-10-22 14:15 [如何设计相对安全的cookie自动登录系统-编程开发-黑吧安全网](http://www.myhack58.com/Article/html/3/68/2013/39914.htm)
+#####  PhoneGap
 
-2015-10-22 14:16 [有关cookie的httponly属性相关 - 咖啡不加糖 - ITeye技术网站](http://coffeesweet.iteye.com/blog/1271822)
+2015-02-02 17:17 [PhoneGap开发环境搭建 - 随机 - 博客园](http://www.cnblogs.com/Random/archive/2011/12/28/2305398.html)
 
-2015-10-22 14:37 [使用AuthToken架构保护用户帐号验证Cookie的安全性 - Hex - 博客园](http://www.cnblogs.com/csharpsharper/archive/2011/02/21/1959379.html)
+2015-02-02 17:21 [PhoneGap - html5与PhoneGap开发教程 - Android开发论坛 - 安卓开发论坛 - Android开发 - 安卓论坛 - 移动互联网门户 - Powered by Discuz!](http://www.apkbus.com/android-60830-1-1.html)
 
-2015-10-22 14:39 [深入理解 Session 与 Cookie - Kevin-air的个人空间 - 开源中国社区](http://my.oschina.net/kevinair/blog/192829)
+2015-02-02 17:21 [phonegap教程_最全的phonegap教程_HTML5中国](http://www.html5cn.org/portal.php?mod=list&catid=64)
 
-2015-10-22 18:45 [Cookie安全漫谈](http://www.infoq.com/cn/articles/cookie-security/)
 
-2015-10-22 18:45 [Cookie安全 - 博文视点（北京）官方博客 - 博客频道 - CSDN.NET](http://blog.csdn.net/broadview2006/article/details/8595166)
 
+#####  适配
 
+2015-04-01 15:59 [[适配性]移动Webapp自适应方案_小组_ThinkSAAS](http://www.thinksaas.cn/group/topic/349043/)
 
-#####  Socket
+2015-04-01 15:59 [iOS&amp;Android 移动设计字体规范整理大全 – 25学堂](http://www.25xt.com/appdesign/8011.html)
 
-2015-11-06 14:17 [WSS - Https - 握手协议 - - ITeye技术网站](http://enlbi.iteye.com/blog/1103525)
+2015-04-01 16:00 [最新WebAPP设计指南规范：适配iphone6技巧 – 25学堂](http://www.25xt.com/appdesign/7086.html)
 
-2015-11-06 14:17 [Socket.IO 用的协议是 ws 还是 wss? - IAMSK 的回答 - 知乎](http://www.zhihu.com/question/20368919/answer/15883875)
+2015-04-02 09:35 [WEBAPP开发技巧(手机网站开发注意事项) | WEB前端开发-关注常见的WEB前端开发问题、最新的WEB前端开发技术(webApp开发、移动网站开发)、最好的WEB前端开发工具和最全的WEB前端开发w3cschool手册](http://www.css119.com/archives/1042)
 
-2017-03-10 16:14 [websoket.io 高并发 实现 - 转眼已大叔 - SegmentFault](https://segmentfault.com/a/1190000008544300?utm_source=weekly&utm_medium=email&utm_campaign=email_weekly)
+2015-04-02 09:40 [HTML 5-webapp如何实现字体自适应? - 德问:编程社交问答](http://www.dewen.io/q/13315/webapp%E5%A6%82%E4%BD%95%E5%AE%9E%E7%8E%B0%E5%AD%97%E4%BD%93%E8%87%AA%E9%80%82%E5%BA%94%3F)
 
+2015-04-02 11:27 [网页字体单位rem详解](http://www.chenpansong.cn/article.php?id=29)
 
+2015-04-02 11:47 [web app变革之rem-腾讯ISUX – 社交用户体验设计 – Better Experience Through Design](http://isux.tencent.com/web-app-rem.html)
 
-#####  CDN
+2015-06-30 17:26 [Html开发之Viewport的使用 - 风芯的站点 - 开源中国社区](http://my.oschina.net/LCore/blog/335189)
 
-2015-11-09 09:58 [开放静态文件 CDN - 为开源库提供稳定、快速的免费 CDN 服务](http://www.staticfile.org/)
+2015-03-16 11:01 [自适应网页设计（Responsive Web Design） - 阮一峰的网络日志](http://www.ruanyifeng.com/blog/2012/05/responsive_web_design.html)
 
-2015-11-09 09:58 [百度静态资源公共库](http://cdn.code.baidu.com/)
 
-2015-11-09 10:24 [前端公共库CDN加速-静态资源公共库,免费CDN公共库](http://www.cdnjs.net/)
 
-2015-04-30 15:57 [Bootstrap中文网开源项目免费 CDN 服务](http://www.bootcdn.cn/)
+#####  JS库
 
+2015-04-14 14:16 [Zepto 使用中的一些注意点(转) - 草珊瑚 - 博客园](http://www.cnblogs.com/samwu/archive/2013/06/06/3121649.html)
 
+2015-05-21 09:45 [Ionic: 高级 HTML5混合移动应用开发框架](http://ionicframework.net/index.html)
 
-#####  浏览器
+2015-08-24 16:08 [zepto.js 源码解析](http://www.runoob.com/w3cnote/zepto-js-source-analysis.html)
 
-2015-12-14 14:14 [翻译：清除各个浏览器中的数据研究 « 张鑫旭-鑫空间-鑫生活](http://www.zhangxinxu.com/wordpress/2012/09/%E7%BF%BB%E8%AF%91%EF%BC%9A%E6%B8%85%E9%99%A4%E5%90%84%E4%B8%AA%E6%B5%8F%E8%A7%88%E5%99%A8%E4%B8%AD%E7%9A%84%E6%95%B0%E6%8D%AE%E7%A0%94%E7%A9%B6/)
+2015-08-24 16:18 [zepto和jquery的区别，zepto的不同使用8条小结 - kongjiea笔记 - 博客频道 - CSDN.NET](http://blog.csdn.net/kongjiea/article/details/42522305)
 
-2016-01-29 17:27 [Microsoft Azure RemoteApp](https://www.remoteapp.windowsazure.com/)
+2016-03-02 17:00 [Hook Mobile | Powering Global Communication](http://www.hookmobile.com/)
 
-2016-04-19 17:32 [一个新浏览器，为我们的朋友打造 – Vivaldi](https://vivaldi.com/)
+2017-03-21 17:26 [超级好用的流程图js框架 - AlvinNoending的专栏 - 博客频道 - CSDN.NET](http://blog.csdn.net/alvinnoending/article/details/52937689)
 
-2016-05-19 14:11 [Postman | Supercharge your API workflow](http://www.getpostman.com/)
 
-2016-07-11 11:00 [CN-Chrome-DevTools/Performance-profiling-with-the-Timeline.md at master · zhangyaowu/CN-Chrome-DevTools](https://github.com/zhangyaowu/CN-Chrome-DevTools/blob/master/md/Performance-Profiling/Performance-profiling-with-the-Timeline.md)
 
-2016-07-11 11:00 [使用Chrome DevTools的Timeline和Profiles提高Web应用程序的性能 - 技术翻译 - 开源中国社区](http://www.oschina.net/translate/performance-optimisation-with-timeline-profiles)
+#####  模拟器
 
-2016-08-18 09:59 [IE11 Windows7下F12 DOC资源管理器不能用Exception in window.onload: Error: An error has ocurr... - 推酷](http://www.tuicool.com/articles/iiaeEbF)
+2015-04-22 16:11 [BlueStacks中文官方网站](http://www.bluestacks.cn/)
 
-2016-08-22 11:18 [chrome调试工具常用功能整理](http://sentsin.com/web/250.html)
+2015-04-22 17:27 [给力助手官方下载_给力助手官网_蓝手指](http://www.shouzhi.net.cn/z/geilizhushou.html)
 
-2016-08-22 11:19 [开发者调试工具Chrome Workspace - 腾讯ISUX - 社交用户体验设计](http://isux.tencent.com/chrome-workspace.html)
 
-2016-08-22 11:22 [利用google浏览器开发者工具调试网页（详） - OPEN 开发经验库](http://www.open-open.com/lib/view/open1420789510281.html)
 
-2016-08-22 11:35 [作为Web开发人员，我为什么喜欢Google Chrome浏览器 - Q.Lee.lulu - 博客园](http://www.cnblogs.com/QLeelulu/archive/2011/08/28/2156402.html)
+#####  插件
 
-2016-08-22 11:41 [Chrome DevTools Overview - Google Chrome](https://developer.chrome.com/devtools)
+2015-05-08 14:58 [多种支持手机客户端、触摸屏滑动样式幻灯片轮播](http://demo.lanrenzhijia.com/2014/mobile0626/)
 
-2016-08-22 11:43 [Chrome开发者工具不完全指南（一、基础功能篇） - 卖烧烤夫斯基 - 博客园](http://www.cnblogs.com/constantince/p/4565261.html)
+2015-05-08 15:43 [多种支持手机客户端、触摸屏滑动样式幻灯片轮_懒人之家](http://www.lanrenzhijia.com/jquery/2851.html)
 
-2016-08-22 12:21 [Chrome开发者工具系列 - 随笔分类 - 卖烧烤夫斯基 - 博客园](http://www.cnblogs.com/constantince/category/712675.html)
+2015-07-24 09:34 [IScroll5 参数说明和调用方法 - 推酷](http://www.tuicool.com/articles/vMn2u2)
 
-2015-06-05 15:25 [Browse Happy](http://browsehappy.com/)
+2015-07-24 09:41 [IScroll5中文API整理,用法与参考 - 无赖君子 - 博客园](http://www.cnblogs.com/leolai/articles/4204345.html)
 
-2016-08-30 18:31 [Firebug控制台详解 - 阮一峰的网络日志](http://www.ruanyifeng.com/blog/2011/03/firebug_console_tutorial.html)
+2015-07-24 13:32 [iScroll 5, smooth scrolling for the web](http://iscrolljs.com/)
 
-2016-08-30 18:35 [JavaScript 打印调用堆栈 - 诸葛飞 - 博客频道 - CSDN.NET](http://blog.csdn.net/zhugefei/article/details/49802389)
+2015-07-29 16:01 [IScroll5+在ios、android点击（click）事件不兼容解决方法 | 最棒的web前端及html5资源分享、交流、学习平台 – 52html5(金牌狙击手的博客)](http://www.52html5.com/?p=2618)
 
-2016-08-30 19:59 [Chrome 控制台console的用法 - OPEN 开发经验库](http://www.open-open.com/lib/view/open1421131601390.html)
+2015-07-29 16:46 [手机网站使用iscroll插件链接无法点击解决方案](http://www.douban.com/note/503437802/)
 
-2016-09-14 14:49 [15个必须知道的chrome开发者技巧 - 全栈开发者](http://www.admin10000.com/document/6159.html)
+2015-07-30 10:57 [iscroll介绍 - 無執 - ITeye技术网站](http://lhdst-163-com.iteye.com/blog/1239784)
 
-2015-07-21 16:36 [查看html元素绑定的事件与方法的利器 - web馆 - 博客园](http://www.cnblogs.com/xiaoyao2011/p/3447421.html)
+2015-07-30 11:23 [【IScroll深入学习】解决IScroll疑难杂症 - 叶小钗 - 博客园](http://www.cnblogs.com/yexiaochai/p/3764503.html)
 
-2015-06-05 17:24 [Web设计者和开发者必备的27个Chrome插件 - Chrome 官方博客 - 博客频道 - CSDN.NET](http://blog.csdn.net/chromeblog/article/details/6865124)
+2015-07-30 11:40 [iscroll源码初涉 - 秋尘 - 博客园](http://www.cnblogs.com/viccici/p/3878680.html)
 
-2017-02-06 22:02 [--allow-file-access-from-files 命令的使用 - 推酷](http://www.tuicool.com/articles/v6riiuq)
+2015-07-30 11:43 [入门 | iScroll 5 API 中文版](http://iiunknown.gitbooks.io/iscroll-5-api-cn/content/gettingstart.html)
 
-2017-03-16 10:57 [Google Chrome Full Black Screen - Stack Overflow](http://stackoverflow.com/questions/9954522/google-chrome-full-black-screen)
+2015-07-30 13:29 [iScroll框架的使用和修改 - Joanna Qian - 博客园](http://www.cnblogs.com/joannaq/p/3155873.html)
 
-2017-09-04 15:07 [QUIC, a multiplexed stream transport over UDP - The Chromium Projects](https://www.chromium.org/quic)
+2015-07-30 13:29 [高级选项 | iScroll 5 API 中文版](http://iiunknown.gitbooks.io/iscroll-5-api-cn/content/advance.html)
 
-2017-09-15 17:08 [JavaScript 引擎性能比较之一SpiderMonkey - 温故而知新 - CSDN博客](http://blog.csdn.net/fanyamin/article/details/45566615)
+2015-08-10 16:52 [iScroll-5拉动刷新功能实现与iScroll-4上拉刷新的一点改进 - Yghost - 博客园](http://www.cnblogs.com/yghost/p/4230708.html)
 
-2017-10-17 17:18 [【干货】Chrome插件(扩展)开发全攻略 - 我是小茗同学 - 博客园](http://www.cnblogs.com/liuxianan/p/chrome-plugin-develop.html)
+2015-08-11 09:22 [iscroll5 上下拉动刷新 - Mrxia - 博客园](http://www.cnblogs.com/mrxia/p/3868126.html)
 
-2017-10-17 17:20 [【chrome扩展】管理你的浏览器(第四章)](http://blog.mn886.net/chenjianhua/show/6e057a66e07a/index.html)
+2015-08-18 14:59 [JQuerymobile中使用iscroll5无法滚动的问题。 - STK_tianwen的专栏 - 博客频道 - CSDN.NET](http://blog.csdn.net/stk_tianwen/article/details/42811995)
 
-2017-10-17 20:53 [Note: 一个初步的 Chrome Packaged App 写法 - 题叶 - SegmentFault](https://segmentfault.com/a/1190000000454101)
+2015-08-25 15:45 [运用webkit绘制渲染页面原理解决iscroll4闪动的问题 - 推酷](http://www.tuicool.com/articles/rYby6v)
 
-2017-10-17 20:55 [如何从零开始写一个 Chrome 扩展？ - 知乎](https://www.zhihu.com/question/20179805)
+2015-10-14 18:20 [【原】使用iScroll.js解决ios4下不支持position:fixed的问题 - 白树 - 博客园](http://www.cnblogs.com/PeunZhang/archive/2013/06/14/3117589.html)
 
-2017-10-18 09:10 [chrome扩展开发之旅 第四篇 - WilsonLiu95's Blog - SegmentFault](https://segmentfault.com/a/1190000004334872)
+2015-10-14 18:31 [iscroll.js的使用 - 推酷](http://www.tuicool.com/articles/mEZFzuM)
 
-2017-10-18 09:13 [如何优雅地使用 Chrome？ - 知乎](https://www.zhihu.com/question/20595240)
+2015-10-14 18:37 [【iScroll源码学习01】准备阶段 - 叶小钗 - 推酷](http://www.tuicool.com/articles/AjQjeay)
 
-2018-01-19 19:59 [phantomJs之殇，chrome-headless之生 – ThoughtWorks洞见](http://insights.thoughtworks.cn/phantomjs-and-chrome-headless/)
 
-2018-01-26 20:33 [Chrome 控制台新玩法-console显示图片以及为文字加样式 - 刘哇勇 - 博客园](https://www.cnblogs.com/Wayou/p/chrome_dev_tool_style_console.html)
 
-2018-01-29 18:07 [你真的了解 console 吗 - Orange的前端笔记 - SegmentFault](https://segmentfault.com/a/1190000000481884)
+#####  AppCan
 
-2018-07-06 16:05 [Google优化工具Timeline的使用（Chrome 57已经改为performance（性能模板）） - CSDN博客](https://blog.csdn.net/qq_26878975/article/details/74638018)
+2015-05-21 10:09 [AppCan.cn_国内领先的一站式移动开发服务平台](http://www.appcan.cn/)
 
-2018-07-06 16:09 [web调试优化-chrome开发者工具不完全指南 - 守候书阁 - SegmentFault 思否](https://segmentfault.com/a/1190000011868916)
+2015-05-21 10:09 [AppCan Docs - AppCan 2.0](http://doc.appcan.cn/)
 
-2018-07-06 16:19 [全新Chrome Devtool Performance使用指南](https://zhuanlan.zhihu.com/p/29879682)
 
-2018-08-03 15:44 [【前端工具】Chrome 扩展程序的开发与发布 -- 手把手教你开发扩展程序 - ChokCoco - 博客园](http://www.cnblogs.com/coco1s/p/8004510.html)
 
-2018-08-03 15:47 [Chrome插件开发总结 - 简书](https://www.jianshu.com/p/39652b8eae7e)
+#####  优化
 
-2018-08-15 16:39 [Google Chrome商店开发者认证支付$5【图解认证支付成功】 - 快乐每一天 - ITeye博客](http://qiaolevip.iteye.com/blog/2258627)
+2015-06-30 16:33 [移动H5前端性能优化指南 - SegmentFault](http://segmentfault.com/a/1190000002511921)
 
-2018-10-12 11:18 [javascript – 查看Chrome控制台是否已打开 - 代码日志](https://codeday.me/bug/20170716/37432.html)
+2015-06-30 17:43 [智图](http://zhitu.tencent.com/)
 
-2018-10-12 11:19 [检测 F12 控制台是否开启 | Japari Park](https://ahaochan.github.io/posts/Check_whether_the_F12_console_is_turned_on.html)
+2015-07-01 21:58 [nginx 配置expires - 梦想的天空 - 博客频道 - CSDN.NET](http://blog.csdn.net/gameboyx/article/details/10894057)
 
-
-
-#####  加密
-
-2016-02-15 09:26 [挑战应答方式_百度百科](http://baike.baidu.com/link?url=F_gDusUxEJXC0IAl036kD-J3DgmDc4sdetbzU_-CThCy19dJjWAE5W7zs2cQcoPfW-YlggekGVLfOuVlnX9jUK)
-
-2016-02-15 09:26 [网站数据库中“密码加密”方法思考 - 网站安全 - 红黑联盟](http://www.2cto.com/Article/201304/202288.html#12732-tsina-1-75385-4cfdb5a4fb74592eb67847a918275b04)
-
-
-
-#####  博客
-
-2016-03-02 14:04 [司徒正美 - 博客园](http://www.cnblogs.com/rubylouvre/)
-
-2016-03-29 14:40 [前端外刊评论 - 知乎专栏](http://zhuanlan.zhihu.com/FrontendMagazine)
-
-2016-04-20 11:44 [囧克斯](http://jiongks.name/)
-
-2016-05-24 14:23 [江清清的技术专栏|专注移动技术开发(Android/IOS)、React Native、项目管理、Web前端技术。](http://www.lcode.org/)
-
-2016-12-06 16:04 [JerryQu 的小站](https://imququ.com/)
-
-2018-02-26 15:01 [AlloyTeam|腾讯全端 AlloyTeam 团队](http://www.alloyteam.com/)
-
-2018-04-28 21:40 [混世魔王的技术博客](http://26836659.blogcn.com/)
-
-2018-09-05 16:32 [OXXO.STUDIO](https://www.oxxostudio.tw/)
-
-
-
-#####  设计模式
-
-2016-03-11 10:19 [JavaScript大型可扩展的设计模式 - Thinking In Jdon](http://www.jdon.com/45498)
-
-2016-03-11 10:10 [为什么我再也不使用MVC框架了？ - Thinking In Jdon](http://www.jdon.com/47866)
-
-2016-03-11 10:03 [CQRS Command Query Responsibility Segregation(命令查询职责分离) - 解道Jdon](http://www.jdon.com/cqrs.html)
-
-2016-03-11 10:40 [The Reactive Manifesto](http://www.reactivemanifesto.org/)
-
-2016-05-06 18:41 [深入理解JavaScript系列（29）：设计模式之装饰者模式 - 汤姆大叔 - 博客园](http://www.cnblogs.com/TomXu/archive/2012/02/24/2353434.html)
-
-
-
-#####  JSEveryWhere
-
-2016-03-30 14:04 [JS.everywhere(2013)](http://www.jseverywhere.org/)
-
-2018-01-23 10:19 [JSPatterns.com](http://www.jspatterns.com/)
-
-
-
-#####  图片优化
-
-2016-04-08 09:36 [智图_图片压缩在线工具_在线制作webp](http://zhitu.isux.us/)
-
-
-
-#####  WebGL
-
-2016-04-19 15:09 [15 个可在 Chrome 浏览器上体验 WebGL 的例子 - 开源中国社区](http://www.oschina.net/news/26547/webgl-chrome/)
-
-2016-05-27 18:47 [链接经典_重庆木棉树软件开发有限公司](http://www.mms3d.cn/html/gywm/ljjd.html)
-
-
-
-#####  WebAssembly
-
-2016-04-20 10:01 [关于WebAssembly你需要了解的7件事](http://www.infoq.com/cn/news/2015/10/webassembly-7-things)
-
-2016-04-20 10:02 [WebAssembly：面向Web的通用二进制和文本格式](http://www.infoq.com/cn/news/2015/06/webassembly-wasm)
-
-2016-04-20 10:22 [WebAssembly](http://webassembly.github.io/)
-
-2018-06-04 14:50 [WebAssembly 实践：如何写代码 - WebAssembly - SegmentFault 思否](https://segmentfault.com/a/1190000008402872)
-
-2018-06-04 14:52 [让C代码在浏览器中运行——WebAssembly入门介绍 - CSDN博客](https://blog.csdn.net/sinat_32582203/article/details/73355211)
-
-
-
-#####  CommonJS
-
-2016-04-20 14:39 [CommonJS规范 -- JavaScript 标准参考教程（alpha）](http://javascript.ruanyifeng.com/nodejs/module.html)
-
-
-
-#####  测试
-
-######  ESLint
-
-2016-04-20 17:53 [ESLint - Pluggable JavaScript linter](http://eslint.org/)
-
-2016-04-20 17:55 [ESLint 使用入门](https://csspod.com/getting-started-with-eslint/)
-
-2016-04-20 17:57 [ESLint配置参数介绍 - 开发笔记 - SegmentFault](https://segmentfault.com/a/1190000004468428)
-
-2016-04-20 18:13 [Jocs/ESLint_docs: A translation of ESLint Doc, including configration and rules.](https://github.com/Jocs/ESLint_docs)
-
-
-
-#####  UI
-
-2016-04-26 09:59 [UI中国-专业界面交互设计平台](http://www.ui.cn/)
-
-2016-12-22 16:11 [Awwwards - Website Awards - Best Web Design Trends](http://www.awwwards.com/)
-
-2018-03-20 16:17 [Palettes | Flat UI Colors 🎨 280 handpicked colors ready for COPY &amp; PASTE](https://flatuicolors.com/)
-
-2018-03-20 16:19 [A Collection of Section Separators](https://tympanus.net/Development/SectionSeparators/)
-
-2018-03-20 16:29 [Proto.io - Prototypes that feel real](https://proto.io/)
-
-2018-09-06 13:36 [设计导航 - 精选最好的设计网站大全](http://hao.shejidaren.com/)
-
-2018-09-19 14:28 [网页设计常用色彩搭配表 - 配色表 | 小影的工具箱](https://tool.c7sky.com/webcolor/)
-
-
-
-#####  文档
-
-2016-05-06 10:29 [Zeal](https://zealdocs.org/)
-
-2016-05-06 10:29 [Velocity - The Documentation and Docset Viewer for Windows](http://velocity.silverlakesoftware.com/)
-
-
-
-#####  FMS 数据模拟
-
-2016-06-07 09:58 [FMS - FMS](http://fmsjs.org/)
-
-
-
-#####  WebRTC
-
-2016-06-12 22:09 [使用WebRTC搭建前端视频聊天室——入门篇 - 说学逗唱 - SegmentFault](https://segmentfault.com/a/1190000000436544)
-
-2016-06-12 22:10 [WebRTC_百度百科](http://baike.baidu.com/link?url=b0lAsZyW30qld9ijtbTuIMJgNGLnh6x0wGRGd2Zux3n7nLff73q_XO-tl6fUkcL-SEaWNcdpF9qdd1P58l5N6q)
-
-2016-06-12 22:10 [WebRTC Home | WebRTC](https://webrtc.org/)
-
-
-
-#####  BFF
-
-2016-07-21 12:33 [Sam Newman - Backends For Frontends](http://samnewman.io/patterns/architectural/bff/)
-
-
-
-#####  Unicode
-
-2015-09-15 14:38 [JavaScript为unicode编码转换为中文](http://sentsin.com/web/120.html)
-
-2016-09-06 15:59 [Unicode与JavaScript详解 - 阮一峰的网络日志](http://www.ruanyifeng.com/blog/2014/12/unicode.html)
-
-2017-06-07 10:35 [Unicode Consortium](http://unicode.org/)
+2015-07-02 16:11 [移动H5前端性能优化指南-腾讯ISUX – 社交用户体验设计 – Better Experience Through Design](http://isux.tencent.com/h5-performance.html)
 
 
 
 #####  调试
 
-2016-11-25 14:55 [RemoteDev](http://remotedev.io/)
+2015-07-21 18:15 [weinre - Home](http://people.apache.org/~pmuellr/weinre/docs/latest/Home.html)
 
-2017-12-01 09:26 [使用 DevTools 的工作区设置持久化  |  Tools for Web Developers  |  Google Developers](https://developers.google.com/web/tools/setup/setup-workflow?utm_source=dcc&utm_medium=redirect&utm_campaign=2016q3)
+2015-07-21 18:19 [移动端Web开发调试之Weinre调试教程 - freshlover的专栏 - 博客频道 - CSDN.NET](http://blog.csdn.net/freshlover/article/details/42640253)
+
+2015-07-21 18:22 [MIHTool - iOS Web Debugger Pro](http://www.mihtool.com/)
+
+2015-07-21 18:22 [iOS Web开发调试工具MIHTool作者访谈](http://www.infoq.com/cn/news/2013/03/mihtool-interview)
+
+2015-07-29 19:36 [B1naryStudio/js-mobile-console](https://github.com/B1naryStudio/js-mobile-console)
+
+2015-07-29 19:36 [在移动设备上调试Web应用的控制台：js-mobile-console - OPEN 开发经验库](http://www.open-open.com/lib/view/open1415324245855.html)
+
+2015-07-29 19:36 [Surfin' Safari - Blog Archive » WebKit Remote Debugging](https://www.webkit.org/blog/1620/webkit-remote-debugging/)
+
+2015-07-29 19:36 [Web应用调试：现在是Weinre和JSConsole，最终会是WebKit的远程调试协议](http://www.infoq.com/cn/news/2011/08/mobile-web-debugging)
+
+2016-01-21 21:04 [Rosin by AlloyTeam](http://alloyteam.github.io/Rosin/)
+
+2016-08-22 11:21 [移动终端开发必备知识 - 腾讯ISUX - 社交用户体验设计](https://isux.tencent.com/mobile-development-essential-knowledge.html)
+
+######  weinre
+
+2015-07-22 10:23 [weinre](https://www.npmjs.com/package/weinre)
+
+2015-07-22 13:40 [远程调试工具-weinre_柏](http://wyqbailey.diandian.com/post/2011-11-09/20511143)
 
 
 
-#####  SOAP
+######  Livepool
 
-2016-12-20 16:03 [blog.csdn.net/zhuizhuziwo/article/details/8153327](http://blog.csdn.net/zhuizhuziwo/article/details/8153327)
-
-2016-12-20 16:03 [浅谈 SOAP](http://www.ibm.com/developerworks/cn/xml/x-sisoap/)
+2016-01-21 20:04 [Livepool by rehorn](http://rehorn.github.io/livepool/)
 
 
 
-#####  JSDoc
+#####  屏幕分辨率
 
-2017-06-01 09:13 [Use JSDoc: Index](http://usejsdoc.org/)
+2015-07-23 18:43 [Screen Sizes](http://screensiz.es/phone)
+
+2015-07-23 19:18 [The iOS Design Cheat Sheet Volume 2 - Ivo Mynttinen / User Interface Designer](http://ivomynttinen.com/blog/the-ios-design-cheat-sheet-volume-2/)
+
+
+
+#####  框架
+
+2015-08-10 10:27 [基于HTML5+CSS3+JS的移动应用开发框架：Agile - OPEN 开发经验库](http://www.open-open.com/lib/view/open1420468865047.html)
+
+
+
+#####  Base64
+
+2015-08-13 20:26 [移动端图片上传方法【更好的兼容安卓IOS和微信】 - ThinkPHP框架](http://www.thinkphp.cn/code/790.html)
+
+2015-09-14 11:41 [小tip: base64:URL背景图片与web页面性能优化 « 张鑫旭-鑫空间-鑫生活](http://www.zhangxinxu.com/wordpress/2012/04/base64-url-image-%E5%9B%BE%E7%89%87-%E9%A1%B5%E9%9D%A2%E6%80%A7%E8%83%BD%E4%BC%98%E5%8C%96/)
+
+
+
+#####  文件上传
+
+2015-08-13 20:29 [HTML5之FileReader的使用 - 骆昊的技术专栏 - 博客频道 - CSDN.NET](http://blog.csdn.net/jackfrued/article/details/8967667)
+
+2015-10-10 11:10 [微信内网页上传图片问题 - SegmentFault](http://segmentfault.com/q/1010000001581416)
+
+2015-10-10 18:13 [让Android中的webview支持页面中的文件上传 - OPEN 开发经验库](http://www.open-open.com/lib/view/open1371742003171.html)
+
+2015-10-13 13:57 [javascript - 微信内置浏览器input[file]选择图片后刷新 - SegmentFault](http://segmentfault.com/q/1010000002920650)
+
+2015-10-13 14:06 [三星、华为等android里webview不支持input file的解决方法 - 软件问题 - 郑州网建](http://camnpr.com/archives/1093.html)
+
+2015-10-13 14:08 [iOS 6 Web应用开发者的HTML 5小技巧-CSDN.NET](http://www.csdn.net/article/2012-09-25/2810317-ios6-media-capture-codes)
+
+2015-10-13 14:10 [移动端图片上传方法【更好的兼容安卓IOS和微信】_个人随笔_B5教程网](http://www.bcty365.com/content-74-1557-1.html)
+
+2015-10-13 18:30 [qq浏览器x5内核奇怪的问题，微信中也存在 - SegmentFault](http://segmentfault.com/q/1010000002944322)
+
+2015-10-13 18:32 [手机QQ浏览器和微信内置webview对input type=&quot;file&quot; 的change事件不灵 - 武文海的个人空间 - 开源中国社区](http://my.oschina.net/fuckBAT/blog/492887)
+
+2015-10-16 18:39 [[JS进阶] HTML5 之文件操作(file) - oscar999的专栏 - 博客频道 - CSDN.NET](http://blog.csdn.net/oscar999/article/details/37499743)
+
+
+
+#####  WebAPP
+
+2015-10-15 18:28 [浅谈移动前端的最佳实践 - 叶小钗 - 博客园](http://www.cnblogs.com/yexiaochai/p/4219523.html)
+
+2015-10-15 18:38 [webapp开发实践 - 推酷](http://www.tuicool.com/articles/jINzAz)
+
+
+
+####  LeetCode
+
+2017-09-11 10:26 [Two Sum 的 javascript 解法 - 简书](http://www.jianshu.com/p/b3be87df03a2)
+
+2017-09-11 10:27 [javascript -- leetcode two sum , 这个题还有更优的解法吗？ - SegmentFault](https://segmentfault.com/q/1010000002903099)
+
+
+
+####  算法
+
+2015-03-20 17:26 [【计算几何】线段相交 - 一点心青 - 博客园](http://www.cnblogs.com/dwdxdy/p/3230485.html)
+
+2015-03-20 17:27 [【计算几何】多边形交集 - 一点心青 - 博客园](http://www.cnblogs.com/dwdxdy/archive/2013/08/02/3232110.html)
+
+2015-03-23 13:37 [谈谈&quot;求线段交点&quot;的几种算法(js实现,完整版) - 大城小胖的大城 - ITeye技术网站](http://fins.iteye.com/blog/1522259)
+
+2015-03-23 18:36 [算法模板-判断线段相交（可求交点）_rapheal_Guo_新浪博客](http://blog.sina.com.cn/s/blog_625c774e0100hits.html)
+
+2015-03-23 18:36 [【计算几何】点在多边形内部 - 一点心青 - 博客园](http://www.cnblogs.com/dwdxdy/p/3230647.html)
+
+2017-02-15 08:44 [大数据算法-一个关注大数据算法在工业界应用的网站](http://x-algo.cn/)
+
+2017-04-13 09:35 [最短路算法 ：Bellman-ford算法 &amp; Dijkstra算法 &amp; floyd算法 &amp; SPFA算法 详解 - Mr。如夜 - - 推酷](http://www.tuicool.com/articles/YJzyee)
+
+2017-04-13 10:41 [js实现A*寻路算法 - huansky - 博客园](http://www.cnblogs.com/huansky/p/5572631.html)
+
+2017-04-14 15:07 [理解A*寻路算法具体过程 - Create Chen - 博客园](http://www.cnblogs.com/technology/archive/2011/05/26/2058842.html)
+
+2017-09-07 09:54 [我的算法学习之路 | Lucida](http://zh.lucida.me/blog/on-learning-algorithms/)
+
+#####  平滑曲线算法
+
+2015-03-02 14:30 [平滑曲线算法研究_summer_新浪博客](http://blog.sina.com.cn/s/blog_9de219560100yxqr.html)
+
+2015-03-02 14:30 [矢量曲线抽稀的实用算法和实现 - 大学课件 - 道客巴巴](http://www.doc88.com/p-651275003160.html)
+
+2015-03-02 14:30 [主曲线算法_互动百科](http://www.baike.com/wiki/%E4%B8%BB%E6%9B%B2%E7%BA%BF%E7%AE%97%E6%B3%95)
+
+2015-03-02 14:42 [超酷算法：用四叉树和希尔伯特曲线做空间索引 - 博客 - 伯乐在线](http://blog.jobbole.com/81106/)
+
+2015-03-02 14:42 [椭圆曲线算法_SEE视界_新浪博客](http://blog.sina.com.cn/s/blog_6e88ecd10101k8cd.html)
+
+2015-03-02 14:44 [矢量曲线抽稀算法分析 - 豆丁网](http://www.docin.com/p-478948638.html)
+
+2015-03-02 14:44 [抽稀_百度百科](http://baike.baidu.com/link?url=Ui7pCyzX9OLaS3f9Td2LFrXAQGqw3cEpdiHJSf9A9ZVayIo1R7FUABX-x0x4FxlkT90gnlXPp48CxKXYschUm_#2_2)
+
+2015-03-02 14:53 [贝塞尔曲线_百度百科](http://baike.baidu.com/link?url=YSgKBIaSknO1hYNMhCdSBpvph8i_KVyrYNJgf8266B8LRc-V7vfWyaPXnbYDfeBRrJBwvA8WWWhiOVUxgLnO-a)
+
+2015-03-02 15:24 [德卡斯特里奥算法（De Casteljau’s Algorithm）绘制贝塞尔曲线 - H!Techer - 博客频道 - CSDN.NET](http://blog.csdn.net/fioman/article/details/2578895)
+
+2015-03-02 15:24 [斐波那契数列_百度百科](http://baike.baidu.com/link?url=2J-mItmelp_vXAGX8OtuI3b2oNPAk63Te89lOO3EgkT4VJcOpNgsLqSRR4NJoboKEa88hGbzhwlPp1FtMJ327q)
+
+2015-03-02 15:48 [深度掌握SVG路径path的贝塞尔曲线指令 « 张鑫旭-鑫空间-鑫生活](http://www.zhangxinxu.com/wordpress/2014/06/deep-understand-svg-path-bezier-curves-command/)
+
+2015-03-02 16:06 [SVG矢量绘图 path路径详解（贝塞尔曲线及平滑） – Dx. Yang](http://xbingoz.com/194.html)
+
+2015-03-02 16:06 [贝塞尔曲线与CSS3动画、SVG和canvas的基情 « 张鑫旭-鑫空间-鑫生活](http://www.zhangxinxu.com/wordpress/2013/08/%E8%B4%9D%E5%A1%9E%E5%B0%94%E6%9B%B2%E7%BA%BF-cubic-bezier-css3%E5%8A%A8%E7%94%BB-svg-canvas/)
+
+2015-03-02 17:09 [用html5的canvas画布绘制贝塞尔曲线 - 计划 - 博客园](http://www.cnblogs.com/jihua/p/bseqx.html)
+
+2015-03-03 16:55 [n次贝塞尔曲线AS再现 - Flash技术 - 游戏开发者社区](http://bbs.9ria.com/thread-71904-1-1.html)
+
+2015-03-03 16:55 [路径 - SVG | MDN](https://developer.mozilla.org/zh-CN/docs/Web/SVG/Tutorial/Paths#Curve_commands)
+
+
+
+####  Yeoman
+
+2015-03-24 11:02 [AngularJS：在Windows上安装Yeoman - 天上的神明与星辰，人间的艺术和真纯，我们所敬畏和热爱的，莫过于此。 - ITeye技术网站](http://damoqiongqiu.iteye.com/blog/1885371)
+
+2015-03-24 11:02 [windows下使用Yeoman快速构建web项目（当前web富前端开发最全环境配置） - 推酷](http://www.tuicool.com/articles/yqaYne)
+
+2015-03-24 11:03 [AngularJS：在Windows上安装Yeoman - 推酷](http://www.tuicool.com/articles/VJJZza)
+
+2015-03-24 15:44 [cnpmjs.org: Private npm registry and web for Company](http://cnpmjs.org/)
+
+2015-03-24 15:45 [改变npm安装路径 - mingle的个人空间 - 开源中国社区](http://my.oschina.net/u/923974/blog/204002)
+
+2015-03-24 17:19 [Yeoman Grunt Bower配置相关 - 推酷](http://www.tuicool.com/articles/3EnMnq)
+
+2015-03-24 17:33 [自定义项目工程生成器上—Yeoman入门指南（2） - 为程序员服务](http://ju.outofmemory.cn/entry/36121)
+
+2015-03-24 17:37 [为什么选择 Yeoman 及 Yeoman 的安装_郑雁_新浪博客](http://blog.sina.com.cn/s/blog_761dcfc60101dii0.html)
+
+2015-03-24 17:38 [Yeoman 学习笔记 - 植宁 - 博客园](http://www.cnblogs.com/zhining/p/3308277.html)
+
+2015-03-25 10:20 [Yeoman gifsicle error (and others) - Stack Overflow](http://stackoverflow.com/questions/21814592/yeoman-gifsicle-error-and-others?answertab=votes#tab-top)
+
+2015-03-28 20:21 [The web's scaffolding tool for modern webapps | Yeoman](http://yeoman.io/)
+
+2015-06-19 11:36 [Downloads](http://rubyinstaller.org/downloads/)
+
+2015-06-19 11:53 [RubyGems 镜像 - 淘宝网](http://ruby.taobao.org/)
+
+2015-06-19 14:06 [如何处理CSS3属性前缀 - 推酷](http://www.tuicool.com/articles/BRv2Ebn)
+
+2015-06-19 14:11 [Autoprefixer：浏览器厂商前缀的后处理程序 - 资源 - 伯乐在线](http://hao.jobbole.com/autoprefixer/)
+
+2015-06-19 14:12 [Autoprefixer (@autoprefixer) | Twitter](https://twitter.com/autoprefixer)
+
+2017-03-20 14:04 [FIS3 - 前端工程构建工具](http://fis.baidu.com/)
+
+#####  bower
+
+2015-03-24 17:37 [bower的安装与使用 | 张迪的blog](http://www.storagelab.org.cn/zhangdi/2014/06/11/bower%E7%9A%84%E5%AE%89%E8%A3%85%E4%B8%8E%E4%BD%BF%E7%94%A8/)
+
+2015-03-25 09:56 [Bower : ENOGIT git is not installed or not in the - 为程序员服务](http://ju.outofmemory.cn/entry/113622)
+
+2015-03-25 09:56 [Bower : ENOGIT git is not installed or not in the PATH - SegmentFault](http://segmentfault.com/blog/bh/1190000000535410)
+
+2015-03-25 15:06 [bower安装包下载慢的问题解决方法 - PHPERZ中文资讯站](http://www.phperz.com/article/14/1229/43604.html)
+
+2015-03-25 15:06 [bower install 速度很慢，怎么破？ - SegmentFault](http://segmentfault.com/q/1010000002472112/a-1020000002489785)
+
+2015-03-25 18:06 [bower解决js的依赖管理 | 粉丝日志](http://blog.fens.me/nodejs-bower-intro/)
+
+2015-03-25 18:06 [bower使用入门_百度经验](http://jingyan.baidu.com/article/03b2f78c6bd7c05ea337ae6e.html)
+
+2015-03-25 18:07 [Bower](http://bower.io/)
+
+2015-06-26 14:46 [AngularJS + CoffeeScript 前端开发环境配置详解 - Javascript教程_JS教程_技术文章 - 红黑联盟](http://www.2cto.com/kf/201412/363618.html)
+
+2015-06-26 14:46 [AngularJS + CoffeeScript 前端开发环境配置详解 - 推酷](http://www.tuicool.com/articles/nAbUFzv)
+
+2015-09-28 17:06 [bower简明入门教程 - SegmentFault](http://segmentfault.com/a/1190000002971135)
+
+2015-09-28 17:26 [Day 1: Bower —— 管理你的客户端依赖关系 - SegmentFault](http://segmentfault.com/a/1190000000349555)
+
+
+
+#####  Grunt
+
+2015-01-23 08:56 [Grunt: JavaScript世界的构建工具 -- Grunt中文网](http://www.gruntjs.net/)
+
+2015-02-27 11:20 [nodejs npm install全局安装和本地安装的区别_node.js_脚本之家](http://www.jb51.net/article/50669.htm)
+
+2015-02-27 11:25 [Grunt打造前端自动化工作流-TGideas-腾讯游戏官方设计团队](http://tgideas.qq.com/webplat/info/news_version3/804/808/811/m579/201307/216460.shtml)
+
+2015-02-27 14:59 [dependencies与devDependencies之间的区别 - 推酷](http://www.tuicool.com/articles/QJB7Rj)
+
+2015-02-27 15:11 [npm package.json中的dependencies和devDependencies的区别 | LucKy_one's blog](http://www.luckyonecn.com/blog/difference_between_dependencies_and_devdependencies_in_npm/)
+
+2015-02-27 15:14 [gruntjs - benpao - 博客园](http://www.cnblogs.com/kuikui/archive/2013/05/26/3100449.html)
+
+2015-02-27 15:15 [Grunt教程_Grunt打造极致前端自动化（2）](http://www.miaoyueyue.com/archives/753.html)
+
+2015-02-27 15:16 [JavaScript 项目构建工具 Grunt 实践：安装和创建项目框架 - 梦想天空（山边小溪） - 博客园](http://www.cnblogs.com/lhb25/archive/2013/01/24/grunt-for-javascript-project-a.html)
+
+2015-03-24 17:51 [grunt使用小记之uglify：最全的uglify使用DEMO - artwl - 博客园](http://www.cnblogs.com/artwl/p/3449303.html)
+
+2015-03-24 18:03 [Grunt.js 在前端项目中的实战 - 推酷](http://www.tuicool.com/articles/zQ7jmm)
+
+2015-03-25 15:30 [编写可维护的 Gruntfile.js - 推酷](http://www.tuicool.com/articles/yABV73)
+
+2015-03-25 18:06 [Grunt: The JavaScript Task Runner](http://gruntjs.com/)
+
+2015-03-26 14:52 [load-grunt-tasks出错 | 慕课网](http://www.imooc.com/qadetail/65092)
+
+2015-03-27 15:57 [Grunt之添加文件监视：Grunt-watch (已备份) - PunCha (PCH) - 博客频道 - CSDN.NET](http://blog.csdn.net/puncha/article/details/12172891)
+
+2015-03-27 15:57 [gruntjs开发实例 - Javascript教程_JS教程_技术文章 - 红黑联盟](http://www.2cto.com/kf/201502/374540.html)
+
+2015-04-01 17:25 [Grunt使用入门（一） - leohxj的个人空间 - 开源中国社区](http://my.oschina.net/leohxj/blog/132788)
+
+2015-04-01 17:25 [gruntjs/grunt-init-gruntfile](https://github.com/gruntjs/grunt-init-gruntfile)
+
+2015-04-01 17:53 [grunt默认只允许localhost和访问，如何设置外部IP地_Java123社区](http://www.java123.net/v/985805.html)
+
+2015-06-05 15:27 [Grunt教程——Gurnt任务的配置 | css3教程-css3实例-css3动画 | W3CPlus](http://www.w3cplus.com/tools/grunt-tutorial-configuring-tasks.html)
+
+2015-06-11 11:42 [npm](https://www.npmjs.com/)
+
+2015-06-26 17:31 [详解grunt打包工具中的copy配置之flatten_月夜天霜_新浪博客](http://blog.sina.com.cn/s/blog_79c02b6b0102v03e.html)
+
+2015-06-26 20:48 [Grunt配置文件编写技巧及示范 - 轩枫阁 – 前端开发 | web前端技术博客](http://www.xuanfengge.com/grunt-profile-writing-tips-and-demonstrations-2.html)
+
+2015-07-22 10:08 [入门指南--grunt学习笔记（1） - CSDN博客](http://m.blog.csdn.net/blog/larrywangsun/27428093)
+
+2015-08-12 14:13 [grunt-rev 和 grunt-usemin 替换静态资源 url 的配置 - SegmentFault](http://segmentfault.com/a/1190000000442070)
+
+2015-10-29 09:37 [用 grunt-contrib-connect 构建实时预览开发环境 | 隔叶黄莺 Unmi Blog - 软件编程实践](http://unmi.cc/blog/2014/04/30/grunt-contrib-connect-build-livereload-dev-env/)
+
+2015-11-05 17:37 [Grunt的wiredep任务的配置说明文档 - 姜丝的博客 - 博客频道 - CSDN.NET](http://blog.csdn.net/itpinpai/article/details/48269825)
+
+######  插件
+
+2015-03-25 15:59 [Grunt插件五grunt-contrib-copy参数和使用 - 前端开发工程师小V的技术博客](http://www.xv90.com/post-115.html)
+
+2015-03-26 10:07 [用 grunt-contrib-connect 构建实时预览开发环境 - 推酷](http://www.tuicool.com/articles/yEJBF3)
+
+2015-03-26 10:12 [Grunt插件一grunt-contrib-less参数和使用 - 前端开发工程师小V的技术博客](http://www.xv90.com/post-111.html)
+
+2015-03-27 17:12 [grunt前端打包——css篇](http://www.php100.com/html/it/qianduan/2015/0115/8377.html)
+
+2015-03-27 17:13 [Grunt入门教程 | 我爱互联网](http://www.woiweb.net/grunt.html)
+
+2015-03-27 17:23 [使用Grunt构建任务管理脚本 | css3教程-css3实例-css3动画 | W3CPlus](http://www.w3cplus.com/tools/writing-awesome-build-script-grunt.html)
+
+2015-06-05 15:43 [前端工作流：工具集总篇](http://www.hulufei.com/post/a-frontend-scaffold)
+
+2015-06-05 15:43 [[译]Autoprefixer:一个以最好的方式处理浏览器前缀的后处理程序-前端开发博客](http://caibaojian.com/autoprefixer.html)
+
+2015-06-05 17:51 [grunt-usemin](https://www.npmjs.com/package/grunt-usemin)
+
+2015-06-11 11:41 [常用插件的使用—grunt入门指南（上） - 为程序员服务](http://ju.outofmemory.cn/entry/39815)
+
+2015-03-24 16:17 [【grunt整合版】30分钟学会使用grunt打包前端代码 - 叶小钗 - 博客园](http://www.cnblogs.com/yexiaochai/p/3603389.html)
+
+2015-06-11 11:41 [上百个必备的Grunt插件 - OPEN 开发经验库](http://www.open-open.com/lib/view/open1424570955018.html)
+
+2015-06-11 11:42 [grunt让Nodejs规范起来 | 粉丝日志](http://blog.fens.me/nodejs-grunt-intro/)
+
+2015-08-05 14:51 [nDmitry/grunt-autoprefixer](https://github.com/nDmitry/grunt-autoprefixer)
+
+2015-08-05 14:51 [ai/browserslist](https://github.com/ai/browserslist)
+
+2015-08-13 18:42 [grunt插件之Grunt-contrib-cssmin - 随啵不逐流 - 博客园](http://www.cnblogs.com/kaixinbocai/p/3672619.html)
+
+2015-08-13 18:42 [grunt插件之Grunt-contrib-htmlmin - 随啵不逐流 - 博客园](http://www.cnblogs.com/kaixinbocai/p/3672601.html)
+
+2015-08-13 18:42 [Grunt 自动化部署之css、image、javascript、html压缩Gruntfile.js配置 - Blue Sky ...... - 博客园](http://www.cnblogs.com/hubcarl/p/4095122.html)
+
+2015-08-13 20:27 [如何利用一个周末时间成为前端工程师的(1) - 51CTO.COM](http://developer.51cto.com/art/201212/374902.htm)
+
+2015-08-13 20:40 [Grunt的配置及使用（压缩合并js/css） - 每天都记录一点点！ - 博客频道 - CSDN.NET](http://blog.csdn.net/playboyanta123/article/details/43230831)
+
+2015-08-14 14:52 [Grunt插件三grunt-contrib-uglify参数和使用 - 前端开发工程师小V的技术博客](http://www.xv90.com/post-113.html)
+
+
+
+#####  Jenkins
+
+2015-02-27 11:33 [Jenkins_百度百科](http://baike.baidu.com/link?url=wT9vMRm8CBEny5rP9wBaFJOPut5yGVLRjwfm7i0ds0gNW0sIdfewOc9ar4qEcXSc5aYA7GNLiieApfMTRN3LPK)
+
+
+
+#####  Mocha
+
+2015-03-25 15:37 [Mocha - 一个功能丰富运行在Node.js和浏览器中的JavaScript测试框架 - OPEN 开发经验库](http://www.open-open.com/lib/view/open1337910447324.html)
+
+2017-11-01 14:07 [测试框架 Mocha 实例教程 - 阮一峰的网络日志](http://www.ruanyifeng.com/blog/2015/12/a-mocha-tutorial-of-examples.html)
+
+2017-11-01 14:08 [Testing in ES6 with Mocha and Babel 6](http://jamesknelson.com/testing-in-es6-with-mocha-and-babel-6/)
+
+2017-11-01 14:17 [测试框架mochajs详解 - HackerVirus - 博客园](http://www.cnblogs.com/Leo_wl/p/5734889.html)
+
+2017-11-01 14:31 [初识 mocha in NodeJS - CNode技术社区](https://cnodejs.org/topic/516526766d38277306c7d277)
+
+2017-11-02 16:01 [mocha异步之done - CNode技术社区](http://cnodejs.org/topic/535e03d614b825ea72005067)
+
+2017-11-02 16:02 [Chai](http://chaijs.com/)
+
+2017-11-02 16:19 [折腾 Coffee + mocha + Travis-CI 单元测试与覆盖率报告 - CNode技术社区](https://cnodejs.org/topic/5443b8342be2db9d42e8f685)
+
+
+
+#####  gulp
+
+2015-03-30 15:16 [gulp API文档 - gulp.js 中文文档 | gulp.js 中文网](http://www.bootcss.com/gulpjs/docs/api/)
+
+2015-07-10 17:50 [gulp.js - 基于流的自动化构建工具。 | gulp.js 中文网](http://www.gulpjs.com.cn/)
+
+2015-07-10 17:54 [Gulp vs Grunt « 笨笨剥壳](http://www.benben.cc/blog/?p=407)
+
+2015-08-14 14:57 [gulp完全开发指南 =&gt; 快来换掉你的Grunt吧 - 推酷](http://www.tuicool.com/articles/J3QnEb)
+
+2015-08-14 14:58 [gulp.js - the streaming build system](http://gulpjs.com/)
+
+2015-08-14 17:20 [前端构建工具gulpjs的使用介绍及技巧 - 无双 - 博客园](http://www.cnblogs.com/2050/p/4198792.html)
+
+2015-08-14 18:55 [Gulp思维——Gulp高级技巧 - SegmentFault](http://segmentfault.com/a/1190000000711469)
+
+2015-08-17 10:21 [Dtao | gulp教程之gulp-autoprefixer](http://www.dtao.org/archives/94)
+
+2015-08-17 10:26 [Dtao | gulp教程之gulp-less](http://www.dtao.org/archives/34)
+
+2015-08-17 11:44 [gulp入门教程 - SegmentFault](http://segmentfault.com/a/1190000002698606)
+
+2015-08-17 13:35 [前端工程化：在gulp中顺序执行任务 - 推酷](http://www.tuicool.com/articles/ea6FVf)
+
+2015-08-17 13:35 [前端构建工具gulp入门教程 - SegmentFault](http://segmentfault.com/a/1190000000372547)
+
+2015-08-17 13:36 [Gulp安装及配合组件构建前端开发一体化 | DBPOO's Blog](http://www.dbpoo.com/getting-started-with-gulp/)
+
+2015-08-17 13:36 [Gulp上手 | w3cboy,最专业的前端开发博客](http://w3cboy.com/post/2014/10/getting-started-with-gulp/)
+
+2015-09-10 17:45 [Dtao | gulp教程之gulp-minify-css](http://www.dtao.org/archives/41)
+
+2015-09-10 18:01 [Gulp自动添加版本号 - 推酷](http://www.tuicool.com/articles/UbaqyyJ)
+
+2015-09-23 10:07 [Gulp使用指南 | 程序师](http://www.techug.com/gulp)
+
+2015-09-23 18:32 [用gulp做一个略完整的前端打包工作~ 极客标签 | 在线编程知识分享学习平台](http://www.gbtags.com/gb/share/5503.htm)
+
+2015-10-19 14:58 [gulp简易入坑 - SegmentFault](http://segmentfault.com/a/1190000002955996)
+
+2015-10-19 15:05 [Hello Gulp! - SegmentFault](http://segmentfault.com/a/1190000003409507)
+
+2015-10-19 15:06 [利用 Gulp 处理前端工作流程 - SegmentFault](http://segmentfault.com/a/1190000003098076)
+
+2015-10-19 15:06 [一点 | gulp教程之gulp-htmlmin](http://www.ydcss.com/archives/20)
+
+2016-01-11 15:42 [使用gulp压缩合并AngularJS项目中js](http://hicc.me/minify-concat-angular-js-with-gulp/)
+
+2016-01-11 15:42 [gulp完成javascript压缩合并，css压缩](http://www.tzwhx.com/NewShow/newBodyShow/%E5%9F%BA%E7%A1%80%E7%9F%A5%E8%AF%86_48492.html)
+
+2016-01-12 10:51 [gulp插件gulp-usemin简单使用 - 推酷](http://www.tuicool.com/articles/AzqA3uE)
+
+2016-01-12 15:20 [gulp下静态资源的合并、压缩、MD5后缀 - 牧童 - ITeye技术网站](http://mutongwu.iteye.com/blog/2208607)
+
+2016-01-12 15:31 [使用requirejs时怎么解决文件版号和增量更新的问题 - CNode技术社区](https://cnodejs.org/topic/54509502d0c2f0fe2f53393d)
+
+2016-01-12 17:30 [通过Yeoman架构AngularJS应用 – 朱君无](http://zhujunwu.cn/scaffolding-angularjs-app-with-yeoman/)
+
+2016-01-15 22:55 [gulp - Uglify throws Parse error - Stack Overflow](http://stackoverflow.com/questions/28003104/uglify-throws-parse-error)
+
+2016-01-19 16:00 [javascript - How to run Gulp tasks synchronously/one after the other - Stack Overflow](http://stackoverflow.com/questions/22824546/how-to-run-gulp-tasks-synchronously-one-after-the-other/26390567#26390567)
+
+2016-01-19 20:47 [gulp顺序执行任务](http://zhangruojun.com/gulpshun-xu-zhi-xing-ren-wu/)
+
+2016-03-23 15:31 [PostCSS一种更优雅、更简单的书写CSS方式 - 推酷](http://www.tuicool.com/articles/nIR3eqi)
+
+2016-06-06 16:15 [将 ES6 代码转换成 ES5 - 简书](http://www.jianshu.com/p/e07277bf02f1)
+
+2016-11-28 15:31 [PostCSS 是个什么鬼东西？ - 60sky - SegmentFault](https://segmentfault.com/a/1190000003909268)
+
+2017-09-28 09:53 [EsLint入门 - RyanRuan - 博客园](http://www.cnblogs.com/ruanyifeng/p/5283708.html)
+
+######  插件
+
+2016-01-12 15:20 [gulp-useref](https://www.npmjs.com/package/gulp-useref)
+
+2016-01-12 16:16 [gulp-json-minify](https://www.npmjs.com/package/gulp-json-minify/)
+
+2016-01-12 17:27 [一点 | gulp教程之gulp-rev-append](http://www.ydcss.com/archives/49)
+
+2016-01-12 17:28 [一点 | gulp教程之gulp-imagemin](http://www.ydcss.com/archives/26)
+
+2016-01-12 17:30 [generator-gulp-webapp/asset-revisioning.md at master · yeoman/generator-gulp-webapp](https://github.com/yeoman/generator-gulp-webapp/blob/master/docs/recipes/asset-revisioning.md)
+
+2016-01-12 17:30 [What method can add a version number at the back of the file? · Issue #131 · jonkemp/gulp-useref](https://github.com/jonkemp/gulp-useref/issues/131)
+
+2016-01-16 15:11 [gulp-svn](https://www.npmjs.com/package/gulp-svn)
+
+2016-01-19 20:51 [teambition/gulp-sequence: Run a series of gulp tasks in order](https://github.com/teambition/gulp-sequence)
+
+
+
+#####  gem
+
+2015-06-19 11:53 [CocoaPods安装与简单使用 - 星仁 - 博客园 - 推酷](http://www.tuicool.com/articles/7vUnay)
+
+
+
+#####  webpack
+
+2015-09-14 11:40 [list of loaders](http://webpack.github.io/docs/list-of-loaders.html)
+
+2015-09-14 11:40 [Webpack 入门指迷 - SegmentFault](http://segmentfault.com/a/1190000002551952)
+
+2015-09-14 11:40 [[新姿势]前端革命，革了再革：WebPack - SegmentFault](http://segmentfault.com/a/1190000002507327)
+
+2016-03-21 17:37 [webpack](http://webpack.github.io/docs/)
+
+2016-03-23 16:33 [浏览器自动刷新 | React Webpack 小书](https://fakefish.github.io/react-webpack-cookbook/Automatic-browser-refresh.html)
+
+2016-03-24 18:33 [webpack 插件： html-webpack-plugin - 冠军 - 博客园](http://www.cnblogs.com/haogj/p/5160821.html)
+
+2016-03-24 18:45 [一小时包教会 —— webpack 入门指南-爱编程](http://www.w2bc.com/Article/50764)
+
+2016-03-25 15:52 [html-webpack-plugin](https://www.npmjs.com/package/html-webpack-plugin)
+
+2016-05-10 10:51 [webpack打包bundle.js体积大小优化 · Issue #65 · youngwind/blog](https://github.com/youngwind/blog/issues/65)
+
+2016-05-16 10:23 [简介 | webpack](https://wohugb.gitbooks.io/webpack/content/index.html)
+
+2016-05-16 10:43 [介绍 | Webpack 中文指南](http://zhaoda.net/webpack-handbook/index.html)
+
+2016-05-27 18:18 [FormidableLabs/webpack-stats-plugin: Webpack stats plugin for build information, file manifests, etc.](https://github.com/FormidableLabs/webpack-stats-plugin)
+
+2016-05-31 15:27 [webpack入门视频_免费高速下载|百度云 网盘-分享无限制](http://pan.baidu.com/s/1dFNTr25?qq-pf-to=pcqq.group&errno=0&errmsg=Auth%20Login%20Sucess&stoken=d5920248cd0a17795f497d203403ca75bbb95c078609cb828954df078767f7d94edc0e1c868f3c8c03ff838bab473c512d2b840f54e5994eac2b5f6730937d26d69f4a07ee2c&bduss=cf3504779f5348bca8b4a8c677377c5fc2df7f25b4e942448560eda2ca7e4f46d03bbcbd6f0e3693e87450459fc5f87fe7325509da355679b246c4a78d4d36b1d6772952c8864c05a47468b10bd79937604d2caacbf9fb4835416b0ffd8662bc7a301c7d03135f5e4c230fb63fc5e6625a88c07f8e3fc37236b45a016d503fa40883397d046b45914a76668db9b3f8c9f1d87c5bd6cc5473678e5db4f459277300d96f1221693500d2aad9b4d034924b1cea447b214c18220ea3113f77baab7217c4d663a472)
+
+2016-09-07 13:36 [如何在前端项目中实现热更新 - 前端修炼 - SegmentFault](https://segmentfault.com/a/1190000004151580)
+
+2016-09-07 14:21 [webpack之热更新 - GM's Blog](https://gmiam.com/post/webpack-hot-replacement.html)
+
+2016-09-07 14:31 [[译] Webpack——令人困惑的地方 - 掘金](http://gold.xitu.io/entry/57329700ad5b950057093301)
+
+2016-09-07 14:34 [基于webpack搭建前端工程解决方案探索 - dmyang - SegmentFault](https://segmentfault.com/a/1190000003499526#articleHeader10)
+
+2016-11-08 15:40 [webpack使用优化 - OPEN 开发经验库](http://www.open-open.com/lib/view/open1452487103323.html#_label0)
+
+2016-11-17 14:01 [2.2 webpack - LeanReact - 知乎专栏](https://zhuanlan.zhihu.com/p/21287263)
+
+2017-05-10 17:42 [webpack脚手架构建React项目 - 曾田生z - SegmentFault](https://segmentfault.com/a/1190000008584933)
+
+2017-05-12 17:58 [javascript - webpack中library与libraryTarget还有externals如何理解？ - SegmentFault](https://segmentfault.com/q/1010000004676608)
+
+2017-05-12 17:58 [关于webpack中的libraryTarget设置 - SegmentFault](https://segmentfault.com/q/1010000009089500)
+
+2017-05-12 17:58 [webpack中的externals vs libraryTarget vs library - 高山上的鱼 - 博客频道 - CSDN.NET](http://blog.csdn.net/liangklfang/article/details/54970899)
+
+2017-05-12 17:59 [webpack减少打包后文件体积的几种方法 - _Simon - 博客园](http://www.cnblogs.com/-simon/p/5947092.html)
+
+2017-05-26 11:58 [webpack 的几个重要概念 - 即刻出发_ - SegmentFault](https://segmentfault.com/a/1190000007649656)
+
+2017-12-24 16:41 [前端模块化工具-webpack - HackerVirus - 博客园](http://www.cnblogs.com/Leo_wl/p/4862714.html)
+
+2017-12-24 22:03 [webpack解惑：require的五种用法 - lanyan - 博客园](https://www.cnblogs.com/laneyfu/p/6262321.html)
+
+2018-07-24 09:27 [webpack-bundle-analyzer 分析 - 简书](https://www.jianshu.com/p/2722e90b72c1)
+
+2018-07-24 09:55 [优化 Webpack 构建结果 - 腾讯Web前端 IMWeb 团队社区 | blog | 团队博客](http://imweb.io/topic/597f47c790ccc00402bb1820)
+
+2018-07-30 14:32 [webpack 换肤功能多主题/配色样式打包解决方案 | Godfery的博客](https://hiyangguo.github.io/2018/04/19/webpack-mutiple-theme-solution-md/)
+
+
+
+#####  yo
+
+2015-09-28 17:40 [30天web实践3-yeoman - SegmentFault](http://segmentfault.com/a/1190000000656748)
+
+2015-09-28 18:28 [Yeoman自动构建js项目 | 粉丝日志](http://blog.fens.me/nodejs-yeoman-intro/)
+
+2017-11-02 15:58 [创建 Yeoman Generator 简单教程 - 简书](http://www.jianshu.com/p/9f3e6bcdb274)
+
+
+
+#####  browsersync
+
+2016-03-15 11:04 [Browsersync - Time-saving synchronised browser testing](https://www.browsersync.io/)
+
+2016-08-24 09:05 [BrowserSync，迅捷从免F5开始 - 庭院茶 - SegmentFault](https://segmentfault.com/a/1190000002607627)
+
+
+
+#####  yarn
+
+2017-02-22 12:07 [yarn - 一个可能取代npm的新型包管理器[Facebook出品，附带中文使用教程] - CRPER - 博客频道 - CSDN.NET](http://blog.csdn.net/crper/article/details/52796305)
+
+2017-02-22 13:41 [Yarn vs npm：你需要知道的一切 - 前端外刊评论 - 知乎专栏](https://zhuanlan.zhihu.com/p/23493436)
+
+2017-02-22 13:44 [Yarn的安装与使用详细介绍_node.js_脚本之家](http://www.jb51.net/article/95630.htm)
+
+2017-02-22 13:48 [Yarn](https://yarnpkg.com/en/)
+
+2017-06-13 17:01 [Yarn](https://yarnpkg.com/zh-Hans/)
+
+2017-06-21 09:39 [Yarn vs npm: 你需要知道的一切 - WEB前端 - 伯乐在线](http://web.jobbole.com/88459/)
+
+2017-12-19 21:01 [Yarn 中文网](https://yarn.bootcss.com/)
+
+
+
+#####  Travis Ci
+
+2017-09-08 09:19 [Travis Ci的最接底气的中文使用教程 - 简书](http://www.jianshu.com/p/8308b8f08de9)
+
+2017-09-08 09:21 [一点都不高大上，手把手教你使用Travis CI实现持续部署 - 知乎专栏](https://zhuanlan.zhihu.com/p/25066056)
+
+2017-11-01 14:30 [利用Travis CI 让你的github项目持续构建(Node.js为例) - 破狼 - 博客园](http://www.cnblogs.com/whitewolf/archive/2013/04/14/3019838.html)
+
+2017-11-01 14:53 [React Native App CI | Lifecycle](https://richardcao.me/2016/12/11/React-Native-App-CI/)
+
+2017-11-01 14:56 [Travis 使用经验分享 - CNode技术社区](https://cnodejs.org/topic/557afc5816839d2d53936219)
+
+2017-11-01 15:33 [Github装逼指南——Travis CI 和 Codecov - MyCodingLife - SegmentFault](https://segmentfault.com/a/1190000004415437)
+
+2017-11-02 16:04 [Travis-CI 跑测试总报错（本地能通过） - CNode技术社区](https://cnodejs.org/topic/575c3b5a4fb027d05f43294d)
+
+2017-11-02 16:20 [Travis CI - Test and Deploy Your Code with Confidence](https://travis-ci.org/)
+
+2017-11-02 16:24 [JS测试与接入CI指南 - yangyiliang - SegmentFault](https://segmentfault.com/a/1190000007332019)
+
+
+
+#####  Codecov
+
+2017-11-01 15:37 [集成测试覆盖率工具 codecov - 简书](http://www.jianshu.com/p/146c4769d4b1)
+
+
+
+#####  Rollup
+
+2018-03-14 22:10 [https://rollupjs.org/guide/en](https://rollupjs.org/guide/en)
+
+
+
+#####  Parcel
+
+2018-03-14 22:11 [📦 Parcel 中文网](http://www.parceljs.io/)
+
+2018-03-15 11:14 [📦 Parcel 中文网](https://parceljs.org/)
+
+
+
+#####  JMeter
+
+2018-07-10 10:32 [Web接口测试工具--Jmeter - 虫师 - 博客园](https://www.cnblogs.com/fnng/p/5827577.html)
+
+
+
+####  NodeJS
+
+2015-02-27 10:30 [CNode：Node.js专业中文社区](https://cnodejs.org/)
+
+2015-02-27 10:30 [Node.js](http://nodejs.org/)
+
+2015-02-27 15:15 [Node.js 包教不包会](https://github.com/alsotang/node-lessons)
+
+2015-02-27 10:21 [windows 下安装nodejs及其配置环境 - 穆乙 - 博客园](http://www.cnblogs.com/pigtail/archive/2013/01/08/2850486.html)
+
+2015-03-02 10:25 [npm的package.json中文说明 – 青豆前端](http://www.qingdou.me/5043.html)
+
+2015-04-16 16:18 [NodeJS中文网 - 专注于NodeJS技术，分享NodeJS使用心得。](http://www.nodejs.net/)
+
+2015-04-16 17:05 [快速搭建 Node.js 开发环境以及加速 npm - CNode](https://cnodejs.org/topic/5338c5db7cbade005b023c98)
+
+2015-04-16 17:09 [[nodejs]使用神器webstorm调试nodejs - 小玉西瓜 - 博客园](http://www.cnblogs.com/enix/archive/2012/04/29/2475983.html)
+
+2015-04-16 17:16 [nodejs操作mongodb - WhoAmMe - 博客园](http://www.cnblogs.com/whoamme/p/3467374.html)
+
+2015-04-16 17:19 [Revisions - Stack Overflow](http://stackoverflow.com/posts/22242472/revisions)
+
+2015-04-16 18:07 [【学习心得】Node.js实战W2D8-14...| 慕课网](http://www.imooc.com/wenda/detail/237023)
+
+2015-04-17 14:12 [[nodejs]使用神器webstorm调试nodejs - 推酷](http://www.tuicool.com/articles/ZrIzee)
+
+2015-04-17 14:12 [WebStorm和Express的纠结 - CNode](https://cnodejs.org/topic/538882b6c3ee0b5820664bdb)
+
+2015-04-17 14:12 [nodejs启动throw er; // Unhandled 'error' event-不知道](http://notknow.lofter.com/post/19c190_745ad9)
+
+2015-04-17 14:22 [尚书视频 | 尚书onbook.me](http://onbook.me/video)
+
+2015-04-17 14:44 [通过 nodeclub 项目源码来讲解如何做一个 nodejs + express + mongodb 项目 - CNode](https://cnodejs.org/topic/535601a20d7d0faf140303d8)
+
+2015-04-17 15:29 [浅谈nodejs中的Crypto模块 - CNode](https://cnodejs.org/topic/504061d7fef591855112bab5)
+
+2015-04-17 15:29 [浅谈nodejs中的Crypto模块（补完） - CNode](https://cnodejs.org/topic/5043b97ffef591855138b4e0)
+
+2015-04-17 16:37 [使用node supervisor让你的nodejs程序自动重启 - NodeNpm社区](http://www.nodenpm.com/news/12)
+
+2015-04-17 16:38 [Nodejs服务器管理模块forever | 粉丝日志](http://blog.fens.me/nodejs-server-forever/)
+
+2015-04-20 13:00 [Uspcat NodeJS视频教程 - 爱酷学习网](http://www.icoolxue.com/album/show/89/)
+
+2015-04-21 15:10 [node.js调试 - Samaritans - 博客园](http://www.cnblogs.com/dolphinX/archive/2013/12/22/3485345.html)
+
+2015-04-21 16:45 [高性能，跨平台，轻量级nodejs静态文件ifile模块 - CNode](https://cnodejs.org/topic/51c3289573c638f370492f2e)
+
+2015-04-21 16:45 [加装涡轮，提速expressjs - CNode](https://cnodejs.org/topic/51c3ef9f73c638f37058e6bc)
+
+2015-04-21 16:47 [Node.js 中文资料导航 - 前端开发 - LUPA开源社区](http://www.lupaworld.com/article-237803-1.html)
+
+2015-04-21 16:55 [Nodejs完成一个待办事项的实例教程 - CNode](https://cnodejs.org/topic/54ce5697ef1b48510c27e0c3)
+
+2015-04-21 17:00 [[cookie篇]从cookie-parser中间件说起 - Coolicer - 博客园](http://www.cnblogs.com/coolicer/p/4191548.html)
+
+2015-04-21 17:03 [express的中间件bodyParser详解 - 新客网](http://www.xker.com/page/e2014/1205/148204.html)
+
+2015-04-21 17:22 [nodejs + express + ejs + mongo_一览发表_一览职业成长社区](http://www.yl1001.com/article/2131414658152566.htm)
+
+2015-04-21 17:25 [老雷的个人主页](http://ucdok.com/)
+
+2015-04-22 17:36 [性能测评：Ngix_Lua, Node.JS Python三者性能相当，均比php快近一倍 - OurJS](http://ourjs.com/detail/52954f16f45056c314000001)
+
+2015-04-23 10:03 [深入浅出Node.js](http://www.infoq.com/cn/master-nodejs)
+
+2015-04-23 10:04 [diveintonode Documentation](http://diveintonode.org/)
+
+2015-04-30 16:38 [《nodejs开发指南》微博实例express4.x版 - 红豆依旧在 - 博客园](http://www.cnblogs.com/yuanzm/p/3770986.html)
+
+2015-04-30 16:46 [Nodejs异步异常处理domain | 粉丝日志](http://blog.fens.me/nodejs-core-domain/)
+
+2015-04-30 16:47 [出现&quot;Most middleware (like ... | 慕课网](http://www.imooc.com/qadetail/60858)
+
+2015-05-08 17:31 [nodejs npm常用命令 - Ruthless - 博客园](http://www.cnblogs.com/linjiqin/p/3765772.html)
+
+2015-07-30 16:10 [使用webStorm调试Node.js(不用node-inspector)_百度经验](http://jingyan.baidu.com/article/73c3ce28eafb95e50343d9ee.html)
+
+2015-07-30 19:09 [npm常用命令 - haidao的专栏 - 博客频道 - CSDN.NET](http://blog.csdn.net/haidaochen/article/details/8546796)
+
+2015-10-26 12:14 [nodejs安装不了和npm安装不了的解决方法-前端开发博客](http://caibaojian.com/nodejs-roll-back.html)
+
+2016-01-08 14:29 [利用kappa搭建私有NPM仓库 - 推酷](http://www.tuicool.com/articles/6naEnu)
+
+2016-04-14 11:37 [Node.js 中文网](http://nodejs.cn/)
+
+2016-04-14 11:37 [Node.js](https://nodejs.org/en/)
+
+2016-05-09 14:32 [介紹 | Node.js API 中文文档](https://davidcai1993.gitbooks.io/nodejs-api-doc-in-chinese/content/)
+
+2016-05-24 11:07 [一种简单的生产环境部署Node.js程序方法 - CNode技术社区](https://cnodejs.org/topic/53fec0d97c1e2284788983d6)
+
+2016-06-01 17:12 [NPM小结 - 程序猿小卡 - 推酷](http://www.tuicool.com/articles/VB7nYn)
+
+2016-06-01 17:12 [javascript - Difference between tilde(~) and caret(^) in package.json - Stack Overflow](http://stackoverflow.com/questions/22343224/difference-between-tilde-and-caret-in-package-json)
+
+2016-06-02 09:24 [Node.js API 中文版](http://nodeapi.ucdok.com/#/api/)
+
+2016-08-16 09:05 [alinode - 基于Node运行时的应用性能管理解决方案](http://alinode.aliyun.com/)
+
+2016-09-08 09:29 [NodeJs本地搭建服务器，模拟接口请求，获取json数据 - 简书](http://www.jianshu.com/p/80307e1a86ff)
+
+2016-10-28 10:52 [Koa 还是 Express？ - CNode技术社区](http://cnodejs.org/topic/55815f28395a0c1812f18257)
+
+2016-10-29 11:30 [使用supervisor提高nodejs调试效率 - 穆乙 - 博客园](http://www.cnblogs.com/pigtail/archive/2013/01/08/2851056.html)
+
+2016-11-24 10:32 [关于 windows 下 node_modules\node-sass\vendor 的报错解决方法-爱编程](http://www.w2bc.com/article/166142)
+
+2016-11-24 10:35 [解决Error: ENOENT: no such file or directory, scandir 'D:\IdeaWork\code-front-jet\node_modules\.npminstall\node-sass\3.7.0\node-sass\vendor' - 东篱煮酒 - 博客园](http://www.cnblogs.com/niepeishen/p/5762162.html)
+
+2016-12-19 17:26 [ES6最简单的方式访问MongoDB - freewolf自留地 - SegmentFault](https://segmentfault.com/a/1190000003696764)
+
+2017-01-10 11:53 [解决 node-gyp rebuild 卡住 的问题 - 路德威 - 博客园](http://www.cnblogs.com/rudeway/p/6259055.html)
+
+2017-01-13 12:51 [[译]Node.js安全清单 - 菜菜蔡伟的博客 - SegmentFault](https://segmentfault.com/a/1190000003860400)
+
+2017-01-13 12:57 [helmet是一个保护Node.JS应用的安全项目 - 上帝已逝，自求多福 - 博客频道 - CSDN.NET](http://blog.csdn.net/disappearedgod/article/details/50457421)
+
+2017-01-13 12:58 [Protect Your Node App's Noggin With Helmet - Scott Smith](http://scottksmith.com/blog/2014/09/21/protect-your-node-apps-noggin-with-helmet/)
+
+2017-03-10 16:15 [编写 Node.js Rest API 的 10 个最佳实践 - 前端周刊 - SegmentFault](https://segmentfault.com/a/1190000008537712?utm_source=weekly&utm_medium=email&utm_campaign=email_weekly)
+
+2017-04-06 17:50 [nodejs 中的 NODE_PATH - 东来 - SegmentFault](https://segmentfault.com/a/1190000002478924)
+
+2017-04-07 14:49 [Jade 模板引擎学习笔记 - CNode技术社区](http://cnodejs.org/topic/53e1a8e9a3df2b8f3101835b)
+
+2017-06-13 11:16 [io.js - JavaScript I/O](https://iojs.org/zh/index.html)
+
+2017-07-10 11:17 [一种简单的生产环境部署Node.js程序方法 - CNode技术社区](http://cnodejs.org/topic/53fec0d97c1e2284788983d6)
+
+2017-07-10 17:42 [Node.js的Koa框架上手及MySQL操作指南_node.js_脚本之家](http://www.jb51.net/article/86524.htm)
+
+2017-07-12 14:28 [NodeJS遍历文件生产文件列表 - 小小平凡世界 - 博客园](http://www.cnblogs.com/pingfan1990/archive/2015/08/05/4706168.html)
+
+2017-07-19 15:06 [Moment.js中文文档系列之一安装使用与日期时间解析 - IT笔录](https://itbilu.com/nodejs/npm/VkCir3rge.html#parse-parseZone)
+
+2017-07-19 16:53 [Moment.js | Home](http://momentjs.com/)
+
+2017-07-25 17:54 [在centOS 6下部署node - 前端惊魂 - SegmentFault](https://segmentfault.com/a/1190000004245357)
+
+2017-07-25 17:54 [Centos7下配置node.js环境](http://www.centoscn.com/image-text/config/2014/1108/4095.html)
+
+2017-08-29 14:22 [__dirname与__filename - soputasmile的笔记 - CSDN博客](http://blog.csdn.net/u014473112/article/details/51967364)
+
+2017-10-13 17:52 [Node.js读写中文内容文件操作 - 水边的专栏 - CSDN博客](http://blog.csdn.net/youbl/article/details/29812669)
+
+2017-10-25 14:14 [NodeJS项目中优雅的使用ES7 - 郭东生blog - 博客园](http://www.cnblogs.com/gdsblog/p/7149483.html)
+
+2017-10-27 17:21 [通过babel-register在nodejs端使用es6 - CSDN博客](http://blog.csdn.net/shidaping/article/details/71403374)
+
+2017-11-01 12:23 [Nodejs开源项目里怎么样写测试、CI和代码测试覆盖率 - CNode技术社区](http://cnodejs.org/topic/558df089ebf9c92d17e73358)
+
+2017-11-01 12:27 [npm-run-test - CNode技术社区](https://cnodejs.org/topic/54646c7f88b869cc33a97924)
+
+2017-11-01 15:19 [Nodejs开源项目里怎么样写测试、CI和代码测试覆盖率 - CNode技术社区](https://cnodejs.org/topic/558df089ebf9c92d17e73358)
+
+2017-11-02 12:11 [node-glob学习 - 流浪猫の窝 - 博客园](http://www.cnblogs.com/liulangmao/p/4552339.html)
+
+2017-11-02 15:51 [Node.js开发者最常范的10个错误 - Jaxu - 博客园](http://www.cnblogs.com/jaxu/p/5618916.html)
+
+2017-11-02 15:52 [Node.js开发者最常范的10个错误 - Jaxu - 博客园](http://www.cnblogs.com/jaxu/p/5618916.html#sec_8)
+
+2017-11-03 12:03 [nodei.co](https://nodei.co/)
+
+2017-11-03 12:06 [开源项目徽章集锦 - spacewander - SegmentFault](https://segmentfault.com/a/1190000004278253)
+
+2017-11-14 17:59 [Node.js 新手入门 - CNode技术社区](https://cnodejs.org/getstart)
+
+2017-11-16 10:16 [教你从零开始搭建一款前端脚手架工具 - Jrain-前端养成记 - SegmentFault](https://segmentfault.com/a/1190000006190814?utm_source=weekly&utm_medium=email&utm_campaign=email_weekly#articleHeader0)
+
+2017-11-20 17:47 [Node.js加密算法库Crypto | 粉丝日志](http://blog.fens.me/nodejs-crypto/)
+
+2017-11-21 10:38 [使用NodeJS将XML解析成JSON及性能比较 - chen110xi - 博客园](https://www.cnblogs.com/chen110xi/p/5817101.html)
+
+2017-11-21 10:39 [nodejs模块xml2js解析xml的坑 - CSDN博客](http://blog.csdn.net/newjueqi/article/details/48804201)
+
+2017-11-23 17:06 [浅谈nodejs中的Crypto模块 - CNode技术社区](http://cnodejs.org/topic/504061d7fef591855112bab5)
+
+2017-11-23 17:07 [NodeJS 内置模块之crypto - CSDN博客](http://blog.csdn.net/qq_33315185/article/details/53436364)
+
+2017-11-23 17:10 [在Node.js使用mysql模块时遇到的坑 - CNode技术社区](https://cnodejs.org/topic/516b77e86d382773064266df)
+
+2017-12-04 10:49 [GIF 格式图片的存储和压缩 Node.js实现 - CSDN博客](http://blog.csdn.net/bat1992/article/details/70173453)
+
+2018-01-11 13:50 [通过做一个基于Node的微服务器来学习Docker - 文章 - 伯乐在线](http://blog.jobbole.com/103069/)
+
+2018-01-11 13:50 [制作nodejs项目镜像,实现docker下的快速部署 - 别问是谁 - 博客园](https://www.cnblogs.com/Andrew-XinFei/p/6251885.html)
+
+2018-03-07 19:40 [JSON Web Tokens - jwt.io](https://jwt.io/)
+
+2018-03-12 20:50 [Node.js笔记（十）Nodejs与DOM操作 - CSDN博客](http://blog.csdn.net/u010668495/article/details/47108631)
+
+2018-03-12 21:19 [node文字转图片 - CNode技术社区](https://cnodejs.org/topic/583c5d9fba57ffba06c24a89)
+
+2018-03-12 21:23 [nodejs之SVG转图片下载方案 - CSDN博客](http://blog.csdn.net/cangkukuaimanle/article/details/46778041)
+
+2018-03-12 21:54 [Node.js 里用 D3.js 来作图 - CSDN博客](http://blog.csdn.net/lzhlzz/article/details/53857357)
+
+2018-03-12 22:20 [node使用buffer生成图片 - CSDN博客](http://blog.csdn.net/u010081689/article/details/51088068)
+
+2018-03-13 10:38 [node.js 中生成验证码的另类方案——svg 验证码 - CNode技术社区](http://cnodejs.org/topic/58647a54189fd5ad64590017)
+
+2018-03-13 14:14 [《Nodejs开发加密货币》之二十六：轻松从Js文件生成UML类图 - CNode技术社区](http://cnodejs.org/topic/57ccc1f82adfc63a267844a1)
+
+2018-03-13 14:16 [通读cheerio API - CNode技术社区](http://cnodejs.org/topic/5203a71844e76d216a727d2e)
+
+2018-03-14 17:27 [windows下的node-canvas历程 - swzhou - 博客园](https://www.cnblogs.com/virtual/p/3661592.html)
+
+2018-03-14 17:38 [基于NodeCanvas的AQI渲染服务](https://zhuanlan.zhihu.com/p/34035302)
+
+2018-03-20 17:14 [如何使用nodejs做爬虫程序？ - 知乎](https://www.zhihu.com/question/31679802)
+
+2018-03-20 17:34 [Node.js 动态网页爬取 PhantomJS 使用入门 - CSDN博客](http://blog.csdn.net/qq_21265915/article/details/65626712)
+
+2018-05-25 18:09 [Nodejs进阶：服务端字符编解码&amp;乱码处理 - 程序猿小卡 - 博客园](http://www.cnblogs.com/chyingp/p/charset-enc-dec.html?utm_source=tuicool&utm_medium=referra)
+
+2018-05-28 16:48 [nodejs使用async/await同步操作mysql - 简书](https://www.jianshu.com/p/142f2231355e)
+
+2018-06-01 16:51 [node读写Excel操作 - 我来乔23 - 博客园](https://www.cnblogs.com/MakeView660/p/7902715.html)
+
+2018-06-06 10:43 [node-mysql中防止SQL注入 - CSDN博客](https://blog.csdn.net/lin_tuer/article/details/54809330)
+
+2018-06-06 10:44 [Node.js中用escape解决sql注入 - 简书](https://www.jianshu.com/p/831991cc30a9)
+
+2018-06-06 10:49 [NodeJS mysql2 使用心得 - CSDN博客](https://blog.csdn.net/u010379324/article/details/51228569)
+
+2018-08-03 09:53 [《大搜车NodeJS日志规范化与分析监控》作者：plusman 来自搜车大无线 团队博客](http://f2e.souche.com/blog/ri-zhi-gui-fan-hua-yu-fen-xi-jian-kong/)
+
+2018-08-03 09:57 [nodejs收集日志，rsyslog同步收集入es的实施](https://zhuanlan.zhihu.com/p/31572953)
+
+2018-08-31 18:05 [Nodejs进阶：readline实现日志分析+简易命令行工具 - 腾讯Web前端 IMWeb 团队社区 | blog | 团队博客](http://imweb.io/topic/5963a26ee5017dd2121d2c1f)
+
+2018-08-31 18:06 [在 node.js 中解析大型日志文件逐行读取_node.js_帮酷编程问答](https://ask.helplib.com/node.js/post_12210769)
+
+2018-09-20 10:06 [整理 node-sass 安装失败的原因及解决办法 - 个人文章 - SegmentFault 思否](https://segmentfault.com/a/1190000010984731)
+
+2018-09-21 17:56 [使用Node.js实现文件流转存服务 - Div.IO](https://div.io/topic/1930)
+
+2018-09-30 17:28 [Node.js的事件轮询Event Loop原理解释 -解道Jdon](https://www.jdon.com/idea/nodejs/event-loop.html)
+
+2018-10-24 15:36 [log.io：浏览器端实时日志监管系统](https://www.ibm.com/developerworks/cn/web/1607-browser-logio-monitor/index.html?ca=drs-&utm_source=tuicool&utm_medium=referral)
+
+2018-10-24 17:12 [如何分析 Node.js 中的内存泄漏 - CNode技术社区](https://cnodejs.org/topic/58c78ad906dbd608756d0d58)
+
+2018-10-25 10:58 [Node.js 性能调优之CPU篇(二)——v8-profiler - Node.js开发社区 | CTOLib码库](https://www.ctolib.com/topics-117551.html)
+
+2018-10-26 10:39 [Nodejs log4js日志管理详解 - 简书](https://www.jianshu.com/p/9604d08db899)
+
+2018-10-26 15:31 [node命令行小工具开发【翻译小工具】 - JavaScript之禅 - SegmentFault 思否](https://segmentfault.com/a/1190000008714075)
+
+2018-10-26 15:31 [Node.js+commander开发命令行工具 - 简书](https://www.jianshu.com/p/2cae952250d1)
+
+2018-10-26 15:50 [跟着老司机玩转Node命令行 | Aotu.io「凹凸实验室」](https://aotu.io/notes/2016/08/09/command-line-development/index.html)
+
+2018-11-06 10:07 [Node 调试工具入门教程 - 阮一峰的网络日志](http://www.ruanyifeng.com/blog/2018/03/node-debugger.html)
+
+#####  Express框架
+
+2015-04-15 17:14 [Nodejs初阶之express - 聂微东 - 博客园](http://www.cnblogs.com/Darren_code/p/node_express.html)
+
+2015-04-15 17:14 [Nodejs开发框架Express3.0开发手记–从零开始 | 粉丝日志](http://blog.fens.me/nodejs-express3/)
+
+2015-04-15 17:16 [从零开始nodejs系列文章 | 粉丝日志](http://blog.fens.me/series-nodejs/)
+
+2015-04-15 17:17 [Node.js开发框架Express4.x | 粉丝日志](http://blog.fens.me/nodejs-express4/)
+
+2015-04-15 18:44 [nodejs express 框架解密5-视图 - yupeng - 博客园](http://www.cnblogs.com/yupeng/p/3482360.html)
+
+2015-04-16 09:39 [Express - 中文文档 - Node.js web 应用开发框架](http://www.expressjs.com.cn/)
+
+2015-04-16 15:43 [Express4 启航指南 - 聂微东 - 博客园](http://www.cnblogs.com/Darren_code/p/express4.html)
+
+2015-04-16 15:43 [Node.js利用Express框架搭建小型网站(下) - 追 - 博客频道 - CSDN.NET](http://blog.csdn.net/kkkkkxiaofei/article/details/32935199)
+
+2015-04-16 15:46 [Nodejs基础中间件Connect | 粉丝日志](http://blog.fens.me/nodejs-connect/)
+
+2015-04-16 16:05 [Express.js中文入门指引手册 - wx_mdq的专栏 - 博客频道 - CSDN.NET](http://blog.csdn.net/wx_mdq/article/details/7644487)
+
+2015-04-16 17:10 [nodejs之express 从零开始 - loudyten的专栏 - 博客频道 - CSDN.NET](http://blog.csdn.net/loudyten/article/details/22096133)
+
+2015-04-16 17:10 [Node.js + Web Socket 打造即时聊天程序嗨聊(1) - 51CTO.COM](http://developer.51cto.com/art/201404/434686.htm)
+
+2015-04-21 10:38 [Express框架中如何引用ejs模板引擎 - 绿茶叶 - 博客园](http://www.cnblogs.com/greenteaone/p/3685733.html)
+
+2015-04-21 10:40 [nodejs express template (模版)的使用 (ejs + express) - Mac Track - 博客频道 - CSDN.NET](http://blog.csdn.net/macyang/article/details/8841966)
+
+2015-04-21 10:45 [nodejs express template (模版)的使用 (ejs + express)_node.js 笔记](http://node-js.diandian.com/post/2012-07-03/40029704518)
+
+2015-04-21 14:11 [Nodejs学习笔记（五）--- Express安装入门与模版引擎ejs - porschev - 推酷](http://www.tuicool.com/articles/yUZBvq)
+
+2015-04-21 14:54 [express Multer 如何使用？ - CNode](https://cnodejs.org/topic/53d655d158cac416711d85ad)
+
+2015-04-21 16:01 [Express.js 中文入门指引手册 - web 前端 - 博客频道 - CSDN.NET](http://blog.csdn.net/wl110231/article/details/8202439)
+
+2015-04-21 16:01 [Express.js 中文入门指引手册 - justjavac(迷渡) - 博客频道 - CSDN.NET](http://blog.csdn.net/justjavac/article/details/7465557)
+
+2015-04-21 16:02 [Express.js 中文入门指引手册_51CTO下载中心_IT技术资料免费下载](http://down.51cto.com/data/512776)
+
+2015-07-30 15:09 [【node.js】本地模式安装express：'express' 不是内部或外部命令，也不是可运行的程序或批处理文件。 - MCpang的博客 - 博客频道 - CSDN.NET](http://blog.csdn.net/mcpang/article/details/26612865)
+
+2016-05-09 14:22 [Express - Node.js Web 应用程序框架](http://expressjs.com/zh-cn/)
+
+2016-05-13 18:35 [在 Express 开发中使用 nodemon | bubkoo](http://bubkoo.com/2014/12/02/use-nodemon-with-node-applications/)
+
+
+
+#####  Hexo静态博客系统
+
+2015-04-17 14:37 [Hexo](http://hexo.io/)
+
+2015-04-17 14:41 [Hexo在github上构建免费的Web应用 | 粉丝日志](http://blog.fens.me/hexo-blog-github/)
+
+2016-04-21 10:05 [Hexo](https://hexo.io/zh-cn/)
+
+2016-05-27 13:41 [Hexo | Hexo Subtitle](http://lotabout.me/very-simple/)
+
+2016-05-27 13:43 [Light](https://hexo.io/hexo-theme-light/)
+
+2016-05-29 19:24 [hexo常用命令笔记 - 埋名 - SegmentFault](https://segmentfault.com/a/1190000002632530)
+
+2016-05-29 19:27 [Hexo 3.0 静态博客使用指南 - 推酷](http://www.tuicool.com/articles/Jva2iaA)
+
+2016-05-30 08:49 [使用Hexo搭建博客（三），博客配置、主题和写作 - 简书](http://www.jianshu.com/p/db7e64d86067)
+
+2016-06-01 10:05 [Hexo搭建Github-Pages博客填坑教程 - 简书](http://www.jianshu.com/p/35e197cb1273)
+
+2016-06-01 14:11 [Hexo搭建Github静态博客 - 金石开 - 博客园](http://www.cnblogs.com/zhcncn/p/4097881.html)
+
+2016-06-01 14:14 [hexo常用命令笔记 - 埋名 - SegmentFault](https://segmentfault.com/a/1190000002632530#articleHeader10)
+
+2016-06-01 14:19 [在 hexo 中无痛使用本地图片 - 推酷](http://www.tuicool.com/articles/umEBVfI)
+
+2016-06-01 15:20 [Disqus – The #1 way to build your audience](https://disqus.com/)
+
+2016-06-01 18:33 [hexo添加百度统计 | BAZINGA](http://caoyudong.com/2015/09/16/hexo%E6%B7%BB%E5%8A%A0%E7%99%BE%E5%BA%A6%E7%BB%9F%E8%AE%A1/)
+
+2016-11-24 12:18 [Hexo使用多说教程 - 多说开发者中心](http://dev.duoshuo.com/threads/541d3b2b40b5abcd2e4df0e9)
+
+2016-11-24 12:22 [第三方服务集成 - NexT 使用文档](http://theme-next.iissnan.com/third-party-services.html)
+
+2016-11-24 12:22 [Hexo｜快速搭建自己（Github）博客 - 简书](http://www.jianshu.com/p/808554f12929)
+
+2016-11-24 13:56 [Hexo 主题Light修改教程 - 简书](http://www.jianshu.com/p/70343b7c2fd3)
+
+2016-11-24 14:52 [git 管理本地文件提交到github上有的文件提交不了-CSDN论坛-CSDN.NET-中国最大的IT技术社区](http://bbs.csdn.net/topics/390822726)
+
+2016-11-24 15:06 [为 Hexo 主题添加评论模块 — Disqus, 多说, 友言 - 推酷](http://www.tuicool.com/articles/jq2Aj2Z)
+
+
+
+#####  MVC框架
+
+2015-04-23 10:49 [thinkjs - 基于Promise的Node.js MVC框架](http://www.thinkjs.org/)
+
+
+
+#####  nvm
+
+2015-04-23 11:04 [hakobera/nvmw](https://github.com/hakobera/nvmw)
+
+2015-04-23 11:04 [CentOS下配置Node.JS | Ming BLOG](http://blog.python100.net/archives/118)
+
+2015-04-23 10:43 [搭建nodejs环境推荐用两个工具：nvm和npm | Ming BLOG](http://blog.python100.net/archives/124)
+
+2016-04-20 14:58 [coreybutler/nvm-windows: A node.js version management utility for Windows. Ironically written in Go.](https://github.com/coreybutler/nvm-windows)
+
+2016-04-20 14:58 [creationix/nvm: Node Version Manager - Simple bash script to manage multiple active node.js versions](https://github.com/creationix/nvm)
+
+2016-10-29 13:27 [管理 node 版本，选择 nvm 还是 n？ - 推酷](http://www.tuicool.com/articles/U73aEbR)
+
+2016-10-29 13:37 [使用 nvm 管理不同版本的 node 与 npm - 推酷](http://www.tuicool.com/articles/Vzquy2)
+
+
+
+#####  Socket
+
+2015-07-30 15:59 [使用Node.js+Socket.IO搭建WebSocket实时应用 - OPEN 开发经验库](http://www.open-open.com/lib/view/open1402479198587.html)
+
+2015-07-30 15:59 [学习 NodeJS 第八天：Socket 通讯 - zhangxin09的专栏 - 博客频道 - CSDN.NET](http://blog.csdn.net/zhangxin09/article/details/12844975)
+
+2016-03-08 11:34 [Web 通信 之 长连接、长轮询（long polling） - 孤剑 - 博客园](http://www.cnblogs.com/AloneSword/p/3517463.html)
+
+2016-05-13 16:45 [Socket.IO](http://socket.io/)
+
+2016-07-07 13:18 [看完让你彻底搞懂Websocket原理 - 推酷](http://www.tuicool.com/articles/7zyMvy6)
+
+2016-08-30 10:51 [GoEasy | Web message push expert](https://goeasy.io/www/home)
+
+2018-05-30 10:29 [socket.io 中文手册 socket.io 中文文档 - liuxixi - 博客园](https://www.cnblogs.com/lxxhome/p/5980615.html)
+
+
+
+#####  CNPM
+
+2016-01-08 14:24 [CNPM搭建私有的NPM服务 | 粉丝日志](http://blog.fens.me/nodejs-cnpm-npm/)
+
+
+
+#####  node-webkit
+
+2016-02-16 08:51 [node-webkit：开发桌面+WEB混合型应用的神器 - 天上的神明与星辰，人间的艺术和真纯，我们所敬畏和热爱的，莫过于此。 - ITeye技术网站](http://damoqiongqiu.iteye.com/blog/2010720)
+
+2016-02-16 08:58 [【开源专访】Node-Webkit作者王文睿：桌面应用的全新开发方式-CSDN.NET](http://www.csdn.net/article/2014-01-08/2818066-Node-Webkit)
+
+2016-02-16 09:38 [用node-webkit开发桌面应用 - CNode技术社区](https://cnodejs.org/topic/53233277bfb7097d7a00059e)
+
+2016-02-16 10:06 [使用node-webkit构建桌面应用程序（一）](http://www.infoq.com/cn/articles/using-node-webkit-to-build-desktop-applications-part1?utm_campaign=infoq_content&utm_source=infoq&utm_medium=feed&utm_term=global)
+
+2016-02-16 10:19 [List of apps and companies using nw.js · nwjs/nw.js Wiki](https://github.com/nwjs/nw.js/wiki/List-of-apps-and-companies-using-nw.js)
+
+2016-02-16 10:19 [node-webkit学习(2)基本结构和配置 - 玄魂 - 博客园](http://www.cnblogs.com/xuanhun/p/3656003.html)
+
+2016-02-16 10:45 [nw.js - 随笔分类 - 玄魂 - 博客园](http://www.cnblogs.com/xuanhun/category/568577.html)
+
+2016-02-16 10:47 [修改node-webkit的默认图标 - KeenWon | 做有趣的事](http://keenwon.com/1311.html)
+
+2016-02-16 13:04 [Record for studying NW.js - GitBook](https://www.gitbook.com/book/runun/record-for-studying-nw-js/details)
+
+2016-02-16 13:22 [NW.js Documentation](http://docs.nwjs.io/en/v0.13.0-beta5/)
+
+2016-02-16 13:22 [NW.js](http://nwjs.io/)
+
+2017-12-01 16:21 [nw.js node-webkit系列（3）基本程序结构与配置 - CSDN博客](http://blog.csdn.net/zeping891103/article/details/50728834)
+
+2017-12-01 17:59 [致良知，让良知的心伴你通行。 - CSDN博客](http://blog.csdn.net/zeping891103/article/category/5702195)
+
+
+
+#####  hex框架
+
+2016-02-16 09:08 [heX：用HTML5和Node.JS开发桌面应用 | heX Blog](http://hex.youdao.com/blog/?p=25)
+
+
+
+#####  PhantomJS
+
+2016-04-14 09:54 [PhantomJS | PhantomJS](http://phantomjs.org/)
+
+2016-04-14 18:14 [PhantomJS快速入门教程 - 推酷](http://www.tuicool.com/articles/beeMNj/)
+
+2018-12-18 09:18 [Related Projects | PhantomJS](http://phantomjs.org/related-projects.html)
+
+
+
+#####  模板引擎
+
+2016-05-11 10:59 [Nunjucks](https://mozilla.github.io/nunjucks/)
+
+2018-06-05 17:48 [nodejs前端模板引擎swig入门 - 简书](https://www.jianshu.com/p/f0bffc42c1ce)
+
+2018-06-05 17:48 [Swig 使用指南](http://www.iqianduan.net/blog/how_to_use_swig)
+
+
+
+#####  Ghost多人博客
+
+2016-06-01 16:59 [下载 Ghost | Ghost中文网](http://www.ghostchina.com/download/)
+
+2016-06-01 17:15 [Ghost 邮件系统设置详解 | Ghost中文网](http://www.ghostchina.com/mail-configuration-on-self-hosted-version-of-ghost/)
+
+2016-06-01 17:28 [「搭建Ghost博客」经典教程 - 极简小站 - SegmentFault](https://segmentfault.com/a/1190000002947497)
+
+2016-06-01 17:28 [Ghost 快捷手册 | Ghost中文网](http://www.ghostchina.com/ghost-cheat-sheet/)
+
+2016-06-02 08:45 [利用Docker和阿里云容器服务部署高可用Ghost博客集群-博客-云栖社区-阿里云](https://yq.aliyun.com/articles/2722)
+
+2016-06-02 08:45 [在阿里云服务器上安装 Ghost （4）-- 安装 Ghost | Ghost中文网](http://www.ghostchina.com/install-ghost-on-ali-ecs-forth-step-install-ghost/)
+
+
+
+#####  PM2
+
+2016-06-02 08:59 [Node.js进程管理器PM2浅析 - 推酷](http://www.tuicool.com/articles/vAjIZjn)
+
+2016-06-02 09:02 [Unitech/pm2: Production process manager for Node.js apps with a built-in load balancer](https://github.com/Unitech/pm2)
+
+2016-06-02 09:15 [PM2 介绍](https://www.douban.com/note/314200231/)
+
+2017-07-10 11:18 [PM2  使用介绍 - Karrdy - SegmentFault](https://segmentfault.com/a/1190000002539204)
+
+2017-08-01 16:47 [pm2使用心得 - 简书](http://www.jianshu.com/p/225b9284cfb8)
+
+2017-08-01 16:47 [node.js学习笔记（22） pm2-博客-云栖社区-阿里云](https://yq.aliyun.com/articles/2993)
+
+2017-08-01 16:58 [nodejs服务器部署教程一 - 个人文章 - SegmentFault](https://segmentfault.com/a/1190000010098126)
+
+2017-08-02 10:32 [npm系列：pm2文档简单翻译 - 技术控 - SegmentFault](https://segmentfault.com/a/1190000008074347)
+
+2017-08-02 13:52 [pm2用法详解+ecosystem.config - LGGGGG - 博客园](http://www.cnblogs.com/lggggg/p/6970395.html)
+
+2017-08-02 13:58 [通过Github与PM2部署Node应用 - 业余程序员 - SegmentFault](https://segmentfault.com/a/1190000005171229)
+
+2017-08-02 14:27 [PM2实用入门指南 - 程序猿小卡的前端专栏 - SegmentFault](https://segmentfault.com/a/1190000006793571#articleHeader16)
+
+2017-08-02 14:27 [PM2中无法开启ES6的解决方案 - 业余程序员 - SegmentFault](https://segmentfault.com/a/1190000005337995)
+
+2017-08-02 14:39 [【node】利用PM2实现 node服务器 后台运行和自动重启 - 杨成功的全栈之路 - SegmentFault](https://segmentfault.com/a/1190000008725179)
+
+2017-10-31 17:05 [nodejs部署方式-pm2 - zhangzongshan - 博客园](http://www.cnblogs.com/zzsdream/p/6898974.html)
+
+2017-11-23 17:13 [PM2实用入门指南 - 程序猿小卡 - 博客园](https://www.cnblogs.com/chyingp/p/pm2-documentation.html)
+
+2018-07-10 09:50 [pm2常用的命令用法介绍 - CSDN博客](https://blog.csdn.net/sunscheung/article/details/79171608)
+
+
+
+#####  nrm
+
+2016-03-22 14:31 [nrm 快速切换 NPM 源 （附带测速功能） - 推酷](http://www.tuicool.com/articles/nYjqeu)
+
+
+
+#####  npm
+
+2015-04-16 16:00 [淘宝 NPM 镜像](http://npm.taobao.org/)
+
+2015-06-19 13:58 [autoprefixer](https://www.npmjs.com/package/autoprefixer)
+
+2015-06-19 16:24 [nrm](https://www.npmjs.com/package/nrm)
+
+2015-06-19 16:25 [给电脑换源 npm 国内镜像 cnpm 一介布衣](http://yijiebuyi.com/blog/b12eac891cdc5f0dff127ae18dc386d4.html)
+
+2015-06-19 16:26 [nrm —— 快速切换 NPM 源 （附带测速功能） - SegmentFault](http://segmentfault.com/a/1190000000473869)
+
+2015-07-22 10:05 [使用cnpm搭建企业内部私有NPM仓库 - SegmentFault](http://segmentfault.com/a/1190000000368906)
+
+2015-07-22 13:37 [npm用法及离线安装方法 - laozhbook - 推酷](http://www.tuicool.com/articles/eE7zam)
+
+2015-08-21 18:13 [jdf](https://www.npmjs.com/package/jdf)
+
+2015-09-14 11:27 [nodejs中npm常用命令 - binjiang的个人空间 - 开源中国社区](http://my.oschina.net/robinjiang/blog/168732)
+
+2016-05-05 11:49 [提交自己的包到bower、npm中 | JSLite.io](http://jslite.io/2015/05/03/%E6%8F%90%E4%BA%A4%E8%87%AA%E5%B7%B1%E5%8C%85%E5%88%B0bower%E3%80%81npm%E4%B8%AD/)
+
+2016-11-25 13:43 [dylang/npm-check: Check for outdated, incorrect, and unused dependencies.](https://github.com/dylang/npm-check)
+
+2016-12-10 22:59 [发布自己的module - 我的第一个npm组件！ - 前端 - SegmentFault](https://segmentfault.com/a/1190000006250554)
+
+2017-01-13 19:36 [npm 安装出现 UNMET DEPENDENCY 的解决方案 - 推酷](http://www.tuicool.com/articles/jAja2aQ)
+
+2017-05-12 17:54 [yarn publish 与 npm publish 的不同之处](https://changshiban.com/2017/03/17/the-difference-between-yarn-publish-and-npm-publish/)
+
+2017-05-17 11:20 [如何发布Node模块到NPM社区 - CNode技术社区](http://cnodejs.org/topic/5364dcde31a870830700b847)
+
+2017-05-17 11:20 [开发nodejs模块并发布到npm的简单示例 - Zhuang miao - 博客园](http://www.cnblogs.com/mz121star/archive/2012/11/15/nodejsandnom.html)
+
+2017-05-18 17:05 [npm升级所有可更新包 - 推酷](http://www.tuicool.com/articles/UbyY7rY)
+
+2017-12-24 15:50 [npm install 报错chromedriver 记录 - CSDN博客](http://blog.csdn.net/sunzhemin/article/details/51979967)
+
+2018-03-09 15:29 [用sinopia搭建内部npm服务 - 前端攻城师-CZF - 博客园](https://www.cnblogs.com/czf-zone/p/6860457.html)
+
+2018-03-14 17:22 [npm install canvas简明指南 - 廖雪峰的官方网站](https://www.liaoxuefeng.com/article/001393751950310ce1564f9d572410180eafe7a5dd89c6f000)
+
+2018-03-23 15:35 [npm package.json属性详解 - 桃子夭夭 - 博客园](https://www.cnblogs.com/tzyy/p/5193811.html#_h1_9)
+
+2018-06-15 14:39 [mac安装jello，安装不过去，报gyp WARN EACCES user &quot;root&quot; does not have permission to access the dev dir &quot;/root/ - CSDN博客](https://blog.csdn.net/gupan86/article/details/46596599)
+
+2018-06-15 15:17 [npm ERR! code EINTEGRITY (npm 5) - 远足者 - ITeye博客](http://wxinpeng.iteye.com/blog/2383442)
+
+2018-06-15 15:31 [玩转npm - 简书](https://www.jianshu.com/p/8a114304dd6e)
+
+2018-09-29 11:05 [npx: npm 5.2.0 内置的包执行器](https://zhuanlan.zhihu.com/p/27832595)
+
+2018-09-29 11:16 [npx命令介绍 - lxz - SegmentFault 思否](https://segmentfault.com/a/1190000012974903)
+
+2018-09-30 11:22 [写一个 npm cli](https://zhuanlan.zhihu.com/p/25249117)
+
+2018-11-12 10:02 [关于npm audit fix - 奋斗的小绿萝 - CSDN博客](https://blog.csdn.net/weixin_40817115/article/details/81007774)
+
+
+
+#####  JSON Server
+
+2016-09-08 09:23 [三步使用 JSON Server 模拟 API - OPEN 开发经验库](http://www.open-open.com/lib/view/open1443075501873.html)
+
+2016-09-08 09:23 [typicode/json-server: Get a full fake REST API with zero coding in less than 30 seconds (seriously)](https://github.com/typicode/json-server)
+
+
+
+#####  Koa
+
+2016-09-09 11:27 [Koa (koajs) -- 基于 Node.js 平台的下一代 web 开发框架 | Koajs 中文文档](http://koa.bootcss.com/)
+
+2016-10-28 10:47 [心路历程：vue2.0+webpack+koa2 前后端同构实践（一） - 思无邪 - SegmentFault](https://segmentfault.com/a/1190000005995213)
+
+2016-10-28 11:00 [koa - 廖雪峰的官方网站](http://www.liaoxuefeng.com/wiki/001434446689867b27157e896e74d51a89c25cc8b43bdb3000/001434501579966ab03decb0dd246e1a6799dd653a15e1b000)
+
+2016-10-28 11:03 [guo-yu/koa-guide: koa guide in Chinese](https://github.com/guo-yu/koa-guide)
+
+2016-10-28 11:08 [17koa/koa-generator: Koa' application generator for 1.x and 2.x（ Express-style and support all middlewares include async/await ）](https://github.com/17koa/koa-generator)
+
+2016-10-28 11:09 [koa生成器,一键生成koa和koa2项目 - 小莫 - SegmentFault](https://segmentfault.com/a/1190000005742129)
+
+2016-10-28 11:15 [从零组装新工具 - Koa2 - Lxxyx的开发笔记 - SegmentFault](https://segmentfault.com/a/1190000004996176)
+
+2016-10-28 11:21 [用 vue koa 和mongo 撸了个人博客和博客管理网站 - chuckliu的前端学习笔记 - SegmentFault](https://segmentfault.com/a/1190000007004199)
+
+2016-10-28 11:24 [用 Koa 写服务体验 - 囧克斯](http://jiongks.name/blog/try-koajs/)
+
+2016-12-15 21:31 [Introduction | 一起学koa](http://17koa.com/koa-generator-examples/)
+
+2016-12-16 17:40 [KoaHub.js是基于 Koa.js 平台的 Node.js web 快速开发框架 - sinat_36469292的博客 - 博客频道 - CSDN.NET](http://blog.csdn.net/sinat_36469292/article/details/52965052)
+
+2016-12-16 20:10 [「新手向」koa2从起步到填坑 - 简书](http://www.jianshu.com/p/6b816c609669)
+
+2016-12-16 20:30 [在koa中使用mongoose操作mongodb数据库 - CNode技术社区](https://cnodejs.org/topic/574d2fc4d8f6537a2389c87e)
+
+2016-12-16 20:33 [datastack － 基于koa的RESTful框架 - RobinQu - SegmentFault](https://segmentfault.com/a/1190000000622043)
+
+2016-12-16 21:15 [趣店前端团队基于koajs的前后端分离实践 - 前端俱乐部-http://blog.feclub.cn](http://feclub.cn/post/content/qudian_koa)
+
+2016-12-19 17:25 [Node.js实现RESTful api,express or koa? - 推酷](http://www.tuicool.com/articles/Qviu2am)
+
+2016-12-19 17:26 [mongoose 与 koa 如何比较好的结合 - CNode技术社区](https://cnodejs.org/topic/53552311312420be08017e5a)
+
+2016-12-19 17:27 [Koa 2实用入门 - CNode技术社区](https://cnodejs.org/topic/5709959abc564eaf3c6a48c8)
+
+2017-01-13 15:45 [如何优雅的在 koa 中处理错误 - 推酷](http://www.tuicool.com/articles/Y7NnquR)
+
+2017-01-13 16:41 [跨入Koa2.0，从Compose开始 - CNode技术社区](https://cnodejs.org/topic/5780e12e69d72f545483ca69)
+
+2017-01-13 19:36 [koa-router 源码浅析 — 好JSER](http://hao.jser.com/archive/12913/)
+
+2017-06-12 17:09 [node.js - koa-jwt如何使用 - SegmentFault](https://segmentfault.com/q/1010000006938020)
+
+2017-06-12 17:15 [NodeJS 实现基于 token 的认证应用 - 小小平凡世界 - 博客园](http://www.cnblogs.com/pingfan1990/p/4905065.html)
+
+2017-06-13 16:19 [为 Koa 框架封装 webpack-dev-middleware 中间件 - 太极客（Very Geek） - SegmentFault](https://segmentfault.com/a/1190000004883199)
+
+2017-06-15 10:40 [jsonwebtoken中文文档 - 个人文章 - SegmentFault](https://segmentfault.com/a/1190000009494020)
+
+2017-06-15 10:40 [Koa-jwt 说明文档(机翻润色) - 个人文章 - SegmentFault](https://segmentfault.com/a/1190000009788117)
+
+2017-07-10 16:11 [跨域[koa-cors] | koajs](https://wohugb.gitbooks.io/koajs/content/misc/koa-cors.html)
+
+2017-07-11 09:44 [KOA简介 | koajs](https://wohugb.gitbooks.io/koajs/content/index.html)
+
+2017-07-11 17:36 [koa技术分享 - CNode技术社区](https://cnodejs.org/topic/56936889c2289f51658f0926)
+
+2017-07-12 10:35 [koa入门 - chenhao.ch - SegmentFault](https://segmentfault.com/a/1190000006732849)
+
+2017-07-12 10:41 [[node] koa - 晴明桑 - 博客园](http://www.cnblogs.com/qingmingsang/articles/5554036.html)
+
+2017-09-28 14:12 [使用 AngularJS &amp; NodeJS 实现基于 token 的认证应用 - 知乎专栏](https://zhuanlan.zhihu.com/FrontendMagazine/19920223)
+
+2017-09-30 09:53 [Koa 框架教程 - 阮一峰的网络日志](http://www.ruanyifeng.com/blog/2017/08/koa.html)
+
+2017-09-30 15:53 [如何理解 koa 中间件执行机制 - 蛤蛤 - SegmentFault](https://segmentfault.com/a/1190000002783230)
+
+2017-11-01 13:07 [Koa、Express Web单元测试 - CSDN博客](http://blog.csdn.net/shushanfx/article/details/78051838)
+
+2017-11-01 13:13 [runkoa：不需要了解babel即可使用koa2+async组合 - CNode技术社区](https://cnodejs.org/topic/57090089de442ee71db36bad)
+
+2017-11-02 09:50 [EADDRINUSE when watching tests with mocha and supertest](http://www.marcusoft.net/2015/10/eaddrinuse-when-watching-tests-with-mocha-and-supertest.html)
+
+2017-11-02 10:51 [ES2015 &amp; babel 实战：开发NPM模块 - CNode技术社区](http://cnodejs.org/topic/565c65c4b31692e827fdd00c)
+
+2017-11-02 12:11 [从零搭建Koa2 Server - 相学长怼前端 - SegmentFault](https://segmentfault.com/a/1190000009494041)
+
+2017-11-02 15:57 [基于 Koa, Sequelize, Redis 实现简单缓存机制 | 围观的翻墙群众 | Me.Sth.IT](http://solee.me/2016/03/17/ji-yu-koa-sequelize-redis-shi-xian-jian-dan-huan-cun-ji-zhi-2/)
+
+2017-11-10 14:43 [node koa2图片上传的实现 - 包子源的博客 - CSDN博客](http://blog.csdn.net/ziwoods/article/details/72822730)
+
+2018-03-05 10:53 [从koa-session中间件源码学习cookie与session - 和前端初学者一起进步 - SegmentFault 思否](https://segmentfault.com/a/1190000012412299)
+
+2018-03-14 14:40 [Koa2中间件 - 简书](https://www.jianshu.com/p/6a3499138737)
+
+2018-05-15 15:20 [koa2 async和await 实战详解 - 简书](https://www.jianshu.com/p/f8cfb82b4dad)
+
+2018-11-30 14:51 [koa2 使用 koa-body 代替 koa-bodyparser 和 koa-multer - Postbird - 招猫逗狗的开发者](http://www.ptbird.cn/koa-body.html)
+
+2018-11-30 17:38 [Koa2 之文件上传下载 - 掘金](https://juejin.im/post/5abc451ff265da23a2292dd4)
+
+
+
+#####  npmcdn
+
+2016-09-12 15:15 [unpkg](https://unpkg.com/#/)
+
+
+
+#####  Thinkjs框架
+
+2016-10-28 10:36 [ThinkJS - 使用 ES6/7 特性开发 Node.js 项目，支持 TypeScript](https://thinkjs.org/)
+
+2016-10-28 10:37 [ThinkJS - 使用 ES6/7 特性开发 Node.js 项目，支持 TypeScript](https://thinkjs.org/doc/index.html)
+
+
+
+#####  Node-OS
+
+2016-10-28 10:45 [Node OS](http://node-os.com/)
+
+
+
+#####  nodemon
+
+2016-12-22 17:08 [nodemon 基本配置与使用 - 推酷](http://www.tuicool.com/articles/2AnmEz7)
+
+2018-03-09 14:52 [nodemon 基本配置与使用 - JuFoFu - 博客园](https://www.cnblogs.com/JuFoFu/p/5140302.html)
+
+
+
+#####  Sequelize
+
+2017-07-10 14:29 [Node.js ORM 框架 sequelize 实践 - zzbo - 博客园](http://www.cnblogs.com/zzbo/p/5906089.html)
+
+2017-07-10 17:39 [Sequelize 中文API文档－1. 快速入门、Sequelize类 - IT笔录](https://itbilu.com/nodejs/npm/VkYIaRPz-.html)
+
+2017-07-10 17:39 [使用Sequelize - 廖雪峰的官方网站](http://www.liaoxuefeng.com/wiki/001434446689867b27157e896e74d51a89c25cc8b43bdb3000/001471955049232be7492e76f514d45a2180e2c224eb7a6000)
+
+2017-07-12 13:39 [sequelize-auto从数据库表自动生成Sequelize模型(Model) - IT笔录](https://itbilu.com/nodejs/npm/41mRdls_Z.html)
+
+2017-07-12 13:42 [Sequelize 中文API文档－2. Model 的定义、使用与Model类的API - IT笔录](https://itbilu.com/nodejs/npm/V1PExztfb.html)
+
+2017-07-12 13:42 [Sequelize 中文API文档－1. 快速入门、Sequelize类 - IT笔录](https://itbilu.com/nodejs/npm/VkYIaRPz-.html#api-instance-method)
+
+2017-07-21 16:21 [Sequelize 和 MySQL 对照 - 前端涨姿势 - SegmentFault](https://segmentfault.com/a/1190000003987871#articleHeader4)
+
+2017-10-27 16:51 [node sequelize SequelizeDatabaseError: ER_BAD_FIELD_ERROR: Unknown column 'createdAt' in 'field list - CSDN博客](http://blog.csdn.net/wangzhikui1/article/details/61958419)
+
+2017-11-13 14:53 [Manual | Sequelize | The node.js ORM for PostgreSQL, MySQL, SQLite and MSSQL](http://docs.sequelizejs.com/)
+
+2018-02-09 14:48 [Node.js Sequelize 模型(表)之间的关联及关系模型的操作 - CNode技术社区](http://cnodejs.org/topic/5799b0114265959826e7b35c)
+
+2018-02-28 17:36 [sequelize连表include查询问题 - CNode技术社区](https://cnodejs.org/topic/59c12e9fd7cbefc51196450b)
+
+2018-05-07 14:13 [[db] sequelize - 晴明桑 - 博客园](https://www.cnblogs.com/qingmingsang/articles/5607191.html)
+
+2018-05-07 16:15 [Sequelize中用group by进行分组聚合查询_node.js_脚本之家](http://www.jb51.net/article/99691.htm)
+
+2018-05-08 10:29 [sequelize常见操作使用方法（增删改查，手把手教学） - CSDN博客](https://blog.csdn.net/qq328691560/article/details/50564697)
+
+2018-05-15 15:45 [mysql - Create or Update Sequelize - Stack Overflow](https://stackoverflow.com/questions/18304504/create-or-update-sequelize)
+
+2018-05-16 14:14 [sequelize调用distinct函数](http://www.brafox.com/post/2015/sequelize/sequelize%E8%B0%83%E7%94%A8distinct%E5%87%BD%E6%95%B0.html)
+
+
+
+#####  pinojs
+
+2017-09-11 15:34 [Home - Pino - Super fast, all natural JSON logger for Node.js](http://getpino.io/#/)
+
+
+
+#####  fastify
+
+2017-10-30 09:19 [Fastify, Fast and low overhead web framework, for Node.js](https://www.fastify.io/)
+
+
+
+#####  Egg
+
+2017-11-01 09:35 [深夜放毒——阿里开源的企业级Node框架Egg使用指南 - CNode技术社区](http://cnodejs.org/topic/580a6a7e541dfb7b50f40a60)
+
+
+
+#####  Puppeteer
+
+2018-03-01 16:36 [爬虫利器 Puppeteer 实战 - CNode技术社区](https://cnodejs.org/topic/5a4d8d2299d207fa49f5cbbc)
+
+2018-12-17 17:01 [使用puppeteer截图及线上问题调试 - 知乎](https://zhuanlan.zhihu.com/p/29442105)
+
+2018-12-18 15:48 [CentOS6.5-64位安装puppeteer，提示Chrome无法启动，查找并安装缺失依赖包——吕江民·敬上 - 个人文章 - SegmentFault 思否](https://segmentfault.com/a/1190000015802337)
+
+2018-12-18 15:48 [部署 puppeteer 到 centos 上的常见问题 - 简书](https://www.jianshu.com/p/163d355d2454)
+
+2018-12-18 16:10 [centos 编译 chrome 踩坑之旅 - 中二的wilson](http://blog.wils0n.cn/archives/171/)
+
+2018-12-19 16:36 [使用Puppeteer图像识别技术如何实现百度指数爬虫-PHP中文网](http://m.php.cn/article/400953.html)
+
+2018-12-21 15:16 [Puppeteer v1.11.0](https://zhaoqize.github.io/puppeteer-api-zh_CN/#/)
+
+2018-12-24 10:41 [phantomjs 抓取、截图中文网站乱码的问题的解决 - kaosini的专栏 - CSDN博客](https://blog.csdn.net/kaosini/article/details/47252457)
+
+
+
+#####  Bookshelf
+
+2018-03-05 16:37 [NodeJs 关系数据库ORM库：Bookshelf.js - CSDN博客](http://blog.csdn.net/future_challenger/article/details/51829936)
+
+2018-03-05 16:38 [knex.js笔记 - CSDN博客](http://blog.csdn.net/liuyueyi1995/article/details/53782047)
+
+2018-03-05 16:38 [bookshelf.js笔记 - CSDN博客](http://blog.csdn.net/liuyueyi1995/article/details/53760577)
+
+
+
+#####  grpc
+
+2018-04-02 15:17 [grpc之node篇(静态代码) - CSDN博客](https://blog.csdn.net/shidaping/article/details/53942476)
+
+2018-04-02 15:17 [gRPC之Node Quick Start - 都市烟火 - 博客园](https://www.cnblogs.com/duhuo/p/5847156.html)
+
+2018-04-02 15:19 [RPC服务和HTTP服务对比 - CSDN博客](https://blog.csdn.net/wangyunpeng0319/article/details/78651998)
+
+2018-04-02 15:29 [什么是 RPC 框架 - CSDN博客](https://blog.csdn.net/b1303110335/article/details/79557292)
+
+2018-04-02 15:40 [[grpc官方指南搬运]Node.js+grpc示例 - CSDN博客](https://blog.csdn.net/qq_31989047/article/details/79139710)
+
+2018-04-02 16:28 [JSON-RPC](http://www.jsonrpc.org/)
+
+2018-04-02 16:34 [高效传输数据格式以及基于HTTP2的RPC框架---gRPC的使用 - CSDN博客](https://blog.csdn.net/canot/article/details/71213392)
+
+2018-04-02 16:37 [gRPC 官方文档中文版_V1.0](http://doc.oschina.net/grpc?t=56831)
+
+2018-06-14 15:26 [RPC的nodejs简单实现 - CSDN博客](https://blog.csdn.net/wang1472jian1110/article/details/78042427)
+
+2018-06-14 15:35 [grpc /](https://grpc.io/docs/tutorials/basic/node.html)
+
+2018-06-15 10:23 [gRPC 官方文档中文版_V1.0](http://doc.oschina.net/grpc?t=60135)
+
+2018-06-21 17:33 [gRPC的几种请求响应模式 | Xenojoshua](https://xenojoshua.com/2018/02/grpc-req-res-modes/)
+
+2018-06-25 15:43 [听说有个 GRPC - 简书](https://www.jianshu.com/p/c006a7c21305)
+
+
+
+#####  Electron
+
+2018-05-04 10:03 [electron-builder打包工具的最简化使用 - CSDN博客](https://blog.csdn.net/hr541659660/article/details/78731394)
+
+2018-04-17 09:56 [Electron + Vue 实现一个代理客户端 - 前端开发之道 - SegmentFault 思否](https://segmentfault.com/a/1190000008978174)
+
+2018-05-04 10:04 [electron打包：electron-packager及electron-builder两种方式实现（for Windows） - 个人文章 - SegmentFault 思否](https://segmentfault.com/a/1190000013924153)
+
+2018-05-04 15:05 [Electron去掉边框(标题栏)并设定可拖动 - CSDN博客](https://blog.csdn.net/toubennuhai/article/details/53039612)
+
+2018-05-04 15:08 [Electron 无边框窗口的拖动 - 简书](https://www.jianshu.com/p/96327b044e85)
+
+2018-05-04 16:55 [使用 electron 实现类似新版 QQ 的登录界面效果（阴影、背景动画、窗体3D翻转） - Starts_2000 - 博客园](https://www.cnblogs.com/Starts_2000/p/electron-qqlogin-demo.html)
+
+2018-05-04 17:28 [electron+vue制作桌面应用--自定义标题栏最大/小化和关闭 - 个人文章 - SegmentFault 思否](https://segmentfault.com/a/1190000011765025)
+
+2018-05-04 20:48 [使用 electron-vue 构建你的桌面应用 - CSDN博客](https://blog.csdn.net/github_36978270/article/details/78460696)
+
+2018-05-04 23:39 [electron cookie实现记住密码 - CSDN博客](https://blog.csdn.net/changhuzhao/article/details/78773279)
+
+2018-05-06 12:31 [【Electron】Electron开发入门（五）：项目打包 - CSDN博客](https://blog.csdn.net/arvin0/article/details/52690023)
+
+2018-05-07 21:48 [使用electron-builder在windows上打包并自动更新 - 个人文章 - SegmentFault 思否](https://segmentfault.com/a/1190000010271226)
+
+2018-05-07 21:54 [electron 完整项目构建过程 - CSDN博客](https://blog.csdn.net/changhuzhao/article/details/78684967)
+
+2018-05-07 22:08 [nsis_百度百科](https://baike.baidu.com/item/nsis/5237663?fr=aladdin)
+
+2018-05-07 22:08 [一、NSIS介绍 - 所以呢 - 博客园](https://www.cnblogs.com/zzllily/articles/5443850.html)
+
+2018-05-07 22:18 [【视频教程】Electron打包成exe发布给用户安装_百度经验](http://jingyan.baidu.com/article/15622f2426c14efdfcbea5e9.html?allowHTTP=1)
+
+2018-05-08 10:02 [如何利用nsis制作electron的安装包](https://newsn.net/say/electron-nsis.html)
+
+2018-05-08 10:02 [如何利用innosetup制作electron的安装包](https://newsn.net/say/electron-innosetup.html)
+
+
+
+#####  iconv-lite
+
+2018-05-28 09:56 [使用iconv-lite解决node当中不支持GBK编码的问题 - 个人文章 - SegmentFault 思否](https://segmentfault.com/a/1190000011351573)
+
+2018-05-28 09:56 [NPM酷库039：iconv-lite，字符串编码转换 - 脉冲云-梁兴臣 - SegmentFault 思否](https://segmentfault.com/a/1190000013232415)
+
+
+
+#####  Protobuf
+
+2018-06-14 17:58 [Node Js 使用Protobuf - CSDN博客](https://blog.csdn.net/ganpengjin1/article/details/55100742)
+
+2018-06-15 09:05 [ProtoBuf 与 gRPC 你需要知道的知识 - CSDN博客](https://blog.csdn.net/yeasy/article/details/52190007)
+
+2018-06-15 09:18 [protoc 命令参数 - 蝈蝈俊 - 博客园](https://www.cnblogs.com/ghj1976/p/5435565.html)
+
+2018-06-15 09:28 [Node.js使用google-protobuf - CSDN博客](https://blog.csdn.net/njweiyukun/article/details/69388227)
+
+2018-06-15 10:11 [javascript前端如何使用google-protobuf - CSDN博客](https://blog.csdn.net/arvin_kai/article/details/77532595)
+
+2018-06-15 16:37 [运用google-protobuf的IM消息应用开发（前端篇） - 子慕大诗人 - 博客园](https://www.cnblogs.com/1wen/p/6509253.html)
+
+2018-06-15 16:39 [google protobuf学习笔记二：使用和原理 - CSDN博客](https://blog.csdn.net/majianfei1023/article/details/45112415)
+
+2018-06-15 16:53 [从Protocol Buffers 到 gRPC - 简书](https://www.jianshu.com/p/6c9f90538efe)
+
+2018-06-15 17:19 [[转]Protobuf3 语法指南 | 鸟窝](http://colobu.com/2017/03/16/Protobuf3-language-guide/)
+
+
+
+#####  node-inspector
+
+2018-07-17 14:14 [使用webstorm调试node程序 - 金广国 - 博客园](https://www.cnblogs.com/jinguangguo/p/4809886.html)
+
+
+
+####  Deno
+
+2018-06-04 14:37 [Deno 并不是下一代 Node.js - justjavac的前端进阶 - SegmentFault 思否](https://segmentfault.com/a/1190000015159728?utm_source=feed-content)
 
 
 
@@ -2796,7 +5930,7 @@
 
 2016-09-08 09:57 [vue项目实践（vuex + vue-router + vue-resource） - 南洋前端 - SegmentFault](https://segmentfault.com/a/1190000006747096)
 
-2016-09-12 15:52 [bhnddowinf/vuejs-learn: (vue.js official website tutorials ，contains video , codes, baudi yun, youtube) 网路上有很多 VUE 综合应用的视频，但大部份的视频 ，都当你已经了解官网 所以讲的节奏难免偏快。 此视频(都是上代码)，以官网为重，将官网的观念，以视频搭配代码，实际演示。 如果官网有看不懂的地方，比对一下，视频跟代码，就会了解了。 减少你摸索的时间。(註：mvvm 的框架，不管是 ng , react, vue, avalonjs, 都是好的框架，而有经验的前端，至少都会两套以上的 mvvm。)](https://github.com/bhnddowinf/vuejs-learn)
+2016-09-12 15:52 [bhnddowinf/vuejs-learn: (vue.js official website tutorials ，contains video , codes, baudi yun, youtube) 网路上有很多 VUE 综合应用的视频，但大部份的视频 ，都当你已经了解官网 所以讲的节奏难免偏快。 此视频(都](https://github.com/bhnddowinf/vuejs-learn)
 
 2016-09-12 15:54 [Vuejs 1.0 系列教程](https://laravist.com/series/vue-js-1-0-in-action-series)
 
@@ -3110,6 +6244,16 @@
 
 2016-05-13 22:46 [Electron](http://electron.atom.io/)
 
+2018-11-01 14:19 [Electron-vue开发实战1——Main进程和Renderer进程的简单开发 - 掘金](https://juejin.im/post/5a5ebb94f265da3e32458205#heading-2)
+
+2018-11-01 16:43 [win7下nsis打包exe安装程序教程 - sean的专栏 - CSDN博客](https://blog.csdn.net/arvin0/article/details/56482370)
+
+2018-11-01 17:22 [NSIS 打包脚本基础 - 云+社区 - 腾讯云](https://cloud.tencent.com/developer/article/1014436)
+
+2018-11-02 18:22 [nsNiuniuSkin，最专业的NSIS+Duilib安装包界面插件。](http://ggniu.cn/articles/nsniuniuskin.html)
+
+2018-11-05 16:57 [NSIS教程(1): 基础语法 - Deep in Windows - CSDN博客](https://blog.csdn.net/china_jeffery/article/details/79095060)
+
 
 
 #####  Ruff
@@ -3182,457 +6326,101 @@
 
 
 
-####  FSE
+####  Blog
 
-2018-03-15 21:21 [Overstacked? The plight of the full stack web developer — » Cogentia](http://cogentia.io/2016/05/05/Overstacked-journey-of-full-stack-web-developer.html)
+2015-03-25 11:18 [jekyll_百度百科](http://baike.baidu.com/link?url=ORyhLbLLxlb-7l1gjAvMwYC0gcRgdy-O7NxRFsSGKfq9A8lQSi7s8VyNi38mfnTq2g0e72_e2u48IC2QHG4orK)
 
-2018-03-15 21:48 [全栈工程师技能图谱 - morra - 博客园](https://www.cnblogs.com/whatisfantasy/p/6440638.html)
+2015-03-25 11:18 [textile_百度百科](http://baike.baidu.com/view/2373265.htm)
 
-2018-03-16 17:51 [大前端工具集 - CSDN博客](http://blog.csdn.net/u013063153/article/details/52754650)
 
 
+####  UI
 
-####  GIT
+2015-03-25 14:55 [网页的栅格系统设计 - 设计茶吧 | TaoBaoUED](http://ued.taobao.org/blog/2008/09/grid_systems/)
 
-2015-01-22 22:46 [windows版本git的下载地址 - 任跃兵 - 博客园](http://www.cnblogs.com/cnryb/p/3482352.html)
+2015-05-06 19:09 [个人简介网页版|个人网站/博客|网页|Smile_512 - 原创设计作品 - 站酷 (ZCOOL)](http://www.zcool.com.cn/work/ZNzc4Mjc2NA==.html)
 
-2015-01-23 08:55 [git 使用简易指南](http://www.bootcss.com/p/git-guide/)
+2015-05-06 19:09 [网页练习/二|其他网页|网页|种菜 - 原创设计作品 - 站酷 (ZCOOL)](http://www.zcool.com.cn/work/ZODEwOTkyOA==.html)
 
-2015-01-23 08:57 [Git 参考手册](http://gitref.org/zh/)
+2015-05-06 19:10 [2015新的开始我的简历|其他网页|网页|宅到骨子里的球 - 原创设计作品 - 站酷 (ZCOOL)](http://www.zcool.com.cn/work/ZNzYwOTA2NA==.html)
 
-2015-01-23 08:58 [Eclipse上安装GIT](http://yufenfei.iteye.com/blog/1750124)
+2015-05-06 19:13 [简单心理网再再再设计|企业官网|网页|蹩脚的鹰 - 原创设计作品 - 站酷 (ZCOOL)](http://www.zcool.com.cn/work/ZNzUxNjQ3Mg==.html)
 
-2015-01-23 09:11 [git配合tortoiseGit的基础使用](http://www.cnblogs.com/ssor/archive/2012/02/04/2337823.html)
+2015-05-06 19:14 [简历宝界面设计，猎头工具|其他网页|网页|阿鲲 - 原创设计作品 - 站酷 (ZCOOL)](http://www.zcool.com.cn/work/ZNzQ1MjI4OA==.html)
 
-2015-01-23 09:16 [download.TortoiseGit.org](http://download.tortoisegit.org/tgit/1.8.12.0/)
+2015-06-29 21:20 [良品計画网页设计|企业官网|网页|周冬冬 - 原创设计作品 - 站酷 (ZCOOL)](http://www.zcool.com.cn/work/ZMTI0MDk0NDA=.html)
 
-2015-01-23 09:21 [如何在windows下安装GIT_百度经验](http://jingyan.baidu.com/article/90895e0fb3495f64ed6b0b50.html)
+2015-06-29 21:20 [{韩冰云}栅格系统AIRUYI WEB|门户/社交|网页|韩冰云 - 原创设计作品 - 站酷 (ZCOOL)](http://www.zcool.com.cn/work/ZMTI0MDY3MzY=.html)
 
-2015-01-23 09:39 [在TortoiseGit中使用SSH host](http://zengrong.net/post/1775.htm)
+2015-06-29 21:25 [&lt;我们毕业啦&gt;邵阳创业科技学校 杨枞 #青春答卷2015#|企业官网|网页|yxbyc - 原创设计作品 - 站酷 (ZCOOL)](http://www.zcool.com.cn/work/ZMTIzODkzOTY=.html)
 
-2015-01-23 09:54 [Git初学者：msysgit和tortoisegit](http://teddysun.com/333.html)
+2015-06-30 11:34 [快速招人|门户/社交|网页|不点小玺 - 原创设计作品 - 站酷 (ZCOOL)](http://www.zcool.com.cn/work/ZNzEyMTg0NA==.html)
 
-2015-01-23 09:54 [Win7上Git安装及配置过程](http://blog.chinaunix.net/uid-25806493-id-3319781.html)
+2015-06-30 11:36 [2015活动通官网响应式设计|企业官网|网页|xiaogang小刚 - 原创设计作品 - 站酷 (ZCOOL)](http://www.zcool.com.cn/work/ZNzE1MDYwNA==.html)
 
-2015-01-23 09:59 [Git版本控制软件结合GitHub从入门到精通常用命令学习手册](http://www.ihref.com/read-16369.html)
+2015-06-30 11:37 [游戏广告系列|游戏/娱乐|网页|vicentl214 - 原创设计作品 - 站酷 (ZCOOL)](http://www.zcool.com.cn/work/ZNzE0OTExMg==.html)
 
-2015-01-23 10:22 [GitHub · Build software better, together.](https://github.com/)
+2015-06-30 11:43 [Dressing|企业官网|网页|humansoka - 原创设计作品 - 站酷 (ZCOOL)](http://www.zcool.com.cn/work/ZNzM0NDYwNA==.html)
 
-2015-01-23 11:25 [TortoiseGit 使用教程](http://blog.csdn.net/ethan_xue/article/details/7749639)
+2015-06-30 11:45 [摄影网站|个人网站/博客|网页|孙筱曼 - 原创设计作品 - 站酷 (ZCOOL)](http://www.zcool.com.cn/work/ZNzM5MTM4NA==.html)
 
-2015-01-23 15:28 [eclipse 提交代码到 git - 向北西行的专栏 - 博客频道 - CSDN.NET](http://blog.csdn.net/haizhu668/article/details/40584399)
+2015-06-30 15:39 [花千骨印象站|游戏/娱乐|网页|策策木 - 原创设计作品 - 站酷 (ZCOOL)](http://www.zcool.com.cn/work/ZMTI0NDUwOTI=.html)
 
-2015-01-23 15:29 [eclipse中使用git - - 博客频道 - CSDN.NET](http://blog.csdn.net/hhhccckkk/article/details/10458159)
+2016-11-30 08:49 [国外设计欣赏网站-DOOOOR.com](http://www.doooor.com/)
 
-2015-01-23 15:35 [解决eclipse中git插件中的cannot open git-upload-pack问题 - Andye - 博客园](http://www.cnblogs.com/yejiurui/p/3386393.html)
+2018-06-08 16:09 [Flatty Shadow图标自动产生器——在线生成各种扁平化 ICON | 爱上分享](https://www.isharebest.com/flattyshadow.htm)
 
-2015-01-23 15:43 [github常见操作和常见错误！错误提示：fatal: remote origin already exists. - god_wot的专栏 - 博客频道 - CSDN.NET](http://blog.csdn.net/god_wot/article/details/10522405)
+2018-09-21 18:00 [Unsplash Source | A Simple API for Embedding Free Photos from Unsplash](https://source.unsplash.com/)
 
-2015-01-23 16:17 [How Can I Resolve:&quot;can not open 'git-upload-pack' &quot; error in eclipse? - Stack Overflow](http://stackoverflow.com/questions/7077016/how-can-i-resolvecan-not-open-git-upload-pack-error-in-eclipse)
+#####  Grid 栅格
 
-2015-03-02 10:08 [如何从Eclipse导入github上的项目源码 - hil2000的专栏 - 博客频道 - CSDN.NET](http://blog.csdn.net/hil2000/article/details/8566456)
+2015-04-03 15:21 [最热门工具推荐！为响应式网站而生的40款栅格神器](http://www.uisdc.com/40-flexible-grid-tools)
 
-2015-03-02 11:27 [使用Gitolite搭建轻量级的Git服务器-a-plus-ChinaUnix博客](http://blog.chinaunix.net/uid-15174104-id-3843570.html)
+2015-04-03 15:22 [网页栅格系统_互动百科](http://www.baike.com/wiki/%E7%BD%91%E9%A1%B5%E6%A0%85%E6%A0%BC%E7%B3%BB%E7%BB%9F)
 
-2015-03-03 10:39 [Git 怎样保证fork出来的project和原project（上游项目）同步更新 - 推酷](http://www.tuicool.com/articles/Mnmmqyi)
+2015-04-03 15:36 [网页栅格系统研究（2）：蛋糕的切法 - 设计茶吧 | TaoBaoUED](http://ued.taobao.org/blog/2008/10/grid_system_research_2/)
 
-2015-03-03 10:39 [github更新自己fork的代码 | 开源 | 施主`牛`步](http://www.shizuwu.cn/post/669.html)
+2015-04-03 16:55 [Golden Grid System](http://goldengridsystem.com/)
 
-2015-03-09 17:53 [github更新自己fork的代码 | 开源 | 施主`牛`步](http://www.360doc.com/content/13/1217/22/14570841_338006038.shtml)
+2015-04-03 16:55 [A better Photoshop grid for responsive web design » Elliot Jay Stocks](http://www.elliotjaystocks.com/blog/a-better-photoshop-grid-for-responsive-web-design/)
 
-2015-03-11 16:02 [Git教程 - 廖雪峰的官方网站](http://www.liaoxuefeng.com/wiki/0013739516305929606dd18361248578c67b8067c8c017b000)
+2015-04-03 16:57 [Gridpak - The Responsive grid generator](http://gridpak.com/)
 
-2015-03-11 17:42 [Git Step by Step (8)：Git的merge和rebase - 博客 - 伯乐在线](http://blog.jobbole.com/84664/)
+2015-06-08 11:29 [Grid运用实战！帮你轻松掌握Grid的进阶教程](http://www.uisdc.com/grid-beginner-tutorial)
 
-2015-03-11 17:54 [Git工作流指南：Forking工作流 - 博客 - 伯乐在线](http://blog.jobbole.com/76861/)
+2015-06-08 11:31 [PS设计网页下载使用960栅格系统设计简洁网页](http://www.poluoluo.com/jzxy/201101/106028.html)
 
-2015-03-11 17:54 [图解Git/图形化的Git参考手册 - 博客 - 伯乐在线](http://blog.jobbole.com/22647/)
 
-2015-03-18 16:33 [Git 常用命令集合 - 快乐的天空 - C++博客](http://www.cppblog.com/HappySky2046/archive/2012/11/29/195804.aspx)
 
-2015-03-24 16:40 [GitHub上README.md教程 - Kaitiren的专栏 - 博客频道 - CSDN.NET](http://blog.csdn.net/kaitiren/article/details/38513715)
+####  Markdown
 
-2015-03-27 13:36 [Git的Patch功能 - 老z的博客 - 博客园](http://www.cnblogs.com/y041039/articles/2411600.html)
+2015-04-03 16:35 [Markdown 语法说明(简体中文版)](http://wowubuntu.com/markdown/#link)
 
-2015-03-28 21:36 [TortoiseGit 1.8.12.0 发布，Git 客户端 - 开源中国社区](http://www.oschina.net/news/57412/tortoisegit-1-8-12-0)
+2015-06-25 14:56 [Editor - Markable.in](http://markable.in/editor/)
 
-2015-03-28 21:54 [错误“git did not exit cleanly (exit code 128)”的解决办法_综合开发_西部e网](http://www.weste.net/2013/5-20/91516.html)
+2016-06-01 14:44 [欢迎使用马克飞象 - 马克飞象 - 专为印象笔记打造的Markdown编辑器](https://maxiang.io/)
 
-2015-04-01 16:37 [git 使用过程记录 - juwenz的个人页面 - 开源中国社区](http://my.oschina.net/juwenz/blog/153350)
+2016-12-10 21:59 [JavaScript Markdown Editor - SimpleMDE](https://simplemde.com/)
 
-2015-04-01 16:38 [git修改提交的用户名和Email-Sansen2012-ChinaUnix博客](http://blog.chinaunix.net/uid-26997997-id-3231891.html)
+2017-04-28 09:51 [Cmd Markdown 编辑阅读器 - 作业部落出品](https://www.zybuluo.com/mdeditor)
 
-2015-04-02 14:38 [介绍一个成功的 Git 分支模型 - 技术翻译 - 开源中国社区](http://www.oschina.net/translate/a-successful-git-branching-model)
+2018-03-12 16:53 [markdown|大型技术文档手册撰写与发布方法 - 简书](https://www.jianshu.com/p/fff3803e975a)
 
-2015-05-08 17:51 [Git常用命令 - kieven2008的专栏 - 博客频道 - CSDN.NET](http://blog.csdn.net/kieven2008/article/details/6594333)
+2018-09-29 18:01 [MarkdownPad2.5 注册码 - 简书](https://www.jianshu.com/p/9e5cd946696d)
 
-2015-05-08 17:52 [Git 常用命令 - 1-2-3 - 博客园](http://www.cnblogs.com/1-2-3/archive/2010/07/18/git-commands.html)
+#####  Org-mode
 
-2015-06-02 17:34 [Git 添加空文件夹的方法 - today4king - 博客园](http://www.cnblogs.com/jinzhao/archive/2012/03/21/2410156.html)
+2018-10-17 15:12 [Org-mode 简明手册 - open source - 博客园](http://www.cnblogs.com/Open_Source/archive/2011/07/17/2108747.html)
 
-2015-06-09 11:45 [GitBook · Write &amp; Publish Books](https://www.gitbook.com/)
+2018-10-17 15:13 [org mode文档转成markdown格式 - Rickey - CSDN博客](https://blog.csdn.net/abcamus/article/details/53738481)
 
-2015-06-11 12:59 [使用git、git-flow与gitlab工作 - 推酷](http://www.tuicool.com/articles/BZJRj2)
+2018-10-17 15:14 [Org-mode、reST、 Markdown 各有什么优缺点？ - 知乎](https://www.zhihu.com/question/19851600)
 
-2015-06-11 15:13 [使用git 新建分支以及管理分支_小简_新浪博客](http://blog.sina.com.cn/s/blog_7101508c010147s6.html)
+2018-10-17 15:18 [用1天快速上手org-mode（windows系统） - Tavion - 博客园](https://www.cnblogs.com/Tavion/p/5164057.html)
 
-2015-07-22 09:48 [Windows下配置Git - EXLsunshine的专栏 - 博客频道 - CSDN.NET](http://blog.csdn.net/exlsunshine/article/details/18939329)
+2018-10-17 15:20 [Org mode for Emacs – Your Life in Plain Text](http://orgmode.org/)
 
-2015-07-22 09:58 [Git for Windows](http://msysgit.github.io/)
-
-2015-07-24 12:11 [Git - Book](http://git-scm.com/book/zh/v1)
-
-2015-07-24 12:13 [Git 参考手册](http://gitref.justjavac.com/)
-
-2015-07-24 12:23 [GitHub 上排名前 100 的 Objective-C 项目简介 - SegmentFault](http://segmentfault.com/a/1190000002665904)
-
-2015-07-24 12:30 [转自github上的前端开发妙文。 - shuawanxiao的专栏 - 博客频道 - CSDN.NET](http://blog.csdn.net/shuawanxiao/article/details/42749119)
-
-2015-07-30 15:40 [YangLiu (@iiunknown) on GitBook](https://www.gitbook.com/@iiunknown)
-
-2016-03-15 23:33 [GIT: error: pathspec 'xxx did not match any file(s) known to git - Stack Overflow](http://stackoverflow.com/questions/33628862/git-error-pathspec-xxx-did-not-match-any-files-known-to-git)
-
-2016-05-05 10:49 [Git忽略文件的几种方法 - VIRTAO](https://blog.virtao.org/articles/148.html)
-
-2016-05-05 10:59 [BFG Repo-Cleaner by rtyley](https://rtyley.github.io/bfg-repo-cleaner/)
-
-2016-05-23 10:53 [Gitter — Where developers come to talk.](https://gitter.im/)
-
-2016-05-25 10:30 [在GIT中修改提交记录 - 天方 - 博客园](http://www.cnblogs.com/TianFang/p/3540911.html)
-
-2016-05-25 10:30 [Git 修改历史提交 - Transformer - 博客频道 - CSDN.NET](http://blog.csdn.net/transformer_han/article/details/7082767)
-
-2016-05-25 10:30 [版本控制的邪术：在特定条件下擦除GIT历史 - 哲学.tar.bz2 - ITeye技术网站](http://liuming.iteye.com/blog/826355)
-
-2016-05-25 10:32 [git - 如何删除远程仓库中的提交信息 - SegmentFault](https://segmentfault.com/q/1010000000641937)
-
-2016-06-01 11:06 [github设置添加SSH - binyao02123202的专栏 - 博客频道 - CSDN.NET](http://blog.csdn.net/binyao02123202/article/details/20130891)
-
-2016-06-28 10:56 [Git for Windows](https://git-for-windows.github.io/)
-
-2016-09-21 16:37 [GitHub的使用——删除Repository(unfork或者取消fork) - 零下九度 - 博客频道 - CSDN.NET](http://blog.csdn.net/limingjian/article/details/8855591)
-
-2016-11-24 15:04 [Git - stash用法 - limichange - SegmentFault](https://segmentfault.com/a/1190000002554160)
-
-2016-12-05 10:23 [Commit message 和 Change log 编写指南 - 阮一峰的网络日志](http://www.ruanyifeng.com/blog/2016/01/commit_message_change_log.html)
-
-2017-02-13 14:23 [Git](https://git-scm.com/)
-
-2017-03-10 11:20 [Git Submodule 使用简介 - 推酷](http://www.tuicool.com/articles/jqiEJzU)
-
-2017-03-10 17:01 [unable to read askpass response from '/usr/libexec/openssh/gnome-ssh-askpass - lvzhuyiyi4的专栏 - 博客频道 - CSDN.NET](http://blog.csdn.net/lvzhuyiyi4/article/details/19564519)
-
-2017-05-22 09:38 [写出好的 commit message · Ruby China](http://ruby-china.org/topics/15737)
-
-2017-05-22 09:39 [git commit 规范指南 - 不挑食的程序员 - SegmentFault](https://segmentfault.com/a/1190000009048911)
-
-2017-05-22 09:40 [Git Commit Message Conventions - Google 文档](https://docs.google.com/document/d/1QrDFcIiPjSLDn3EL15IJygNPiHORgU1_OOAqWjiDU5Y/edit#)
-
-2017-05-22 09:45 [windows上安装使用git-extras - KimmKing的技术博客 - 博客频道 - CSDN.NET](http://blog.csdn.net/KimmKing/article/details/43858225)
-
-2017-06-08 10:03 [https://api.github.com](https://api.github.com/)
-
-2017-06-08 10:03 [基于 Github Issues 的单页面静态博客 - 简书](http://www.jianshu.com/p/e1ef03f1795d)
-
-2017-07-11 08:41 [Git教程 - work hard work smart - 博客园](http://www.cnblogs.com/linlf03/archive/2013/08/01/3229317.html)
-
-2017-10-12 09:54 [Gitlab可视化代码树插件-Octotree - 散尽浮华 - 博客园](http://www.cnblogs.com/kevingrace/p/6438849.html)
-
-2017-10-27 17:03 [Github Rank (China)](http://githubrank.com/)
-
-2017-10-30 16:24 [Gitstar Ranking - Top GitHub users and repositories](https://gitstar-ranking.com/)
-
-2017-10-31 15:19 [使用OAuth2.0协议的github、QQ、weibo第三方登录接入总结 - GabrielChenCN - 博客园](http://www.cnblogs.com/gabrielchen/p/5800225.html)
-
-2017-10-31 15:46 [Github 第三方授权登录教程 - CSDN博客](http://blog.csdn.net/javagaorui5944/article/details/52918772)
-
-2017-11-02 16:14 [David, a dependency management tool for Node.js projects](https://david-dm.org/)
-
-2017-11-02 16:28 [GitHub 项目徽章的添加和设置 - 简书](http://www.jianshu.com/p/e9ce56cb24ef)
-
-2017-11-02 16:29 [Shields.io: Quality metadata badges for open source projects](http://shields.io/)
-
-2017-11-03 12:09 [为你的Github README生成漂亮的徽章和进度条 - FH01号自律型科学实验舱](https://shikieiki.github.io/2017/03/01/%E4%B8%BA%E4%BD%A0%E7%9A%84Github%E7%94%9F%E6%88%90%E6%BC%82%E4%BA%AE%E7%9A%84%E5%BE%BD%E7%AB%A0%E5%92%8C%E8%BF%9B%E5%BA%A6%E6%9D%A1/)
-
-2017-12-01 08:48 [如何正确地使用Git Flow？](https://www.toutiao.com/a6232064900786815234/?iid=18682180708&app=news_article)
-
-2017-12-06 09:25 [github release 功能的使用及问题解决 - Eggy2015的博客 - CSDN博客](http://blog.csdn.net/Eggy2015/article/details/52138751)
-
-2018-02-08 09:19 [GitBook关联GitHub - 不折腾会死 - SegmentFault 思否](https://segmentfault.com/a/1190000011440899)
-
-2018-03-09 09:54 [Gogs](https://gogs.io/)
-
-2018-04-19 21:09 [docsify](https://docsify.js.org/#/)
-
-2018-07-05 15:09 [[笔记]解决git clone 子模块没下载全的问题 - CSDN博客](https://blog.csdn.net/u013553529/article/details/78307072)
-
-2018-07-05 15:10 [git submodule子模块 - CSDN博客](https://blog.csdn.net/chenjh213/article/details/49128749)
-
-2018-07-09 17:24 [用github账户登录你的网站_搜狐科技_搜狐网](https://www.sohu.com/a/229243143_468627)
-
-2018-07-09 17:26 [Web应用接入Github登录 - CSDN博客](https://blog.csdn.net/qq_34292044/article/details/80571369)
-
-2018-08-03 15:41 [使用GitHub-Flask实现GitHub第三方登录 - 掘金](https://juejin.im/post/5b3f5342f265da0f6f1a8190)
-
-2018-08-08 17:38 [GitHub API Push接口 - CSDN博客](https://blog.csdn.net/WMSOK/article/details/78777935)
-
-2018-09-05 09:16 [记一次删除Git记录中的大文件的过程-HollisChuang's Blog](http://www.hollischuang.com/archives/1708)
-
-2018-09-19 15:17 [使用git克隆指定分支的代码 - ButterflyGirl - 博客园](http://www.cnblogs.com/nylcy/p/6569284.html)
-
-#####  GitHub Pages
-
-2015-10-10 11:18 [怎样做一个漂亮的 GitHub Pages 首页？ - 前端开发 - 知乎](http://www.zhihu.com/question/20376047?sort=created)
-
-2015-10-10 11:18 [[原]通过GitHub Pages建立个人站点（详细步骤） - 雨知 - 博客园](http://www.cnblogs.com/purediy/archive/2013/03/07/2948892.html)
-
-2015-10-10 11:55 [Github page build failed 可能的解决方案](http://www.perfect-is-shit.com/github-jekyll-page-build-failed.html)
-
-2016-05-18 16:52 [搭建一个免费的，无限流量的Blog----github Pages和Jekyll入门 - 阮一峰的网络日志](http://www.ruanyifeng.com/blog/2012/08/blogging_with_jekyll.html)
-
-2016-05-18 17:03 [使用Github Pages建独立博客 | BeiYuu.com](http://beiyuu.com/github-pages/)
-
-2016-05-18 18:43 [Setting up your GitHub Pages site locally with Jekyll - User Documentation](https://help.github.com/articles/setting-up-your-github-pages-site-locally-with-jekyll/)
-
-2016-05-18 18:56 [Creating Pages with the automatic generator - User Documentation](https://help.github.com/articles/creating-pages-with-the-automatic-generator/)
-
-2016-05-26 21:12 [Jekyll • 简单静态博客网站生成器 - 将纯文本转换为静态博客网站](http://jekyllcn.com/)
-
-2016-05-26 21:15 [如何搭建一个独立博客——简明Github Pages与Hexo教程 - 简书](http://www.jianshu.com/p/05289a4bc8b2)
-
-2016-05-26 21:56 [Jekyll Themes](http://jekyllthemes.org/)
-
-2016-05-27 09:42 [使用Github搭建静态博客（Hexo） - 钟白兔 - SegmentFault](https://segmentfault.com/a/1190000000458953)
-
-2016-05-27 09:42 [静态博客程序大总结_Jekyll_Octopress_Hexo—站长之家建站专题](http://www.chinaz.com/special/static-blog/index.html?qq-pf-to=pcqq.c2c)
-
-2016-05-27 09:47 [使用GitHub和Hexo搭建免费静态Blog | HelloDog](https://wsgzao.github.io/post/hexo-guide/)
-
-2018-03-23 09:49 [GitHub Ribbons | The GitHub Blog](https://blog.github.com/2008-12-19-github-ribbons/)
-
-2018-04-19 21:18 [docsify：一个神奇的文档生成工具_Helloweba](https://www.helloweba.net/javascript/502.html)
-
-######  Themes
-
-2016-05-27 09:27 [laobubu/jekyll-theme-EasyBook: Another Jekyll Blog Theme &quot;EasyBook&quot;](https://github.com/laobubu/jekyll-theme-EasyBook)
-
-2016-05-27 09:28 [Simpleyyt/jekyll-jacman: A fresh looking and responsive theme for Jekyll](https://github.com/Simpleyyt/jekyll-jacman)
-
-
-
-####  Google
-
-2016-01-13 17:02 [google hosts 2015，持续更新，2015.12.26已更新 - 360知识库](http://www.360kb.com/kb/2_122.html)
-
-
-
-####  HTML
-
-2013-10-23 22:01 [雅虎面试题-你真的了解HTML吗? - HTML / CSS 大家论坛](http://club.topsage.com/thread-2738399-1-1.html)
-
-2013-10-23 22:02 [Web前端年后跳槽必看的各种面试题 - 51CTO.COM](http://developer.51cto.com/art/201202/314618.htm)
-
-2013-10-23 22:02 [HTML5 Canvas Cheat Sheet - Nihilogic](http://blog.nihilogic.dk/2009/02/html5-canvas-cheat-sheet.html)
-
-2015-01-25 20:30 [Html5项目实战：我要地图项目 - CSDN学院 - CSDN.NET](http://edu.csdn.net/course/detail/332)
-
-2015-02-06 12:56 [网页头部的声明应该是用 lang=&quot;zh&quot; 还是 lang=&quot;zh-cn&quot;？ - 前端开发 - 知乎](http://www.zhihu.com/question/20797118?utm_source=weibo&utm_medium=weibo_share&utm_content=share_question&utm_campaign=share_sidebar)
-
-2015-02-06 13:03 [HTML中head头结构 - SegmentFault](http://segmentfault.com/blog/paddingme/1190000000697532)
-
-2015-03-05 11:41 [div+css自适应3列布局，两侧列定宽，中间宽度自适应 | 0101后花园](http://www.bbs0101.com/archives/42.html)
-
-2015-03-13 20:02 [Web标准设计中常用字体介绍及选用原则 _pc6资讯](http://www.pc6.com/infoview/Article_48624.html)
-
-2015-06-05 15:37 [HTTP 状态消息](http://www.w3school.com.cn/tags/html_ref_httpmessages.asp)
-
-2015-07-21 18:13 [html标签语义化，原来div是这个意思啊！ | 微前端](http://www.vqianduan.com/802.html)
-
-2015-07-30 19:33 [在html页头设置不缓存 - 水之原 - 博客园](http://www.cnblogs.com/zfc2201/p/3425700.html)
-
-2015-09-16 18:16 [URL中“#” “？” &amp;“”号的作用 - jihite - 博客园](http://www.cnblogs.com/kaituorensheng/p/3776527.html#aa?bb=cc)
-
-2016-08-29 14:43 [tabIndex属性 - 司徒正美 - 博客园](http://www.cnblogs.com/rubylouvre/archive/2009/12/07/1618182.html)
-
-2017-08-03 09:18 [code标签和pre标签 - 李宗辉 - 博客园](http://www.cnblogs.com/lizonghui/archive/2012/09/18/2692355.html)
-
-2018-04-27 16:08 [chrome表单自动填充去掉input黄色背景解决方案 - CSDN博客](https://blog.csdn.net/wangxiaohui6687/article/details/10149579)
-
-2018-04-27 16:10 [解决谷歌浏览器中的input背景色默认是黄色 - 328201736 - 博客园](https://www.cnblogs.com/yjhua/p/5523447.html)
-
-2018-04-27 22:56 [HTML阻止iframe跳转页面并使用iframe在页面内嵌微信网页版 - 饭勺oO - 博客园](https://www.cnblogs.com/fanshaoO/p/8244695.html)
-
-2018-04-28 21:45 [混世魔王的技术博客 » 针对X-Frame-Options的突破与作弊研究](http://26836659.blogcn.com/articles/%E9%92%88%E5%AF%B9x-frame-options%E7%9A%84%E7%AA%81%E7%A0%B4%E4%B8%8E%E4%BD%9C%E5%BC%8A%E7%A0%94%E7%A9%B6.html)
-
-2018-09-30 17:17 [使用localStorage必须了解的点 - 腾讯Web前端 IMWeb 团队社区 | blog | 团队博客](http://imweb.io/topic/5590a443fbb23aae3d5e450a)
-
-#####  CANVAS
-
-2015-01-16 16:48 [HTML5 Canvas 的事件处理 - HTML5开发 - 游戏开发者社区](http://bbs.9ria.com/thread-190079-1-1.html)
-
-2015-01-16 20:17 [玩转html5&lt;canvas&gt;画图 - TimeLangoliers - 博客园](http://www.cnblogs.com/tim-li/archive/2012/08/06/2580252.html#14)
-
-2015-01-16 20:18 [HTML5画布(Canvas)速查简表](http://www.webhek.com/misc/html5-canvas-cheat-sheet)
-
-2015-01-19 22:15 [Html5 Canvas 变换矩阵与坐标变形之间的关系_回首_守住美好_百度空间](http://hi.baidu.com/100912bb_bb/item/90c4a7489518b0fa1281daf1)
-
-2015-01-19 22:16 [玩转html5&lt;canvas&gt;画图 - TimeLangoliers - 博客园](http://www.cnblogs.com/tim-li/archive/2012/08/06/2580252.html#10)
-
-2015-01-19 22:27 [7 款基于 HTML5 Canvas 的超炫 3D 动画效果_IT新闻_博客园](http://news.cnblogs.com/n/164214/)
-
-2015-01-19 22:28 [Canvas API -- JavaScript 标准参考教程（alpha）](http://javascript.ruanyifeng.com/htmlapi/canvas.html)
-
-2015-01-19 22:28 [3D版HTML5模拟衣服撕扯动画DEMO演示](http://www.html5tricks.com/demo/3d-html5-cloth-tear/index.html)
-
-2015-01-19 22:28 [HTML5 Canvas阴影用法演示 - 流浪的鱼 - 博客频道 - CSDN.NET](http://blog.csdn.net/jia20003/article/details/9342701)
-
-2015-03-03 15:52 [图灵社区 : 阅读 : 使用JavaScript进行基本图形操作与处理](http://www.ituring.com.cn/article/121428)
-
-2015-05-29 17:43 [ZRender](http://ecomfe.github.io/zrender/)
-
-2016-08-26 17:10 [PixiJS v4](http://www.pixijs.com/)
-
-2017-05-19 14:53 [Canvas处理头像上传 - 作业部落 Cmd Markdown 编辑阅读器](https://www.zybuluo.com/lxjwlt/note/101343)
-
-2018-08-29 10:51 [解决 canvas 将图片转为base64报错: Uncaught DOMException:... - 简书](https://www.jianshu.com/p/6fe06667b748)
-
-
-
-#####  H5
-
-2015-01-26 13:38 [HTML 5 Web 存储](http://www.w3school.com.cn/html5/html_5_webstorage.asp)
-
-2015-02-04 15:44 [HTML5 Contact Form - 觉唯](http://www.jiawin.com/demos/685/index.html)
-
-2015-02-04 15:44 [html5配合css3实现带提示文字的输入框(摆脱js)_html5教程技巧_脚本之家](http://www.jb51.net/html5/74832.html)
-
-2015-04-14 14:36 [360安全浏览器_帮助](http://se.360.cn/v6/help/meta.html)
-
-2015-05-21 17:50 [HTML5 地理位置定位（HTML5 Geolocation）原理及应用 - 梦想天空（山边小溪） - 博客园](http://www.cnblogs.com/lhb25/archive/2012/07/10/html5-geolocation-api-demo.html)
-
-2015-05-22 10:03 [HTML5 地理定位详解（转载） - xuruoxin的专栏 - 博客频道 - CSDN.NET](http://blog.csdn.net/xuruoxin/article/details/9635439)
-
-2015-06-02 14:27 [WebKit最新特性srcset简介 - 51CTO.COM](http://developer.51cto.com/art/201309/410720.htm)
-
-2015-06-02 14:31 [WebKit Has Implemented srcset, And It's A Good Thing – Smashing Magazine](http://www.smashingmagazine.com/2013/08/21/webkit-implements-srcset-and-why-its-a-good-thing/)
-
-2015-06-02 14:31 [ResponsiveImages.org](http://responsiveimages.org/)
-
-2015-06-02 14:33 [响应式图片srcset全新释义sizes属性w描述符 « 张鑫旭-鑫空间-鑫生活](http://www.zhangxinxu.com/wordpress/2014/10/responsive-images-srcset-size-w-descriptor/)
-
-2015-06-23 09:29 [HTML5 LocalStorage 本地存储 - xiaowei0705 - 博客园](http://www.cnblogs.com/xiaowei0705/archive/2011/04/19/2021372.html)
-
-2015-06-23 10:52 [html5本地存储（localStorage）使用介绍 - 推酷](http://www.tuicool.com/articles/Y77J3m)
-
-2015-06-23 10:52 [HTML5 localStorage本地存储实际应用举例 « 张鑫旭-鑫空间-鑫生活](http://www.zhangxinxu.com/wordpress/2011/09/html5-localstorage%E6%9C%AC%E5%9C%B0%E5%AD%98%E5%82%A8%E5%AE%9E%E9%99%85%E5%BA%94%E7%94%A8%E4%B8%BE%E4%BE%8B/)
-
-2015-06-30 17:27 [Android webView 缓存 Cache + HTML5离线功能 解决 - 爱生活，爱编程 - 博客园](http://www.cnblogs.com/snake-hand/archive/2013/06/12/3133043.html)
-
-2015-07-06 09:04 [HTML5本地存储——IndexedDB（一：基本使用） - Samaritans - 博客园](http://www.cnblogs.com/dolphinX/p/3415761.html)
-
-2015-07-24 12:11 [Learn HTML5, CSS3, Javascript - video style tutorials](http://thecodeplayer.com/)
-
-2015-07-24 13:31 [HTML5标签速查 - SegmentFault](http://segmentfault.com/a/1190000000438191)
-
-2015-08-08 19:08 [白鹭引擎 - Egret Engine-免费开源HTML5游戏引擎](http://www.egret.com/)
-
-2015-08-11 18:52 [html5压缩图片并上传 - nd - 博客园](http://www.cnblogs.com/tylerdonet/p/4681070.html?utm_source=tuicool)
-
-2015-09-08 16:47 [HTML5如何判断浏览器是否支持audio和video元素_HTML5技术交流_HTML5论坛 - Powered by Discuz!](http://bbs.html5cn.org/thread-2577-1-14.html)
-
-2015-09-21 18:32 [翻译-你必须知道的28个HTML5特征、窍门和技术 « 张鑫旭-鑫空间-鑫生活](http://www.zhangxinxu.com/wordpress/2010/08/%E7%BF%BB%E8%AF%91-%E4%BD%A0%E5%BF%85%E9%A1%BB%E7%9F%A5%E9%81%93%E7%9A%8428%E4%B8%AAhtml5%E7%89%B9%E5%BE%81%E3%80%81%E7%AA%8D%E9%97%A8%E5%92%8C%E6%8A%80%E6%9C%AF/)
-
-2015-09-21 18:32 [HTML5自定义属性对象Dataset简介 « 张鑫旭-鑫空间-鑫生活](http://www.zhangxinxu.com/wordpress/2011/06/html5%E8%87%AA%E5%AE%9A%E4%B9%89%E5%B1%9E%E6%80%A7%E5%AF%B9%E8%B1%A1dataset%E7%AE%80%E4%BB%8B/)
-
-2016-01-20 11:27 [关于shortcut icon和icon代码的区别介绍_HTML/Xhtml_网页制作_脚本之家](http://www.jb51.net/web/44564.html)
-
-2016-01-20 11:56 [关于Apple设备私有的apple-touch-icon属性详解 - freshlover的专栏 - 博客频道 - CSDN.NET](http://blog.csdn.net/freshlover/article/details/9310437)
-
-2016-01-20 13:58 [常用meta整理 - Ciaocc - SegmentFault](http://segmentfault.com/a/1190000002407912)
-
-2016-03-23 15:36 [HTML5 Google电吉他 可用键盘弹奏 - 推酷](http://www.tuicool.com/articles/mYBVfy)
-
-2016-05-31 10:06 [HTML5就是现在：深入了解Polyfills - Tacey - 博客频道 - CSDN.NET](http://blog.csdn.net/wang16510/article/details/8960312)
-
-2016-09-01 16:55 [不同浏览器对于html5 audio标签和音频格式的兼容性 - 凌度 - 博客园](http://www.cnblogs.com/linn/p/3408515.html)
-
-2017-03-10 16:16 [H5实例教学--3D全景(ThreeJs全景Demo) - H5-Parser - SegmentFault](https://segmentfault.com/a/1190000008545795?utm_source=weekly&utm_medium=email&utm_campaign=email_weekly)
-
-2017-04-05 09:12 [HTML5 drag &amp; drop 拖拽与拖放简介 « 张鑫旭-鑫空间-鑫生活](http://www.zhangxinxu.com/wordpress/2011/02/html5-drag-drop-%E6%8B%96%E6%8B%BD%E4%B8%8E%E6%8B%96%E6%94%BE%E7%AE%80%E4%BB%8B/)
-
-2017-06-01 19:31 [简单了解HTML5中的Web Notification桌面通知 « 张鑫旭-鑫空间-鑫生活](http://www.zhangxinxu.com/wordpress/2016/07/know-html5-web-notification/)
-
-2017-09-18 16:57 [H5直播起航 | Aotu.io「凹凸实验室」](https://aotu.io/notes/2016/10/09/HTML5-SopCast/index.html)
-
-2017-09-18 16:58 [如何使用web录制视频 | 富途Web开发团队](https://futu.im/posts/capture-video-on-web/)
-
-
-
-####  HTTP
-
-2015-06-11 10:02 [HTTP Get请求URL最大长度 - gyflyx的专栏 - 博客频道 - CSDN.NET](http://blog.csdn.net/gyflyx/article/details/7890207)
-
-2015-07-02 16:59 [Meta http-equiv全面解释-chenmeng11-ChinaUnix博客](http://blog.chinaunix.net/uid-15014334-id-3774836.html)
-
-2015-07-02 17:00 [web cache 机制 （cache-control） - tech - ITeye技术网站](http://sangeshitou.iteye.com/blog/744910)
-
-2015-07-02 17:55 [浏览器缓存详解:expires,cache-control,last-modified,etag详细说明 - eros的linux平台技术资料库 - 博客频道 - CSDN.NET](http://blog.csdn.net/eroswang/article/details/8302191)
-
-2015-07-02 17:56 [HTTP消息头网页缓存控制以及header常用指令(转) - 一个人的天空@ - 博客园](http://www.cnblogs.com/qq78292959/archive/2012/12/28/2836906.html)
-
-2015-07-02 17:56 [html头文件设置常用之&lt;meta&gt;设置缓存_星星索深邃_新浪博客](http://blog.sina.com.cn/s/blog_9c7ba64d01012vn2.html)
-
-2015-07-06 09:05 [为你详细解读HTTP请求头的具体含意_百度经验](http://jingyan.baidu.com/article/375c8e19770f0e25f2a22900.html)
-
-2015-07-06 09:07 [HTTP请求头和相应头的详细介绍 - CSDN杨凯专属频道 - 博客频道 - CSDN.NET](http://blog.csdn.net/yangkai_hudong/article/details/8082129)
-
-2015-07-06 09:21 [HTTP深入浅出 http请求 - Chance_yin - 博客园](http://www.cnblogs.com/yin-jingyu/archive/2011/08/01/2123548.html)
-
-2015-07-06 09:21 [http请求头 - shupan001的专栏 - 博客频道 - CSDN.NET](http://blog.csdn.net/shupan001/article/details/7045430)
-
-2015-07-06 09:38 [HTTP请求头大全 - 常用参考表对照表 - 脚本之家在线工具](http://tools.jb51.net/table/http_header)
-
-2015-07-06 09:49 [HTTP请求方法大全 - 常用参考表对照表 - 脚本之家在线工具](http://tools.jb51.net/table/http_request_method)
-
-2015-07-06 09:50 [HTTP状态码大全 - 常用参考表对照表 - 脚本之家在线工具](http://tools.jb51.net/table/http_status_code)
-
-2015-07-06 09:53 [HTTP Content-type 对照表 - 常用参考表对照表 - 脚本之家在线工具](http://tools.jb51.net/table/http_content_type)
-
-2015-07-06 09:54 [常用参考表对照表 - 脚本之家在线工具](http://tools.jb51.net/table)
-
-2015-07-06 13:56 [apache开启gzip压缩配置详解-apache-Php教程-壹聚教程网](http://www.111cn.net/phper/apache/42302.htm)
-
-2015-07-06 17:06 [gzip_百度百科](http://baike.baidu.com/link?url=8nDDBGlGYTLVnWLKvVEcimCUNxb7ov9294ex8j2aFXt1Tn7wSoCkBFE7AQDTaaTLJOTqb7sN5-EZ0mTSNCOv_K)
-
-2015-07-06 17:06 [HTTP协议---HTTP请求中的常用请求字段和HTTP的响应状态码及响应头 - 乔晓松 - 博客频道 - CSDN.NET](http://blog.csdn.net/qxs965266509/article/details/8082810)
-
-2015-07-06 17:07 [简单理解Socket - Samaritans - 博客园](http://www.cnblogs.com/dolphinX/p/3460545.html)
-
-2015-07-06 17:08 [TCP/IP、Http、Socket的区别_百度经验](http://jingyan.baidu.com/article/08b6a591e07ecc14a80922f1.html)
-
-2017-09-04 15:10 [HTTPS 与 HTTP2 协议分析 - 章志强的专栏 - CSDN博客](http://blog.csdn.net/zhangzq86/article/details/64907340)
-
-2017-09-04 15:17 [如何在 Apache 中启用 HTTP/2-系统运维|Linux.中国-开源社区](https://linux.cn/article-6720-1.html)
-
-2017-09-04 15:40 [Apache服务器启用SPDY协议加快传输本博客内容 – Librehat的部落格](https://www.librehat.com/apache-server-enable-spdy-protocol-to-speed-up-transfers-the-contents-of-this-blog/)
-
-#####  HTTP2
-
-2016-05-14 17:39 [HTTP/2](https://http2.github.io/)
-
-2017-09-04 10:23 [HTTP,HTTP2.0,SPDY,HTTPS你应该知道的一些事 - WEB前端 - 伯乐在线](http://web.jobbole.com/87695/)
-
-2017-09-04 10:23 [HTTP/2.0 相比1.0有哪些重大改进？ - 知乎](https://www.zhihu.com/question/34074946)
-
-
-
-#####  HTTPS
-
-2017-03-10 15:21 [也许，这样理解HTTPS更容易](http://mp.weixin.qq.com/s/9BkJ90CE6sNuUXJjiwHlGg)
-
-2017-09-04 10:24 [大型网站的 HTTPS 实践（1）：HTTPS 协议和原理 - 文章 - 伯乐在线](http://blog.jobbole.com/86660/)
-
-2017-09-04 10:24 [HTTPS 可能被这样劫持吗？ - 知乎](https://www.zhihu.com/question/22795329)
+2018-10-17 15:26 [Emacs学习笔记(9):org-mode，最好的文档编辑利器，没有之一 - 心内求法 - 博客园](https://www.cnblogs.com/holbrook/archive/2012/04/12/2444992.html)
 
 
 
@@ -3868,1319 +6656,59 @@
 
 
 
-####  JAVA
+####  优化
 
-2017-06-07 14:53 [五步搞定Android开发环境部署——非常详细的Android开发环境搭建教程 - 边写边唱 - 博客园](http://www.cnblogs.com/zoupeiyang/p/4034517.html)
+2015-06-05 16:54 [Google官方网页载入速度检测工具PageSpeed Insights 使用教程 | DeveWork](http://devework.com/google-chrome-pagespeed-insights.html)
 
-2017-06-07 17:47 [JxBrowser — a Chromium-based Swing/JavaFX component](https://www.teamdev.com/jxbrowser)
+2015-06-05 16:54 [seospeedscript.com](http://seospeedscript.com/)
 
-2018-07-25 17:49 [手写类似于EL表达式，通过java解析Json，用字符串格式去匹配-技术杂类-动脑学院-技术论坛-java学习](http://bbs.dongnaoedu.com/?thread-134.htm)
+2015-06-05 16:51 [[转载]pagespeed 安装（chrome版和firefox版）_吴波_新浪博客](http://blog.sina.com.cn/s/blog_69482a9f0101740z.html)
 
+2015-06-05 16:47 [PageSpeed Tools | Google Developers](https://developers.google.com/speed/pagespeed/?csw=1)
 
+2015-06-05 16:35 [谷歌将关闭免费网站监测服务：PageSpeed - 站长之家](http://www.chinaz.com/web/2015/0507/404212.shtml)
 
-####  JS
+2015-06-05 16:58 [[转]Web性能监控自动化探索之路–初识WebPageTest - freeliver54 - 博客园](http://www.cnblogs.com/freeliver54/p/3336303.html)
 
-2014-04-11 03:25 [jquery getScript动态加载JS方法改进详解_jquery_脚本之家](http://www.jb51.net/article/31973.htm)
+2015-06-05 17:06 [WebPageTest学习 - 那些过往 - 51Testing软件测试网 51Testing软件测试网-中国软件测试人的精神家园](http://www.51testing.com/html/29/447229-248613.html)
 
-2013-10-23 22:02 [LimeJS首页、文档和下载 - JavaScript 游戏开发框架 - 开源中国社区](http://www.oschina.net/p/limejs)
+2015-06-05 17:12 [Yslow&amp;PageSpeed– 诊断各种缓慢症状 - leejersey - 博客园](http://www.cnblogs.com/leejersey/p/3386549.html)
 
-2012-11-30 23:16 [jquery插件开发规范—jquery插件开发进阶教程（1） | ria之家--RIA三部曲：jquery、ext、flex](http://www.36ria.com/2822)
+2015-06-08 09:26 [PageSpeed Insights](https://developers.google.com/speed/pagespeed/insights/)
 
-2012-12-03 21:48 [blog.csdn.net/porschev/article/details/6114997](http://blog.csdn.net/porschev/article/details/6114997)
+2015-06-08 09:28 [Nginx下安装配置PageSpeed模块，轻松完成网站提速 | Linux运维笔记](https://blog.linuxeye.com/318.html)
 
-2012-12-04 22:04 [JS操作JSON总结 - daiyueqiang - 博客园](http://www.cnblogs.com/worfdream/articles/1956449.html)
+2015-06-08 09:57 [让网站访问速度飞起来（前端篇） - 性能,前端优化,web优化,访问速度 - web - ITeye论坛](http://www.iteye.com/topic/1122697)
 
-2012-12-04 22:04 [数据类型和Json格式 - 阮一峰的网络日志](http://www.ruanyifeng.com/blog/2009/05/data_types_and_json.html)
+2015-07-02 09:33 [HTTP头的Expires与Cache-control - YuYii - 博客园](http://www.cnblogs.com/yuyii/archive/2008/10/16/1312238.html)
 
-2012-12-04 22:04 [JSON 数据格式 - SkySoot - 博客园](http://www.cnblogs.com/SkySoot/archive/2012/04/17/2453010.html)
+2015-07-02 14:04 [缓存Cache详解 - 付潭 - 博客园](http://www.cnblogs.com/futan/archive/2013/04/21/cachehuancun.html)
 
-2013-10-23 22:01 [新浪前端入职测试JS效果--碰壁反弹 详解_博看文思-HTML5_百度空间](http://hi.baidu.com/kuntakinte/item/f4978b7b774efc346e29f6cf)
+2015-07-06 17:48 [网站性能优化](http://www.bewxx.com/news/news_103.html)
 
-2012-12-04 22:04 [idTabs](http://www.sunsean.com/idTabs/#t1)
+2015-07-23 16:58 [Web页面性能测试工具浅析 - higirle - 博客园](http://www.cnblogs.com/Jessy/archive/2013/09/29/3345688.html)
 
-2014-06-01 02:11 [Highcharts中文网](http://www.hcharts.cn/)
+2015-06-05 14:51 [前端性能优化的14个规则，学会就偷着乐经验技巧 - 前端网（W3Cfuns）](http://www.w3cfuns.com/article-1283-1.html)
 
-2014-09-14 23:02 [常见算法是js实现汇总 - super-d2 - 博客园](http://www.cnblogs.com/super-d2/archive/2011/10/16/2212865.html)
+2015-08-07 20:26 [优化网站设计（十三）：配置ETags - 陈希章 - 博客园](http://www.cnblogs.com/chenxizhang/archive/2013/05/11/3072898.html)
 
-2014-12-31 22:14 [超酷的翻书效果jquery代码-一流素材网](http://www.16sucai.com//uploadfile/show4/jquerybook/)
+2015-08-10 13:37 [[HTML&amp;CSS3]HTML性能探究 | 学步园](http://www.xuebuyuan.com/2225096.html)
 
-2014-12-31 22:14 [jQuery tmpl用法总结 - fanhaiwang520的专栏 - 博客频道 - CSDN.NET](http://blog.csdn.net/fanhaiwang520/article/details/8587700)
+2015-09-15 17:43 [H5性能优化方案 | @Get社区](http://get.jobdeer.com/8007.get)
 
-2014-12-31 22:14 [jquery tmpl 详解 - web开发 - 博客园](http://www.cnblogs.com/zhuzhiyuan/p/3510175.html)
+2015-09-24 18:06 [在Yslow 34 Rules之后 -- 网站性能优化思路和进展 - limu的砖篮儿 - ITeye技术网站](http://limu.iteye.com/blog/755628)
 
-2015-01-20 10:54 [js中this的用法 - ritazhou - 博客园](http://www.cnblogs.com/RitaRichard/archive/2011/10/14/2212161.html)
+2018-05-03 19:40 [使用window.performance分析web前端性能-shuizhongyue-51CTO博客](http://blog.51cto.com/shuizhongyue/1718327)
 
-2015-01-21 13:57 [javascript学习笔记（九）javascript中的原型(prototype)及原型链的继承方式_基础知识_脚本之家](http://www.jb51.net/article/26803.htm)
+2018-05-03 19:42 [前端优化-如何计算白屏和首屏时间-布布扣-bubuko.com](http://www.bubuko.com/infodetail-2265464.html)
 
-2015-01-21 13:57 [JS中的prototype - 轩脉刃 - 博客园](http://www.cnblogs.com/yjf512/archive/2011/06/03/2071914.html)
 
-2015-01-23 11:11 [使用 JSLint 保证 JavaScript 代码质量](http://www.ibm.com/developerworks/cn/web/1105_linlin_jslint/)
 
-2015-01-23 11:11 [notepad+的去行号 和代码格式化方法 - syrchina程序园 - 博客频道 - CSDN.NET](http://blog.csdn.net/syrchina/article/details/7846046)
+####  PS
 
-2015-01-23 11:11 [巧用Notepad++插件：Js代码格式化（JsMin） – 小叉子博客 - Winbule.com](http://winbule.com/jsformat.html)
+2015-06-08 11:18 [深入探究photoshop辅助线（附工具推荐）](http://www.uisdc.com/photoshop-guides)
 
-2015-01-23 13:30 [js 全世界最短的IE浏览器判断代码_javascript技巧_脚本之家](http://www.jb51.net/article/23621.htm)
-
-2015-01-23 13:41 [JS 动态加载脚本 执行回调 - ※WYF※ - 博客园](http://www.cnblogs.com/w-y-f/p/3469211.html)
-
-2015-01-23 15:08 [JS创建类和对象 - 啊T - 博客园](http://www.cnblogs.com/tiwlin/archive/2009/08/06/1540161.html)
-
-2015-01-23 15:08 [js判断浏览器类型及版本_百度经验](http://jingyan.baidu.com/article/e4511cf30d47882b855eaf5d.html)
-
-2015-01-23 17:12 [对象字面量 - yxf2011 - 博客园](http://www.cnblogs.com/yxf2011/archive/2012/04/01/2428225.html)
-
-2015-01-26 09:50 [关于js中namespace命名空间模式](http://www.cnblogs.com/kuikui/archive/2013/07/14/3190381.html)
-
-2015-01-26 10:25 [JavaScript 的常见“陷阱” - 博客 - 伯乐在线](http://blog.jobbole.com/66699/)
-
-2015-01-26 11:17 [js遍历数组和遍历对象的区别 - yun007 - 博客园](http://www.cnblogs.com/yun007/archive/2013/06/06/3121393.html)
-
-2015-01-26 14:42 [使用超动感HTML &amp; JS开发WEB应用! | AngularJS中文社区](http://www.angularjs.cn/)
-
-2015-01-26 15:56 [给DOM元素绑定click事件也有学问 -- 简明现代魔法](http://www.nowamagic.net/librarys/veda/detail/1698)
-
-2015-01-26 16:10 [JavaScript中的arguments,callee,caller - 依水间 - 博客园](http://www.cnblogs.com/fullhouse/archive/2011/07/17/2108710.html)
-
-2015-01-26 16:51 [js中匿名函数的N种写法_javascript技巧_脚本之家](http://www.jb51.net/article/24759.htm)
-
-2015-01-29 09:11 [md文件格式介绍](https://github.com/younghz/Markdown)
-
-2015-02-02 09:55 [javascript自定义浏览器右键菜单 - evilfox - 博客园](http://www.cnblogs.com/hejia/articles/2648428.html)
-
-2015-02-02 10:15 [中文汉字 | ASCII | Unicode互相转换工具](http://www.atool.org/chinese2unicode.php)
-
-2015-02-04 11:36 [jquery $(document).ready() 与window.onload的区别_jquery_脚本之家](http://www.jb51.net/article/21628.htm)
-
-2015-02-04 11:45 [RGB转16进制工具 | w3cschool菜鸟教程](http://www.w3cschool.cc/rgb2hex)
-
-2015-02-04 13:35 [用js小类库获取浏览器的高度和宽度信息 - 执手泪眼 - 博客园](http://www.cnblogs.com/liszt/archive/2012/01/15/2322692.html)
-
-2015-02-04 18:57 [Javascript 的addEventListener()及attachEvent()区别分析_javascript技巧_脚本之家](http://www.jb51.net/article/18220.htm)
-
-2015-02-05 14:10 [js编写trim()函数及正则表达式的运用_javascript技巧_脚本之家](http://www.jb51.net/article/42358.htm)
-
-2015-02-05 15:24 [正则表达式的JS验证 - cms kentico - 博客园](http://www.cnblogs.com/kentico/archive/2010/09/06/1819660.html)
-
-2015-02-05 15:24 [JS实现Trim() - Cat Qi - 博客园](http://www.cnblogs.com/qixuejia/archive/2010/08/11/1797523.html)
-
-2015-02-05 15:24 [js最新手机号码、身份证正则表达式 | 前端开发博客_专注于前端开发](http://caibaojian.com/regexp-example.html)
-
-2015-02-05 15:24 [js数据类型判断和数组判断 - 沫鱼 - 博客园](http://www.cnblogs.com/mofish/p/3388427.html)
-
-2015-02-06 11:31 [JS 对象（Object）和字符串（String）互转 - Rex.Yin的专栏 - 博客频道 - CSDN.NET](http://blog.csdn.net/starrexstar/article/details/8083259)
-
-2015-02-06 17:23 [面向对象中嵌套的函数, 关键字 this 怎样处理? - javascript - SegmentFault](http://segmentfault.com/q/1010000000183613)
-
-2015-02-09 16:51 [在Js中得到元素的子元素集合注意事项 - Evilbaniry - 博客园](http://www.cnblogs.com/phonefans/archive/2008/09/04/1283739.html)
-
-2015-02-09 17:04 [js和jquery获取父级元素、子级元素、兄弟元素的方法 - TechBirds在路上 - 博客频道 - CSDN.NET](http://blog.csdn.net/techbirds_bao/article/details/8512750)
-
-2015-02-09 18:08 [javascript的getComputedStyle方法获取节点的计算后的CSS样式 - yunfour - 博客园](http://www.cnblogs.com/yunfour/archive/2012/02/25/2367895.html)
-
-2015-02-10 09:25 [CSS3动画那么强，requestAnimationFrame还有毛线用？ « 张鑫旭-鑫空间-鑫生活](http://www.zhangxinxu.com/wordpress/2013/09/css3-animation-requestanimationframe-tween-%E5%8A%A8%E7%94%BB%E7%AE%97%E6%B3%95/)
-
-2015-02-10 09:26 [requestAnimationFrame，Web中写动画的另一种选择 - 刘哇勇 - 博客园](http://www.cnblogs.com/Wayou/p/requestAnimationFrame.html)
-
-2015-02-10 09:35 [JS教程:Javascript实现缓动效果](http://www.poluoluo.com/jzxy/200909/66297.html)
-
-2015-02-10 16:29 [js中退出语句break,continue和return 比较 - ued_er的日志 - 网易博客](http://blog.163.com/ued_er/blog/static/199703159201210283107315/)
-
-2015-02-10 17:08 [js 优化次数过多的循环 考虑到性能问题_javascript技巧_脚本之家](http://www.jb51.net/article/26464.htm)
-
-2015-02-10 18:03 [js循环数组各种方法array-升级版 - 快乐每一天 - ITeye技术网站](http://qiaolevip.iteye.com/blog/1670984)
-
-2015-02-10 18:16 [编写高质量的js之推荐提高循环性能的策略_前端开发](http://sentsin.com/web/99.html)
-
-2015-02-11 09:55 [Js性能优化--循环体优化 - - ITeye技术网站](http://zhouyihui2010.iteye.com/blog/1836699)
-
-2015-02-12 11:18 [(转)setTimeout延时0毫秒的作用 - Winner.Net(2007) - 博客园](http://www.cnblogs.com/winner/archive/2008/11/15/1334077.html)
-
-2015-02-12 11:20 [认识延迟时间为 0 的 setTimeout](http://www.360doc.com/content/08/1118/23/56145_1954571.shtml)
-
-2015-02-12 11:25 [setTimeout(0) 的作用 - PandaCafe](http://pandacafe.net/blog/337)
-
-2015-02-12 16:24 [js中apply方法的使用 - chaxiaoyou - 博客园](http://www.cnblogs.com/delin/archive/2010/06/17/1759695.html)
-
-2015-02-12 16:28 [JS中apply和call的联系和区别 - shenzhenNBA的专栏 - 博客频道 - CSDN.NET](http://blog.csdn.net/shenzhennba/article/details/17716957)
-
-2015-02-13 09:34 [js delete 用法(删除对象属性及变量)_javascript技巧_脚本之家](http://www.jb51.net/article/54247.htm)
-
-2015-02-13 09:34 [深入详解javascript之delete操作符 - yuzhongwusan - 博客园](http://www.cnblogs.com/yuzhongwusan/archive/2012/06/14/2549879.html)
-
-2015-02-13 11:11 [关于javascript中apply()和call()方法的区别 - 前端开发工程师 - 博客园](http://www.cnblogs.com/fighting_cp/archive/2010/09/20/1831844.html)
-
-2015-02-25 16:01 [使用 JSDoc 3 自动生成 JavaScript API 文档 - 杨小邪的空中楼阁](http://moodpo.com/archives/jsdoc3-tutorial.html)
-
-2015-02-25 17:56 [JS的构造函数 - 豪情 - 博客园](http://www.cnblogs.com/jikey/archive/2011/05/13/2045005.html)
-
-2015-02-26 15:38 [JavaScript中的[[scope]]和Scope Chain - winter-cn - 博客园](http://www.cnblogs.com/winter-cn/archive/2008/07/07/1237168.html)
-
-2015-02-26 15:38 [JavaScript isPrototypeOf和hasOwnProperty使用区别_js面向对象_脚本之家](http://www.jb51.net/article/22336.htm)
-
-2015-02-26 15:38 [javascript 类属性、类方法、类实例、实例属性、实例方法、prototype、__proto__ 测试与小结 - 像阳光一样 - 博客园](http://www.cnblogs.com/mrsunny/archive/2011/05/09/2041185.html)
-
-2015-02-26 15:39 [javascript的propertyIsEnumerable()方法使用介绍_javascript技巧_脚本之家](http://www.jb51.net/article/48852.htm)
-
-2015-02-26 15:39 [JavaScript对象模型-执行模型 - riccc - 博客园](http://www.cnblogs.com/RicCC/archive/2008/02/15/JavaScript-Object-Model-Execution-Model.html)
-
-2015-02-26 15:41 [Javascript Closures](http://jibbering.com/faq/notes/closures/)
-
-2015-02-26 15:52 [JSON在线视图查看器(Online JSON Viewer)](http://www.bejson.com/jsonviewernew/)
-
-2015-02-26 15:54 [propertyIsEnumerable 方法 (Object) (JavaScript)](https://msdn.microsoft.com/zh-tw/library/adebfyya.aspx)
-
-2015-02-26 16:35 [JavaScript 语言参考](https://msdn.microsoft.com/zh-cn/library/d1et7k7c(v=vs.94).aspx)
-
-2015-02-26 16:45 [JavaScript中__proto__与prototype的关系 - snandy - 博客园](http://www.cnblogs.com/snandy/archive/2012/09/01/2664134.html)
-
-2015-02-26 17:58 [JavaScript的写类方式（5） - snandy - 博客园](http://www.cnblogs.com/snandy/archive/2011/03/07/1972508.html)
-
-2015-02-27 11:30 [前端自动化开发工具 - 为程序员服务](http://ju.outofmemory.cn/entry/85028)
-
-2015-02-27 11:36 [贝塞尔曲线](http://outofmemory.cn/wr/?u=http%3A%2F%2Fcubic-bezier.com%2F)
-
-2015-03-02 11:38 [js对cookie的简单操作](http://blog.csdn.net/wyabc1986/article/details/6395570)
-
-2015-03-02 11:41 [JS操作Cookie详解 - songfuqiang的专栏 - 博客频道 - CSDN.NET](http://blog.csdn.net/songfuqiang/article/details/2109112)
-
-2015-03-02 18:05 [JavaScript内存优化 - 鍒樻爧 - 博客园](http://www.cnblogs.com/mliudong/p/3635294.html)
-
-2015-03-02 18:05 [JavaScript内存管理 - 简书](http://www.jianshu.com/p/84a8fd5fa0ee)
-
-2015-03-05 16:17 [Javascript 数组循环遍历之forEach - oscar999的专栏 - 博客频道 - CSDN.NET](http://blog.csdn.net/oscar999/article/details/8671546)
-
-2015-03-06 17:20 [JS截取字符串substr 和 substring方法的区别 - 華安 - 博客园](http://www.cnblogs.com/hema/archive/2009/10/21/1587560.html)
-
-2015-03-06 17:30 [前端开发者进阶之函数反柯里化unCurrying - 穆乙 - 博客园](http://www.cnblogs.com/pigtail/p/3450852.html)
-
-2015-03-06 18:09 [用Chrome开发者工具做JavaScript性能分析 - 博客 - 伯乐在线](http://blog.jobbole.com/31178/)
-
-2015-03-06 18:09 [Zen Coding: 一种快速编写HTML/CSS代码的方法前端观察 | CSS | 前端观察](http://www.qianduan.net/zen-coding-a-new-way-to-write-html-code.html)
-
-2015-03-11 17:58 [谈谈javascript语法里一些难点问题（一） - 博客 - 伯乐在线](http://blog.jobbole.com/81010/#comment-147076)
-
-2015-03-17 18:47 [Js取数组中最大值和最小值 - ゞ追忆o0ゞ - 博客园](http://www.cnblogs.com/zhuiyi/archive/2011/11/15/2249733.html)
-
-2015-03-18 16:33 [不要再吹水地球人听不懂的技术，咱来点干货!--中文前端UI框架Kit（四）给你真正的原生的drag以及drop事件，而不是像市面上主流的Js框架jQuery，Ext等，利用mousemove事件，判断位置来模拟 - 薛端阳](http://www.cnblogs.com/xueduanyang/archive/2012/05/03/2480505.html)
-
-2015-03-19 16:08 [在JS数组指定位置插入元素 - renfufei的专栏 - 博客频道 - CSDN.NET](http://blog.csdn.net/renfufei/article/details/38143947)
-
-2013-05-30 15:46 [js特殊字符过滤 - 棋怜 - 博客园](http://www.cnblogs.com/fumj/archive/2013/01/06/2847612.html)
-
-2013-06-03 13:51 [解决IE与W3C标准冲突的JS库-IE7.js与IE8.js | 信有UED](http://ued.xinyou.com/2011/03/%E8%A7%A3%E5%86%B3ie%E4%B8%8Ew3c%E6%A0%87%E5%87%86%E5%86%B2%E7%AA%81%E7%9A%84js%E5%BA%93-ie7-js%E4%B8%8Eie8-js.html)
-
-2013-06-08 16:33 [js实现php函数urlencode - 小炒花生米 - 博客园](http://www.cnblogs.com/xiaochaohuashengmi/archive/2010/05/28/1746168.html)
-
-2015-03-24 15:00 [js获取url参数值 - jiekk - 博客园](http://www.cnblogs.com/jiekk/archive/2011/06/28/2092444.html)
-
-2015-03-25 13:37 [js array不支持map filter等的解决办法 - Javascript教程_JS教程_技术文章 - 红黑联盟](http://www.2cto.com/kf/201501/371483.html)
-
-2015-03-30 15:12 [Prism](http://prismjs.com/index.html)
-
-2015-02-06 18:08 [Javascript quiz — Perfection Kills](http://perfectionkills.com/javascript-quiz/)
-
-2015-04-14 16:22 [JavaScript 实现简单的双向数据绑定 - 技术翻译 - 开源中国社区](http://www.oschina.net/translate/easy-two-way-data-binding-in-javascript)
-
-2015-04-15 14:15 [Underscore.js(JavaScript对象操作方法) - Ada zheng - 博客园](http://www.cnblogs.com/ada-zheng/p/3924082.html)
-
-2015-05-13 09:33 [jsonp详解 - yuzhongwusan - 博客园](http://www.cnblogs.com/yuzhongwusan/archive/2012/12/11/2812849.html)
-
-2015-05-14 10:23 [关于URL编码/javascript/js url 编码(轉) - 琴鸟 - 博客园](http://www.cnblogs.com/lsfv/archive/2012/04/17/2453391.html)
-
-2015-05-28 14:41 [JS中的call()和apply()方法 - 每天进步一点点！ - ITeye技术网站](http://uule.iteye.com/blog/1158829)
-
-2015-05-29 17:07 [JS设计模式（一）Mixin classes - 太极拳 - 博客频道 - CSDN.NET](http://blog.csdn.net/ppanyong/article/details/3400882)
-
-2015-05-29 17:10 [JS 继承：extend、mixin 和 plugin（二） - zaohe - 博客园](http://www.cnblogs.com/zaohe/archive/2012/10/22/js.html)
-
-2015-05-29 17:29 [javascript库中mixin和extend函数终极pk-javascript-电脑编程网](http://biancheng.dnbcw.info/javascript/372022.html)
-
-2015-06-02 14:02 [键盘事件keydown、keypress、keyup随笔整理总结（摘抄） - 心存善念 - 博客园](http://www.cnblogs.com/xcsn/p/3413074.html)
-
-2015-06-10 11:31 [jQuery.parseJSON() 函数详解 - CodePlayer](http://www.365mini.com/page/jquery_parsejson.htm)
-
-2015-06-10 12:57 [使用JSON.parse遇到的问题 - 技术分享 - 豆豆技术网](http://tech.ddvip.com/2014-05/1399208603210186.html)
-
-2015-06-11 10:00 [理解OAuth 2.0 - 阮一峰的网络日志](http://www.ruanyifeng.com/blog/2014/05/oauth_2_0.html)
-
-2015-06-12 11:11 [Highcharts中文网](http://www.hcharts.cn/index.php)
-
-2015-06-12 18:04 [js 获取前天、昨天、今天、明天、后天的时间 (转) - 耿爱学 - 博客园](http://www.cnblogs.com/gengaixue/archive/2011/07/05/2098299.html)
-
-2015-06-12 18:04 [js时间戳怎么转成日期格式 - 苏飞 - 博客园](http://www.cnblogs.com/sufei/archive/2012/12/03/2799480.html)
-
-2015-06-24 18:07 [Jquery 获取checkbox的checked问题 - 那瞬间 - 博客园](http://www.cnblogs.com/-run/archive/2011/11/16/2251250.html)
-
-2015-06-24 18:07 [checkbox属性checked=&quot;checked&quot;已有，但却不显示打勾的解决办法 - BIWEB开源WEBAPP手机网站系统](http://www.biweb.cn/blog/detail.php/id-21.html)
-
-2015-06-26 11:46 [Ajax提交之后，Method从POST变成GET - 开源中国社区](http://www.oschina.net/question/86510_76347)
-
-2015-07-07 14:08 [详解js面向对象编程 - SegmentFault](http://segmentfault.com/a/1190000000713346)
-
-2015-07-07 19:28 [最全前端面试问题及答案总结 - SegmentFault](http://segmentfault.com/a/1190000002562454)
-
-2015-07-08 11:30 [js事件代理_剑华一笑_新浪博客](http://blog.sina.com.cn/s/blog_65c2ec5e0101oddv.html)
-
-2015-07-23 17:06 [Spine.JS+Rails重客户端Web应用技术选型思路：『风车』架构设计](http://www.infoq.com/cn/articles/fengche-co-architecture/)
-
-2015-07-27 17:48 [JS Range HTML文档/文字内容选中、库及应用介绍 « 张鑫旭-鑫空间-鑫生活](http://www.zhangxinxu.com/wordpress/2011/04/js-range-html%E6%96%87%E6%A1%A3%E6%96%87%E5%AD%97%E5%86%85%E5%AE%B9%E9%80%89%E4%B8%AD%E3%80%81%E5%BA%93%E5%8F%8A%E5%BA%94%E7%94%A8%E4%BB%8B%E7%BB%8D/)
-
-2015-07-28 18:37 [js正则标志/g /i /m的用法，以及实例 - 天使半只翼 - 博客园](http://www.cnblogs.com/william-lin/p/3480231.html)
-
-2015-07-31 10:20 [JQuery-- onload，ready方法详细解说 - dreamzml的专栏 - 博客频道 - CSDN.NET](http://blog.csdn.net/dreamzml/article/details/8859026)
-
-2015-07-31 15:11 [JavaScript表单处理（上） - Javascript教程_JS教程_技术文章 - 红黑联盟](http://www.2cto.com/kf/201406/306688.html)
-
-2015-07-31 18:23 [优秀的JavaScript模块是怎样炼成的](http://www.infoq.com/cn/articles/how-to-create-great-js-module/)
-
-2015-07-31 18:52 [Javascript文件加载：LABjs和RequireJS - 阮一峰的网络日志](http://www.ruanyifeng.com/blog/2011/10/javascript_loading.html)
-
-2015-08-03 17:10 [js基于原型链，对象的类的写法 - break_happy - 博客园](http://www.cnblogs.com/breakdown/archive/2012/07/18/2557157.html)
-
-2015-08-11 18:52 [js 判断文件后缀的方法 - whitechololate的专栏 - 博客频道 - CSDN.NET](http://blog.csdn.net/whitechololate/article/details/3325951)
-
-2015-08-12 17:49 [从浏览器的focus blur说起 - Franky - 博客园](http://www.cnblogs.com/_franky/archive/2010/04/28/1722592.html)
-
-2015-08-14 15:18 [LABjs 动态按需加载 js 的方法实现 js loader_草民麦克_新浪博客](http://blog.sina.com.cn/s/blog_64d8a1d0010101zz.html)
-
-2015-08-14 15:21 [LABjs Script Loader :: Home](http://labjs.com/)
-
-2015-08-14 15:21 [RequireJS](http://requirejs.org/)
-
-2015-08-21 11:57 [Javascript Callback的两种实现方案 - D-tune - ITeye技术网站](http://d-tune.iteye.com/blog/506074)
-
-2015-08-21 18:04 [LABJS浅析 - yuzhongwusan - 博客园](http://www.cnblogs.com/yuzhongwusan/archive/2013/04/14/3020559.html)
-
-2015-08-24 15:04 [HTML5 DOM元素类名相关操作API classList简介 « 张鑫旭-鑫空间-鑫生活](http://www.zhangxinxu.com/wordpress/2013/07/domtokenlist-html5-dom-classlist-%E7%B1%BB%E5%90%8D/)
-
-2015-08-25 10:37 [插件uaredirect.js电脑版跳转到手机版网站 _ 木木博客](http://www.imuum.com/uaredirect-js-plug-download.html)
-
-2015-08-25 13:55 [JS 替换 window.onload 的 document.ready [Web前端] - VGOT Design](http://www.vgot.net/?A65.htm)
-
-2015-08-25 13:55 [js获取客户端操作系统 - zjhsd2007 - 博客园](http://www.cnblogs.com/sky000/archive/2011/03/04/1970737.html)
-
-2015-08-25 13:55 [识别不同平台Window、Mac、Unix(Linux)方法,结合js实例详细介绍](http://www.jxbh.cn/newshow.asp?id=1463&tag=2)
-
-2015-08-25 18:37 [JS获取自身所在文件的目录路径 - MaxIE - 博客园](http://www.cnblogs.com/MaxIE/archive/2007/11/09/936999.html)
-
-2015-08-25 18:37 [通过JS语句判断WEB网站的访问端是电脑还是手机 - JavaScript - 新客网](http://www.xker.com/page/e2014/0325/131654.html)
-
-2015-08-27 10:55 [addEventListener - chenlulouis - 博客园](http://www.cnblogs.com/chenlulouis/archive/2009/10/19/1585751.html)
-
-2015-08-27 10:55 [浏览器兼容性系列--浅谈window.attachEvent_云天妈妈_新浪博客](http://blog.sina.com.cn/s/blog_4aedf6370100zhox.html)
-
-2015-08-27 15:42 [javascript钩子之Backbone里的实现 - angel_loong - 博客园](http://www.cnblogs.com/whitelist/p/4758367.html)
-
-2015-08-27 18:09 [document的createDocumentFragment()方法 - yunfour - 博客园](http://www.cnblogs.com/yunfour/archive/2011/06/21/2085911.html)
-
-2015-08-27 18:41 [事件流与window.addEventListener介绍说明_Nanako_新浪博客](http://blog.sina.com.cn/s/blog_8e1704000101c77p.html)
-
-2015-08-28 15:21 [javascript Date format(js日期格式化) - 一路前行 - 博客园](http://www.cnblogs.com/zhangpengshou/archive/2012/07/19/2599053.html)
-
-2015-08-28 15:29 [window.parent与window.openner区别介绍_基础知识_脚本之家](http://www.jb51.net/article/30086.htm)
-
-2015-08-28 18:38 [Javascript模块化编程（三）：require.js的用法 - 阮一峰的网络日志](http://www.ruanyifeng.com/blog/2012/11/require_js.html)
-
-2015-08-31 17:33 [js如何判断一个对象是不是Array？ -- 简明现代魔法](http://www.nowamagic.net/librarys/veda/detail/1250)
-
-2015-09-01 11:23 [JS滚轮事件(mousewheel/DOMMouseScroll)了解 « 张鑫旭-鑫空间-鑫生活](http://www.zhangxinxu.com/wordpress/2013/04/js-mousewheel-dommousescroll-event/)
-
-2015-09-06 12:16 [js实现按Ctrl+Enter发送效果_javascript技巧_脚本之家](http://www.jb51.net/article/55354.htm)
-
-2015-09-06 15:11 [toLowerCase和toLocaleLowerCase()的区别](http://sentsin.com/web/45.html)
-
-2015-09-06 17:51 [浏览器是怎样工作的 浏览器从头到尾的工作机制_浏览下载_软件教程_脚本之家](http://www.jb51.net/softjc/67746.html)
-
-2015-09-07 10:30 [event.preventDefault方法的使用 - 学习也休闲](http://www.studyofnet.com/news/228.html)
-
-2015-09-07 10:31 [如何去掉a标签的虚框_看灰机灰了_新浪博客](http://blog.sina.com.cn/s/blog_7a901a8701019aw1.html)
-
-2015-09-07 11:05 [错误The request sent by the client was syntactically incorrect ()的解决 - 逆火狂飙 - 博客园](http://www.cnblogs.com/xiandedanteng/p/4168609.html)
-
-2015-09-07 18:38 [Html5 页面中 JavaScript 启动调用的三种方法比较 - Javascript教程_JS教程_技术文章 - 红黑联盟](http://www.2cto.com/kf/201407/321612.html)
-
-2015-09-09 15:44 [window.open打开新窗口 参数 - riconyi的专栏 - 博客频道 - CSDN.NET](http://blog.csdn.net/riconyi/article/details/5540557)
-
-2015-09-10 20:17 [iframe与主框架跨域相互访问方法 - 傲雪星枫 - 博客频道 - CSDN.NET](http://blog.csdn.net/fdipzone/article/details/17619673)
-
-2015-09-11 10:57 [浅谈document.domain](http://yanni4night.com/blog/setting-document-domain.html)
-
-2015-09-14 16:46 [JavaScript Source Map 详解 - 阮一峰的网络日志](http://www.ruanyifeng.com/blog/2013/01/javascript_source_map.html)
-
-2015-09-14 18:00 [[已解决]base64编码上传问题 - CNode技术社区](https://cnodejs.org/topic/51f49b07f4963ade0e59be2d)
-
-2015-09-15 15:42 [defer和async的区别 - SegmentFault](http://segmentfault.com/q/1010000000640869)
-
-2015-09-15 15:56 [Hacker News](https://news.ycombinator.com/)
-
-2015-09-15 17:23 [相似图片搜索的原理（二） - 阮一峰的网络日志](http://www.ruanyifeng.com/blog/2013/03/similar_image_search_part_ii.html)
-
-2015-09-15 17:23 [相似图片搜索的原理 - 阮一峰的网络日志](http://www.ruanyifeng.com/blog/2011/07/principle_of_similar_image_search.html)
-
-2015-09-15 17:25 [代码覆盖率工具 Istanbul 入门教程 - 阮一峰的网络日志](http://www.ruanyifeng.com/blog/2015/06/istanbul.html)
-
-2015-09-15 18:06 [WOW.js – 让页面滚动更有趣_dowebok](http://www.dowebok.com/131.html)
-
-2015-09-15 18:29 [JS NICE: Statistical renaming, Type inference and Deobfuscation](http://www.jsnice.org/)
-
-2015-09-17 15:44 [Web 通信 之 长连接、长轮询（long polling） - hoojo - 博客园](http://www.cnblogs.com/hoojo/p/longPolling_comet_jquery_iframe_ajax.html)
-
-2015-09-17 17:39 [DWR - 随笔分类 - hoojo - 博客园](http://www.cnblogs.com/hoojo/category/276235.html)
-
-2015-09-22 11:11 [window.location.hash属性介绍 - Youbing - 博客园](http://www.cnblogs.com/china-aspx/archive/2008/04/20/1162597.html)
-
-2015-10-13 18:26 [使用FileReader对象的readAsDataURL方法来读取图像文件 - jQuery学习 - 程序员博客](http://blog.okbase.net/jquery2000/archive/1296.html)
-
-2015-10-13 18:26 [[译]JavaScript文件操作(2)-FileReader | i,unbug](http://www.iunbug.com/archives/2012/06/04/220.html)
-
-2015-10-13 18:32 [input file 在不同浏览器中的呈现 « 小居](http://liunian.info/input-file-in-different-browsers.html)
-
-2015-10-29 17:14 [疑问：为什么要使用href=”javascript:void(0);”？ « 张鑫旭-鑫空间-鑫生活](http://www.zhangxinxu.com/wordpress/2013/01/why-use-href-javascript-void0/)
-
-2015-11-12 13:57 [ajax不执行success回调而是执行了error回调_基础知识_脚本之家](http://www.jb51.net/article/32540.htm)
-
-2015-11-20 11:30 [经典的 Web 编辑器——CKEditor 介绍](http://www.ibm.com/developerworks/cn/web/1012_moying_ckeditor/)
-
-2015-11-23 17:09 [jQuery Validation Engine 表单验证 - 前端开发仓库](http://code.ciaoca.com/jquery/validation_engine/)
-
-2015-12-04 09:53 [由Tencent://Message协议想到的一个解决方案 - Phinecos(洞庭散人) - 博客园](http://www.cnblogs.com/phinecos/archive/2009/03/06/1404951.html)
-
-2015-12-04 16:01 [js中的小技艺_js关键字小结_response.setContentType 参数参考__脚本百事通](http://www.csdn123.com/html/exception/578/578371_578367_578369.htm)
-
-2015-12-07 20:20 [AJAX POST请求中参数以form data和request payload形式在servlet中的获取方式 - 痴人说梦 - 博客频道 - CSDN.NET](http://blog.csdn.net/mhmyqn/article/details/25561535)
-
-2015-12-15 18:31 [移除HTML5 input在type=&quot;number&quot;时的上下小箭头 - qii/sihangshi - 开源中国社区](http://my.oschina.net/qii/blog/341439)
-
-2015-12-15 18:31 [让浏览器支持input type=number - 四眼闷的日志 - 网易博客](http://blog.163.com/yhwwen@126/blog/static/170468853201381701414931/)
-
-2015-12-17 11:10 [有关onpropertychange事件 - 穆乙 - 博客园](http://www.cnblogs.com/pigtail/archive/2012/04/17/2452078.html)
-
-2015-12-17 11:10 [oninput,onpropertychange,onchange的用法和区别 - sunlylorn的专栏 - 博客频道 - CSDN.NET](http://blog.csdn.net/sunlylorn/article/details/6123355)
-
-2015-12-21 12:18 [Chrome的console对于数组(对象)的求值是懒惰的 - Jackiesteed - 博客园](http://www.cnblogs.com/jackiesteed/articles/3531401.html)
-
-2016-01-07 11:47 [HTTP协议（二）：header标头说明-hiyachen-ChinaUnix博客](http://blog.chinaunix.net/uid-7374279-id-4518834.html)
-
-2016-01-11 20:59 [HTML5 &lt;script&gt;元素async,defer异步加载 - renfufei的专栏 - 博客频道 - CSDN.NET](http://blog.csdn.net/renfufei/article/details/10210949)
-
-2016-01-19 16:03 [window.open()打开窗口的几种方式 - 清箫的专栏 - 博客频道 - CSDN.NET](http://blog.csdn.net/woxueliuyun/article/details/3672268)
-
-2016-01-27 00:29 [js中substring和substr用法与区别_百度经验](http://jingyan.baidu.com/article/219f4bf7fbdeeade442d380f.html)
-
-2016-01-29 15:53 [为JS扩展Array.prototype.indexOf引发的问题探讨及解决_javascript技巧_脚本之家](http://www.jb51.net/article/35963.htm)
-
-2016-01-29 16:02 [IE 浏览器各个版本 JavaScript 支持情况一览表 - 梦想天空（山边小溪） - 博客园](http://www.cnblogs.com/lhb25/p/ie-javascript-compatibility.html)
-
-2016-02-01 15:07 [js 正则 为url添加http标识 - Tim专栏 - 博客频道 - CSDN.NET](http://blog.csdn.net/q107770540/article/details/9352425)
-
-2016-02-18 11:03 [IE8 innerHTML-未知的运行时错误 - 学习成就未来 - ITeye技术网站](http://qiujiayu.iteye.com/blog/2071127)
-
-2016-02-18 11:03 [IE6789浏览器有没有console.log类似的方法可以输出调试内容但又不影响页面正常运行的JS代码呢？_已解决_博问_博客园](http://q.cnblogs.com/q/33770/)
-
-2016-02-19 10:37 [关于文字内容溢出用点点点(…)省略号表示 « 张鑫旭-鑫空间-鑫生活](http://www.zhangxinxu.com/wordpress/2009/09/%E5%85%B3%E4%BA%8E%E6%96%87%E5%AD%97%E5%86%85%E5%AE%B9%E6%BA%A2%E5%87%BA%E7%94%A8%E7%82%B9%E7%82%B9%E7%82%B9-%E7%9C%81%E7%95%A5%E5%8F%B7%E8%A1%A8%E7%A4%BA/)
-
-2016-02-19 10:37 [www.zhangxinxu.com/study/js/jquery.ellipsis.js](http://www.zhangxinxu.com/study/js/jquery.ellipsis.js)
-
-2016-03-02 20:18 [JavaScript Promise：去而复返 - 司徒正美 - 博客园](http://www.cnblogs.com/rubylouvre/p/3495286.html)
-
-2016-03-08 17:51 [html中使用js计算字符串所占宽度 - 混乱的人生 - 博客频道 - CSDN.NET](http://blog.csdn.net/chaoticlife/article/details/25705495)
-
-2016-03-22 18:50 [为什么使用&quot;use strict&quot;可以节约你的时间 - 推酷](http://www.tuicool.com/articles/z2IvumV)
-
-2016-03-22 18:51 [一起来啃犀牛书：BOM - 推酷](http://www.tuicool.com/articles/NzuMVb)
-
-2016-04-29 18:33 [分页控件代码逻辑（JS版本&amp;PHP版本） - 轻拍水面 - 博客园](http://www.cnblogs.com/xue632777974/p/4174276.html)
-
-2016-05-25 17:42 [JavaScript instanceof 运算符深入剖析 - 文章 - 伯乐在线](http://blog.jobbole.com/41611/)
-
-2016-05-26 18:14 [[JS] 让人犯晕的JavaScript变量赋值 - Hello Bug~](http://hellobug.github.io/blog/javascript-variable-assignment/)
-
-2016-08-30 20:04 [键盘按钮keyCode大全 - 思考者日记 - 博客园](http://www.cnblogs.com/shyy/archive/2012/04/09/2453029.html)
-
-2016-09-06 11:43 [JavaScript 数字与字符串 比较大小 - 雨之殇 - 博客园](http://www.cnblogs.com/icerainsoft/p/3448161.html)
-
-2016-09-14 14:15 [SD2021: 各浏览器对元素在没有设置 tabindex 属性时触发 onfocus 事件以及通过其 focus() 方法获得焦点的情况有差异 - W3Help](http://www.w3help.org/zh-cn/causes/SD2021)
-
-2016-09-14 16:23 [SD2021: 各浏览器对元素在没有设置 tabindex 属性时触发 onfocus 事件以及通过其 focus() 方法获得焦点的情况有差异 - W3Help](http://www.w3help.org/zh-cn/causes/SD2021#)
-
-2016-09-22 15:47 [JS逗号运算符的用法详解 - web 前端 - 博客频道 - CSDN.NET](http://blog.csdn.net/wl110231/article/details/8162732)
-
-2016-09-29 16:25 [Javascript中的for in语句获取对象属性的顺序问题 | IT宅.com](http://www.itzhai.com/obtain-the-order-of-object-properties-in-javascript-for-in-the-statement.html)
-
-2016-12-05 14:29 [详解javascript立即执行函数表达式（IIFE） - WEB前端 - 伯乐在线](http://web.jobbole.com/82520/)
-
-2017-02-17 16:28 [各种JS模板引擎对比数据(高性能JavaScript模板引擎) - 戈胡 - 博客园](http://www.cnblogs.com/guohu/p/3870677.html)
-
-2017-02-22 14:19 [非常简单的js双向数据绑定框架（三）：js model黑科技 - - 博客频道 - CSDN.NET](http://blog.csdn.net/vctisildur/article/details/46454755)
-
-2017-02-22 14:37 [createElement与createDocumentFragment的点点区别 - 西山 - 博客园](http://www.cnblogs.com/xesam/archive/2011/12/19/2293876.html)
-
-2017-02-22 14:38 [深入理解vue.js双向绑定的实现原理_javascript技巧_脚本之家](http://www.jb51.net/article/99129.htm)
-
-2017-02-23 16:10 [浅谈 JS 创建对象的 8 种模式 - 银狐的专栏 - 博客频道 - CSDN.NET](http://blog.csdn.net/baby97/article/details/50435748)
-
-2017-03-06 14:58 [JavaScript模板引擎原理，几行代码的事儿 - Barret Lee - 博客园](http://www.cnblogs.com/hustskyking/p/principle-of-javascript-template.html)
-
-2017-03-21 18:10 [GoJS Diagrams for JavaScript and HTML, by Northwoods Software](http://gojs.net/latest/index.html)
-
-2017-03-22 10:48 [Timeline](http://timeline.knightlab.com/#overview)
-
-2017-03-24 18:40 [JQuery UI - draggable参数中文详细说明 - liu_111111的专栏 - 博客频道 - CSDN.NET](http://blog.csdn.net/liu_111111/article/details/8906025)
-
-2017-03-31 11:21 [html5 record 录音实例 使用websocket - Joyhen的专栏 - 博客频道 - CSDN.NET](http://blog.csdn.net/joyhen/article/details/24505411)
-
-2017-03-31 16:36 [使用html5的getUserMedia()实现拍照上传 - 笔记 - 前端网（QDFuns）](http://www.qdfuns.com/notes/15998/b5ad46a155bf4cec6587cd4871f044c8.html)
-
-2017-04-10 17:10 [JS中dataTransfer对象在拖曳操作中的妙用。 - JIALY的个人页面](https://my.oschina.net/jiangli0502/blog/179197)
-
-2017-04-10 17:10 [html drag api 在firefox 下 拖动出现新窗口的解决办法 - winenr123 - 博客园](http://www.cnblogs.com/strangerqt/p/6133708.html)
-
-2017-04-11 10:51 [一张图轻松搞懂javascript event对象的clientX,offsetX,screenX,pageX区别 - Javascript教程_JS教程_技术文章 - 红黑联盟](http://www.2cto.com/kf/201409/333401.html)
-
-2017-04-28 09:48 [HTML5 中fullscreen 中的几个API和fullscreen欺骗 - jackyrong - ITeye技术网站](http://jackyrong.iteye.com/blog/1830273)
-
-2017-04-28 09:50 [用html5 js实现浏览器全屏 - 天魂地煞 - 博客园](http://www.cnblogs.com/javaee6/p/3756249.html)
-
-2017-05-31 14:21 [js数组的sort排序详解 - 龙则 - 博客园](http://www.cnblogs.com/longze/archive/2012/11/27/2791230.html)
-
-2017-06-28 17:13 [Javascript开启浏览器全屏模式 - WEB前端 - 伯乐在线](http://web.jobbole.com/89098/)
-
-2017-06-30 11:11 [仿写Windows7桌面和任务栏 HTML5+CSS3+Jquery实现 - D调的码农 - 博客园](http://www.cnblogs.com/webconfig/p/3649323.html?utm_source=tuicool&utm_medium=referral)
-
-2017-07-05 15:11 [痕网,痕网博客,痕网工作室 - henw](http://www.cnblogs.com/henw/archive/2011/12/19/2293585.html)
-
-2017-07-07 11:12 [兼容各种浏览器的获取clientheight 等参数 - winter_leaf_wei的专栏 - CSDN博客](http://blog.csdn.net/winter_leaf_wei/article/details/6684211)
-
-2017-07-07 15:28 [HTML5魔法堂：全面理解Drag &amp; Drop API - ^_^肥仔John - 博客园](http://www.cnblogs.com/fsjohnhuang/p/3961066.html)
-
-2017-08-25 09:33 [JS实现的4种数字千位符格式化方法分享_javascript技巧_脚本之家](http://www.jb51.net/article/61585.htm)
-
-2017-08-29 09:49 [深入剖析 JavaScript 的深复制 | 咀嚼之味](http://jerryzou.com/posts/dive-into-deep-clone-in-javascript/)
-
-2017-08-29 09:50 [javascript中的深拷贝和浅拷贝？ - 知乎](https://www.zhihu.com/question/23031215)
-
-2017-08-29 09:51 [ES6对象的扩展 - IT-nose - 博客园](http://www.cnblogs.com/detanx/p/es6dx.html)
-
-2017-09-01 16:42 [ES6中的Object.is()判断对象是否相等 - kongjunchao159的博客 - CSDN博客](http://blog.csdn.net/kongjunchao159/article/details/54906829)
-
-2017-09-11 12:04 [node.js - JavaScript反射机制到底是什么？ - SegmentFault](https://segmentfault.com/q/1010000002761696)
-
-2017-09-11 12:05 [JavaScript反射机制与继承：概念 - 不忘初心，方得始终——PSY - SegmentFault](https://segmentfault.com/a/1190000000593171)
-
-2017-09-22 09:32 [mo · js - Motion Graphics For The Web](http://mojs.io/)
-
-2017-12-15 18:01 [白话debounce和throttle - 田小计划 - 博客园](https://www.cnblogs.com/wilber2013/p/5893426.html)
-
-2017-12-15 18:01 [Debounce 和 Throttle 的原理及实现 - CSDN博客](http://blog.csdn.net/redtopic/article/details/69396722)
-
-2017-12-15 18:02 [JS魔法堂：函数节流（throttle）与函数去抖（debounce） - ^_^肥仔John - 博客园](https://www.cnblogs.com/fsjohnhuang/p/4147810.html)
-
-2017-12-24 22:34 [require() 源码解读 - 阮一峰的网络日志](http://www.ruanyifeng.com/blog/2015/05/require.html)
-
-2018-01-12 11:13 [解决Javascript中$(window).resize()多次执行 - 水狼一族 - 博客园](https://www.cnblogs.com/shuilangyizu/p/6816756.html)
-
-2018-01-18 17:06 [JavaScript实现最简单的拖拽效果 « 张鑫旭-鑫空间-鑫生活](http://www.zhangxinxu.com/wordpress/2010/03/javascript%E5%AE%9E%E7%8E%B0%E6%9C%80%E7%AE%80%E5%8D%95%E7%9A%84%E6%8B%96%E6%8B%BD%E6%95%88%E6%9E%9C/)
-
-2018-01-18 21:57 [24行代码，让你的网页元素任意放大、缩小、拖拽、移动 - CSDN博客](http://blog.csdn.net/dqs78833488/article/details/51392833)
-
-2018-01-19 10:45 [运用HTML5原生拖动事件（drag）实现拖动效果 - veitch07 - 博客园](https://www.cnblogs.com/veitch007/p/4006640.html)
-
-2018-03-12 21:39 [D3.js 中实现svg 保存 png - CSDN博客](http://blog.csdn.net/xx123698/article/details/53580057)
-
-2018-03-20 10:32 [前端存储之Web Sql Database - 再见_孙悟空 - 博客园](https://www.cnblogs.com/dengyulinBlog/p/6145584.html)
-
-2018-03-20 10:41 [前端HTML5几种存储方式的总结 - WEB前端 - 伯乐在线](http://web.jobbole.com/87766/)
-
-2018-03-20 10:52 [HTML5 内置本地数据库之Sqlite - html5-websql-sqlite - ItBoth](http://www.itboth.com/d/jQNJ3u/html5-websql-sqlite)
-
-2018-03-20 10:52 [html5 js 访问 sqlite 数据库的操作类 - string-js-html5 - ItBoth](http://www.itboth.com/d/B77NJj/js-string-callback-html5-sqlite)
-
-2018-03-20 10:55 [html5本地存储和本地数据库 - 江湖丶丿新进程 - 博客园](http://www.cnblogs.com/chjb/articles/5291462.html)
-
-2018-03-20 11:00 [前端常用类库资源 - 掘金](https://juejin.im/post/5a30870c6fb9a04522077c88)
-
-2018-03-20 16:16 [Colorrrs](https://www.webpagefx.com/web-design/random-color-picker/)
-
-2018-03-29 15:44 [网页制作辅助工具-jQuery标尺参考线插件 « 张鑫旭-鑫空间-鑫生活](http://www.zhangxinxu.com/wordpress/2010/08/%E7%BD%91%E9%A1%B5%E5%88%B6%E4%BD%9C%E8%BE%85%E5%8A%A9%E5%B7%A5%E5%85%B7-jquery%E6%A0%87%E5%B0%BA%E5%8F%82%E8%80%83%E7%BA%BF%E6%8F%92%E4%BB%B6/)
-
-2018-04-09 10:19 [在vue.js中使用JSZip实现在前端解压文件 - CSDN博客](https://blog.csdn.net/zhongfei1217/article/details/53267648)
-
-2018-04-09 14:59 [快速理解JavaScript 中的 LHS 和 RHS 查询 - savokiss的专栏 - SegmentFault 思否](https://segmentfault.com/a/1190000010645079)
-
-2018-04-10 13:29 [HTML5拖放事件（Drag-and-Drop,DnD） - 自律西红柿 - 博客园](http://www.cnblogs.com/sugar-tomato/p/4533977.html)
-
-2018-04-11 21:49 [关于 JS 拖拽功能的冲突问题及解决方法 - 叙帝利 - 博客园](https://www.cnblogs.com/nzbin/p/8481241.html)
-
-2018-04-13 17:43 [mustache语法 - 小花大方 - 博客园](https://www.cnblogs.com/DF-fzh/p/5979093.html)
-
-2018-04-19 22:02 [JS转换HTML转义符 - leejersey - 博客园](https://www.cnblogs.com/leejersey/p/4568092.html)
-
-2018-04-28 14:39 [JS 获取和监听屏幕方向变化（portrait / landscape） - Raychan - 博客园](https://www.cnblogs.com/wx1993/p/5916881.html)
-
-2018-04-28 15:30 [onbeforeunload事件两种写法及效果 - Easy C# - 博客园](https://www.cnblogs.com/easyc/p/javascript_addeventlistener_beforeunload.html)
-
-2018-04-28 21:33 [README - CSDN博客](https://blog.csdn.net/abner_yan/article/details/53255740)
-
-2018-04-28 22:03 [破解google翻译API全过程 - 胖喵~ - 博客园](https://www.cnblogs.com/by-dream/p/6554340.html)
-
-2018-05-01 10:30 [video.js--很赞的H5视频播放库 - stoneniqiu - 博客园](https://www.cnblogs.com/stoneniqiu/p/5807568.html)
-
-2018-05-03 08:23 [Comparison of JavaScript-based source code editors - Wikipedia](https://en.m.wikipedia.org/wiki/Comparison_of_JavaScript-based_source_code_editors)
-
-2018-05-03 12:12 [Javascript版经典游戏之《扫雷》 - wangmeijian - 博客园](https://www.cnblogs.com/wangmeijian/p/4031022.html)
-
-2018-05-03 12:17 [前端加载大图片从模糊到清晰 - wangmeijian - 博客园](http://www.cnblogs.com/wangmeijian/p/6822674.html)
-
-2018-05-03 12:17 [简单的扫雷游戏，原生JS实现 - 菜鸟传奇 - 博客园](https://www.cnblogs.com/settimeout/p/8029280.html)
-
-2018-05-11 08:56 [搜云库](https://mp.weixin.qq.com/s?__biz=MzA3MTUzOTcxOQ%3D%3D&mid=2452964662&idx=1&sn=c4f76f5ee9c527560aa2b25f8266da0c&chksm=88ede85ebf9a614828f3197fe20c08a9eba6b4b38cd03eb3a9c1d94fd16bbd75f99c23f90451)
-
-2018-07-27 10:24 [JavaScript复制内容到剪贴板 - 掘金](https://juejin.im/post/5a94f8eff265da4e9b593c29)
-
-2018-07-27 10:55 [JS Range HTML文档/文字内容选中、库及应用介绍 « 张鑫旭-鑫空间-鑫生活](https://www.zhangxinxu.com/wordpress/2011/04/js-range-html%E6%96%87%E6%A1%A3%E6%96%87%E5%AD%97%E5%86%85%E5%AE%B9%E9%80%89%E4%B8%AD%E3%80%81%E5%BA%93%E5%8F%8A%E5%BA%94%E7%94%A8%E4%BB%8B%E7%BB%8D/)
-
-2018-09-27 14:45 [图片的异步加载与onload函数 - 简书](https://www.jianshu.com/p/d3a02ffe94b6)
-
-2018-09-30 15:56 [原生JS封装_new函数，实现new关键字的功能 - 难凉热血的博客 - CSDN博客](https://blog.csdn.net/u010342862/article/details/80016695)
-
-2018-09-30 16:08 [详解Object.create(null) - 掘金](https://juejin.im/post/5acd8ced6fb9a028d444ee4e)
-
-2018-09-30 16:10 [js改变this指向的方法：call apply bind - 苦笔的博客 - CSDN博客](https://blog.csdn.net/u014711094/article/details/80468844)
-
-2018-09-30 16:19 [跨域资源共享 CORS 详解 - 阮一峰的网络日志](http://www.ruanyifeng.com/blog/2016/04/cors.html)
-
-2018-09-30 17:12 [JS中判断对象是不是数组的方法 - 掘金](https://juejin.im/post/5a965784f265da4e9449e816)
-
-2018-10-10 17:28 [深入理解 JavaScript 中的 delete 操作符 | bubkoo](http://bubkoo.com/2014/01/23/deep-in-delete/)
-
-2018-10-26 15:24 [JavaScript中的内存释放 - 简书](https://www.jianshu.com/p/3b7946c4b118)
-
-2018-10-26 15:24 [JavaScript 内存泄漏教程 - 阮一峰的网络日志](http://www.ruanyifeng.com/blog/2017/04/memory-leak.html)
-
-#####  swiper滑动插件
-
-2015-02-04 18:24 [Swiper 中文API手册（share） - 挨踢前端 - 博客园](http://www.cnblogs.com/duanhuajian/p/4097310.html)
-
-2015-02-04 18:24 [swipejs–移动web页面内容触摸滑动类库_觉唯](http://www.jiawin.com/swipe-mobile-touch-slider)
-
-2015-05-14 14:52 [中文api - Swiper中文网](http://www.swiper.com.cn/api/)
-
-
-
-#####  Ajax
-
-2015-02-06 08:56 [对比javascript与jquery对ajax的实现 - 发表是最好的记忆 - 博客园](http://www.cnblogs.com/shenliang123/archive/2012/04/19/2456735.html)
-
-2015-02-06 08:56 [js与jQuery实现的兼容多浏览器Ajax请求实例_AJAX相关_脚本之家](http://www.jb51.net/article/57632.htm)
-
-2015-02-06 11:31 [ajax开发框架和XMLhttpRequest、responseText、responseXml和JSON的应用 - 其他 - 红黑联盟](http://www.2cto.com/kf/201303/196431.html)
-
-2015-02-06 11:31 [XmlHttpRequest调用Webservice的一点心得 - Krime Rex - 博客园](http://www.cnblogs.com/dashublog/archive/2012/07/18/2597872.html)
-
-2015-02-06 11:31 [傳送與接收 JSON](http://www.openhome.cc/Gossip/JavaScript/JSON.html)
-
-2015-02-06 11:31 [XMLhttpRequest 请求 XML,JSON ,POJO 数据 - 今天的努力,是为了明天更美好 - ITeye技术网站](http://takeme.iteye.com/blog/1691725)
-
-2015-02-06 15:58 [前端在本地模拟跨域获取后端数据 - snowinmay - 博客园](http://www.cnblogs.com/snowinmay/p/3415498.html)
-
-2015-06-11 09:54 [AJAX POST&amp;跨域 解决方案 - CORS - 聂微东 - 博客园](http://www.cnblogs.com/Darren_code/p/cors.html)
-
-2015-06-11 11:41 [jQueryUI实战之Autocomplete组件的JSONP使用](http://www.gbtags.com/technology/jquery/tutorial4jqueryuiautocomplete/)
-
-2016-03-08 13:57 [【AJAX】反向Ajax第1部分:Comet介绍 - Ronli - 博客园](http://www.cnblogs.com/ronli/archive/2011/10/15/ReverseAjax.html)
-
-2016-03-08 14:08 [反向 Ajax，第 1 部分: Comet 简介](http://www.ibm.com/developerworks/cn/web/wa-reverseajax1/)
-
-2016-06-07 20:03 [Ajax 通过 Request Payload 体发送 JSON 数据体 - CodeWeblog.com](http://www.codeweblog.com/ajax-%E9%80%9A%E8%BF%87-request-payload-%E4%BD%93%E5%8F%91%E9%80%81-json-%E6%95%B0%E6%8D%AE%E4%BD%93/)
-
-2016-08-26 13:11 [HTTP AJAX POST请求中参数以form data和request payload形式在servlet中的获取方式 - 推酷](http://www.tuicool.com/articles/EBnM7b)
-
-2016-08-26 13:11 [ajax - How can I post data as form data instead of a request payload? - Stack Overflow](http://stackoverflow.com/questions/11442632/how-can-i-post-data-as-form-data-instead-of-a-request-payload)
-
-2017-04-10 16:31 [使用xmlHttprequest 发送异步请求（Ajax核心对象） - CrazyShun - 博客园](http://www.cnblogs.com/CrazyShun/p/4835471.html)
-
-
-
-#####  heatMap热力图
-
-2015-02-12 15:22 [heatmap.js 一个用canvas画热力图的利器 | A.I](http://1.aisensiy.sinaapp.com/2011/12/heatmapjs/)
-
-2015-02-12 15:22 [heatmap.js | Dynamic Heatmaps for the Web](http://www.patrick-wied.at/static/heatmapjs/)
-
-2015-02-12 18:02 [浅谈Heatmap | 火丁笔记](http://huoding.com/2011/01/04/39)
-
-2015-02-12 18:02 [热力图功能示例](http://developer.baidu.com/map/jsdemo/demo/c1_15.htm)
-
-2015-02-13 10:36 [» How to make heat maps Corunet. El Blog](http://blog.corunet.com/how-to-make-heat-maps/)
-
-2015-02-13 10:36 [js使用heatmap热力图的一些操作 - fanzhang1990的专栏 - 博客频道 - CSDN.NET](http://blog.csdn.net/fanzhang1990/article/details/18042863)
-
-2015-02-13 11:29 [基于HTML5实现的Heatmap热图3D应用 - 51CTO.COM](http://developer.51cto.com/art/201409/451093.htm)
-
-2013-07-14 22:27 [heatmap.js | Showcases](http://www.patrick-wied.at/static/heatmapjs/showcases.html)
-
-2013-07-14 22:27 [heatmap.js/README.md at master · pa7/heatmap.js · GitHub](https://github.com/pa7/heatmap.js/blob/master/README.md)
-
-2013-07-14 22:28 [C#热图生成（二）——with Silverlight - Gildor Wang - 博客园](http://www.cnblogs.com/Gildor/archive/2010/05/18/1738225.html)
-
-2013-07-14 22:28 [HeatMapAPI.com - Home](http://www.heatmapapi.com/Default.aspx)
-
-2013-07-14 22:28 [国内外 Heatmap 、热图的应用和相关技术_.Net编程 - 好工具站长分享平台](http://www.haogongju.net/art/1357001)
-
-
-
-#####  prototype原型链
-
-2015-02-27 17:34 [[译] JavaScript核心指南(JavaScript Core) 【转】 - ifishing - 博客园](http://www.cnblogs.com/ifishing/archive/2010/12/08/1900594.html)
-
-2015-02-26 18:01 [__proto__以及prototype的分析_袁家小黑球_新浪博客](http://blog.sina.com.cn/s/blog_75a555e40101qn3s.html)
-
-2015-02-27 17:47 [关于__proto__和prototype的一些理解 - TonyCoolZhu - 博客园](http://www.cnblogs.com/zzcflying/archive/2012/07/20/2601112.html)
-
-2015-02-27 17:47 [__proto__ 属性 (Object) (JavaScript)](https://msdn.microsoft.com/zh-cn/library/ie/dn342818(v=vs.94).aspx)
-
-2015-03-02 13:32 [JavaScript类和继承：constructor 属性探秘 – 青豆前端](http://www.qingdou.me/5040.html)
-
-
-
-#####  JQuery
-
-2015-03-31 17:23 [[原]jQuery .tmpl(), .template()学习 - think8848 - 博客园](http://www.cnblogs.com/think8848/archive/2011/07/17/2108570.html)
-
-2015-04-14 10:26 [jQuery easy pie chart 插件使用（基于HTML5） - WEB开发笔记](http://www.chhua.com/web-note4816)
-
-2015-05-08 14:49 [Swipebox | A touchable jQuery lightbox](http://brutaldesign.github.io/swipebox/)
-
-2015-05-12 17:23 [Access-Control-Allow-Origin与跨域 - 推酷](http://www.tuicool.com/articles/7FVnMz)
-
-2015-05-12 17:38 [ajax JSONP请求 处理回调函数的注意：jsonpCallback是区分大小写 - 。。。 - 博客频道 - CSDN.NET](http://blog.csdn.net/default7/article/details/11363143)
-
-2015-05-12 18:11 [跨域请求之jQuery的ajax jsonp的使用解惑_jquery_脚本之家](http://www.jb51.net/article/28502.htm)
-
-2015-05-12 18:11 [jQuery ajax parsererror was not called的解决办法_51运维网--专注Linux/Unix系统安全运维_51OU.COM](http://www.51ou.com/browse/aijquery/57569.html)
-
-2015-05-12 18:11 [jquery ajax parsererror was not called - 流花浮影 - 博客频道 - CSDN.NET](http://blog.csdn.net/baggio7095586/article/details/38421955)
-
-2015-05-12 18:11 [eval解析JSON中的注意点 - Javascript - 郑州网建](http://camnpr.com/archives/564.html)
-
-2015-05-12 18:11 [JQuery ajax请求一直返回Error（parsererror） - yiluoAK_47的专栏 - 博客频道 - CSDN.NET](http://blog.csdn.net/yiluoak_47/article/details/8190598)
-
-2015-05-12 18:12 [Jsonp 跨域访问 - Zemo 学习笔记 - 博客频道 - CSDN.NET](http://blog.csdn.net/zemochen/article/details/19046895)
-
-2015-05-12 18:12 [JSON和JSONP有哪些区别，PhoneGap跨域请求如何实现 - js/jquery 教程](http://www.phonegap100.com/article-72-1.html)
-
-2015-05-13 09:44 [JQuery+ajax+jsonp 跨域访问 - Spring——Java程序员的春天 - ITeye技术网站](http://hanqunfeng.iteye.com/blog/1866712)
-
-2015-05-13 17:45 [[JS前端开发] js/jquery控制页面动态加载数据 滑动滚动条自动加载事件 - 冷眼相看、却不知我的辛酸 - 博客频道 - CSDN.NET](http://blog.csdn.net/yafei450225664/article/details/40889057)
-
-2015-05-15 14:11 [jQuery的deferred对象详解 - 阮一峰的网络日志](http://www.ruanyifeng.com/blog/2011/08/a_detailed_explanation_of_jquery_deferred_object.html)
-
-2015-05-15 14:17 [[转] Jquery滚动加载 - chutianshu_1981 - 博客园](http://www.cnblogs.com/chutianshu1981/p/3603356.html)
-
-2015-05-22 16:19 [设置JqueryUI DatePicker默认语言为中文 - X龙 - 博客园](http://www.cnblogs.com/longjxchina/archive/2012/04/23/2466998.html)
-
-2015-05-29 10:52 [js/jquery 实时监听输入框值变化的完美方案：oninput &amp; onpropertychange - PHP网站开发的日志 - 网易博客](http://blog.163.com/lgh_2002/blog/static/44017526201341511112874/)
-
-2015-08-20 13:58 [jQuery自定义滚动条样式插件mCustomScrollbar | 前端开发-WEB前端开发-专业前端开发网站](http://www.wufangbo.com/mcustomscrollbar/)
-
-2015-08-20 14:05 [11 个最佳 jQuery 滚动条插件 - Web前端 - ITeye资讯](http://www.iteye.com/news/27748)
-
-2015-08-20 14:05 [jQuery custom content scroller – malihu | web design](http://manos.malihu.gr/jquery-custom-content-scroller/)
-
-2015-08-20 14:05 [jquery Sly滚动条插件制作横向滚动条和垂直滚动条_素材中国17素材网](http://www.17sucai.com/pins/51.html)
-
-2015-08-27 14:08 [jquery 实现原理九：css - 阿训的博客 - 博客频道 - CSDN.NET](http://blog.csdn.net/lihongxun945/article/details/13770031)
-
-2015-08-27 14:19 [Sizzle引擎--原理与实践（一） - 西山 - 博客园](http://www.cnblogs.com/xesam/archive/2012/02/15/2352466.html)
-
-2015-08-27 18:41 [解密jQuery内核 DOM操作的核心函数domManip - 【Aaron】 - 博客园](http://www.cnblogs.com/aaronjs/p/3508190.html)
-
-2015-08-27 18:41 [Sizzle首页、文档和下载 - jQuery的选择器引擎 - 开源中国社区](http://www.oschina.net/p/sizzle/)
-
-2015-08-28 17:14 [【一起学习jQuery源码--逐行分析jQuery源码的奥秘】进阶视频 - 妙味视频教程 - 妙味茶馆 - Powered by Discuz!](http://bbs.miaov.com/forum.php?mod=viewthread&tid=7484)
-
-2015-09-06 17:51 [jQuery QQ表情插件jquery.qqFace.js](http://www.jq22.com/jquery-info365)
-
-2015-12-15 20:31 [jQuery.extend 函数详解 - RascallySnake - 博客园](http://www.cnblogs.com/RascallySnake/archive/2010/05/07/1729563.html)
-
-2016-03-03 17:35 [jQuery 3.0 的变化 - snandy - 博客园](http://www.cnblogs.com/snandy/p/4650599.html)
-
-2016-04-13 17:37 [使用jquery.qrcode生成二维码_Helloweba](http://www.helloweba.com/view-blog-226.html)
-
-2016-09-02 09:42 [解密jQuery事件核心 - 模拟事件（四） - 【Aaron】 - 博客园](http://www.cnblogs.com/aaronjs/p/3481075.html)
-
-2016-09-02 14:01 [jQuery 对AMD的支持（Require.js中如何使用jQuery） – WEB前端开发 - 专注前端开发，关注用户体验](http://www.css88.com/archives/4826)
-
-2018-04-11 18:16 [jQuery Animated Border: jquery.animatedborders.js - Craig Davis](http://there4.io/2013/01/03/jquery-animated-borders/)
-
-
-
-#####  语法高亮
-
-2015-04-10 13:39 [highlight.js 语法高亮](https://highlightjs.org/)
-
-2015-04-10 13:39 [用 highlight.js 为文章中的代码添加语法高亮 | Ghost中文网](http://www.ghostchina.com/adding-syntax-highlighting-to-ghost-using-highlight-js/)
-
-2015-04-10 13:39 [使用 highlight.js 高亮你的代码 - zlx's Thinking](http://blog.zlxstar.me/blog/2014/04/05/shi-yong-highlightjs-gao-liang/?utm_source=tuicool)
-
-2015-04-10 14:38 [Library API — highlight.js 8.5 documentation](http://highlightjs.readthedocs.org/en/latest/api.html#configure-options)
-
-2018-03-07 11:12 [使用highlight.js高亮你的代码 - Ermu丨 - 博客园](https://www.cnblogs.com/ermu-learn/p/5993025.html)
-
-2018-03-07 11:13 [highlight.js使你的代码高亮 - 风雨后见彩虹 - 博客园](https://www.cnblogs.com/moqiutao/p/6541089.html)
-
-
-
-#####  ES6
-
-2015-06-09 16:55 [ECMAScript 6 compatibility table](http://kangax.github.io/compat-table/es6/)
-
-2015-06-09 16:55 [ECMAScript 6简介 - ECMAScript 6入门](http://es6.ruanyifeng.com/#docs/intro)
-
-2015-04-21 15:09 [向ES6靠齐的Class.js - 推酷](http://www.tuicool.com/articles/uYNFfm2)
-
-2015-09-15 17:23 [ECMAScript 2015 Language Specification – ECMA-262 6th Edition](http://www.ecma-international.org/ecma-262/6.0/)
-
-2015-09-15 17:23 [www.ecma-international.org/ecma-262/6.0/ECMA-262.pdf](http://www.ecma-international.org/ecma-262/6.0/ECMA-262.pdf)
-
-2016-03-21 17:47 [(转)Babel-现在开始使用 ES6 - 推酷](http://www.tuicool.com/articles/biiyAfI)
-
-2016-03-21 17:48 [Babel · The compiler for writing next generation JavaScript](https://babeljs.io/repl/)
-
-2016-03-21 18:20 [Babel · The compiler for writing next generation JavaScript](https://babeljs.io/)
-
-2016-03-23 15:37 [[译] 基于 Webpack 和 ES6 打造 JavaScript 类库 - 推酷](http://www.tuicool.com/articles/ma6nEz)
-
-2015-06-09 11:47 [ECMAScript 6入门](http://es6.ruanyifeng.com/)
-
-2016-04-28 10:06 [ECMAScript Next compatibility table](http://kangax.github.io/compat-table/esnext/)
-
-2016-04-28 10:08 [How Much of ECMAScript 6 Does Your Browser Support? - ES-Checker](http://ruanyf.github.io/es-checker/)
-
-2016-04-28 10:08 [ES6 的功能侦测库 ES-Checker - 阮一峰的网络日志](http://www.ruanyifeng.com/blog/2015/06/es-checker.html)
-
-2016-04-28 10:09 [深入浅出ES6（七）：箭头函数 Arrow Functions](http://www.infoq.com/cn/articles/es6-in-depth-arrow-functions)
-
-2016-05-09 14:33 [Introduction | ES6](http://es6.imsyu.com/)
-
-2016-05-20 14:31 [ES6 学习笔记 - web前端 - SegmentFault](https://segmentfault.com/a/1190000002904199)
-
-2015-06-09 13:30 [ES6 JavaScript Promise的感性认知 « 张鑫旭-鑫空间-鑫生活](http://www.zhangxinxu.com/wordpress/2014/02/es6-javascript-promise-%E6%84%9F%E6%80%A7%E8%AE%A4%E7%9F%A5/)
-
-2016-12-01 16:27 [目前最好的 JavaScript 异步方案 async/await - OPEN 开发经验库](http://www.open-open.com/lib/view/open1448198037181.html)
-
-2016-12-10 16:06 [利用转码器让ES6在浏览器运行 - luoyjx - 搞起博客](https://blog.gaoqixhb.com/p/55783789cef7e0a008d5d6ef)
-
-2017-06-28 10:38 [使用 ES6 的浏览器兼容性问题 - 秘锐笔记 - SegmentFault](https://segmentfault.com/a/1190000005128101)
-
-2017-08-04 11:07 [Babel核心用法记要 - 简书](http://www.jianshu.com/p/ff7e0de573a9)
-
-2018-01-09 16:35 [js求数组最大值方法汇总 - zhwaner - 博客园](https://www.cnblogs.com/zhwaner/p/7513649.html)
-
-
-
-#####  正则
-
-2015-06-11 15:18 [验证身份证的正则表达式包括15，18 位 - jiang_tao_2010的日志 - 网易博客](http://blog.163.com/jiang_tao_2010/blog/static/1211268902010011102157920/)
-
-2015-06-11 15:18 [JS正则表达式验证身份证号码 - foart的专栏 - 博客频道 - CSDN.NET](http://blog.csdn.net/foart/article/details/6873622)
-
-2015-12-30 16:06 [电话号码正则表达式（支持手机号码，3-4位区号，7-8位直播号码，1－4位分机号） - FlykerWu - 博客园](http://www.cnblogs.com/flyker/archive/2009/02/12/1389435.html)
-
-2016-11-27 20:28 [正则表达式\w并不完全等于[A-Za-z0-9]](http://www.jiaonan.tv/html/blog/1/25419.htm)
-
-2017-02-16 08:30 [正则匹配闭合HTML标签（支持嵌套） - Qi Fei - 博客园](http://www.cnblogs.com/youring2/p/3836259.html)
-
-
-
-#####  MD5
-
-2015-06-23 17:46 [如何实现JS_MD5加密_865296174_新浪博客](http://blog.sina.com.cn/s/blog_815611fb0101f9kq.html)
-
-2015-06-25 17:16 [emn178/js-md5](https://github.com/emn178/js-md5)
-
-
-
-#####  跨域
-
-2015-06-24 16:46 [HTTP access control (CORS) - HTTP | MDN](https://developer.mozilla.org/en-US/docs/Web/HTTP/Access_control_CORS#Browser_compatibility)
-
-2015-06-24 17:36 [跨域post请求实现方案小结--转 - 一天不进步，就是退步 - 博客园](http://www.cnblogs.com/davidwang456/p/3977627.html)
-
-2015-06-25 17:16 [HTML5中Access-Control-Allow-Origin解决跨域问题-html5教程-网页制作-壹聚教程网](http://www.111cn.net/wy/html5/75509.htm)
-
-2015-06-26 13:38 [[经验] - JQuery.Ajax + 跨域 (crossDomain) + POST + JSON + WCF RESTful, 5大陷阱和解决方案 - Ivan Zou - 推酷](http://www.tuicool.com/articles/z67Bvi)
-
-2015-08-14 14:26 [html5 postMessage解决跨域、跨窗口消息传递 - Samaritans - 博客园](http://www.cnblogs.com/dolphinX/p/3464056.html)
-
-2015-08-14 16:32 [HTML5 postMessage 消息传输与 POST 跨域通信 | 志文工作室](http://lzw.me/a/html5-postmessage-post-cross-domain.html)
-
-2015-08-14 16:32 [html5跨域通讯之postMessage的用法 - 钱天兵 - 博客园](http://www.cnblogs.com/wshiqtb/p/3171199.html)
-
-2015-08-28 11:29 [实现跨域通信（跨文档消息传输）的几种方法（crossMessageEvent.js） - SegmentFault](http://segmentfault.com/a/1190000002448922)
-
-2015-06-11 13:23 [使用HTML5中postMessage实现Ajax中的POST跨域问题 - OPEN 开发经验库](http://www.open-open.com/lib/view/open1422239221856.html)
-
-2015-08-28 15:29 [javascript - postMessage Source IFrame - Stack Overflow](http://stackoverflow.com/questions/15329710/postmessage-source-iframe)
-
-2015-09-22 10:08 [iframe跨域通信的解决方案 - 前端网（W3Cfuns）](http://www.w3cfuns.com/article-5595175-1-1.html)
-
-2015-09-22 13:59 [疯狂的跨域技术【转贴】 - Think - 博客园](http://www.cnblogs.com/think/archive/2010/06/23/1763616.html)
-
-2015-09-22 13:59 [biqing/MessengerJS](https://github.com/biqing/MessengerJS)
-
-2015-09-22 14:01 [跨域传值即主页面与iframe之间互相传值_javascript技巧_脚本之家](http://www.jb51.net/article/44278.htm)
-
-2017-07-10 16:22 [[CORS：跨域资源共享] W3C的CORS Specification - Artech - 博客园](http://www.cnblogs.com/artech/p/cors-4-asp-net-web-api-02.html)
-
-2018-03-13 22:10 [CORS基础要点：关于dataType、contentType、withCredentials - 学明 - 博客园](https://www.cnblogs.com/xueming/p/cors-base.html)
-
-
-
-#####  Md5
-
-2015-06-25 16:56 [Faulty Labs](http://blog.faultylabs.com/?d=md5)
-
-
-
-#####  AMD
-
-2015-08-26 19:32 [AMD：浏览器中的模块规范 - snandy - 博客园](http://www.cnblogs.com/snandy/archive/2012/03/12/2390782.html)
-
-
-
-#####  emoji
-
-2015-09-08 19:11 [用来转换 emoji 表情的 jQuery 插件：jQuery Emoji Plugin - OPEN 开发经验库](http://www.open-open.com/lib/view/open1403409691599.html)
-
-2015-09-08 19:11 [[力荐]表情选择器](http://www.jq22.com/jquery-info854)
-
-2015-09-08 19:11 [JavaScript 的 Emoji 转换库：js-emoji - OPEN 开发经验库](http://www.open-open.com/lib/view/open1403079020825.html)
-
-2015-09-14 18:04 [10款受欢迎的Github Emoji开源库-控件新闻-慧都控件网](http://www.evget.com/article/2014/11/14/21821.html)
-
-2015-09-14 18:04 [iamcal/js-emoji](https://github.com/iamcal/js-emoji)
-
-2015-09-14 18:19 [Emoji cheat sheet for GitHub, Basecamp and other services](http://www.emoji-cheat-sheet.com/)
-
-2015-09-14 18:21 [Ranks/emojify.js](https://github.com/Ranks/emojify.js)
-
-2015-09-14 18:21 [arvida/emoji-cheat-sheet.com](https://github.com/arvida/emoji-cheat-sheet.com)
-
-2015-09-14 18:21 [和Emoji相关的那些开源项目 | @Get社区](http://get.jobdeer.com/?a=article&aid=181)
-
-2015-09-14 18:27 [emoji处理方式大起底 - ugg的专栏 - 博客频道 - CSDN.NET](http://blog.csdn.net/ugg/article/details/44225723)
-
-2015-09-15 13:46 [Emoji表情符号兼容方案 - karl的专栏 - 博客频道 - CSDN.NET](http://blog.csdn.net/qdkfriend/article/details/7576524)
-
-2015-09-15 14:43 [Emoji searcher](http://emoji.muan.co/)
-
-2015-09-15 15:07 [iOS Emoji](http://punchdrunker.github.io/iOSEmoji/table_html/index.html)
-
-2017-06-07 10:20 [emoji表情符号编码大全-符号大全](http://www.fuhaodq.com/biaoqingfuhao/1531.html)
-
-2017-06-07 10:20 [Emoji的编码以及常见问题的解决方法 - 推酷](http://www.tuicool.com/articles/zUZjUfJ)
-
-2017-06-07 10:20 [Twitter Emoji (Twemoji)](http://twemoji.maxcdn.com/)
-
-2017-06-07 10:20 [js解析emoji表情](http://www.mamicode.com/info-detail-1130758.html)
-
-2017-06-07 10:26 [揭秘：Emoji表情的前世今生_36氪](http://36kr.com/p/212997.html)
-
-2017-06-07 10:30 [📙 Emojipedia — 😃 Home of Emoji Meanings 💁👌🎍😍](http://emojipedia.org/)
-
-2017-06-07 10:38 [Twitter Emoji (Twemoji) Preview](http://twemoji.maxcdn.com/2/test/preview.html)
-
-2017-06-07 11:11 [Emoji unicode characters for use on the web](http://apps.timwhitlock.info/emoji/tables/unicode#block-6c-other-additional-symbols)
-
-2017-06-07 14:48 [基于emoji 国际通用表情在web上的输入与显示的记录 - jtans - 博客园](http://www.cnblogs.com/jtans/p/3955880.html)
-
-
-
-#####  设计模式
-
-2015-09-18 17:12 [常用的Javascript设计模式 - 博客 - 伯乐在线](http://blog.jobbole.com/29454/)
-
-2015-09-18 17:12 [js五种设计模式说明与示例-前端路上](http://www.51xuediannao.com/qd63/index.php/page-2-53-1.html)
-
-2015-09-18 17:12 [JS设计模式一：单例模式 - 虎猫特工的个人页面 - 开源中国社区](http://my.oschina.net/humaotegong/blog/410666?p=1)
-
-
-
-#####  HTTPS
-
-2015-09-22 18:33 [SSL证书与Https应用部署小结 - hanguokai/Jackie的日志 - 网易博客](http://han.guokai.blog.163.com/blog/static/136718271201211631456811/)
-
-2015-09-22 18:33 [5a Missing schema double download | High Performance Web Sites](http://www.stevesouders.com/blog/2010/02/10/5a-missing-schema-double-download/)
-
-2015-09-22 18:33 [HTTP 和 HTTPS 的异同 - 开源中国社区](http://www.oschina.net/question/12_51314)
-
-2015-09-23 17:19 [浏览器访问https 站点提示安全受到威胁的原因及解决.docx - 服务器软件 - OPEN开源文档](http://www.open-open.com/doc/view/4bdca42e8a3d4103b160d78e90c97ed6)
-
-2015-09-23 17:20 [https和http显示混合内容 - Luminji - 博客园](http://www.cnblogs.com/luminji/archive/2012/07/24/2606248.html)
-
-
-
-#####  JS全栈
-
-2015-09-23 18:03 [全栈式JavaScript - 博客 - 伯乐在线](http://blog.jobbole.com/52745/)
-
-2015-09-23 18:31 [也谈基于NodeJS的全栈式开发经验技巧 - 前端网（W3Cfuns）](http://www.w3cfuns.com/article-1315-1.html)
-
-
-
-#####  Underscore.js
-
-2015-10-29 14:34 [underscore.js学习笔记 - 推酷](http://www.tuicool.com/articles/rUzya2)
-
-2015-03-30 18:04 [Underscore.js 中文文档](http://www.bootcss.com/p/underscore/)
-
-
-
-#####  文件上传
-
-2015-11-25 16:50 [使用 JavaScript File API 实现文件上传](http://www.ibm.com/developerworks/cn/web/1101_hanbf_fileupload/)
-
-2015-11-25 17:11 [jsupload实现js上传文件，并显示文件上传进度 - 沐北 - 博客园](http://www.cnblogs.com/heikediguo/archive/2012/01/30/2332128.html)
-
-2016-01-26 19:24 [理解DOMString、Document、FormData、Blob、File、ArrayBuffer数据类型 « 张鑫旭-鑫空间-鑫生活](http://www.zhangxinxu.com/wordpress/2013/10/understand-domstring-document-formdata-blob-file-arraybuffer/)
-
-2016-01-26 19:24 [XMLHttpRequest实现HTTP协议下文件上传断点续传 « 张鑫旭-鑫空间-鑫生活](http://www.zhangxinxu.com/wordpress/2013/11/xmlhttprequest-ajax-localstorage-%E6%96%87%E4%BB%B6%E6%96%AD%E7%82%B9%E7%BB%AD%E4%BC%A0/)
-
-######  SWFUpload
-
-2016-07-20 15:38 [文件上传利器SWFUpload使用指南 - 无双 - 博客园](http://www.cnblogs.com/2050/archive/2012/08/29/2662932.html)
-
-2016-07-21 12:20 [痕网,痕网博客,痕网工作室 - henw](http://www.cnblogs.com/henw/archive/2012/03/22/2411592.html)
-
-
-
-#####  柯里化
-
-2015-11-30 13:41 [前端开发者进阶之函数柯里化Currying - 穆乙 - 博客园](http://www.cnblogs.com/pigtail/p/3447660.html)
-
-2015-03-06 17:28 [JS中的柯里化(currying) « 张鑫旭-鑫空间-鑫生活](http://www.zhangxinxu.com/wordpress/2013/02/js-currying/)
-
-
-
-#####  jqGrid
-
-2015-12-01 10:42 [jqGrid demos-jqGrid实例-中文-mn886.net](http://blog.mn886.net/jqGrid/)
-
-
-
-#####  localStorage/sessionStorage
-
-2015-12-14 10:36 [localStorage、sessionStorage用法总结 - 猫猫的博客 - ITeye技术网站](http://adamed.iteye.com/blog/1698740)
-
-2015-12-14 10:50 [Storage - Web 开发者指南 | MDN](https://developer.mozilla.org/zh-CN/docs/Web/Guide/API/DOM/Storage)
-
-2015-12-14 11:02 [HTML5 LocalStorage本地存储和sessionStorage使用 - 乔晓松 - 博客频道 - CSDN.NET](http://blog.csdn.net/qxs965266509/article/details/10012821)
-
-2015-12-14 11:35 [浏览器跨标签通讯 - WEB前端 - 伯乐在线](http://web.jobbole.com/82225/)
-
-2015-12-14 14:44 [手把手教你开发Chrome扩展三：关于本地存储数据 - walkingp - 博客园](http://www.cnblogs.com/walkingp/archive/2011/04/04/2003875.html)
-
-2015-12-14 18:04 [bevacqua/local-storage](https://github.com/bevacqua/local-storage)
-
-2015-12-14 18:06 [WQTeam/web-storage-cache](https://github.com/WQTeam/web-storage-cache)
-
-2016-05-24 10:10 [localForage——轻松实现 Web 离线存储 - 司徒正美 - 博客园](http://www.cnblogs.com/rubylouvre/p/3633404.html)
-
-
-
-#####  Cookie
-
-2015-12-14 11:10 [js操作cookie - 乔晓松 - 博客频道 - CSDN.NET](http://blog.csdn.net/qxs965266509/article/details/8967437)
-
-2015-12-14 18:06 [理解HTTP session原理及应用 - switch - SegmentFault](http://segmentfault.com/a/1190000002714236)
-
-2015-12-24 19:20 [JS设置cookie，删除cookie - KoMiles - 博客园](http://www.cnblogs.com/wangkongming/p/3992644.html)
-
-2018-01-24 11:08 [js与cookie的domain和path之间的关系 - 强大大 - 博客园](https://www.cnblogs.com/gg1234/p/5611086.html)
-
-2018-06-04 10:01 [Cookie/Session机制详解 - 张三的美丽家园 - 博客园](https://www.cnblogs.com/greatluoluo/p/5964888.html)
-
-
-
-#####  onunload/onbeforeunload
-
-2015-12-14 14:49 [JS监听关闭浏览器事件之Onunload与Onbeforeunload - binyao02123202的专栏 - 博客频道 - CSDN.NET](http://blog.csdn.net/binyao02123202/article/details/9293693)
-
-
-
-#####  模板引擎
-
-2015-12-23 10:01 [BaiduTemplate模板引擎](http://tangram.baidu.com/BaiduTemplate/)
-
-2015-12-23 10:10 [只有20行Javascript代码！手把手教你写一个页面模板引擎 - 博客 - 伯乐在线](http://blog.jobbole.com/56689/)
-
-
-
-#####  达夫设备
-
-2015-02-11 09:39 [达夫设备（Duff's Device）的详细说明 - kingmax26的专栏 - 博客频道 - CSDN.NET](http://blog.csdn.net/kingmax26/article/details/5252657)
-
-2015-02-11 10:13 [Javascript各种循环测试，达夫设备可用性分析_那时花开_新浪博客](http://blog.sina.com.cn/s/blog_8f49f0060100wwj1.html)
-
-2016-02-22 10:06 [高性能JavaScript 达夫设备 - WEB前端 - 伯乐在线](http://web.jobbole.com/82868/)
-
-
-
-#####  Promise
-
-2016-03-02 14:01 [JavaScript Promise迷你书（中文版）](http://liubin.org/promises-book/)
-
-2016-03-02 14:02 [浅谈Javascript中Promise对象的实现 - Joe - SegmentFault](https://segmentfault.com/a/1190000000684654)
-
-2016-03-02 14:05 [tildeio/rsvp.js: A lightweight library that provides tools for organizing asynchronous code](https://github.com/tildeio/rsvp.js)
-
-2016-03-02 20:18 [手工实现Js的Promise API - 推酷](http://www.tuicool.com/articles/zUBFni)
-
-2017-03-10 16:05 [Promise初级与进阶---都在这了 - Web Learning Step by Step - SegmentFault](https://segmentfault.com/a/1190000008548794?utm_source=weekly&utm_medium=email&utm_campaign=email_weekly)
-
-2017-03-10 16:05 [关于promises，你理解了多少？](http://mp.weixin.qq.com/s?__biz=MzIyMzAwNzExNg==&mid=209354478&idx=1&sn=edd70e826b6f9e8a570024f431c5f7fe&scene=1&key=c76941211a49ab58efed75a0405e3ca61338952103fe9eabf8528d801906e4522737274eecca5489d635a5c1aa5d8b12&ascene=0&uin=MTYxMDY3MjU1&devicetype=iMac%20MacBookPro11,3%20OSX%20OSX%2010.10.4%20build%2814E46%29&version=11020113&pass_ticket=ws1Ar8vSXgH8/uRvUaFkiKCA57pR8100%2bhwA5Ifuc00=)
-
-
-
-#####  Hook
-
-2016-03-02 17:41 [[设计模式]JavaScript钩子机制的应用场景与实现 - 蓝飞技术部落格 —— 关注前沿，追求卓越。](http://www.clanfei.com/2013/10/1730.html/comment-page-1)
-
-2016-03-02 17:45 [jQuery 2.0.3 源码分析 钩子机制 - 属性操作 - 【Aaron】 - 博客园](http://www.cnblogs.com/aaronjs/p/3387906.html)
-
-
-
-#####  函数式编程
-
-2016-06-06 14:21 [JavaScript 中的函数式编程实践](http://www.ibm.com/developerworks/cn/web/1006_qiujt_jsfunctional/)
-
-2016-11-17 19:16 [JS函数式编程指南 · GitBook](https://www.gitbook.com/book/llh911001/mostly-adequate-guide-chinese/details)
-
-
-
-#####  ESLint
-
-2016-09-03 10:58 [ESLint 使用入门 - 推酷](http://www.tuicool.com/articles/7JZZJzn)
-
-2016-09-03 10:58 [feross/standard: :star2: JavaScript Standard Style Guide](https://github.com/feross/standard)
-
-2016-09-03 11:03 [airbnb/javascript: JavaScript Style Guide](https://github.com/airbnb/javascript)
-
-2017-05-26 11:37 [如何使用ESlint - 翻页工 - 博客园](http://www.cnblogs.com/fanyegong/p/5302960.html)
-
-2017-05-26 12:37 [ESLint - Pluggable JavaScript linter - ESLint中文](http://eslint.cn/)
-
-2017-07-06 11:03 [Eslint 规则说明 - 前端笔记 - CSDN博客](http://blog.csdn.net/helpzp2008/article/details/51507428)
-
-
-
-#####  Mustache语法
-
-2017-01-09 20:59 [Javascript 语言的模板引擎：Mustache - OPEN 开发经验库](http://www.open-open.com/lib/view/open1416792564461.html)
-
-2017-01-09 21:02 [{{ mustache }}](http://mustache.github.io/)
-
-
-
-#####  脑图库
-
-2017-03-21 18:19 [Web-based tooling for BPMN, DMN and CMMN | bpmn.io](http://bpmn.io/)
-
-2017-03-21 18:37 [jsMind - Developer &amp; Open Source](http://hizzgdev.github.io/jsmind/developer.html)
-
-2017-03-22 10:49 [有哪些值得推荐的数据可视化工具？ - 知乎](https://www.zhihu.com/question/19929609)
-
-2017-03-22 13:48 [用HTML5构建一个流程图绘制工具 - sunjie - 博客园](http://www.cnblogs.com/sunjie9606/p/4281902.html)
-
-2017-03-22 16:16 [jsPlumb（1） - 开始使用 - 前端左右 - SegmentFault](https://segmentfault.com/a/1190000003826470)
-
-2017-03-23 10:07 [【看完想不会都难的系列教程】- (3) JQuery+JQueryUI+Jsplumb 实现拖拽模块，流程图风格 - 技术弟弟 - 博客园](http://www.cnblogs.com/techborther/archive/2012/04/17/2454101.html)
-
-2017-03-23 10:08 [JS组件系列——JsPlumb连线及相关效果详解-爱编程](http://www.w2bc.com/Article/82400)
-
-2017-03-23 10:17 [使用jsPlumb制作流程图设计器 - Sumer - 博客频道 - CSDN.NET](http://blog.csdn.net/livialiu1234/article/details/25618897)
-
-2017-03-24 18:36 [jsPlumb.js(连线器)API阅读笔记 - leomYili - 博客园](http://www.cnblogs.com/leomYili/p/6346526.html?utm_source=itdadao&utm_medium=referral)
-
-2017-03-24 18:39 [jsPlumb 学习笔记 - yinxianluo的专栏 - 博客频道 - CSDN.NET](http://blog.csdn.net/yinxianluo/article/details/48092037)
-
-2017-03-24 18:42 [JS组件系列——JsPlumb流程图及相关效果详解 - 阅读密码：123456](http://www.cnblogs.com/landeanfen/p/4959584.html)
-
-2017-03-24 18:43 [JS组件系列——JsPlumb流程图及相关效果详解（二：附源码） - 阅读密码：123456](http://www.cnblogs.com/landeanfen/p/4971211.html)
-
-2017-03-27 10:01 [jsPlumb学习笔记 - j.w - 博客园](http://www.cnblogs.com/wang-jing/p/4121559.html)
-
-2017-03-27 10:29 [用HTML5构建一个流程图绘制工具 - 推酷](http://www.tuicool.com/articles/YN7Nfm)
-
-2017-03-27 10:50 [Javascript库之JsPlumb网络拓扑图流程图 - 笔记 - 前端网（QDFuns）](http://www.qdfuns.com/notes/15311/51bd9363b0adf52fbc7d0a32bf49e731.html)
-
-2017-04-14 15:08 [Angular Directive Example with jsPlumb](https://jsplumb-ng.herokuapp.com/)
-
-2018-02-12 10:14 [toketaWare](https://www.toketaware.com/)
-
-2018-02-12 10:14 [Home - MindNode](https://mindnode.com/)
-
-2018-03-12 20:34 [百度脑图核心——kityminder-editor 本地化改造 - 简书](https://www.jianshu.com/p/9b53499d9031)
-
-2018-07-13 15:37 [jsPlumb之流程图经验总结-js教程-PHP中文网](http://www.php.cn/js-tutorial-373568.html)
-
-2018-07-13 15:41 [jsPlumb插件做一个模仿viso的可拖拉流程图 - 孤独的十字 - 博客园](https://www.cnblogs.com/sggx/p/3836432.html)
-
-
-
-#####  lodashjs
-
-2017-04-06 17:47 [lodash 中文网](http://lodashjs.com/)
-
-
-
-#####  SVG
-
-2017-04-12 17:07 [纯CSS实现帅气的SVG路径描边动画效果 « 张鑫旭-鑫空间-鑫生活](http://www.zhangxinxu.com/wordpress/2014/04/animateion-line-drawing-svg-path-%E5%8A%A8%E7%94%BB-%E8%B7%AF%E5%BE%84/)
-
-2017-05-04 08:45 [svg 资料链接 - 赵保龙 - 博客园](http://www.cnblogs.com/zhaobl/archive/2013/02/26/2933704.html)
-
-2017-05-04 08:45 [svg开发总结 - 赵保龙 - 博客园](http://www.cnblogs.com/zhaobl/archive/2013/03/07/2948273.html)
-
-2017-05-04 16:53 [jsPlumb Toolkit - build Flowcharts, Diagrams and connectivity based applications fast](https://jsplumbtoolkit.com/)
-
-2017-05-04 16:53 [帅气的SVG路径描边动画 (path animation) 实战应用 - 推酷](http://www.tuicool.com/articles/aa2iu22)
-
-2017-05-04 16:53 [SVG技术入门：线条动画实现原理 – WEB骇客](http://www.webhek.com/post/how-svg-line-animation-works.html)
-
-2017-05-05 13:57 [XML 问题: 使用 SVG 编程](https://www.ibm.com/developerworks/cn/xml/x-matters40/)
-
-2017-11-13 12:01 [前端实现 SVG 转 PNG - WEB前端 - 伯乐在线](http://web.jobbole.com/84244/)
-
-2018-05-09 10:35 [SVG在线编辑器](http://editor.method.ac/)
-
-2018-05-09 14:32 [20 个有用的 SVG 工具，提供更好的图像处理_Linux新闻_Linux公社-Linux系统门户网站](https://www.linuxidc.com/Linux/2015-08/121933.htm)
-
-
-
-#####  particles.js
-
-2017-05-12 12:09 [particlesJS使用简介 - 分享与交流 - 博客频道 - CSDN.NET](http://blog.csdn.net/csdn_yudong/article/details/53128570)
-
-2017-05-11 18:04 [Particles.js入门: 用于创建粒子系统的JavaScript库 - 推酷](http://www.tuicool.com/articles/UNNf2ej)
-
-
-
-#####  jsrsasign
-
-2017-06-05 10:36 [jsrsasign 前台签名，Java后台验证前台签名 - BizXue - 博客园](http://www.cnblogs.com/yqweber/p/4583140.html)
-
-2017-06-05 10:38 [openssl+前端jsrsa签名+后端nodejs验签 - 衣冠小禽兽 - 博客园](http://www.cnblogs.com/brandonhulala/p/6195815.html)
-
-
-
-#####  酷站
-
-2017-06-08 13:59 [I Remember](http://i-remember.fr/en)
-
-2018-01-24 16:37 [Dribbble - Show and tell for designers](https://dribbble.com/)
-
-
-
-#####  RxJS
-
-2018-02-27 11:23 [RxJS 中文文档](http://cn.rx.js.org/)
-
-2017-05-15 17:20 [rxjs简单入门-博客-云栖社区-阿里云](https://yq.aliyun.com/articles/65027)
-
-2018-02-27 11:23 [RxJs 介绍 - 推酷](https://www.tuicool.com/articles/iYv2qiR)
-
-
-
-#####  CoffeeScript
-
-2018-03-12 11:20 [CoffeeScript 中文](http://coffee-script.org/)
-
-
-
-#####  TypeScript
-
-2018-03-12 11:21 [TypeScript - JavaScript that scales.](http://www.typescriptlang.org/)
-
-
-
-#####  Raphael.js
-
-2018-03-12 20:36 [快速上手RaphaelJS - CSDN博客](http://blog.csdn.net/witsonx/article/details/52386277)
-
-2018-03-12 20:36 [Raphaeljs入门到精通（二） - mthoutai - 博客园](https://www.cnblogs.com/mthoutai/p/6913973.html)
-
-2018-03-12 20:47 [Raphaeljs 插件实现任意SVG节点加载 - 最初的梦 - ITeye博客](http://zha-zi.iteye.com/blog/2090872)
-
-2018-03-12 20:47 [使用raphael.js绘制中国地图_Helloweba](https://www.helloweba.net/javascript/242.html)
-
-2018-03-12 22:01 [RaphaelJS - 简书](https://www.jianshu.com/p/2a2604448f17)
-
-2018-03-12 22:01 [raphael.js 流程图实例 - 沈振华 - 博客园](https://www.cnblogs.com/shenzhenhua/p/5626548.html)
-
-
-
-#####  CodeMirror
-
-2018-07-17 16:13 [codeMirror实现Json编辑器的代码格式化 - Angies - 博客园](https://www.cnblogs.com/Angies/p/7873742.html)
-
-2018-07-17 16:15 [codeMirror实现Json编辑器功能 - Angies - 博客园](https://www.cnblogs.com/Angies/p/7830948.html)
-
-2018-07-17 16:31 [CodeMirror教程，CodeMirrorAPI中文信息 - 一入PHP岁月催 - 博客园](https://www.cnblogs.com/oldphper/p/4065425.html)
-
-2018-07-17 18:03 [在Vue中使用CodeMirror 格式显示错误 行数错乱 &amp; 代码隐藏 - wenr - 博客园](https://www.cnblogs.com/wenruo/p/8274958.html)
-
-2018-07-19 10:25 [Index of /demo/](http://codemirror.net/demo/)
-
-
-
-#####  html2canvas
-
-2018-08-22 10:50 [web实时长图实践 - QQ音乐技术团队 | 十条](http://webcache.googleusercontent.com/search?q=cache:http://www.10tiao.com/html/223/201802/2651232877/1.html&gws_rd=cr)
-
-2018-01-15 22:36 [使用html2canvas实现浏览器截图 - 焰尾迭 - 博客园](https://www.cnblogs.com/yanweidie/p/5203943.html)
-
-2018-01-16 10:32 [移动端H5页面截图【含 domtoimage、html2canvas 】 - CSDN博客](http://blog.csdn.net/candy_home/article/details/78424642)
-
-2018-08-22 10:57 [html2canvas库使用中出现的问题及解决方案 - CSDN博客](https://blog.csdn.net/SDUST_JSJ/article/details/78122610)
-
-
-
-#####  p5.js
-
-2018-09-11 11:08 [p5.js教程01-一文入门p5.js - DataScience](http://mlln.cn/2018/07/06/p5.js%E6%95%99%E7%A8%8B01-%E5%BF%AB%E9%80%9F%E5%85%A5%E9%97%A8/)
-
-2018-09-11 11:16 [p5.js 和 Processing 的恩怨情仇](https://zhuanlan.zhihu.com/p/36167161)
-
-2018-09-11 14:15 [p5.js入门教程(1) p5.js简介&amp;基本形状绘制 - CSDN博客](https://blog.csdn.net/qq_27534999/article/details/75151515)
-
-
-
-#####  echarts
-
-2018-06-27 10:54 [ECharts Gallery](http://gallery.echartsjs.com/editor.html?c=xr1W9m5LOG)
-
-2018-06-27 10:55 [ECharts Gallery](http://gallery.echartsjs.com/editor.html?c=xryq1SbiDf)
-
-2018-06-27 10:56 [ECharts Demo](http://echarts.baidu.com/examples/editor.html?c=map-polygon&theme=light)
-
-2018-06-27 10:56 [GeoJSON](http://geojson.org/)
-
-2018-06-27 10:56 [ECharts Demo](http://www.echartsjs.com/gallery/editor.html?c=scatter-map)
-
-2018-06-27 10:56 [ECharts Gallery](http://gallery.echartsjs.com/editor.html?c=xBJDR584vG)
-
-2018-06-28 10:08 [在 ECharts GL 中绘制三维地图](http://echarts.baidu.com/blog/2017/06/14/building-realistic-map-with-echarts-gl.html)
-
-
-
-####  LeetCode
-
-2017-09-11 10:26 [Two Sum 的 javascript 解法 - 简书](http://www.jianshu.com/p/b3be87df03a2)
-
-2017-09-11 10:27 [javascript -- leetcode two sum , 这个题还有更优的解法吗？ - SegmentFault](https://segmentfault.com/q/1010000002903099)
+2015-06-19 09:51 [TBCLUB-web6|企业官网|网页|wangtao_no1 - 原创设计作品 - 站酷 (ZCOOL)](http://www.zcool.com.cn/work/ZMTI1MTU5NzY=.html)
 
 
 
@@ -5206,1399 +6734,815 @@
 
 
 
-####  Markdown
+####  F2E
 
-2015-04-03 16:35 [Markdown 语法说明(简体中文版)](http://wowubuntu.com/markdown/#link)
+2015-06-08 11:31 [F2E - 前端技术社区](http://www.f2e.im/)
 
-2015-06-25 14:56 [Editor - Markable.in](http://markable.in/editor/)
+2015-08-21 16:25 [前后端分离的思考与实践（一） - 博客 - 伯乐在线](http://blog.jobbole.com/65513/)
 
-2016-06-01 14:44 [欢迎使用马克飞象 - 马克飞象 - 专为印象笔记打造的Markdown编辑器](https://maxiang.io/)
+2015-08-21 17:43 [responsive-page by ufologist](http://ufologist.github.io/responsive-page/)
 
-2016-12-10 21:59 [JavaScript Markdown Editor - SimpleMDE](https://simplemde.com/)
+2015-08-21 17:45 [帮助解决 IE 兼容性的一些资源 - F2E](http://www.f2e.im/t/773#reply0)
 
-2017-04-28 09:51 [Cmd Markdown 编辑阅读器 - 作业部落出品](https://www.zybuluo.com/mdeditor)
+2015-08-21 18:06 [ie6,ie7,ie8 css bug兼容解决记录 | 前端开发-WEB前端开发-专业前端开发网站](http://www.wufangbo.com/ie6-ie7-ie8-css-bug-2/)
 
-2018-03-12 16:53 [markdown|大型技术文档手册撰写与发布方法 - 简书](https://www.jianshu.com/p/fff3803e975a)
+2015-08-21 18:06 [一行代码解决各种IE兼容问题,IE6,IE7,IE8,IE9,IE10 - jgwei的专栏 - 博客频道 - CSDN.NET](http://blog.csdn.net/jgwei/article/details/18599433)
 
-2018-09-29 18:01 [MarkdownPad2.5 注册码 - 简书](https://www.jianshu.com/p/9e5cd946696d)
+2015-08-21 18:27 [D2 前端技术论坛流水账 - SegmentFault](http://segmentfault.com/a/1190000000743308)
 
-#####  Org-mode
+2015-08-21 18:40 [2014-10-25 南京源创会 fibjs 分享 ppt - 那么，一起玩吧](http://baoz.cn/498326)
 
-2018-10-17 15:12 [Org-mode 简明手册 - open source - 博客园](http://www.cnblogs.com/Open_Source/archive/2011/07/17/2108747.html)
+2015-09-15 17:45 [GitHub上整理的一些工具，求补充 - | @Get社区](http://get.jobdeer.com/6661.get)
 
-2018-10-17 15:13 [org mode文档转成markdown格式 - Rickey - CSDN博客](https://blog.csdn.net/abcamus/article/details/53738481)
+2015-09-15 18:22 [程序员博客墙](http://blogwall.us/)
 
-2018-10-17 15:14 [Org-mode、reST、 Markdown 各有什么优缺点？ - 知乎](https://www.zhihu.com/question/19851600)
+2015-09-15 18:37 [Icon Font &amp; SVG Icon Sets ❍ IcoMoon](https://icomoon.io/#home)
 
-2018-10-17 15:18 [用1天快速上手org-mode（windows系统） - Tavion - 博客园](https://www.cnblogs.com/Tavion/p/5164057.html)
+2015-09-15 18:37 [首页 | @Get社区](http://get.jobdeer.com/?c=default)
 
-2018-10-17 15:20 [Org mode for Emacs – Your Life in Plain Text](http://orgmode.org/)
+2015-10-12 14:55 [直接拿来用！最火的前端开源项目（一）-CSDN.NET](http://www.csdn.net/article/2013-06-25/2815979-front-end-development)
 
-2018-10-17 15:26 [Emacs学习笔记(9):org-mode，最好的文档编辑利器，没有之一 - 心内求法 - 博客园](https://www.cnblogs.com/holbrook/archive/2012/04/12/2444992.html)
+2015-10-14 18:22 [《高性能javascript》一书要点和延伸（上） - 推酷](http://www.tuicool.com/articles/jyMzqay)
 
+2015-10-22 16:37 [开发资源总结 2015-10-20 更新 - SegmentFault](http://segmentfault.com/a/1190000002691861)
 
+2015-11-19 11:04 [kevinsu1989/f2etest](https://github.com/kevinsu1989/f2etest)
 
-####  Mobile
+2015-12-14 11:55 [My-blog/Front-end-Developer-Questions at master · markyun/My-blog](https://github.com/markyun/My-blog/tree/master/Front-end-Developer-Questions)
 
-2015-01-30 09:37 [javascript移动端开发框架：Qmik - OPEN 开发经验库](http://www.open-open.com/lib/view/open1381642113130.html)
+2015-12-14 14:28 [前端开发面试题 - weakish - SegmentFault](http://segmentfault.com/a/1190000000465431)
 
-2015-01-30 09:38 [leochen36/qmik · GitHub](https://github.com/leochen36/qmik)
+2015-12-14 14:31 [前端开发面试知识小结 - 推酷](http://www.tuicool.com/articles/Rz6RNrf)
 
-2015-01-30 09:38 [Web 组件 | Amaze UI](http://amazeui.org/widgets)
+2015-12-14 14:37 [所谓全栈——《Web全栈工程师的自我修养》读书笔记 // 亚里士朱德的博客](http://yalishizhude.github.io/2015/12/12/fullstack-self-improvement/)
 
-2015-01-30 09:42 [经典收藏 50个jQuery Mobile开发技巧集萃 - 楚广明 - 博客园](http://www.cnblogs.com/chu888chu888/archive/2011/11/10/2244181.html)
+2015-12-17 13:53 [腾讯 AlloyTeam](https://github.com/AlloyTeam?page=2)
 
-2015-01-30 09:54 [Amaze UI | 中国首个开源 HTML5 跨屏前端框架 | Amaze UI](http://amazeui.org/)
+2016-01-13 19:43 [HTTP Content-type 对照表](http://tool.oschina.net/commons)
 
-2015-01-30 09:58 [PhoneGap | Home](http://phonegap.com/)
+2016-01-21 19:59 [Tencent AlloyTeam - 腾讯 Web 前端团队](http://alloyteam.github.io/)
 
-2015-01-30 09:58 [手把手教学：详解HTML5移动开发框架PhoneJS](http://www.wuseyun.com/htmldata/news/0/62250.html)
+2016-01-26 19:44 [腾讯ISUX – 社交用户体验设计](http://isux.tencent.com/)
 
-2015-01-29 18:07 [移动web最简洁的滑动效果Swipe JS（适合初学者） - xiongxianhe的专栏 - 博客频道 - CSDN.NET](http://blog.csdn.net/xiongxianhe/article/details/39993193)
+2016-03-12 11:53 [一份优秀的前端开发工程师简历是怎么样的？ - 前端工程师 - 知乎](https://www.zhihu.com/question/23150301)
 
-2015-01-29 18:07 [使用Slip.js快速创建整屏滑动的手机网页](http://segmentfault.com/blog/laopopo/1190000000708417)
+2016-03-22 21:56 [Mozilla 开发者网络](https://developer.mozilla.org/zh-CN/)
 
-2015-01-30 09:59 [跨平台开发：PhoneGap移动开发框架初探 - html5与PhoneGap开发教程 - Android开发论坛 - 安卓开发论坛 - Android开发 - 安卓论坛 - 移动互联网门户 - Powered by Discuz!](http://www.apkbus.com/android-20056-1-1.html)
+2016-03-23 11:54 [前端资源教程 - CNode技术社区](https://cnodejs.org/topic/56ef3edd532839c33a99d00e)
 
-2015-01-30 16:51 [Qmik 是一个移动端的HTML5 javascript 开发框架](http://www.qmik.org/)
+2016-04-20 14:46 [amfe/article](https://github.com/amfe/article)
 
-2015-02-02 17:25 [H5页面测试总结 - qileilove - BlogJava](http://www.blogjava.net/qileilove/archive/2014/07/24/416154.html)
+2016-04-26 16:09 [致我们终将组件化的Web | Web前端 腾讯AlloyTeam Blog | 愿景: 成为地球卓越的Web团队！](http://www.alloyteam.com/2015/11/we-will-be-componentized-web-long-text/)
 
-2015-02-02 17:34 [唐巧：谈谈React Native-CSDN.NET](http://www.csdn.net/article/2015-02-02/2823790-talk-about-react-native)
+2016-04-27 11:47 [Chrome 控制台新玩法-console显示图片以及为文字加样式 - 刘哇勇 - 博客园](http://www.cnblogs.com/Wayou/p/chrome_dev_tool_style_console.html)
 
-2015-02-02 18:06 [使用 jQuery Mobile 与 HTML5 开发 Web App ——开发原则 | Kayo's Melody](http://kayosite.com/web-app-by-jquery-mobile-and-html5-principles.html)
+2016-04-27 11:48 [console对象 -- JavaScript 标准参考教程（alpha）](http://javascript.ruanyifeng.com/tool/console.html)
 
-2015-02-04 09:56 [移动应用表单设计秘籍](http://www.uml.org.cn/jmshj/201205022.asp)
+2016-05-06 21:52 [CSS vs JS动画：谁更快？](http://zencode.in/19.CSS-vs-JS%E5%8A%A8%E7%94%BB%EF%BC%9A%E8%B0%81%E6%9B%B4%E5%BF%AB%EF%BC%9F.html#rd?sukey=fa67fe3435f5c4beacbfe457b9a035532d6e1e4d69f86587f15a4829bebd01e24cce697d32314a28aafad42df5d6f8e5)
 
-2015-02-04 09:56 [教程：让你的表单升级到css3和html5客户端验证_觉唯](http://www.jiawin.com/forms-css3-html5-validation)
+2016-06-02 18:52 [学习编程语言最好的方法是什么？ - 五河士道的回答 - 知乎](https://www.zhihu.com/question/20252436/answer/78426464?group_id=720946974815186944)
 
-2015-02-04 09:56 [移动端使用HTML5表单增强体验 - kingwell - 博客园](http://www.cnblogs.com/kingwell/p/3909272.html)
+2016-08-03 10:50 [UDN 专注企业互联网技术开发：IT技术社区_Web前端开发工具_Web开发文档_HTML5_CSS3_JavaScript_Jquery_数据库开发_移动开发技术](http://udn.yyuap.com/)
 
-2015-02-04 13:22 [手机浏览器真假内核调查 - 京华时报·京华网](http://epaper.jinghua.cn/html/2012-04/27/content_783938.htm)
+2016-08-26 11:31 [Framer - Design tool for creating interactive designs, interfaces and animations](https://framerjs.com/)
 
-2015-02-04 13:54 [JS判断客户端是手机还是PC的2个代码_javascript技巧_脚本之家](http://www.jb51.net/article/48939.htm)
+2016-09-06 10:53 [GitHub上整理的一些工具，求补充 - | @Get社区](http://get.ftqq.com/6661.get)
 
-2015-02-04 15:43 [js手机浏览器触摸事件实例-大家站IT社区](http://www.dajiaz.com/programe/javascript/mobile-touchevent-example.html)
+2016-10-29 14:39 [QCon 上海 2016 PPT 下载合集](http://ppt.geekbang.org/qconsh2016)
 
-2015-02-04 15:43 [移动设备、手机浏览器Javascript滑动事件代码 - 海涛的CSDN博客 - 博客频道 - CSDN.NET](http://blog.csdn.net/zht666/article/details/8621332)
+2016-11-14 11:00 [浏览器: F5 和 Ctrl+F5的区别（两种强制刷新的不同） - Snooda - Snooda's Blog](http://www.snooda.com/read/224)
 
-2015-02-04 15:44 [webapp网页调试工具Chrome Devtools前端观察 | Tips | 前端观察](http://www.qianduan.net/webapp-wang-ye-diao-shi-gong-ju-chrome-devtools.html)
+2016-11-14 11:01 [在浏览器地址栏按回车、F5、Ctrl+F5刷新网页的区别](http://www.360doc.com/content/14/0925/22/8504707_412366228.shtml)
 
-2015-02-04 18:57 [touchstart,touchmove,touchend触摸事件的小小实践心得 - jiangcs520的专栏 - 博客频道 - CSDN.NET](http://blog.csdn.net/jiangcs520/article/details/17564065)
+2016-11-14 11:12 [F5和CTRL+F5的区别 - 紫云飞 - 博客园](http://www.cnblogs.com/ziyunfei/archive/2012/09/13/2683177.html)
 
-2015-02-05 09:39 [使用 HTML5 input 类型提升移动端输入体验 / 手游应用网](http://www.7x.cc/html5/html5/news/201407/2529047.html)
+2016-11-14 11:18 [How to force refresh without cache in Google Chrome? - Super User](http://superuser.com/questions/89809/how-to-force-refresh-without-cache-in-google-chrome/278393#278393)
 
-2015-02-05 15:25 [响应式布局 - jQuery Mobile 布局](http://www.lampweb.org/jquerymobile/6/20.html)
+2016-11-14 11:18 [Ctrl+F5 vs Ctrl+R (On Browsers) - Super User](http://superuser.com/questions/205279/ctrlf5-vs-ctrlr-on-browsers)
 
-2015-02-06 13:57 [jQuery Mobile 移动开发中的日期插件Mobiscroll 2.3 使用说明 - 疯狂秀才 - 博客园](http://www.cnblogs.com/hxling/archive/2012/12/12/2814207.html)
+2016-11-17 21:28 [Overflow Stack](http://overflowstack.github.io/)
 
-2015-02-09 09:24 [移动WEB开发之JS内置touch事件[转]_杨俊_新浪博客](http://blog.sina.com.cn/s/blog_5ee2c4040101391o.html)
+2016-11-17 21:29 [unruledboy/WebFrontEndStack: web front end stack: browsers, platforms, libraries, frameworks, tools etc.](https://github.com/unruledboy/WebFrontEndStack)
 
-2015-02-09 17:12 [js滑动触屏事件监听 - 残星 - 博客园](http://www.cnblogs.com/mingforyou/archive/2013/02/18/2915151.html)
+2016-11-22 14:38 [GEEKTyper.com - Be The One](http://geektyper.com/)
 
-2015-02-10 09:29 [手持设备点击响应速度，鼠标事件与touch事件的那些事 - 叶小钗 - 博客园](http://www.cnblogs.com/yexiaochai/archive/2013/10/19/3377900.html)
+2016-11-22 14:38 [Hacker Typer](http://hackertyper.net/)
 
-2015-02-10 10:50 [html 移动互联网终端的javascript touch事件,touchstart, touchend, touchmove - clh604的专栏 - 博客频道 - CSDN.NET](http://blog.csdn.net/clh604/article/details/9861411)
+2016-11-22 15:17 [How Much Does a Website Cost](http://howmuchdoesawebsiteco.st/)
 
-2015-03-03 17:53 [jtyjty99999/mobileTech · GitHub](https://github.com/jtyjty99999/mobileTech)
+2016-11-25 09:06 [大公司或专业团队目前流行的前端工具有什么？ - 知乎](https://www.zhihu.com/question/28638304)
 
-2015-03-03 17:54 [RubyLouvre/mobileTech · GitHub](https://github.com/RubyLouvre/mobileTech)
+2015-09-18 18:12 [20位活跃在Github上的国内技术大牛 - YaoXTao的专栏 - 博客频道 - CSDN.NET](http://blog.csdn.net/yaoxtao/article/details/38518933)
 
-2015-03-03 17:55 [Issues · maxzhang/maxzhang.github.com · GitHub](https://github.com/maxzhang/maxzhang.github.com/issues?q=is%3Aopen+is%3Aissue)
+2016-12-04 23:01 [CSS 中 -webkit-font-smoothing: antialiased 反而让字体更难看了? - SegmentFault](https://segmentfault.com/q/1010000000467910)
 
-2015-03-03 17:56 [无线调试攻略 - THX](http://thx.github.io/mobile/debugging-in-mobile/)
+2017-02-14 09:08 [uis.cc - 前端技术博客](https://www.uis.cc/)
 
-2015-03-03 17:57 [智能手机Web开发笔记 - 王哈哈 - 博客园](http://www.cnblogs.com/wanghaha/p/3155025.html)
+2017-02-20 08:58 [Free Website Builder | Create a Free Website | WIX.com](http://www.wix.com/)
 
-2015-03-03 17:59 [hoosin/mobile-web-favorites · GitHub](https://github.com/hoosin/mobile-web-favorites)
+2017-02-20 17:12 [看云 | 专注技术文档在线创作、阅读、分享和托管](http://www.kancloud.cn/)
 
-2015-03-03 18:02 [手机页面切图有什么需要注意的地方么-CSDN论坛-CSDN.NET-中国最大的IT技术社区](http://bbs.csdn.net/topics/390959812?page=1)
+2017-03-07 09:33 [谈谈对 Web 安全的理解 - 知乎专栏](https://zhuanlan.zhihu.com/p/25486768?group_id=820705780520079360)
 
-2015-03-06 11:18 [手机端网页点击链接触发自动拨打或保存电话的示例代码_软机网](http://www.microwp.cn/code/javascript/2014/0818/6250.html)
+2017-03-09 08:36 [首页 - JSPatch 平台 - iOS APP 热更新热修复平台](http://jspatch.com/)
 
-2015-03-10 10:49 [记一次 JS 模拟 CSS active 效果的过程 - 容祯的专栏 - 博客频道 - CSDN.NET](http://blog.csdn.net/zhangxin09/article/details/8253679)
+2017-03-14 13:54 [IT eBooks - Free Download - Big Library](http://www.it-ebooks.info/)
 
-2015-03-10 10:55 [自适应网页设计的方法(手机端良好的访问体验)_建站技巧_网管之家](http://www.bitscn.com/school/jzjq/201312/287115.html)
+2017-03-20 13:45 [Kity官网](http://kity.baidu.com/)
 
-2015-03-10 13:58 [【原】[webkit移动开发笔记]之如何去除android上a标签产生的边框 - 白树 - 博客园](http://www.cnblogs.com/PeunZhang/archive/2013/02/28/2907708.html)
+2017-03-20 14:08 [FEX - FEX](http://fex.baidu.com/)
 
-2015-03-10 13:59 [css禁止用户选择文本（兼容所有浏览器） - 为程序员服务](http://outofmemory.cn/code-snippet/310/css-disable-user-select-text-jianrong-suoyou-liulanqi)
+2017-03-21 17:49 [最全前端资源汇集 - hello2 - SegmentFault](https://segmentfault.com/a/1190000004978770)
 
-2015-03-10 15:40 [理解viewport与device-width - 推酷](http://www.tuicool.com/articles/ri2AJv)
+2017-03-21 18:23 [WeFlow | 一个高效、强大、跨平台的前端开发工作流工具](https://weflow.io/)
 
-2015-03-10 16:45 [Andoird用户界面设计上手指南：设置字体大小 - 51CTO.COM](http://mobile.51cto.com/design-351567.htm)
+2017-03-23 09:25 [F2etest by alibaba](http://f2etest.com/)
 
-2015-03-10 16:45 [手机web——自适应网页设计（html/css控制） - 51CTO.COM](http://mobile.51cto.com/ahot-409516.htm)
+2017-04-05 09:24 [What's my IP Address? What's my browser?](http://fmbip.com/)
 
-2015-03-10 17:47 [dpi 、 dip 、分辨率、屏幕尺寸、px、density 关系以及换算 - 人间奇迹 - 博客园](http://www.cnblogs.com/yaozhongxiao/archive/2014/07/14/3842908.html)
+2017-04-26 17:27 [WebP 探寻之路 - 前端技术 - 腾讯ISUX](http://isux.tencent.com/introduction-of-webp.html)
 
-2015-03-10 18:19 [Android系统字体规范与应用探索 | 设计达人](http://www.shejidaren.com/android%E7%B3%BB%E7%BB%9F%E5%AD%97%E4%BD%93%E8%A7%84%E8%8C%83%E4%B8%8E%E5%BA%94%E7%94%A8%E6%8E%A2%E7%B4%A2.html)
+2017-05-10 10:59 [JSConf.cn — Conferences for the JavaScript community in China](http://jsconf.cn/)
 
-2015-03-11 14:00 [Android 4.1 4.2 webkit开启默认缩放设置后meta中target-densitydpi配置会影响其他页面的解决方法 | 天宇空间](http://www.xdty.org/1480)
+2017-06-01 09:12 [HTML5中国产业联盟](http://www.html5plus.org/#home)
 
-2015-03-11 14:00 [关于meta viewport中target-densitydpi属性 - fengri5566的专栏 - 博客频道 - CSDN.NET](http://blog.csdn.net/fengri5566/article/details/9414599)
+2017-06-05 10:41 [OAuth 2.0 — OAuth](https://oauth.net/2/)
 
-2015-03-11 14:00 [html5开发之viewport使用](http://www.php100.com/html/webkaifa/HTML5/2012/0831/10979.html)
+2017-06-06 15:39 [ProcessOn - 免费在线作图，实时协作](https://www.processon.com/)
 
-2015-03-11 14:00 [关于不同分辨率手机显示有区别的解决办法-AppCan交流社区 - Powered by Discuz!](http://bbs.appcan.cn/forum.php?mod=viewthread&tid=11693&extra=page%3D5)
+2017-06-06 15:41 [未命名的表单 - draw.io](https://www.draw.io/)
 
-2015-03-11 14:00 [移动端webapp开发必备知识](http://www.poluoluo.com/jzxy/201211/188320.html)
+2017-06-08 16:11 [Paper.js](http://paperjs.org/)
 
-2015-03-11 14:01 [网页宽度自动适应手机屏幕宽度的方法 - D!eR 个人博客 - 博客频道 - CSDN.NET](http://blog.csdn.net/dier4836/article/details/7533879)
+2017-07-25 14:20 [一起开源网_做中国最大的开源项目分享平台](http://www.17ky.net/)
 
-2015-03-11 14:01 [移动前端开发之viewport的深入理解 - 无双 - 博客园](http://www.cnblogs.com/2050/p/3877280.html)
+2017-08-16 14:00 [BDP个人版－零门槛数据分析平台](https://me.bdp.cn/index.html)
 
-2015-03-11 14:05 [小米手机target-densitydpi不正确-AppCan交流社区 - Powered by Discuz!](http://bbs.appcan.cn/forum.php?mod=viewthread&tid=11373)
+2017-08-16 14:35 [看板|诸葛IO-精细化数据分析工具](https://demo.zhugeio.com/apppanel/panel.jsp?app_id=35510&p=3#Ym9hcmRJZD0yODQ0)
 
-2015-03-11 16:04 [[WebApp]定宽网页设计下，固定宽度布局开发WebApp并实现多终端下WebApp布局自适应 - plums - 博客园](http://www.cnblogs.com/plums/archive/2013/01/10/WebApp-fixed-width-layout-of-multi-terminal-adapter-since.html)
+2017-09-21 21:04 [EFE Tech - 百度EFE（Excellent FrontEnd）技术体系](http://efe.baidu.com/)
 
-2015-03-13 20:02 [移动WEB开发中媒体查询里的width, device-width, resolution - rentj - 博客园](http://www.cnblogs.com/rentj1/p/3553223.html)
+2017-11-05 15:43 [CSP内容安全策略 - lmh2072005 - 博客园](http://www.cnblogs.com/lmh2072005/p/6044542.html)
 
-2015-03-16 10:21 [关于webapp中的文字单位的一些捣腾前端观察 | CSS | 前端观察](http://www.qianduan.net/guan-yu-webapp-zhong-di-wen-zi-dan-wei-di-yi-xie-dao-teng.html)
+2017-11-17 17:59 [免费 WEB API - 简易工作室](http://www.jianyiit.com/post-131.html)
 
-2015-03-16 10:29 [图灵社区 : 阅读 : 移动端屏幕适配方案](http://www.ituring.com.cn/article/130015)
+2017-11-19 19:27 [获取Bing每日壁纸用作首屏大图 - Giuem](https://www.giuem.com/bing-image-get-php/)
 
-2015-03-16 11:00 [做手机页面的时候为什么在不同手机上面字体的大小会不一样呢？_百度知道](http://zhidao.baidu.com/link?url=bacQiXI1UjFIFfJZ4s78Aa0PwjlV_pB6kaIq-o4vDaF4jEzek6XnLwrqWHyUSSoX2wF4-gfABLNJqQn1vtKMgUA-h2xtWKCq9-ugVC9lOda)
+2017-11-22 09:19 [求教大神浏览器是根据什么决定from disk cache 与 from memory cache？ - 知乎](https://www.zhihu.com/question/64201378)
 
-2015-03-16 11:01 [移动web开发，文字是否有必要根据分辨率调整文字大小？_html/css_WEB-ITnose](http://www.itnose.net/detail/6139437.html)
+2017-12-15 19:56 [Awesomes-Web前端开发资源库](https://www.awesomes.cn/)
 
-2015-03-16 11:01 [友盟_中国最大的移动开发者服务平台 - umeng.com](http://www.umeng.com/)
+2018-01-04 14:47 [winui - Win10风格前端解决方案](https://www.win-ui.com/)
 
-2015-03-16 11:01 [手机版网页设计html5元素meta name=”viewport”设置需要注意的地方 | 有爱一街](http://www.uiej.com/960.html)
+2018-01-05 15:22 [loading.io - Your SVG + GIF Ajax Loading Icons](https://loading.io/)
 
-2015-03-16 15:30 [【WebApp】单页webapp应用开发总结【暂完】 - 呢喃的猫咪 - 开源中国社区](http://my.oschina.net/maomi/blog/183790?p=1)
+2018-03-14 21:51 [2016-我的前端之路:工具化与工程化](https://zhuanlan.zhihu.com/p/24575395)
 
-2015-04-02 18:30 [-webkit-min-device-pixel-ratio的常见值对照 - Focus-Fe - ITeye技术网站](http://zhangyaochun.iteye.com/blog/1816582)
+2018-03-21 10:05 [DevDocs API Documentation](http://devdocs.io/)
 
-2015-04-02 18:31 [近期手机网页项目一些杂碎心得分享 « 张鑫旭-鑫空间-鑫生活](http://www.zhangxinxu.com/wordpress/2012/08/mobile-wap-page-knowledge-share/)
+2018-03-21 10:12 [JS1k - The JavaScript code golfing competition](https://js1k.com/)
 
-2015-04-02 18:31 [devicePixelRatio « 张鑫旭-鑫空间-鑫生活](http://www.zhangxinxu.com/wordpress/tag/devicepixelratio/)
+2018-04-17 10:03 [飞冰 - 赋能中后台建设](https://alibaba.github.io/ice/#/)
 
-2015-04-02 18:31 [设备像素比devicePixelRatio简单介绍 « 张鑫旭-鑫空间-鑫生活](http://www.zhangxinxu.com/wordpress/2012/08/window-devicepixelratio/)
+2018-04-21 01:11 [首页 - 可道云-KodExplorer 企业私有云&amp;在线文档管理解决方案](https://kodcloud.com/)
 
-2015-04-02 18:32 [两个viewport的故事（第一部分）](http://weizhifeng.net/viewports.html)
+2018-04-22 15:20 [分享一枚获取高清壁纸的api | 孟坤博客](https://mkblog.cn/581/)
 
-2015-04-02 18:32 [JavaScript中的立即执行函数表达式](http://weizhifeng.net/immediately-invoked-function-expression.html)
+2018-04-28 21:41 [Content Security Policy Header Generator](https://www.cspisawesome.com/)
 
-2015-04-02 18:32 [移动Web页面，为什么都喜欢width=device-width，并且关闭系统缩放功能？ - SegmentFault](http://segmentfault.com/q/1010000000305316)
+2018-06-08 16:15 [压箱底PPT资源网站汇总 - 简书](https://www.jianshu.com/p/ee0d0678cd0c)
 
-2015-04-02 18:32 [devicePixelRatio = 1.5 引发的问题 | JerryQu 的小站](https://www.imququ.com/post/devicepixelratio-and-border-width.html)
+2018-06-15 17:59 [印记中文 - 深入挖掘国外前端新领域，为中国 Web 前端开发人员提供优质文档！](https://docschina.org/)
 
-2015-04-02 18:32 [一些关于Viewport与device-width的东西～ - 口口一凡 - 博客园](http://www.cnblogs.com/koukouyifan/p/4066567.html)
+2018-07-09 17:01 [【webssh】网页上的SSH终端 - K.Takanashi - 博客园](https://www.cnblogs.com/franknihao/p/8963634.html)
 
-2015-04-16 10:28 [apple-touch-icon和apple-touch-icon-precomposed区别使用 – 天空网志](http://www.sky84.cn/blog/archives/87.html)
+2018-07-12 15:22 [GIF与APNG，解决GIF锯齿问题-UI中国-专业用户体验设计平台](http://www.ui.cn/detail/34100.html)
 
-2015-04-16 10:33 [响应式网页设计-腾讯ISUX – 社交用户体验设计 – Better Experience Through Design](http://isux.tencent.com/responsive-web-design.html)
+2018-08-15 17:31 [Kikk - Fold / Unfold - Homepage](http://www.kikk.be/2015/)
 
-2015-04-16 10:33 [移动平台的meta标签-----神奇的功效_芬芬_新浪博客](http://blog.sina.com.cn/s/blog_6d48e77101015kqr.html)
+#####  规范
 
-2015-04-16 10:34 [前端笔记 | 移动平台对 meta 标签的定义](http://www.cssue.com/xhtml-css/html5-css3/mobile-meta.html)
+2015-08-11 11:05 [前端JavaScript规范](http://www.runoob.com/w3cnote/javascript-guide.html)
 
-2015-05-21 09:41 [移动web开发框架研究 - 张兴业的博客 - 博客频道 - CSDN.NET](http://blog.csdn.net/xyz_lmn/article/details/41052977)
+2016-02-01 11:23 [JavaScript 风格指南/编码规范（Airbnb公司版） - 博客 - 伯乐在线](http://blog.jobbole.com/79484/)
 
-2015-05-21 09:50 [手机Web开发框架 - 开源软件库 - 开源中国社区](http://www.oschina.net/project/tag/322/mobile-web)
+2016-09-03 11:00 [前端规范(ES6\BEM\OOCSS\SMACSS) - iStudy - SegmentFault](https://segmentfault.com/a/1190000005123938)
 
-2015-06-08 17:37 [在网页中添加“分享到微信朋友圈”按钮的代码分享 - 微信营销 - 酷站代码](http://www.5icool.org/a/201308/a2297.html)
 
-2015-06-08 17:41 [如何使用微信JS-SDK实际分享功能_百度经验](http://jingyan.baidu.com/article/d3b74d64c517051f77e609ed.html)
 
-2015-06-10 17:11 [微信开发之移动手机WEB页面(HTML5)Javascript实现一键拨号及短信发送功能 - 仰天一笑 - 博客园](http://www.cnblogs.com/skylaugh/p/3277899.html)
+#####  BigPipe
 
-2015-06-10 18:05 [微信开发实现一键拨号出现屏蔽问题的解决方案 - 仰天一笑 - 博客园](http://www.cnblogs.com/skylaugh/p/3401825.html)
+2015-09-24 10:28 [rose pipe–一次对http技术的伟大革新实现（54chen乱弹版） | 五四陈科学院-坚信科学，分享技术](http://www.54chen.com/architecture/rose-pipe-http-54chen.html)
 
-2015-06-18 14:17 [WEBAPP介绍及其iOS Web开发技巧总结 - freshlover的专栏 - 博客频道 - CSDN.NET](http://blog.csdn.net/freshlover/article/details/10361689)
+2015-09-24 10:28 [一场技术的圣战：rose开源框架之portal | 五四陈科学院-坚信科学，分享技术](http://www.54chen.com/architecture/rose-open-source-portal-framework.html)
 
-2015-06-18 14:44 [[Phonegap+Sencha Touch] 移动开发27、禁用iOS系统的webapp电话号码自动识别-IOS-第七城市](http://www.th7.cn/Program/IOS/201407/228892.shtml)
+2015-08-25 16:59 [BigPipe学习研究 « 搜索技术博客－淘宝](http://www.searchtb.com/2011/04/an-introduction-to-bigpipe.html)
 
-2015-06-18 14:47 [&lt;meta name=&quot;format-detection&quot; content=&quot;telephone=no&quot;&gt;等 - macwhirr123 - 博客频道 - CSDN.NET](http://blog.csdn.net/macwhirr123/article/details/11971303)
+2015-09-24 10:28 [Facebook创新之BigPipe：优化页面加载时间](http://www.infoq.com/cn/news/2010/08/bigpipe-facebook-optimize)
 
-2015-06-29 17:35 [html5屏幕旋转事件，html5如何实现屏幕旋转 - html5/css/js技术交流](http://bbs.phonegap100.com/thread-28-1-1.html)
+2015-09-24 10:29 [名站技术分析 — facebook奇特的页面加载技术 - BearRui(AK-47) - 博客园](http://www.cnblogs.com/BearsTaR/archive/2010/06/18/facebook_html_chunk.html)
 
-2015-06-29 20:47 [Viewport Sizes](http://viewportsizes.com/)
+2015-09-24 11:01 [BigPipe_百度百科](http://baike.baidu.com/link?url=5FEkjwdBxzD2npRsea4lxnp49h8C0pNwzjDqN6X6yMjaI40Jr83GV4wg_MN9OZi6gOpjDa0ad9aCgoW1CFHiOK)
 
-2015-07-02 11:31 [前端页面中 iOS 版微信长按识别二维码的bug 与解决方案 | DeveWork](http://devework.com/weixin-qrcode-bug.html)
+2015-09-24 17:57 [Node.js实现的BigPipe - meteoric_cry - 博客园](http://www.cnblogs.com/meteoric_cry/archive/2013/04/23/3037384.html)
 
-2015-07-21 13:52 [HTML5 Battery电池状态相关API简介 « 张鑫旭-鑫空间-鑫生活](http://www.zhangxinxu.com/wordpress/2014/01/an-overview-of-html5-battery-api/)
+2015-09-24 17:57 [nodejs+bigpipe+angularjs技术实现 - CNode技术社区](https://cnodejs.org/topic/52d64a30e20b7c8214bc14f1)
 
-2015-07-21 13:57 [使用 HTML5 input 类型提升移动端输入体验 - 开源中国社区](http://www.oschina.net/translate/using-html5-input-types-to-enhance-the-mobile-browsing-experience?cmp)
+2015-09-24 18:02 [BigPipe的正确使用姿势 - SegmentFault](http://segmentfault.com/a/1190000002998812)
 
-2015-07-21 18:01 [js隐藏手机浏览器地址栏 | 微前端](http://www.vqianduan.com/245.html)
+2015-09-24 18:03 [Facebook让网站速度提升一倍的BigPipe技术分析 - limu的砖篮儿 - ITeye技术网站](http://limu.iteye.com/blog/765173)
 
-2015-07-21 18:09 [移动端的触屏事件 | 微前端](http://www.vqianduan.com/766.html)
+2016-11-25 09:28 [BigPipe 学习 - web前端 - SegmentFault](https://segmentfault.com/a/1190000002940886)
 
-2015-07-21 18:31 [JS 事件（JS高级程序编程） - js教程 - ab蓝学网](http://www.ablanxue.com/prone_15189_1.html)
+2016-11-25 09:57 [利用bigpipe机制实现页面模块的异步渲染 - 随机 - 博客园](http://www.cnblogs.com/Random/archive/2011/06/30/2093913.html)
 
-2015-07-22 17:49 [移动前端制作篇之javascript篇 | FM的前端路](http://chenfengming.cn/front-end/mobile-front-end-javascript.html)
 
-2015-07-22 19:03 [通过userAgent判断手机浏览器类型 - 好饱的博客 - 程序员博客](http://blog.okbase.net/haobao/archive/1262.html)
 
-2015-07-23 10:13 [不同设备浏览器的userAgent值大全 - 闻道有先后，术业有专攻，如是而已！ - 博客频道 - CSDN.NET](http://blog.csdn.net/lvjin110/article/details/12944333)
+#####  Token
 
-2015-07-23 14:30 [iPhone Safari 开发中的一些特效样式_一杯白开水_新浪博客](http://blog.sina.com.cn/s/blog_4eecae090100m7c9.html)
+2015-10-13 11:05 [使用json web token | 皓眸大前端](http://www.haomou.net/2014/08/13/2014_web_token/)
 
-2015-07-23 19:18 [iOS 的 APP 如何适应 iPhone 5s/6/6Plus 三种屏幕的尺寸？ - 推酷](http://www.tuicool.com/articles/yEFbE3)
+2017-10-11 16:06 [CORS实现跨域时授权问题（401错误）的解决_慕课手记](http://www.imooc.com/article/7989)
 
-2015-07-24 12:15 [移动前端不得不了解的 html5 head 头标签 - SegmentFault](http://segmentfault.com/a/1190000002586217)
 
-2015-07-24 12:21 [移动web开发中，好用的小方法 - SegmentFault](http://segmentfault.com/a/1190000002460016)
 
-2015-07-24 12:21 [移动端webapp开发必备知识](http://www.qianduan.net/mobile-webapp-develop-essential-knowledge/)
+#####  Cookie
 
-2015-07-24 13:08 [webapp前端开发软键盘与position:fixed为我们带来的不便 - 大大白兔子 - 博客园](http://www.cnblogs.com/johnl/p/4199314.html)
+2015-10-22 14:15 [如何为cookie设置HttpOnly - 星期五的日志 - 网易博客](http://zhenghaoju700.blog.163.com/blog/static/13585951820138267195385/)
 
-2015-07-24 13:30 [iPhone 6屏幕揭秘](http://wileam.com/iphone-6-screen-cn/)
+2015-10-22 14:15 [如何设计相对安全的cookie自动登录系统-编程开发-黑吧安全网](http://www.myhack58.com/Article/html/3/68/2013/39914.htm)
 
-2015-07-24 13:30 [2015年成为业内顶尖前端开发工程师自我提升计划 - 大大白兔子 - 博客园](http://www.cnblogs.com/johnl/p/4199142.html)
+2015-10-22 14:16 [有关cookie的httponly属性相关 - 咖啡不加糖 - ITeye技术网站](http://coffeesweet.iteye.com/blog/1271822)
 
-2015-07-27 10:37 [iPhone与Android手机 各个型号的UserAgent - 小蜜锋 - 云代码空间](http://yuncode.net/article/a_512715c7a368c35)
+2015-10-22 14:37 [使用AuthToken架构保护用户帐号验证Cookie的安全性 - Hex - 博客园](http://www.cnblogs.com/csharpsharper/archive/2011/02/21/1959379.html)
 
-2015-07-27 10:48 [jQuery 获取屏幕高度、宽度 - hoojo - 博客园](http://www.cnblogs.com/hoojo/archive/2012/02/16/2354663.html)
+2015-10-22 14:39 [深入理解 Session 与 Cookie - Kevin-air的个人空间 - 开源中国社区](http://my.oschina.net/kevinair/blog/192829)
 
-2015-07-27 16:58 [iOS H5的那些坑 - 推酷](http://www.tuicool.com/articles/RZB7ru6)
+2015-10-22 18:45 [Cookie安全漫谈](http://www.infoq.com/cn/articles/cookie-security/)
 
-2015-07-27 17:01 [移动端H5页面之iphone6的适配 - 推酷](http://www.tuicool.com/articles/7N7bAfu)
-
-2015-07-28 15:44 [Meta标签中的apple-mobile-web-app-capable属性及含义_最初的你_新浪博客](http://blog.sina.com.cn/s/blog_51048da70101cggj.html)
-
-2015-07-28 18:38 [通过JS自动隐藏手机浏览器的地址栏 - hbcui1984的专栏 - 博客频道 - CSDN.NET](http://blog.csdn.net/hbcui1984/article/details/8350107)
-
-2015-07-29 13:46 [用JS有效解决移动web浏览器中HTML元素的overflow:scroll滚动属性失效问题_勤思网，IT技术服务论坛](http://www.qinsiwang.com/theme_bbs_6/136.html)
-
-2015-07-29 13:49 [HTML5之小米手机上300毫秒延迟问题 | 暗影行者(bfc)](http://www.bucry.com/?p=460)
-
-2015-07-29 13:59 [移动Web之触摸和指针事件详解](http://www.infoq.com/cn/articles/touch-pointer-event)
-
-2015-07-29 17:02 [app内嵌web的一些问题记录 - hlily - 博客园](http://www.cnblogs.com/lilyimage/p/3410967.html)
-
-2015-07-29 17:07 [移动Web开发技巧汇总 - 前端分享 - 前端乱炖](http://www.html-js.com/article/Front-end-sharing%202983)
-
-2015-07-29 17:15 [移动端、手机网站中文输入法下keyup事件部分按键无效](http://www.bubuko.com/infodetail-419397.html)
-
-2015-07-29 17:20 [在andriod系统的浏览器中，input框获焦点并自动弹出软键盘的方法？ - 开源中国社区](http://www.oschina.net/question/567163_149989)
-
-2015-07-30 12:18 [移动web开发常用技巧 -高级应用-Css教程-壹聚教程网](http://www.111cn.net/cssdiv/css/59654.htm)
-
-2015-08-12 19:42 [使用HTML5+Canvas调用IPHONE摄像头拍照并压缩处理-林氏智造-专注网站建设,用智力创造生活](http://www.0773linji.com/article/index/id/109)
-
-2015-08-20 16:59 [浏览器userAgent大全 - taro - ITeye技术网站](http://taro.iteye.com/blog/1634253)
-
-2015-08-25 15:37 [ipad-webapp的一些总结 - 推酷](http://www.tuicool.com/articles/Q7R7v2)
-
-2015-09-10 12:15 [在webapp上使用input:file_Alien的笔记](http://www.baidufe.com/item/6e3b3028d410c2ba13de.html)
-
-2015-10-16 18:02 [移动端web页面使用position:fixed问题总结-css-电脑编程网](http://biancheng.dnbcw.info/css/459090.html)
-
-2015-12-29 14:03 [在手持设备上使用 touchstart 事件代替 click 事件是不是个好主意？ - 前端开发 - 知乎](http://www.zhihu.com/question/20702822)
-
-2016-01-20 20:32 [移动端UC /QQ 浏览器的部分私有Meta 属性 | DeveWork](http://devework.com/uc-qq-brower-meta.html)
-
-2016-01-21 17:20 [移动端的头部标签和 meta - humingx - SegmentFault](http://segmentfault.com/a/1190000002532413)
-
-2016-01-21 17:21 [移动端重构系列2——新建空白页面_移动端重构系列, mobile 教程_w3cplus](http://www.w3cplus.com/mobile/mobile-terminal-refactoring-create-page.html)
-
-2016-01-21 17:22 [HTML中head头结构 - PaddingMe - SegmentFault](http://segmentfault.com/a/1190000000697532)
-
-2016-01-21 17:25 [[Html5]mobile-agent移动Agent,就是具有移动性的智能Agent_极酷播放器官方网站](http://www.cuplayer.com/player/PlayerCode/Html5/2014/1103/1650.html)
-
-2016-01-21 17:54 [Web移动端Fixed布局的解决方案 | EFE Tech](http://efe.baidu.com/blog/mobile-fixed-layout/?qq-pf-to=pcqq.group)
-
-2016-01-21 17:54 [CSSOM视图模式scrollIntoView方法 » 张鑫旭-鑫空间-鑫生活](http://www.zhangxinxu.com/study/201109/scroll-into-view.html)
-
-2016-03-07 14:53 [手机中的javascript事件 - 一只柯楠 - 博客园](http://www.cnblogs.com/webzhangnan/archive/2012/06/03/2532439.html)
-
-2016-03-07 19:31 [ftlabs/fastclick: Polyfill to remove click delays on browsers with touch UIs](https://github.com/ftlabs/fastclick)
-
-2016-03-07 19:31 [javascript - 移动页面滚动穿透如何解决 - SegmentFault](https://segmentfault.com/q/1010000002942948)
-
-2016-03-07 19:31 [javascript - 手机浏览器点击事件的穿透问题 - SegmentFault](https://segmentfault.com/q/1010000003043546)
-
-2017-03-10 16:21 [【译】渐进式 Web App 的离线存储 - 我的前端探索 - SegmentFault](https://segmentfault.com/a/1190000006640450)
-
-#####  PhoneGap
-
-2015-02-02 17:17 [PhoneGap开发环境搭建 - 随机 - 博客园](http://www.cnblogs.com/Random/archive/2011/12/28/2305398.html)
-
-2015-02-02 17:21 [PhoneGap - html5与PhoneGap开发教程 - Android开发论坛 - 安卓开发论坛 - Android开发 - 安卓论坛 - 移动互联网门户 - Powered by Discuz!](http://www.apkbus.com/android-60830-1-1.html)
-
-2015-02-02 17:21 [phonegap教程_最全的phonegap教程_HTML5中国](http://www.html5cn.org/portal.php?mod=list&catid=64)
-
-
-
-#####  适配
-
-2015-04-01 15:59 [[适配性]移动Webapp自适应方案_小组_ThinkSAAS](http://www.thinksaas.cn/group/topic/349043/)
-
-2015-04-01 15:59 [iOS&amp;Android 移动设计字体规范整理大全 – 25学堂](http://www.25xt.com/appdesign/8011.html)
-
-2015-04-01 16:00 [最新WebAPP设计指南规范：适配iphone6技巧 – 25学堂](http://www.25xt.com/appdesign/7086.html)
-
-2015-04-02 09:35 [WEBAPP开发技巧(手机网站开发注意事项) | WEB前端开发-关注常见的WEB前端开发问题、最新的WEB前端开发技术(webApp开发、移动网站开发)、最好的WEB前端开发工具和最全的WEB前端开发w3cschool手册](http://www.css119.com/archives/1042)
-
-2015-04-02 09:40 [HTML 5-webapp如何实现字体自适应? - 德问:编程社交问答](http://www.dewen.io/q/13315/webapp%E5%A6%82%E4%BD%95%E5%AE%9E%E7%8E%B0%E5%AD%97%E4%BD%93%E8%87%AA%E9%80%82%E5%BA%94%3F)
-
-2015-04-02 11:27 [网页字体单位rem详解](http://www.chenpansong.cn/article.php?id=29)
-
-2015-04-02 11:47 [web app变革之rem-腾讯ISUX – 社交用户体验设计 – Better Experience Through Design](http://isux.tencent.com/web-app-rem.html)
-
-2015-06-30 17:26 [Html开发之Viewport的使用 - 风芯的站点 - 开源中国社区](http://my.oschina.net/LCore/blog/335189)
-
-2015-03-16 11:01 [自适应网页设计（Responsive Web Design） - 阮一峰的网络日志](http://www.ruanyifeng.com/blog/2012/05/responsive_web_design.html)
-
-
-
-#####  JS库
-
-2015-04-14 14:16 [Zepto 使用中的一些注意点(转) - 草珊瑚 - 博客园](http://www.cnblogs.com/samwu/archive/2013/06/06/3121649.html)
-
-2015-05-21 09:45 [Ionic: 高级 HTML5混合移动应用开发框架](http://ionicframework.net/index.html)
-
-2015-08-24 16:08 [zepto.js 源码解析](http://www.runoob.com/w3cnote/zepto-js-source-analysis.html)
-
-2015-08-24 16:18 [zepto和jquery的区别，zepto的不同使用8条小结 - kongjiea笔记 - 博客频道 - CSDN.NET](http://blog.csdn.net/kongjiea/article/details/42522305)
-
-2016-03-02 17:00 [Hook Mobile | Powering Global Communication](http://www.hookmobile.com/)
-
-2017-03-21 17:26 [超级好用的流程图js框架 - AlvinNoending的专栏 - 博客频道 - CSDN.NET](http://blog.csdn.net/alvinnoending/article/details/52937689)
-
-
-
-#####  模拟器
-
-2015-04-22 16:11 [BlueStacks中文官方网站](http://www.bluestacks.cn/)
-
-2015-04-22 17:27 [给力助手官方下载_给力助手官网_蓝手指](http://www.shouzhi.net.cn/z/geilizhushou.html)
-
-
-
-#####  插件
-
-2015-05-08 14:58 [多种支持手机客户端、触摸屏滑动样式幻灯片轮播](http://demo.lanrenzhijia.com/2014/mobile0626/)
-
-2015-05-08 15:43 [多种支持手机客户端、触摸屏滑动样式幻灯片轮_懒人之家](http://www.lanrenzhijia.com/jquery/2851.html)
-
-2015-07-24 09:34 [IScroll5 参数说明和调用方法 - 推酷](http://www.tuicool.com/articles/vMn2u2)
-
-2015-07-24 09:41 [IScroll5中文API整理,用法与参考 - 无赖君子 - 博客园](http://www.cnblogs.com/leolai/articles/4204345.html)
-
-2015-07-24 13:32 [iScroll 5, smooth scrolling for the web](http://iscrolljs.com/)
-
-2015-07-29 16:01 [IScroll5+在ios、android点击（click）事件不兼容解决方法 | 最棒的web前端及html5资源分享、交流、学习平台 – 52html5(金牌狙击手的博客)](http://www.52html5.com/?p=2618)
-
-2015-07-29 16:46 [手机网站使用iscroll插件链接无法点击解决方案](http://www.douban.com/note/503437802/)
-
-2015-07-30 10:57 [iscroll介绍 - 無執 - ITeye技术网站](http://lhdst-163-com.iteye.com/blog/1239784)
-
-2015-07-30 11:23 [【IScroll深入学习】解决IScroll疑难杂症 - 叶小钗 - 博客园](http://www.cnblogs.com/yexiaochai/p/3764503.html)
-
-2015-07-30 11:40 [iscroll源码初涉 - 秋尘 - 博客园](http://www.cnblogs.com/viccici/p/3878680.html)
-
-2015-07-30 11:43 [入门 | iScroll 5 API 中文版](http://iiunknown.gitbooks.io/iscroll-5-api-cn/content/gettingstart.html)
-
-2015-07-30 13:29 [iScroll框架的使用和修改 - Joanna Qian - 博客园](http://www.cnblogs.com/joannaq/p/3155873.html)
-
-2015-07-30 13:29 [高级选项 | iScroll 5 API 中文版](http://iiunknown.gitbooks.io/iscroll-5-api-cn/content/advance.html)
-
-2015-08-10 16:52 [iScroll-5拉动刷新功能实现与iScroll-4上拉刷新的一点改进 - Yghost - 博客园](http://www.cnblogs.com/yghost/p/4230708.html)
-
-2015-08-11 09:22 [iscroll5 上下拉动刷新 - Mrxia - 博客园](http://www.cnblogs.com/mrxia/p/3868126.html)
-
-2015-08-18 14:59 [JQuerymobile中使用iscroll5无法滚动的问题。 - STK_tianwen的专栏 - 博客频道 - CSDN.NET](http://blog.csdn.net/stk_tianwen/article/details/42811995)
-
-2015-08-25 15:45 [运用webkit绘制渲染页面原理解决iscroll4闪动的问题 - 推酷](http://www.tuicool.com/articles/rYby6v)
-
-2015-10-14 18:20 [【原】使用iScroll.js解决ios4下不支持position:fixed的问题 - 白树 - 博客园](http://www.cnblogs.com/PeunZhang/archive/2013/06/14/3117589.html)
-
-2015-10-14 18:31 [iscroll.js的使用 - 推酷](http://www.tuicool.com/articles/mEZFzuM)
-
-2015-10-14 18:37 [【iScroll源码学习01】准备阶段 - 叶小钗 - 推酷](http://www.tuicool.com/articles/AjQjeay)
-
-
-
-#####  AppCan
-
-2015-05-21 10:09 [AppCan.cn_国内领先的一站式移动开发服务平台](http://www.appcan.cn/)
-
-2015-05-21 10:09 [AppCan Docs - AppCan 2.0](http://doc.appcan.cn/)
-
-
-
-#####  优化
-
-2015-06-30 16:33 [移动H5前端性能优化指南 - SegmentFault](http://segmentfault.com/a/1190000002511921)
-
-2015-06-30 17:43 [智图](http://zhitu.tencent.com/)
-
-2015-07-01 21:58 [nginx 配置expires - 梦想的天空 - 博客频道 - CSDN.NET](http://blog.csdn.net/gameboyx/article/details/10894057)
-
-2015-07-02 16:11 [移动H5前端性能优化指南-腾讯ISUX – 社交用户体验设计 – Better Experience Through Design](http://isux.tencent.com/h5-performance.html)
-
-
-
-#####  调试
-
-2015-07-21 18:15 [weinre - Home](http://people.apache.org/~pmuellr/weinre/docs/latest/Home.html)
-
-2015-07-21 18:19 [移动端Web开发调试之Weinre调试教程 - freshlover的专栏 - 博客频道 - CSDN.NET](http://blog.csdn.net/freshlover/article/details/42640253)
-
-2015-07-21 18:22 [MIHTool - iOS Web Debugger Pro](http://www.mihtool.com/)
-
-2015-07-21 18:22 [iOS Web开发调试工具MIHTool作者访谈](http://www.infoq.com/cn/news/2013/03/mihtool-interview)
-
-2015-07-29 19:36 [B1naryStudio/js-mobile-console](https://github.com/B1naryStudio/js-mobile-console)
-
-2015-07-29 19:36 [在移动设备上调试Web应用的控制台：js-mobile-console - OPEN 开发经验库](http://www.open-open.com/lib/view/open1415324245855.html)
-
-2015-07-29 19:36 [Surfin' Safari - Blog Archive » WebKit Remote Debugging](https://www.webkit.org/blog/1620/webkit-remote-debugging/)
-
-2015-07-29 19:36 [Web应用调试：现在是Weinre和JSConsole，最终会是WebKit的远程调试协议](http://www.infoq.com/cn/news/2011/08/mobile-web-debugging)
-
-2016-01-21 21:04 [Rosin by AlloyTeam](http://alloyteam.github.io/Rosin/)
-
-2016-08-22 11:21 [移动终端开发必备知识 - 腾讯ISUX - 社交用户体验设计](https://isux.tencent.com/mobile-development-essential-knowledge.html)
-
-######  weinre
-
-2015-07-22 10:23 [weinre](https://www.npmjs.com/package/weinre)
-
-2015-07-22 13:40 [远程调试工具-weinre_柏](http://wyqbailey.diandian.com/post/2011-11-09/20511143)
-
-
-
-######  Livepool
-
-2016-01-21 20:04 [Livepool by rehorn](http://rehorn.github.io/livepool/)
-
-
-
-#####  屏幕分辨率
-
-2015-07-23 18:43 [Screen Sizes](http://screensiz.es/phone)
-
-2015-07-23 19:18 [The iOS Design Cheat Sheet Volume 2 - Ivo Mynttinen / User Interface Designer](http://ivomynttinen.com/blog/the-ios-design-cheat-sheet-volume-2/)
-
-
-
-#####  框架
-
-2015-08-10 10:27 [基于HTML5+CSS3+JS的移动应用开发框架：Agile - OPEN 开发经验库](http://www.open-open.com/lib/view/open1420468865047.html)
-
-
-
-#####  Base64
-
-2015-08-13 20:26 [移动端图片上传方法【更好的兼容安卓IOS和微信】 - ThinkPHP框架](http://www.thinkphp.cn/code/790.html)
-
-2015-09-14 11:41 [小tip: base64:URL背景图片与web页面性能优化 « 张鑫旭-鑫空间-鑫生活](http://www.zhangxinxu.com/wordpress/2012/04/base64-url-image-%E5%9B%BE%E7%89%87-%E9%A1%B5%E9%9D%A2%E6%80%A7%E8%83%BD%E4%BC%98%E5%8C%96/)
-
-
-
-#####  文件上传
-
-2015-08-13 20:29 [HTML5之FileReader的使用 - 骆昊的技术专栏 - 博客频道 - CSDN.NET](http://blog.csdn.net/jackfrued/article/details/8967667)
-
-2015-10-10 11:10 [微信内网页上传图片问题 - SegmentFault](http://segmentfault.com/q/1010000001581416)
-
-2015-10-10 18:13 [让Android中的webview支持页面中的文件上传 - OPEN 开发经验库](http://www.open-open.com/lib/view/open1371742003171.html)
-
-2015-10-13 13:57 [javascript - 微信内置浏览器input[file]选择图片后刷新 - SegmentFault](http://segmentfault.com/q/1010000002920650)
-
-2015-10-13 14:06 [三星、华为等android里webview不支持input file的解决方法 - 软件问题 - 郑州网建](http://camnpr.com/archives/1093.html)
-
-2015-10-13 14:08 [iOS 6 Web应用开发者的HTML 5小技巧-CSDN.NET](http://www.csdn.net/article/2012-09-25/2810317-ios6-media-capture-codes)
-
-2015-10-13 14:10 [移动端图片上传方法【更好的兼容安卓IOS和微信】_个人随笔_B5教程网](http://www.bcty365.com/content-74-1557-1.html)
-
-2015-10-13 18:30 [qq浏览器x5内核奇怪的问题，微信中也存在 - SegmentFault](http://segmentfault.com/q/1010000002944322)
-
-2015-10-13 18:32 [手机QQ浏览器和微信内置webview对input type=&quot;file&quot; 的change事件不灵 - 武文海的个人空间 - 开源中国社区](http://my.oschina.net/fuckBAT/blog/492887)
-
-2015-10-16 18:39 [[JS进阶] HTML5 之文件操作(file) - oscar999的专栏 - 博客频道 - CSDN.NET](http://blog.csdn.net/oscar999/article/details/37499743)
-
-
-
-#####  WebAPP
-
-2015-10-15 18:28 [浅谈移动前端的最佳实践 - 叶小钗 - 博客园](http://www.cnblogs.com/yexiaochai/p/4219523.html)
-
-2015-10-15 18:38 [webapp开发实践 - 推酷](http://www.tuicool.com/articles/jINzAz)
-
-
-
-####  NASA
-
-2017-10-17 13:44 [【福利】NASA宇宙星系图8亿像素图片24G大小 附下载地址_黑洞吧_百度贴吧](https://tieba.baidu.com/p/3268635113?red_tag=2391701261)
-
-2017-10-17 13:44 [Hubble Space Telescope Images | NASA](https://www.nasa.gov/mission_pages/hubble/multimedia/index.html)
-
-2017-10-17 13:51 [NASA Image and Video Library](https://images.nasa.gov/#/)
-
-
-
-####  NodeJS
-
-2015-02-27 10:30 [CNode：Node.js专业中文社区](https://cnodejs.org/)
-
-2015-02-27 10:30 [Node.js](http://nodejs.org/)
-
-2015-02-27 15:15 [Node.js 包教不包会](https://github.com/alsotang/node-lessons)
-
-2015-02-27 10:21 [windows 下安装nodejs及其配置环境 - 穆乙 - 博客园](http://www.cnblogs.com/pigtail/archive/2013/01/08/2850486.html)
-
-2015-03-02 10:25 [npm的package.json中文说明 – 青豆前端](http://www.qingdou.me/5043.html)
-
-2015-04-16 16:18 [NodeJS中文网 - 专注于NodeJS技术，分享NodeJS使用心得。](http://www.nodejs.net/)
-
-2015-04-16 17:05 [快速搭建 Node.js 开发环境以及加速 npm - CNode](https://cnodejs.org/topic/5338c5db7cbade005b023c98)
-
-2015-04-16 17:09 [[nodejs]使用神器webstorm调试nodejs - 小玉西瓜 - 博客园](http://www.cnblogs.com/enix/archive/2012/04/29/2475983.html)
-
-2015-04-16 17:16 [nodejs操作mongodb - WhoAmMe - 博客园](http://www.cnblogs.com/whoamme/p/3467374.html)
-
-2015-04-16 17:19 [Revisions - Stack Overflow](http://stackoverflow.com/posts/22242472/revisions)
-
-2015-04-16 18:07 [【学习心得】Node.js实战W2D8-14...| 慕课网](http://www.imooc.com/wenda/detail/237023)
-
-2015-04-17 14:12 [[nodejs]使用神器webstorm调试nodejs - 推酷](http://www.tuicool.com/articles/ZrIzee)
-
-2015-04-17 14:12 [WebStorm和Express的纠结 - CNode](https://cnodejs.org/topic/538882b6c3ee0b5820664bdb)
-
-2015-04-17 14:12 [nodejs启动throw er; // Unhandled 'error' event-不知道](http://notknow.lofter.com/post/19c190_745ad9)
-
-2015-04-17 14:22 [尚书视频 | 尚书onbook.me](http://onbook.me/video)
-
-2015-04-17 14:44 [通过 nodeclub 项目源码来讲解如何做一个 nodejs + express + mongodb 项目 - CNode](https://cnodejs.org/topic/535601a20d7d0faf140303d8)
-
-2015-04-17 15:29 [浅谈nodejs中的Crypto模块 - CNode](https://cnodejs.org/topic/504061d7fef591855112bab5)
-
-2015-04-17 15:29 [浅谈nodejs中的Crypto模块（补完） - CNode](https://cnodejs.org/topic/5043b97ffef591855138b4e0)
-
-2015-04-17 16:37 [使用node supervisor让你的nodejs程序自动重启 - NodeNpm社区](http://www.nodenpm.com/news/12)
-
-2015-04-17 16:38 [Nodejs服务器管理模块forever | 粉丝日志](http://blog.fens.me/nodejs-server-forever/)
-
-2015-04-20 13:00 [Uspcat NodeJS视频教程 - 爱酷学习网](http://www.icoolxue.com/album/show/89/)
-
-2015-04-21 15:10 [node.js调试 - Samaritans - 博客园](http://www.cnblogs.com/dolphinX/archive/2013/12/22/3485345.html)
-
-2015-04-21 16:45 [高性能，跨平台，轻量级nodejs静态文件ifile模块 - CNode](https://cnodejs.org/topic/51c3289573c638f370492f2e)
-
-2015-04-21 16:45 [加装涡轮，提速expressjs - CNode](https://cnodejs.org/topic/51c3ef9f73c638f37058e6bc)
-
-2015-04-21 16:47 [Node.js 中文资料导航 - 前端开发 - LUPA开源社区](http://www.lupaworld.com/article-237803-1.html)
-
-2015-04-21 16:55 [Nodejs完成一个待办事项的实例教程 - CNode](https://cnodejs.org/topic/54ce5697ef1b48510c27e0c3)
-
-2015-04-21 17:00 [[cookie篇]从cookie-parser中间件说起 - Coolicer - 博客园](http://www.cnblogs.com/coolicer/p/4191548.html)
-
-2015-04-21 17:03 [express的中间件bodyParser详解 - 新客网](http://www.xker.com/page/e2014/1205/148204.html)
-
-2015-04-21 17:22 [nodejs + express + ejs + mongo_一览发表_一览职业成长社区](http://www.yl1001.com/article/2131414658152566.htm)
-
-2015-04-21 17:25 [老雷的个人主页](http://ucdok.com/)
-
-2015-04-22 17:36 [性能测评：Ngix_Lua, Node.JS Python三者性能相当，均比php快近一倍 - OurJS](http://ourjs.com/detail/52954f16f45056c314000001)
-
-2015-04-23 10:03 [深入浅出Node.js](http://www.infoq.com/cn/master-nodejs)
-
-2015-04-23 10:04 [diveintonode Documentation](http://diveintonode.org/)
-
-2015-04-30 16:38 [《nodejs开发指南》微博实例express4.x版 - 红豆依旧在 - 博客园](http://www.cnblogs.com/yuanzm/p/3770986.html)
-
-2015-04-30 16:46 [Nodejs异步异常处理domain | 粉丝日志](http://blog.fens.me/nodejs-core-domain/)
-
-2015-04-30 16:47 [出现&quot;Most middleware (like ... | 慕课网](http://www.imooc.com/qadetail/60858)
-
-2015-05-08 17:31 [nodejs npm常用命令 - Ruthless - 博客园](http://www.cnblogs.com/linjiqin/p/3765772.html)
-
-2015-07-30 16:10 [使用webStorm调试Node.js(不用node-inspector)_百度经验](http://jingyan.baidu.com/article/73c3ce28eafb95e50343d9ee.html)
-
-2015-07-30 19:09 [npm常用命令 - haidao的专栏 - 博客频道 - CSDN.NET](http://blog.csdn.net/haidaochen/article/details/8546796)
-
-2015-10-26 12:14 [nodejs安装不了和npm安装不了的解决方法-前端开发博客](http://caibaojian.com/nodejs-roll-back.html)
-
-2016-01-08 14:29 [利用kappa搭建私有NPM仓库 - 推酷](http://www.tuicool.com/articles/6naEnu)
-
-2016-04-14 11:37 [Node.js 中文网](http://nodejs.cn/)
-
-2016-04-14 11:37 [Node.js](https://nodejs.org/en/)
-
-2016-05-09 14:32 [介紹 | Node.js API 中文文档](https://davidcai1993.gitbooks.io/nodejs-api-doc-in-chinese/content/)
-
-2016-05-24 11:07 [一种简单的生产环境部署Node.js程序方法 - CNode技术社区](https://cnodejs.org/topic/53fec0d97c1e2284788983d6)
-
-2016-06-01 17:12 [NPM小结 - 程序猿小卡 - 推酷](http://www.tuicool.com/articles/VB7nYn)
-
-2016-06-01 17:12 [javascript - Difference between tilde(~) and caret(^) in package.json - Stack Overflow](http://stackoverflow.com/questions/22343224/difference-between-tilde-and-caret-in-package-json)
-
-2016-06-02 09:24 [Node.js API 中文版](http://nodeapi.ucdok.com/#/api/)
-
-2016-08-16 09:05 [alinode - 基于Node运行时的应用性能管理解决方案](http://alinode.aliyun.com/)
-
-2016-09-08 09:29 [NodeJs本地搭建服务器，模拟接口请求，获取json数据 - 简书](http://www.jianshu.com/p/80307e1a86ff)
-
-2016-10-28 10:52 [Koa 还是 Express？ - CNode技术社区](http://cnodejs.org/topic/55815f28395a0c1812f18257)
-
-2016-10-29 11:30 [使用supervisor提高nodejs调试效率 - 穆乙 - 博客园](http://www.cnblogs.com/pigtail/archive/2013/01/08/2851056.html)
-
-2016-11-24 10:32 [关于 windows 下 node_modules\node-sass\vendor 的报错解决方法-爱编程](http://www.w2bc.com/article/166142)
-
-2016-11-24 10:35 [解决Error: ENOENT: no such file or directory, scandir 'D:\IdeaWork\code-front-jet\node_modules\.npminstall\node-sass\3.7.0\node-sass\vendor' - 东篱煮酒 - 博客园](http://www.cnblogs.com/niepeishen/p/5762162.html)
-
-2016-12-19 17:26 [ES6最简单的方式访问MongoDB - freewolf自留地 - SegmentFault](https://segmentfault.com/a/1190000003696764)
-
-2017-01-10 11:53 [解决 node-gyp rebuild 卡住 的问题 - 路德威 - 博客园](http://www.cnblogs.com/rudeway/p/6259055.html)
-
-2017-01-13 12:51 [[译]Node.js安全清单 - 菜菜蔡伟的博客 - SegmentFault](https://segmentfault.com/a/1190000003860400)
-
-2017-01-13 12:57 [helmet是一个保护Node.JS应用的安全项目 - 上帝已逝，自求多福 - 博客频道 - CSDN.NET](http://blog.csdn.net/disappearedgod/article/details/50457421)
-
-2017-01-13 12:58 [Protect Your Node App's Noggin With Helmet - Scott Smith](http://scottksmith.com/blog/2014/09/21/protect-your-node-apps-noggin-with-helmet/)
-
-2017-03-10 16:15 [编写 Node.js Rest API 的 10 个最佳实践 - 前端周刊 - SegmentFault](https://segmentfault.com/a/1190000008537712?utm_source=weekly&utm_medium=email&utm_campaign=email_weekly)
-
-2017-04-06 17:50 [nodejs 中的 NODE_PATH - 东来 - SegmentFault](https://segmentfault.com/a/1190000002478924)
-
-2017-04-07 14:49 [Jade 模板引擎学习笔记 - CNode技术社区](http://cnodejs.org/topic/53e1a8e9a3df2b8f3101835b)
-
-2017-06-13 11:16 [io.js - JavaScript I/O](https://iojs.org/zh/index.html)
-
-2017-07-10 11:17 [一种简单的生产环境部署Node.js程序方法 - CNode技术社区](http://cnodejs.org/topic/53fec0d97c1e2284788983d6)
-
-2017-07-10 17:42 [Node.js的Koa框架上手及MySQL操作指南_node.js_脚本之家](http://www.jb51.net/article/86524.htm)
-
-2017-07-12 14:28 [NodeJS遍历文件生产文件列表 - 小小平凡世界 - 博客园](http://www.cnblogs.com/pingfan1990/archive/2015/08/05/4706168.html)
-
-2017-07-19 15:06 [Moment.js中文文档系列之一安装使用与日期时间解析 - IT笔录](https://itbilu.com/nodejs/npm/VkCir3rge.html#parse-parseZone)
-
-2017-07-19 16:53 [Moment.js | Home](http://momentjs.com/)
-
-2017-07-25 17:54 [在centOS 6下部署node - 前端惊魂 - SegmentFault](https://segmentfault.com/a/1190000004245357)
-
-2017-07-25 17:54 [Centos7下配置node.js环境](http://www.centoscn.com/image-text/config/2014/1108/4095.html)
-
-2017-08-29 14:22 [__dirname与__filename - soputasmile的笔记 - CSDN博客](http://blog.csdn.net/u014473112/article/details/51967364)
-
-2017-10-13 17:52 [Node.js读写中文内容文件操作 - 水边的专栏 - CSDN博客](http://blog.csdn.net/youbl/article/details/29812669)
-
-2017-10-25 14:14 [NodeJS项目中优雅的使用ES7 - 郭东生blog - 博客园](http://www.cnblogs.com/gdsblog/p/7149483.html)
-
-2017-10-27 17:21 [通过babel-register在nodejs端使用es6 - CSDN博客](http://blog.csdn.net/shidaping/article/details/71403374)
-
-2017-11-01 12:23 [Nodejs开源项目里怎么样写测试、CI和代码测试覆盖率 - CNode技术社区](http://cnodejs.org/topic/558df089ebf9c92d17e73358)
-
-2017-11-01 12:27 [npm-run-test - CNode技术社区](https://cnodejs.org/topic/54646c7f88b869cc33a97924)
-
-2017-11-01 15:19 [Nodejs开源项目里怎么样写测试、CI和代码测试覆盖率 - CNode技术社区](https://cnodejs.org/topic/558df089ebf9c92d17e73358)
-
-2017-11-02 12:11 [node-glob学习 - 流浪猫の窝 - 博客园](http://www.cnblogs.com/liulangmao/p/4552339.html)
-
-2017-11-02 15:51 [Node.js开发者最常范的10个错误 - Jaxu - 博客园](http://www.cnblogs.com/jaxu/p/5618916.html)
-
-2017-11-02 15:52 [Node.js开发者最常范的10个错误 - Jaxu - 博客园](http://www.cnblogs.com/jaxu/p/5618916.html#sec_8)
-
-2017-11-03 12:03 [nodei.co](https://nodei.co/)
-
-2017-11-03 12:06 [开源项目徽章集锦 - spacewander - SegmentFault](https://segmentfault.com/a/1190000004278253)
-
-2017-11-14 17:59 [Node.js 新手入门 - CNode技术社区](https://cnodejs.org/getstart)
-
-2017-11-16 10:16 [教你从零开始搭建一款前端脚手架工具 - Jrain-前端养成记 - SegmentFault](https://segmentfault.com/a/1190000006190814?utm_source=weekly&utm_medium=email&utm_campaign=email_weekly#articleHeader0)
-
-2017-11-20 17:47 [Node.js加密算法库Crypto | 粉丝日志](http://blog.fens.me/nodejs-crypto/)
-
-2017-11-21 10:38 [使用NodeJS将XML解析成JSON及性能比较 - chen110xi - 博客园](https://www.cnblogs.com/chen110xi/p/5817101.html)
-
-2017-11-21 10:39 [nodejs模块xml2js解析xml的坑 - CSDN博客](http://blog.csdn.net/newjueqi/article/details/48804201)
-
-2017-11-23 17:06 [浅谈nodejs中的Crypto模块 - CNode技术社区](http://cnodejs.org/topic/504061d7fef591855112bab5)
-
-2017-11-23 17:07 [NodeJS 内置模块之crypto - CSDN博客](http://blog.csdn.net/qq_33315185/article/details/53436364)
-
-2017-11-23 17:10 [在Node.js使用mysql模块时遇到的坑 - CNode技术社区](https://cnodejs.org/topic/516b77e86d382773064266df)
-
-2017-12-04 10:49 [GIF 格式图片的存储和压缩 Node.js实现 - CSDN博客](http://blog.csdn.net/bat1992/article/details/70173453)
-
-2018-01-11 13:50 [通过做一个基于Node的微服务器来学习Docker - 文章 - 伯乐在线](http://blog.jobbole.com/103069/)
-
-2018-01-11 13:50 [制作nodejs项目镜像,实现docker下的快速部署 - 别问是谁 - 博客园](https://www.cnblogs.com/Andrew-XinFei/p/6251885.html)
-
-2018-03-07 19:40 [JSON Web Tokens - jwt.io](https://jwt.io/)
-
-2018-03-12 20:50 [Node.js笔记（十）Nodejs与DOM操作 - CSDN博客](http://blog.csdn.net/u010668495/article/details/47108631)
-
-2018-03-12 21:19 [node文字转图片 - CNode技术社区](https://cnodejs.org/topic/583c5d9fba57ffba06c24a89)
-
-2018-03-12 21:23 [nodejs之SVG转图片下载方案 - CSDN博客](http://blog.csdn.net/cangkukuaimanle/article/details/46778041)
-
-2018-03-12 21:54 [Node.js 里用 D3.js 来作图 - CSDN博客](http://blog.csdn.net/lzhlzz/article/details/53857357)
-
-2018-03-12 22:20 [node使用buffer生成图片 - CSDN博客](http://blog.csdn.net/u010081689/article/details/51088068)
-
-2018-03-13 10:38 [node.js 中生成验证码的另类方案——svg 验证码 - CNode技术社区](http://cnodejs.org/topic/58647a54189fd5ad64590017)
-
-2018-03-13 14:14 [《Nodejs开发加密货币》之二十六：轻松从Js文件生成UML类图 - CNode技术社区](http://cnodejs.org/topic/57ccc1f82adfc63a267844a1)
-
-2018-03-13 14:16 [通读cheerio API - CNode技术社区](http://cnodejs.org/topic/5203a71844e76d216a727d2e)
-
-2018-03-14 17:27 [windows下的node-canvas历程 - swzhou - 博客园](https://www.cnblogs.com/virtual/p/3661592.html)
-
-2018-03-14 17:38 [基于NodeCanvas的AQI渲染服务](https://zhuanlan.zhihu.com/p/34035302)
-
-2018-03-20 17:14 [如何使用nodejs做爬虫程序？ - 知乎](https://www.zhihu.com/question/31679802)
-
-2018-03-20 17:34 [Node.js 动态网页爬取 PhantomJS 使用入门 - CSDN博客](http://blog.csdn.net/qq_21265915/article/details/65626712)
-
-2018-05-25 18:09 [Nodejs进阶：服务端字符编解码&amp;乱码处理 - 程序猿小卡 - 博客园](http://www.cnblogs.com/chyingp/p/charset-enc-dec.html?utm_source=tuicool&utm_medium=referra)
-
-2018-05-28 16:48 [nodejs使用async/await同步操作mysql - 简书](https://www.jianshu.com/p/142f2231355e)
-
-2018-06-01 16:51 [node读写Excel操作 - 我来乔23 - 博客园](https://www.cnblogs.com/MakeView660/p/7902715.html)
-
-2018-06-06 10:43 [node-mysql中防止SQL注入 - CSDN博客](https://blog.csdn.net/lin_tuer/article/details/54809330)
-
-2018-06-06 10:44 [Node.js中用escape解决sql注入 - 简书](https://www.jianshu.com/p/831991cc30a9)
-
-2018-06-06 10:49 [NodeJS mysql2 使用心得 - CSDN博客](https://blog.csdn.net/u010379324/article/details/51228569)
-
-2018-08-03 09:53 [《大搜车NodeJS日志规范化与分析监控》作者：plusman 来自搜车大无线 团队博客](http://f2e.souche.com/blog/ri-zhi-gui-fan-hua-yu-fen-xi-jian-kong/)
-
-2018-08-03 09:57 [nodejs收集日志，rsyslog同步收集入es的实施](https://zhuanlan.zhihu.com/p/31572953)
-
-2018-08-31 18:05 [Nodejs进阶：readline实现日志分析+简易命令行工具 - 腾讯Web前端 IMWeb 团队社区 | blog | 团队博客](http://imweb.io/topic/5963a26ee5017dd2121d2c1f)
-
-2018-08-31 18:06 [在 node.js 中解析大型日志文件逐行读取_node.js_帮酷编程问答](https://ask.helplib.com/node.js/post_12210769)
-
-2018-09-20 10:06 [整理 node-sass 安装失败的原因及解决办法 - 个人文章 - SegmentFault 思否](https://segmentfault.com/a/1190000010984731)
-
-2018-09-21 17:56 [使用Node.js实现文件流转存服务 - Div.IO](https://div.io/topic/1930)
-
-2018-09-30 17:28 [Node.js的事件轮询Event Loop原理解释 -解道Jdon](https://www.jdon.com/idea/nodejs/event-loop.html)
-
-2018-10-24 15:36 [log.io：浏览器端实时日志监管系统](https://www.ibm.com/developerworks/cn/web/1607-browser-logio-monitor/index.html?ca=drs-&utm_source=tuicool&utm_medium=referral)
-
-2018-10-24 17:12 [如何分析 Node.js 中的内存泄漏 - CNode技术社区](https://cnodejs.org/topic/58c78ad906dbd608756d0d58)
-
-2018-10-25 10:58 [Node.js 性能调优之CPU篇(二)——v8-profiler - Node.js开发社区 | CTOLib码库](https://www.ctolib.com/topics-117551.html)
-
-2018-10-26 10:39 [Nodejs log4js日志管理详解 - 简书](https://www.jianshu.com/p/9604d08db899)
-
-2018-10-26 15:31 [node命令行小工具开发【翻译小工具】 - JavaScript之禅 - SegmentFault 思否](https://segmentfault.com/a/1190000008714075)
-
-2018-10-26 15:31 [Node.js+commander开发命令行工具 - 简书](https://www.jianshu.com/p/2cae952250d1)
-
-2018-10-26 15:50 [跟着老司机玩转Node命令行 | Aotu.io「凹凸实验室」](https://aotu.io/notes/2016/08/09/command-line-development/index.html)
-
-#####  Express框架
-
-2015-04-15 17:14 [Nodejs初阶之express - 聂微东 - 博客园](http://www.cnblogs.com/Darren_code/p/node_express.html)
-
-2015-04-15 17:14 [Nodejs开发框架Express3.0开发手记–从零开始 | 粉丝日志](http://blog.fens.me/nodejs-express3/)
-
-2015-04-15 17:16 [从零开始nodejs系列文章 | 粉丝日志](http://blog.fens.me/series-nodejs/)
-
-2015-04-15 17:17 [Node.js开发框架Express4.x | 粉丝日志](http://blog.fens.me/nodejs-express4/)
-
-2015-04-15 18:44 [nodejs express 框架解密5-视图 - yupeng - 博客园](http://www.cnblogs.com/yupeng/p/3482360.html)
-
-2015-04-16 09:39 [Express - 中文文档 - Node.js web 应用开发框架](http://www.expressjs.com.cn/)
-
-2015-04-16 15:43 [Express4 启航指南 - 聂微东 - 博客园](http://www.cnblogs.com/Darren_code/p/express4.html)
-
-2015-04-16 15:43 [Node.js利用Express框架搭建小型网站(下) - 追 - 博客频道 - CSDN.NET](http://blog.csdn.net/kkkkkxiaofei/article/details/32935199)
-
-2015-04-16 15:46 [Nodejs基础中间件Connect | 粉丝日志](http://blog.fens.me/nodejs-connect/)
-
-2015-04-16 16:05 [Express.js中文入门指引手册 - wx_mdq的专栏 - 博客频道 - CSDN.NET](http://blog.csdn.net/wx_mdq/article/details/7644487)
-
-2015-04-16 17:10 [nodejs之express 从零开始 - loudyten的专栏 - 博客频道 - CSDN.NET](http://blog.csdn.net/loudyten/article/details/22096133)
-
-2015-04-16 17:10 [Node.js + Web Socket 打造即时聊天程序嗨聊(1) - 51CTO.COM](http://developer.51cto.com/art/201404/434686.htm)
-
-2015-04-21 10:38 [Express框架中如何引用ejs模板引擎 - 绿茶叶 - 博客园](http://www.cnblogs.com/greenteaone/p/3685733.html)
-
-2015-04-21 10:40 [nodejs express template (模版)的使用 (ejs + express) - Mac Track - 博客频道 - CSDN.NET](http://blog.csdn.net/macyang/article/details/8841966)
-
-2015-04-21 10:45 [nodejs express template (模版)的使用 (ejs + express)_node.js 笔记](http://node-js.diandian.com/post/2012-07-03/40029704518)
-
-2015-04-21 14:11 [Nodejs学习笔记（五）--- Express安装入门与模版引擎ejs - porschev - 推酷](http://www.tuicool.com/articles/yUZBvq)
-
-2015-04-21 14:54 [express Multer 如何使用？ - CNode](https://cnodejs.org/topic/53d655d158cac416711d85ad)
-
-2015-04-21 16:01 [Express.js 中文入门指引手册 - web 前端 - 博客频道 - CSDN.NET](http://blog.csdn.net/wl110231/article/details/8202439)
-
-2015-04-21 16:01 [Express.js 中文入门指引手册 - justjavac(迷渡) - 博客频道 - CSDN.NET](http://blog.csdn.net/justjavac/article/details/7465557)
-
-2015-04-21 16:02 [Express.js 中文入门指引手册_51CTO下载中心_IT技术资料免费下载](http://down.51cto.com/data/512776)
-
-2015-07-30 15:09 [【node.js】本地模式安装express：'express' 不是内部或外部命令，也不是可运行的程序或批处理文件。 - MCpang的博客 - 博客频道 - CSDN.NET](http://blog.csdn.net/mcpang/article/details/26612865)
-
-2016-05-09 14:22 [Express - Node.js Web 应用程序框架](http://expressjs.com/zh-cn/)
-
-2016-05-13 18:35 [在 Express 开发中使用 nodemon | bubkoo](http://bubkoo.com/2014/12/02/use-nodemon-with-node-applications/)
-
-
-
-#####  Hexo静态博客系统
-
-2015-04-17 14:37 [Hexo](http://hexo.io/)
-
-2015-04-17 14:41 [Hexo在github上构建免费的Web应用 | 粉丝日志](http://blog.fens.me/hexo-blog-github/)
-
-2016-04-21 10:05 [Hexo](https://hexo.io/zh-cn/)
-
-2016-05-27 13:41 [Hexo | Hexo Subtitle](http://lotabout.me/very-simple/)
-
-2016-05-27 13:43 [Light](https://hexo.io/hexo-theme-light/)
-
-2016-05-29 19:24 [hexo常用命令笔记 - 埋名 - SegmentFault](https://segmentfault.com/a/1190000002632530)
-
-2016-05-29 19:27 [Hexo 3.0 静态博客使用指南 - 推酷](http://www.tuicool.com/articles/Jva2iaA)
-
-2016-05-30 08:49 [使用Hexo搭建博客（三），博客配置、主题和写作 - 简书](http://www.jianshu.com/p/db7e64d86067)
-
-2016-06-01 10:05 [Hexo搭建Github-Pages博客填坑教程 - 简书](http://www.jianshu.com/p/35e197cb1273)
-
-2016-06-01 14:11 [Hexo搭建Github静态博客 - 金石开 - 博客园](http://www.cnblogs.com/zhcncn/p/4097881.html)
-
-2016-06-01 14:14 [hexo常用命令笔记 - 埋名 - SegmentFault](https://segmentfault.com/a/1190000002632530#articleHeader10)
-
-2016-06-01 14:19 [在 hexo 中无痛使用本地图片 - 推酷](http://www.tuicool.com/articles/umEBVfI)
-
-2016-06-01 15:20 [Disqus – The #1 way to build your audience](https://disqus.com/)
-
-2016-06-01 18:33 [hexo添加百度统计 | BAZINGA](http://caoyudong.com/2015/09/16/hexo%E6%B7%BB%E5%8A%A0%E7%99%BE%E5%BA%A6%E7%BB%9F%E8%AE%A1/)
-
-2016-11-24 12:18 [Hexo使用多说教程 - 多说开发者中心](http://dev.duoshuo.com/threads/541d3b2b40b5abcd2e4df0e9)
-
-2016-11-24 12:22 [第三方服务集成 - NexT 使用文档](http://theme-next.iissnan.com/third-party-services.html)
-
-2016-11-24 12:22 [Hexo｜快速搭建自己（Github）博客 - 简书](http://www.jianshu.com/p/808554f12929)
-
-2016-11-24 13:56 [Hexo 主题Light修改教程 - 简书](http://www.jianshu.com/p/70343b7c2fd3)
-
-2016-11-24 14:52 [git 管理本地文件提交到github上有的文件提交不了-CSDN论坛-CSDN.NET-中国最大的IT技术社区](http://bbs.csdn.net/topics/390822726)
-
-2016-11-24 15:06 [为 Hexo 主题添加评论模块 — Disqus, 多说, 友言 - 推酷](http://www.tuicool.com/articles/jq2Aj2Z)
-
-
-
-#####  MVC框架
-
-2015-04-23 10:49 [thinkjs - 基于Promise的Node.js MVC框架](http://www.thinkjs.org/)
-
-
-
-#####  nvm
-
-2015-04-23 11:04 [hakobera/nvmw](https://github.com/hakobera/nvmw)
-
-2015-04-23 11:04 [CentOS下配置Node.JS | Ming BLOG](http://blog.python100.net/archives/118)
-
-2015-04-23 10:43 [搭建nodejs环境推荐用两个工具：nvm和npm | Ming BLOG](http://blog.python100.net/archives/124)
-
-2016-04-20 14:58 [coreybutler/nvm-windows: A node.js version management utility for Windows. Ironically written in Go.](https://github.com/coreybutler/nvm-windows)
-
-2016-04-20 14:58 [creationix/nvm: Node Version Manager - Simple bash script to manage multiple active node.js versions](https://github.com/creationix/nvm)
-
-2016-10-29 13:27 [管理 node 版本，选择 nvm 还是 n？ - 推酷](http://www.tuicool.com/articles/U73aEbR)
-
-2016-10-29 13:37 [使用 nvm 管理不同版本的 node 与 npm - 推酷](http://www.tuicool.com/articles/Vzquy2)
+2015-10-22 18:45 [Cookie安全 - 博文视点（北京）官方博客 - 博客频道 - CSDN.NET](http://blog.csdn.net/broadview2006/article/details/8595166)
 
 
 
 #####  Socket
 
-2015-07-30 15:59 [使用Node.js+Socket.IO搭建WebSocket实时应用 - OPEN 开发经验库](http://www.open-open.com/lib/view/open1402479198587.html)
+2015-11-06 14:17 [WSS - Https - 握手协议 - - ITeye技术网站](http://enlbi.iteye.com/blog/1103525)
 
-2015-07-30 15:59 [学习 NodeJS 第八天：Socket 通讯 - zhangxin09的专栏 - 博客频道 - CSDN.NET](http://blog.csdn.net/zhangxin09/article/details/12844975)
+2015-11-06 14:17 [Socket.IO 用的协议是 ws 还是 wss? - IAMSK 的回答 - 知乎](http://www.zhihu.com/question/20368919/answer/15883875)
 
-2016-03-08 11:34 [Web 通信 之 长连接、长轮询（long polling） - 孤剑 - 博客园](http://www.cnblogs.com/AloneSword/p/3517463.html)
+2017-03-10 16:14 [websoket.io 高并发 实现 - 转眼已大叔 - SegmentFault](https://segmentfault.com/a/1190000008544300?utm_source=weekly&utm_medium=email&utm_campaign=email_weekly)
 
-2016-05-13 16:45 [Socket.IO](http://socket.io/)
 
-2016-07-07 13:18 [看完让你彻底搞懂Websocket原理 - 推酷](http://www.tuicool.com/articles/7zyMvy6)
 
-2016-08-30 10:51 [GoEasy | Web message push expert](https://goeasy.io/www/home)
+#####  CDN
 
-2018-05-30 10:29 [socket.io 中文手册 socket.io 中文文档 - liuxixi - 博客园](https://www.cnblogs.com/lxxhome/p/5980615.html)
+2015-11-09 09:58 [开放静态文件 CDN - 为开源库提供稳定、快速的免费 CDN 服务](http://www.staticfile.org/)
 
+2015-11-09 09:58 [百度静态资源公共库](http://cdn.code.baidu.com/)
 
+2015-11-09 10:24 [前端公共库CDN加速-静态资源公共库,免费CDN公共库](http://www.cdnjs.net/)
 
-#####  CNPM
+2015-04-30 15:57 [Bootstrap中文网开源项目免费 CDN 服务](http://www.bootcdn.cn/)
 
-2016-01-08 14:24 [CNPM搭建私有的NPM服务 | 粉丝日志](http://blog.fens.me/nodejs-cnpm-npm/)
 
 
+#####  浏览器
 
-#####  node-webkit
+2015-12-14 14:14 [翻译：清除各个浏览器中的数据研究 « 张鑫旭-鑫空间-鑫生活](http://www.zhangxinxu.com/wordpress/2012/09/%E7%BF%BB%E8%AF%91%EF%BC%9A%E6%B8%85%E9%99%A4%E5%90%84%E4%B8%AA%E6%B5%8F%E8%A7%88%E5%99%A8%E4%B8%AD%E7%9A%84%E6%95%B0%E6%8D%AE%E7%A0%94%E7%A9%B6/)
 
-2016-02-16 08:51 [node-webkit：开发桌面+WEB混合型应用的神器 - 天上的神明与星辰，人间的艺术和真纯，我们所敬畏和热爱的，莫过于此。 - ITeye技术网站](http://damoqiongqiu.iteye.com/blog/2010720)
+2016-01-29 17:27 [Microsoft Azure RemoteApp](https://www.remoteapp.windowsazure.com/)
 
-2016-02-16 08:58 [【开源专访】Node-Webkit作者王文睿：桌面应用的全新开发方式-CSDN.NET](http://www.csdn.net/article/2014-01-08/2818066-Node-Webkit)
+2016-04-19 17:32 [一个新浏览器，为我们的朋友打造 – Vivaldi](https://vivaldi.com/)
 
-2016-02-16 09:38 [用node-webkit开发桌面应用 - CNode技术社区](https://cnodejs.org/topic/53233277bfb7097d7a00059e)
+2016-05-19 14:11 [Postman | Supercharge your API workflow](http://www.getpostman.com/)
 
-2016-02-16 10:06 [使用node-webkit构建桌面应用程序（一）](http://www.infoq.com/cn/articles/using-node-webkit-to-build-desktop-applications-part1?utm_campaign=infoq_content&utm_source=infoq&utm_medium=feed&utm_term=global)
+2016-07-11 11:00 [CN-Chrome-DevTools/Performance-profiling-with-the-Timeline.md at master · zhangyaowu/CN-Chrome-DevTools](https://github.com/zhangyaowu/CN-Chrome-DevTools/blob/master/md/Performance-Profiling/Performance-profiling-with-the-Timeline.md)
 
-2016-02-16 10:19 [List of apps and companies using nw.js · nwjs/nw.js Wiki](https://github.com/nwjs/nw.js/wiki/List-of-apps-and-companies-using-nw.js)
+2016-07-11 11:00 [使用Chrome DevTools的Timeline和Profiles提高Web应用程序的性能 - 技术翻译 - 开源中国社区](http://www.oschina.net/translate/performance-optimisation-with-timeline-profiles)
 
-2016-02-16 10:19 [node-webkit学习(2)基本结构和配置 - 玄魂 - 博客园](http://www.cnblogs.com/xuanhun/p/3656003.html)
+2016-08-18 09:59 [IE11 Windows7下F12 DOC资源管理器不能用Exception in window.onload: Error: An error has ocurr... - 推酷](http://www.tuicool.com/articles/iiaeEbF)
 
-2016-02-16 10:45 [nw.js - 随笔分类 - 玄魂 - 博客园](http://www.cnblogs.com/xuanhun/category/568577.html)
+2016-08-22 11:18 [chrome调试工具常用功能整理](http://sentsin.com/web/250.html)
 
-2016-02-16 10:47 [修改node-webkit的默认图标 - KeenWon | 做有趣的事](http://keenwon.com/1311.html)
+2016-08-22 11:19 [开发者调试工具Chrome Workspace - 腾讯ISUX - 社交用户体验设计](http://isux.tencent.com/chrome-workspace.html)
 
-2016-02-16 13:04 [Record for studying NW.js - GitBook](https://www.gitbook.com/book/runun/record-for-studying-nw-js/details)
+2016-08-22 11:22 [利用google浏览器开发者工具调试网页（详） - OPEN 开发经验库](http://www.open-open.com/lib/view/open1420789510281.html)
 
-2016-02-16 13:22 [NW.js Documentation](http://docs.nwjs.io/en/v0.13.0-beta5/)
+2016-08-22 11:35 [作为Web开发人员，我为什么喜欢Google Chrome浏览器 - Q.Lee.lulu - 博客园](http://www.cnblogs.com/QLeelulu/archive/2011/08/28/2156402.html)
 
-2016-02-16 13:22 [NW.js](http://nwjs.io/)
+2016-08-22 11:41 [Chrome DevTools Overview - Google Chrome](https://developer.chrome.com/devtools)
 
-2017-12-01 16:21 [nw.js node-webkit系列（3）基本程序结构与配置 - CSDN博客](http://blog.csdn.net/zeping891103/article/details/50728834)
+2016-08-22 11:43 [Chrome开发者工具不完全指南（一、基础功能篇） - 卖烧烤夫斯基 - 博客园](http://www.cnblogs.com/constantince/p/4565261.html)
 
-2017-12-01 17:59 [致良知，让良知的心伴你通行。 - CSDN博客](http://blog.csdn.net/zeping891103/article/category/5702195)
+2016-08-22 12:21 [Chrome开发者工具系列 - 随笔分类 - 卖烧烤夫斯基 - 博客园](http://www.cnblogs.com/constantince/category/712675.html)
 
+2015-06-05 15:25 [Browse Happy](http://browsehappy.com/)
 
+2016-08-30 18:31 [Firebug控制台详解 - 阮一峰的网络日志](http://www.ruanyifeng.com/blog/2011/03/firebug_console_tutorial.html)
 
-#####  hex框架
+2016-08-30 18:35 [JavaScript 打印调用堆栈 - 诸葛飞 - 博客频道 - CSDN.NET](http://blog.csdn.net/zhugefei/article/details/49802389)
 
-2016-02-16 09:08 [heX：用HTML5和Node.JS开发桌面应用 | heX Blog](http://hex.youdao.com/blog/?p=25)
+2016-08-30 19:59 [Chrome 控制台console的用法 - OPEN 开发经验库](http://www.open-open.com/lib/view/open1421131601390.html)
 
+2016-09-14 14:49 [15个必须知道的chrome开发者技巧 - 全栈开发者](http://www.admin10000.com/document/6159.html)
 
+2015-07-21 16:36 [查看html元素绑定的事件与方法的利器 - web馆 - 博客园](http://www.cnblogs.com/xiaoyao2011/p/3447421.html)
 
-#####  PhantomJS
+2015-06-05 17:24 [Web设计者和开发者必备的27个Chrome插件 - Chrome 官方博客 - 博客频道 - CSDN.NET](http://blog.csdn.net/chromeblog/article/details/6865124)
 
-2016-04-14 09:54 [PhantomJS | PhantomJS](http://phantomjs.org/)
+2017-02-06 22:02 [--allow-file-access-from-files 命令的使用 - 推酷](http://www.tuicool.com/articles/v6riiuq)
 
-2016-04-14 18:14 [PhantomJS快速入门教程 - 推酷](http://www.tuicool.com/articles/beeMNj/)
+2017-03-16 10:57 [Google Chrome Full Black Screen - Stack Overflow](http://stackoverflow.com/questions/9954522/google-chrome-full-black-screen)
 
+2017-09-04 15:07 [QUIC, a multiplexed stream transport over UDP - The Chromium Projects](https://www.chromium.org/quic)
 
+2017-09-15 17:08 [JavaScript 引擎性能比较之一SpiderMonkey - 温故而知新 - CSDN博客](http://blog.csdn.net/fanyamin/article/details/45566615)
 
-#####  模板引擎
+2017-10-17 17:18 [【干货】Chrome插件(扩展)开发全攻略 - 我是小茗同学 - 博客园](http://www.cnblogs.com/liuxianan/p/chrome-plugin-develop.html)
 
-2016-05-11 10:59 [Nunjucks](https://mozilla.github.io/nunjucks/)
+2017-10-17 17:20 [【chrome扩展】管理你的浏览器(第四章)](http://blog.mn886.net/chenjianhua/show/6e057a66e07a/index.html)
 
-2018-06-05 17:48 [nodejs前端模板引擎swig入门 - 简书](https://www.jianshu.com/p/f0bffc42c1ce)
+2017-10-17 20:53 [Note: 一个初步的 Chrome Packaged App 写法 - 题叶 - SegmentFault](https://segmentfault.com/a/1190000000454101)
 
-2018-06-05 17:48 [Swig 使用指南](http://www.iqianduan.net/blog/how_to_use_swig)
+2017-10-17 20:55 [如何从零开始写一个 Chrome 扩展？ - 知乎](https://www.zhihu.com/question/20179805)
 
+2017-10-18 09:10 [chrome扩展开发之旅 第四篇 - WilsonLiu95's Blog - SegmentFault](https://segmentfault.com/a/1190000004334872)
 
+2017-10-18 09:13 [如何优雅地使用 Chrome？ - 知乎](https://www.zhihu.com/question/20595240)
 
-#####  Ghost多人博客
+2018-01-19 19:59 [phantomJs之殇，chrome-headless之生 – ThoughtWorks洞见](http://insights.thoughtworks.cn/phantomjs-and-chrome-headless/)
 
-2016-06-01 16:59 [下载 Ghost | Ghost中文网](http://www.ghostchina.com/download/)
+2018-01-26 20:33 [Chrome 控制台新玩法-console显示图片以及为文字加样式 - 刘哇勇 - 博客园](https://www.cnblogs.com/Wayou/p/chrome_dev_tool_style_console.html)
 
-2016-06-01 17:15 [Ghost 邮件系统设置详解 | Ghost中文网](http://www.ghostchina.com/mail-configuration-on-self-hosted-version-of-ghost/)
+2018-01-29 18:07 [你真的了解 console 吗 - Orange的前端笔记 - SegmentFault](https://segmentfault.com/a/1190000000481884)
 
-2016-06-01 17:28 [「搭建Ghost博客」经典教程 - 极简小站 - SegmentFault](https://segmentfault.com/a/1190000002947497)
+2018-07-06 16:05 [Google优化工具Timeline的使用（Chrome 57已经改为performance（性能模板）） - CSDN博客](https://blog.csdn.net/qq_26878975/article/details/74638018)
 
-2016-06-01 17:28 [Ghost 快捷手册 | Ghost中文网](http://www.ghostchina.com/ghost-cheat-sheet/)
+2018-07-06 16:09 [web调试优化-chrome开发者工具不完全指南 - 守候书阁 - SegmentFault 思否](https://segmentfault.com/a/1190000011868916)
 
-2016-06-02 08:45 [利用Docker和阿里云容器服务部署高可用Ghost博客集群-博客-云栖社区-阿里云](https://yq.aliyun.com/articles/2722)
+2018-07-06 16:19 [全新Chrome Devtool Performance使用指南](https://zhuanlan.zhihu.com/p/29879682)
 
-2016-06-02 08:45 [在阿里云服务器上安装 Ghost （4）-- 安装 Ghost | Ghost中文网](http://www.ghostchina.com/install-ghost-on-ali-ecs-forth-step-install-ghost/)
+2018-08-03 15:44 [【前端工具】Chrome 扩展程序的开发与发布 -- 手把手教你开发扩展程序 - ChokCoco - 博客园](http://www.cnblogs.com/coco1s/p/8004510.html)
 
+2018-08-03 15:47 [Chrome插件开发总结 - 简书](https://www.jianshu.com/p/39652b8eae7e)
 
+2018-08-15 16:39 [Google Chrome商店开发者认证支付$5【图解认证支付成功】 - 快乐每一天 - ITeye博客](http://qiaolevip.iteye.com/blog/2258627)
 
-#####  PM2
+2018-10-12 11:18 [javascript – 查看Chrome控制台是否已打开 - 代码日志](https://codeday.me/bug/20170716/37432.html)
 
-2016-06-02 08:59 [Node.js进程管理器PM2浅析 - 推酷](http://www.tuicool.com/articles/vAjIZjn)
+2018-10-12 11:19 [检测 F12 控制台是否开启 | Japari Park](https://ahaochan.github.io/posts/Check_whether_the_F12_console_is_turned_on.html)
 
-2016-06-02 09:02 [Unitech/pm2: Production process manager for Node.js apps with a built-in load balancer](https://github.com/Unitech/pm2)
 
-2016-06-02 09:15 [PM2 介绍](https://www.douban.com/note/314200231/)
 
-2017-07-10 11:18 [PM2  使用介绍 - Karrdy - SegmentFault](https://segmentfault.com/a/1190000002539204)
+#####  加密
 
-2017-08-01 16:47 [pm2使用心得 - 简书](http://www.jianshu.com/p/225b9284cfb8)
+2016-02-15 09:26 [挑战应答方式_百度百科](http://baike.baidu.com/link?url=F_gDusUxEJXC0IAl036kD-J3DgmDc4sdetbzU_-CThCy19dJjWAE5W7zs2cQcoPfW-YlggekGVLfOuVlnX9jUK)
 
-2017-08-01 16:47 [node.js学习笔记（22） pm2-博客-云栖社区-阿里云](https://yq.aliyun.com/articles/2993)
+2016-02-15 09:26 [网站数据库中“密码加密”方法思考 - 网站安全 - 红黑联盟](http://www.2cto.com/Article/201304/202288.html#12732-tsina-1-75385-4cfdb5a4fb74592eb67847a918275b04)
 
-2017-08-01 16:58 [nodejs服务器部署教程一 - 个人文章 - SegmentFault](https://segmentfault.com/a/1190000010098126)
 
-2017-08-02 10:32 [npm系列：pm2文档简单翻译 - 技术控 - SegmentFault](https://segmentfault.com/a/1190000008074347)
 
-2017-08-02 13:52 [pm2用法详解+ecosystem.config - LGGGGG - 博客园](http://www.cnblogs.com/lggggg/p/6970395.html)
+#####  博客
 
-2017-08-02 13:58 [通过Github与PM2部署Node应用 - 业余程序员 - SegmentFault](https://segmentfault.com/a/1190000005171229)
+2016-03-02 14:04 [司徒正美 - 博客园](http://www.cnblogs.com/rubylouvre/)
 
-2017-08-02 14:27 [PM2实用入门指南 - 程序猿小卡的前端专栏 - SegmentFault](https://segmentfault.com/a/1190000006793571#articleHeader16)
+2016-03-29 14:40 [前端外刊评论 - 知乎专栏](http://zhuanlan.zhihu.com/FrontendMagazine)
 
-2017-08-02 14:27 [PM2中无法开启ES6的解决方案 - 业余程序员 - SegmentFault](https://segmentfault.com/a/1190000005337995)
+2016-04-20 11:44 [囧克斯](http://jiongks.name/)
 
-2017-08-02 14:39 [【node】利用PM2实现 node服务器 后台运行和自动重启 - 杨成功的全栈之路 - SegmentFault](https://segmentfault.com/a/1190000008725179)
+2016-05-24 14:23 [江清清的技术专栏|专注移动技术开发(Android/IOS)、React Native、项目管理、Web前端技术。](http://www.lcode.org/)
 
-2017-10-31 17:05 [nodejs部署方式-pm2 - zhangzongshan - 博客园](http://www.cnblogs.com/zzsdream/p/6898974.html)
+2016-12-06 16:04 [JerryQu 的小站](https://imququ.com/)
 
-2017-11-23 17:13 [PM2实用入门指南 - 程序猿小卡 - 博客园](https://www.cnblogs.com/chyingp/p/pm2-documentation.html)
+2018-02-26 15:01 [AlloyTeam|腾讯全端 AlloyTeam 团队](http://www.alloyteam.com/)
 
-2018-07-10 09:50 [pm2常用的命令用法介绍 - CSDN博客](https://blog.csdn.net/sunscheung/article/details/79171608)
+2018-04-28 21:40 [混世魔王的技术博客](http://26836659.blogcn.com/)
 
+2018-09-05 16:32 [OXXO.STUDIO](https://www.oxxostudio.tw/)
 
 
-#####  nrm
 
-2016-03-22 14:31 [nrm 快速切换 NPM 源 （附带测速功能） - 推酷](http://www.tuicool.com/articles/nYjqeu)
+#####  设计模式
 
+2016-03-11 10:19 [JavaScript大型可扩展的设计模式 - Thinking In Jdon](http://www.jdon.com/45498)
 
+2016-03-11 10:10 [为什么我再也不使用MVC框架了？ - Thinking In Jdon](http://www.jdon.com/47866)
 
-#####  npm
+2016-03-11 10:03 [CQRS Command Query Responsibility Segregation(命令查询职责分离) - 解道Jdon](http://www.jdon.com/cqrs.html)
 
-2015-04-16 16:00 [淘宝 NPM 镜像](http://npm.taobao.org/)
+2016-03-11 10:40 [The Reactive Manifesto](http://www.reactivemanifesto.org/)
 
-2015-06-19 13:58 [autoprefixer](https://www.npmjs.com/package/autoprefixer)
+2016-05-06 18:41 [深入理解JavaScript系列（29）：设计模式之装饰者模式 - 汤姆大叔 - 博客园](http://www.cnblogs.com/TomXu/archive/2012/02/24/2353434.html)
 
-2015-06-19 16:24 [nrm](https://www.npmjs.com/package/nrm)
 
-2015-06-19 16:25 [给电脑换源 npm 国内镜像 cnpm 一介布衣](http://yijiebuyi.com/blog/b12eac891cdc5f0dff127ae18dc386d4.html)
 
-2015-06-19 16:26 [nrm —— 快速切换 NPM 源 （附带测速功能） - SegmentFault](http://segmentfault.com/a/1190000000473869)
+#####  JSEveryWhere
 
-2015-07-22 10:05 [使用cnpm搭建企业内部私有NPM仓库 - SegmentFault](http://segmentfault.com/a/1190000000368906)
+2016-03-30 14:04 [JS.everywhere(2013)](http://www.jseverywhere.org/)
 
-2015-07-22 13:37 [npm用法及离线安装方法 - laozhbook - 推酷](http://www.tuicool.com/articles/eE7zam)
+2018-01-23 10:19 [JSPatterns.com](http://www.jspatterns.com/)
 
-2015-08-21 18:13 [jdf](https://www.npmjs.com/package/jdf)
 
-2015-09-14 11:27 [nodejs中npm常用命令 - binjiang的个人空间 - 开源中国社区](http://my.oschina.net/robinjiang/blog/168732)
 
-2016-05-05 11:49 [提交自己的包到bower、npm中 | JSLite.io](http://jslite.io/2015/05/03/%E6%8F%90%E4%BA%A4%E8%87%AA%E5%B7%B1%E5%8C%85%E5%88%B0bower%E3%80%81npm%E4%B8%AD/)
+#####  图片优化
 
-2016-11-25 13:43 [dylang/npm-check: Check for outdated, incorrect, and unused dependencies.](https://github.com/dylang/npm-check)
+2016-04-08 09:36 [智图_图片压缩在线工具_在线制作webp](http://zhitu.isux.us/)
 
-2016-12-10 22:59 [发布自己的module - 我的第一个npm组件！ - 前端 - SegmentFault](https://segmentfault.com/a/1190000006250554)
 
-2017-01-13 19:36 [npm 安装出现 UNMET DEPENDENCY 的解决方案 - 推酷](http://www.tuicool.com/articles/jAja2aQ)
 
-2017-05-12 17:54 [yarn publish 与 npm publish 的不同之处](https://changshiban.com/2017/03/17/the-difference-between-yarn-publish-and-npm-publish/)
+#####  WebGL
 
-2017-05-17 11:20 [如何发布Node模块到NPM社区 - CNode技术社区](http://cnodejs.org/topic/5364dcde31a870830700b847)
+2016-04-19 15:09 [15 个可在 Chrome 浏览器上体验 WebGL 的例子 - 开源中国社区](http://www.oschina.net/news/26547/webgl-chrome/)
 
-2017-05-17 11:20 [开发nodejs模块并发布到npm的简单示例 - Zhuang miao - 博客园](http://www.cnblogs.com/mz121star/archive/2012/11/15/nodejsandnom.html)
+2016-05-27 18:47 [链接经典_重庆木棉树软件开发有限公司](http://www.mms3d.cn/html/gywm/ljjd.html)
 
-2017-05-18 17:05 [npm升级所有可更新包 - 推酷](http://www.tuicool.com/articles/UbyY7rY)
 
-2017-12-24 15:50 [npm install 报错chromedriver 记录 - CSDN博客](http://blog.csdn.net/sunzhemin/article/details/51979967)
 
-2018-03-09 15:29 [用sinopia搭建内部npm服务 - 前端攻城师-CZF - 博客园](https://www.cnblogs.com/czf-zone/p/6860457.html)
+#####  WebAssembly
 
-2018-03-14 17:22 [npm install canvas简明指南 - 廖雪峰的官方网站](https://www.liaoxuefeng.com/article/001393751950310ce1564f9d572410180eafe7a5dd89c6f000)
+2016-04-20 10:01 [关于WebAssembly你需要了解的7件事](http://www.infoq.com/cn/news/2015/10/webassembly-7-things)
 
-2018-03-23 15:35 [npm package.json属性详解 - 桃子夭夭 - 博客园](https://www.cnblogs.com/tzyy/p/5193811.html#_h1_9)
+2016-04-20 10:02 [WebAssembly：面向Web的通用二进制和文本格式](http://www.infoq.com/cn/news/2015/06/webassembly-wasm)
 
-2018-06-15 14:39 [mac安装jello，安装不过去，报gyp WARN EACCES user &quot;root&quot; does not have permission to access the dev dir &quot;/root/ - CSDN博客](https://blog.csdn.net/gupan86/article/details/46596599)
+2016-04-20 10:22 [WebAssembly](http://webassembly.github.io/)
 
-2018-06-15 15:17 [npm ERR! code EINTEGRITY (npm 5) - 远足者 - ITeye博客](http://wxinpeng.iteye.com/blog/2383442)
+2018-06-04 14:50 [WebAssembly 实践：如何写代码 - WebAssembly - SegmentFault 思否](https://segmentfault.com/a/1190000008402872)
 
-2018-06-15 15:31 [玩转npm - 简书](https://www.jianshu.com/p/8a114304dd6e)
+2018-06-04 14:52 [让C代码在浏览器中运行——WebAssembly入门介绍 - CSDN博客](https://blog.csdn.net/sinat_32582203/article/details/73355211)
 
-2018-09-29 11:05 [npx: npm 5.2.0 内置的包执行器](https://zhuanlan.zhihu.com/p/27832595)
 
-2018-09-29 11:16 [npx命令介绍 - lxz - SegmentFault 思否](https://segmentfault.com/a/1190000012974903)
 
-2018-09-30 11:22 [写一个 npm cli](https://zhuanlan.zhihu.com/p/25249117)
+#####  CommonJS
 
+2016-04-20 14:39 [CommonJS规范 -- JavaScript 标准参考教程（alpha）](http://javascript.ruanyifeng.com/nodejs/module.html)
 
 
-#####  JSON Server
 
-2016-09-08 09:23 [三步使用 JSON Server 模拟 API - OPEN 开发经验库](http://www.open-open.com/lib/view/open1443075501873.html)
+#####  测试
 
-2016-09-08 09:23 [typicode/json-server: Get a full fake REST API with zero coding in less than 30 seconds (seriously)](https://github.com/typicode/json-server)
+######  ESLint
 
+2016-04-20 17:53 [ESLint - Pluggable JavaScript linter](http://eslint.org/)
 
+2016-04-20 17:55 [ESLint 使用入门](https://csspod.com/getting-started-with-eslint/)
 
-#####  Koa
+2016-04-20 17:57 [ESLint配置参数介绍 - 开发笔记 - SegmentFault](https://segmentfault.com/a/1190000004468428)
 
-2016-09-09 11:27 [Koa (koajs) -- 基于 Node.js 平台的下一代 web 开发框架 | Koajs 中文文档](http://koa.bootcss.com/)
+2016-04-20 18:13 [Jocs/ESLint_docs: A translation of ESLint Doc, including configration and rules.](https://github.com/Jocs/ESLint_docs)
 
-2016-10-28 10:47 [心路历程：vue2.0+webpack+koa2 前后端同构实践（一） - 思无邪 - SegmentFault](https://segmentfault.com/a/1190000005995213)
 
-2016-10-28 11:00 [koa - 廖雪峰的官方网站](http://www.liaoxuefeng.com/wiki/001434446689867b27157e896e74d51a89c25cc8b43bdb3000/001434501579966ab03decb0dd246e1a6799dd653a15e1b000)
 
-2016-10-28 11:03 [guo-yu/koa-guide: koa guide in Chinese](https://github.com/guo-yu/koa-guide)
+#####  UI
 
-2016-10-28 11:08 [17koa/koa-generator: Koa' application generator for 1.x and 2.x（ Express-style and support all middlewares include async/await ）](https://github.com/17koa/koa-generator)
+2016-04-26 09:59 [UI中国-专业界面交互设计平台](http://www.ui.cn/)
 
-2016-10-28 11:09 [koa生成器,一键生成koa和koa2项目 - 小莫 - SegmentFault](https://segmentfault.com/a/1190000005742129)
+2016-12-22 16:11 [Awwwards - Website Awards - Best Web Design Trends](http://www.awwwards.com/)
 
-2016-10-28 11:15 [从零组装新工具 - Koa2 - Lxxyx的开发笔记 - SegmentFault](https://segmentfault.com/a/1190000004996176)
+2018-03-20 16:17 [Palettes | Flat UI Colors 🎨 280 handpicked colors ready for COPY &amp; PASTE](https://flatuicolors.com/)
 
-2016-10-28 11:21 [用 vue koa 和mongo 撸了个人博客和博客管理网站 - chuckliu的前端学习笔记 - SegmentFault](https://segmentfault.com/a/1190000007004199)
+2018-03-20 16:19 [A Collection of Section Separators](https://tympanus.net/Development/SectionSeparators/)
 
-2016-10-28 11:24 [用 Koa 写服务体验 - 囧克斯](http://jiongks.name/blog/try-koajs/)
+2018-03-20 16:29 [Proto.io - Prototypes that feel real](https://proto.io/)
 
-2016-12-15 21:31 [Introduction | 一起学koa](http://17koa.com/koa-generator-examples/)
+2018-09-06 13:36 [设计导航 - 精选最好的设计网站大全](http://hao.shejidaren.com/)
 
-2016-12-16 17:40 [KoaHub.js是基于 Koa.js 平台的 Node.js web 快速开发框架 - sinat_36469292的博客 - 博客频道 - CSDN.NET](http://blog.csdn.net/sinat_36469292/article/details/52965052)
+2018-09-19 14:28 [网页设计常用色彩搭配表 - 配色表 | 小影的工具箱](https://tool.c7sky.com/webcolor/)
 
-2016-12-16 20:10 [「新手向」koa2从起步到填坑 - 简书](http://www.jianshu.com/p/6b816c609669)
 
-2016-12-16 20:30 [在koa中使用mongoose操作mongodb数据库 - CNode技术社区](https://cnodejs.org/topic/574d2fc4d8f6537a2389c87e)
 
-2016-12-16 20:33 [datastack － 基于koa的RESTful框架 - RobinQu - SegmentFault](https://segmentfault.com/a/1190000000622043)
+#####  文档
 
-2016-12-16 21:15 [趣店前端团队基于koajs的前后端分离实践 - 前端俱乐部-http://blog.feclub.cn](http://feclub.cn/post/content/qudian_koa)
+2016-05-06 10:29 [Zeal](https://zealdocs.org/)
 
-2016-12-19 17:25 [Node.js实现RESTful api,express or koa? - 推酷](http://www.tuicool.com/articles/Qviu2am)
+2016-05-06 10:29 [Velocity - The Documentation and Docset Viewer for Windows](http://velocity.silverlakesoftware.com/)
 
-2016-12-19 17:26 [mongoose 与 koa 如何比较好的结合 - CNode技术社区](https://cnodejs.org/topic/53552311312420be08017e5a)
 
-2016-12-19 17:27 [Koa 2实用入门 - CNode技术社区](https://cnodejs.org/topic/5709959abc564eaf3c6a48c8)
 
-2017-01-13 15:45 [如何优雅的在 koa 中处理错误 - 推酷](http://www.tuicool.com/articles/Y7NnquR)
+#####  FMS 数据模拟
 
-2017-01-13 16:41 [跨入Koa2.0，从Compose开始 - CNode技术社区](https://cnodejs.org/topic/5780e12e69d72f545483ca69)
+2016-06-07 09:58 [FMS - FMS](http://fmsjs.org/)
 
-2017-01-13 19:36 [koa-router 源码浅析 — 好JSER](http://hao.jser.com/archive/12913/)
 
-2017-06-12 17:09 [node.js - koa-jwt如何使用 - SegmentFault](https://segmentfault.com/q/1010000006938020)
 
-2017-06-12 17:15 [NodeJS 实现基于 token 的认证应用 - 小小平凡世界 - 博客园](http://www.cnblogs.com/pingfan1990/p/4905065.html)
+#####  WebRTC
 
-2017-06-13 16:19 [为 Koa 框架封装 webpack-dev-middleware 中间件 - 太极客（Very Geek） - SegmentFault](https://segmentfault.com/a/1190000004883199)
+2016-06-12 22:09 [使用WebRTC搭建前端视频聊天室——入门篇 - 说学逗唱 - SegmentFault](https://segmentfault.com/a/1190000000436544)
 
-2017-06-15 10:40 [jsonwebtoken中文文档 - 个人文章 - SegmentFault](https://segmentfault.com/a/1190000009494020)
+2016-06-12 22:10 [WebRTC_百度百科](http://baike.baidu.com/link?url=b0lAsZyW30qld9ijtbTuIMJgNGLnh6x0wGRGd2Zux3n7nLff73q_XO-tl6fUkcL-SEaWNcdpF9qdd1P58l5N6q)
 
-2017-06-15 10:40 [Koa-jwt 说明文档(机翻润色) - 个人文章 - SegmentFault](https://segmentfault.com/a/1190000009788117)
+2016-06-12 22:10 [WebRTC Home | WebRTC](https://webrtc.org/)
 
-2017-07-10 16:11 [跨域[koa-cors] | koajs](https://wohugb.gitbooks.io/koajs/content/misc/koa-cors.html)
 
-2017-07-11 09:44 [KOA简介 | koajs](https://wohugb.gitbooks.io/koajs/content/index.html)
 
-2017-07-11 17:36 [koa技术分享 - CNode技术社区](https://cnodejs.org/topic/56936889c2289f51658f0926)
+#####  BFF
 
-2017-07-12 10:35 [koa入门 - chenhao.ch - SegmentFault](https://segmentfault.com/a/1190000006732849)
+2016-07-21 12:33 [Sam Newman - Backends For Frontends](http://samnewman.io/patterns/architectural/bff/)
 
-2017-07-12 10:41 [[node] koa - 晴明桑 - 博客园](http://www.cnblogs.com/qingmingsang/articles/5554036.html)
 
-2017-09-28 14:12 [使用 AngularJS &amp; NodeJS 实现基于 token 的认证应用 - 知乎专栏](https://zhuanlan.zhihu.com/FrontendMagazine/19920223)
 
-2017-09-30 09:53 [Koa 框架教程 - 阮一峰的网络日志](http://www.ruanyifeng.com/blog/2017/08/koa.html)
+#####  Unicode
 
-2017-09-30 15:53 [如何理解 koa 中间件执行机制 - 蛤蛤 - SegmentFault](https://segmentfault.com/a/1190000002783230)
+2015-09-15 14:38 [JavaScript为unicode编码转换为中文](http://sentsin.com/web/120.html)
 
-2017-11-01 13:07 [Koa、Express Web单元测试 - CSDN博客](http://blog.csdn.net/shushanfx/article/details/78051838)
+2016-09-06 15:59 [Unicode与JavaScript详解 - 阮一峰的网络日志](http://www.ruanyifeng.com/blog/2014/12/unicode.html)
 
-2017-11-01 13:13 [runkoa：不需要了解babel即可使用koa2+async组合 - CNode技术社区](https://cnodejs.org/topic/57090089de442ee71db36bad)
+2017-06-07 10:35 [Unicode Consortium](http://unicode.org/)
 
-2017-11-02 09:50 [EADDRINUSE when watching tests with mocha and supertest](http://www.marcusoft.net/2015/10/eaddrinuse-when-watching-tests-with-mocha-and-supertest.html)
 
-2017-11-02 10:51 [ES2015 &amp; babel 实战：开发NPM模块 - CNode技术社区](http://cnodejs.org/topic/565c65c4b31692e827fdd00c)
 
-2017-11-02 12:11 [从零搭建Koa2 Server - 相学长怼前端 - SegmentFault](https://segmentfault.com/a/1190000009494041)
+#####  调试
 
-2017-11-02 15:57 [基于 Koa, Sequelize, Redis 实现简单缓存机制 | 围观的翻墙群众 | Me.Sth.IT](http://solee.me/2016/03/17/ji-yu-koa-sequelize-redis-shi-xian-jian-dan-huan-cun-ji-zhi-2/)
+2016-11-25 14:55 [RemoteDev](http://remotedev.io/)
 
-2017-11-10 14:43 [node koa2图片上传的实现 - 包子源的博客 - CSDN博客](http://blog.csdn.net/ziwoods/article/details/72822730)
+2017-12-01 09:26 [使用 DevTools 的工作区设置持久化  |  Tools for Web Developers  |  Google Developers](https://developers.google.com/web/tools/setup/setup-workflow?utm_source=dcc&utm_medium=redirect&utm_campaign=2016q3)
 
-2018-03-05 10:53 [从koa-session中间件源码学习cookie与session - 和前端初学者一起进步 - SegmentFault 思否](https://segmentfault.com/a/1190000012412299)
 
-2018-03-14 14:40 [Koa2中间件 - 简书](https://www.jianshu.com/p/6a3499138737)
 
-2018-05-15 15:20 [koa2 async和await 实战详解 - 简书](https://www.jianshu.com/p/f8cfb82b4dad)
+#####  SOAP
 
+2016-12-20 16:03 [blog.csdn.net/zhuizhuziwo/article/details/8153327](http://blog.csdn.net/zhuizhuziwo/article/details/8153327)
 
+2016-12-20 16:03 [浅谈 SOAP](http://www.ibm.com/developerworks/cn/xml/x-sisoap/)
 
-#####  npmcdn
 
-2016-09-12 15:15 [unpkg](https://unpkg.com/#/)
 
+#####  JSDoc
 
+2017-06-01 09:13 [Use JSDoc: Index](http://usejsdoc.org/)
 
-#####  Thinkjs框架
 
-2016-10-28 10:36 [ThinkJS - 使用 ES6/7 特性开发 Node.js 项目，支持 TypeScript](https://thinkjs.org/)
 
-2016-10-28 10:37 [ThinkJS - 使用 ES6/7 特性开发 Node.js 项目，支持 TypeScript](https://thinkjs.org/doc/index.html)
+####  FSE
 
+2018-03-15 21:21 [Overstacked? The plight of the full stack web developer — » Cogentia](http://cogentia.io/2016/05/05/Overstacked-journey-of-full-stack-web-developer.html)
 
+2018-03-15 21:48 [全栈工程师技能图谱 - morra - 博客园](https://www.cnblogs.com/whatisfantasy/p/6440638.html)
 
-#####  Node-OS
+2018-03-16 17:51 [大前端工具集 - CSDN博客](http://blog.csdn.net/u013063153/article/details/52754650)
 
-2016-10-28 10:45 [Node OS](http://node-os.com/)
 
 
+####  HTTP
 
-#####  nodemon
+2015-06-11 10:02 [HTTP Get请求URL最大长度 - gyflyx的专栏 - 博客频道 - CSDN.NET](http://blog.csdn.net/gyflyx/article/details/7890207)
 
-2016-12-22 17:08 [nodemon 基本配置与使用 - 推酷](http://www.tuicool.com/articles/2AnmEz7)
+2015-07-02 16:59 [Meta http-equiv全面解释-chenmeng11-ChinaUnix博客](http://blog.chinaunix.net/uid-15014334-id-3774836.html)
 
-2018-03-09 14:52 [nodemon 基本配置与使用 - JuFoFu - 博客园](https://www.cnblogs.com/JuFoFu/p/5140302.html)
+2015-07-02 17:00 [web cache 机制 （cache-control） - tech - ITeye技术网站](http://sangeshitou.iteye.com/blog/744910)
 
+2015-07-02 17:55 [浏览器缓存详解:expires,cache-control,last-modified,etag详细说明 - eros的linux平台技术资料库 - 博客频道 - CSDN.NET](http://blog.csdn.net/eroswang/article/details/8302191)
 
+2015-07-02 17:56 [HTTP消息头网页缓存控制以及header常用指令(转) - 一个人的天空@ - 博客园](http://www.cnblogs.com/qq78292959/archive/2012/12/28/2836906.html)
 
-#####  Sequelize
+2015-07-02 17:56 [html头文件设置常用之&lt;meta&gt;设置缓存_星星索深邃_新浪博客](http://blog.sina.com.cn/s/blog_9c7ba64d01012vn2.html)
 
-2017-07-10 14:29 [Node.js ORM 框架 sequelize 实践 - zzbo - 博客园](http://www.cnblogs.com/zzbo/p/5906089.html)
+2015-07-06 09:05 [为你详细解读HTTP请求头的具体含意_百度经验](http://jingyan.baidu.com/article/375c8e19770f0e25f2a22900.html)
 
-2017-07-10 17:39 [Sequelize 中文API文档－1. 快速入门、Sequelize类 - IT笔录](https://itbilu.com/nodejs/npm/VkYIaRPz-.html)
+2015-07-06 09:07 [HTTP请求头和相应头的详细介绍 - CSDN杨凯专属频道 - 博客频道 - CSDN.NET](http://blog.csdn.net/yangkai_hudong/article/details/8082129)
 
-2017-07-10 17:39 [使用Sequelize - 廖雪峰的官方网站](http://www.liaoxuefeng.com/wiki/001434446689867b27157e896e74d51a89c25cc8b43bdb3000/001471955049232be7492e76f514d45a2180e2c224eb7a6000)
+2015-07-06 09:21 [HTTP深入浅出 http请求 - Chance_yin - 博客园](http://www.cnblogs.com/yin-jingyu/archive/2011/08/01/2123548.html)
 
-2017-07-12 13:39 [sequelize-auto从数据库表自动生成Sequelize模型(Model) - IT笔录](https://itbilu.com/nodejs/npm/41mRdls_Z.html)
+2015-07-06 09:21 [http请求头 - shupan001的专栏 - 博客频道 - CSDN.NET](http://blog.csdn.net/shupan001/article/details/7045430)
 
-2017-07-12 13:42 [Sequelize 中文API文档－2. Model 的定义、使用与Model类的API - IT笔录](https://itbilu.com/nodejs/npm/V1PExztfb.html)
+2015-07-06 09:38 [HTTP请求头大全 - 常用参考表对照表 - 脚本之家在线工具](http://tools.jb51.net/table/http_header)
 
-2017-07-12 13:42 [Sequelize 中文API文档－1. 快速入门、Sequelize类 - IT笔录](https://itbilu.com/nodejs/npm/VkYIaRPz-.html#api-instance-method)
+2015-07-06 09:49 [HTTP请求方法大全 - 常用参考表对照表 - 脚本之家在线工具](http://tools.jb51.net/table/http_request_method)
 
-2017-07-21 16:21 [Sequelize 和 MySQL 对照 - 前端涨姿势 - SegmentFault](https://segmentfault.com/a/1190000003987871#articleHeader4)
+2015-07-06 09:50 [HTTP状态码大全 - 常用参考表对照表 - 脚本之家在线工具](http://tools.jb51.net/table/http_status_code)
 
-2017-10-27 16:51 [node sequelize SequelizeDatabaseError: ER_BAD_FIELD_ERROR: Unknown column 'createdAt' in 'field list - CSDN博客](http://blog.csdn.net/wangzhikui1/article/details/61958419)
+2015-07-06 09:53 [HTTP Content-type 对照表 - 常用参考表对照表 - 脚本之家在线工具](http://tools.jb51.net/table/http_content_type)
 
-2017-11-13 14:53 [Manual | Sequelize | The node.js ORM for PostgreSQL, MySQL, SQLite and MSSQL](http://docs.sequelizejs.com/)
+2015-07-06 09:54 [常用参考表对照表 - 脚本之家在线工具](http://tools.jb51.net/table)
 
-2018-02-09 14:48 [Node.js Sequelize 模型(表)之间的关联及关系模型的操作 - CNode技术社区](http://cnodejs.org/topic/5799b0114265959826e7b35c)
+2015-07-06 13:56 [apache开启gzip压缩配置详解-apache-Php教程-壹聚教程网](http://www.111cn.net/phper/apache/42302.htm)
 
-2018-02-28 17:36 [sequelize连表include查询问题 - CNode技术社区](https://cnodejs.org/topic/59c12e9fd7cbefc51196450b)
+2015-07-06 17:06 [gzip_百度百科](http://baike.baidu.com/link?url=8nDDBGlGYTLVnWLKvVEcimCUNxb7ov9294ex8j2aFXt1Tn7wSoCkBFE7AQDTaaTLJOTqb7sN5-EZ0mTSNCOv_K)
 
-2018-05-07 14:13 [[db] sequelize - 晴明桑 - 博客园](https://www.cnblogs.com/qingmingsang/articles/5607191.html)
+2015-07-06 17:06 [HTTP协议---HTTP请求中的常用请求字段和HTTP的响应状态码及响应头 - 乔晓松 - 博客频道 - CSDN.NET](http://blog.csdn.net/qxs965266509/article/details/8082810)
 
-2018-05-07 16:15 [Sequelize中用group by进行分组聚合查询_node.js_脚本之家](http://www.jb51.net/article/99691.htm)
+2015-07-06 17:07 [简单理解Socket - Samaritans - 博客园](http://www.cnblogs.com/dolphinX/p/3460545.html)
 
-2018-05-08 10:29 [sequelize常见操作使用方法（增删改查，手把手教学） - CSDN博客](https://blog.csdn.net/qq328691560/article/details/50564697)
+2015-07-06 17:08 [TCP/IP、Http、Socket的区别_百度经验](http://jingyan.baidu.com/article/08b6a591e07ecc14a80922f1.html)
 
-2018-05-15 15:45 [mysql - Create or Update Sequelize - Stack Overflow](https://stackoverflow.com/questions/18304504/create-or-update-sequelize)
+2017-09-04 15:10 [HTTPS 与 HTTP2 协议分析 - 章志强的专栏 - CSDN博客](http://blog.csdn.net/zhangzq86/article/details/64907340)
 
-2018-05-16 14:14 [sequelize调用distinct函数](http://www.brafox.com/post/2015/sequelize/sequelize%E8%B0%83%E7%94%A8distinct%E5%87%BD%E6%95%B0.html)
+2017-09-04 15:17 [如何在 Apache 中启用 HTTP/2-系统运维|Linux.中国-开源社区](https://linux.cn/article-6720-1.html)
 
+2017-09-04 15:40 [Apache服务器启用SPDY协议加快传输本博客内容 – Librehat的部落格](https://www.librehat.com/apache-server-enable-spdy-protocol-to-speed-up-transfers-the-contents-of-this-blog/)
 
+#####  HTTP2
 
-#####  pinojs
+2016-05-14 17:39 [HTTP/2](https://http2.github.io/)
 
-2017-09-11 15:34 [Home - Pino - Super fast, all natural JSON logger for Node.js](http://getpino.io/#/)
+2017-09-04 10:23 [HTTP,HTTP2.0,SPDY,HTTPS你应该知道的一些事 - WEB前端 - 伯乐在线](http://web.jobbole.com/87695/)
 
+2017-09-04 10:23 [HTTP/2.0 相比1.0有哪些重大改进？ - 知乎](https://www.zhihu.com/question/34074946)
 
 
-#####  fastify
 
-2017-10-30 09:19 [Fastify, Fast and low overhead web framework, for Node.js](https://www.fastify.io/)
+#####  HTTPS
 
+2017-03-10 15:21 [也许，这样理解HTTPS更容易](http://mp.weixin.qq.com/s/9BkJ90CE6sNuUXJjiwHlGg)
 
+2017-09-04 10:24 [大型网站的 HTTPS 实践（1）：HTTPS 协议和原理 - 文章 - 伯乐在线](http://blog.jobbole.com/86660/)
 
-#####  Egg
+2017-09-04 10:24 [HTTPS 可能被这样劫持吗？ - 知乎](https://www.zhihu.com/question/22795329)
 
-2017-11-01 09:35 [深夜放毒——阿里开源的企业级Node框架Egg使用指南 - CNode技术社区](http://cnodejs.org/topic/580a6a7e541dfb7b50f40a60)
 
 
+####  XSS
 
-#####  Puppeteer
+2015-08-26 19:31 [前端之困 · XSS CookBook - 乌云君 - 知乎专栏](http://zhuanlan.zhihu.com/wooyun/19756127)
 
-2018-03-01 16:36 [爬虫利器 Puppeteer 实战 - CNode技术社区](https://cnodejs.org/topic/5a4d8d2299d207fa49f5cbbc)
+2015-08-26 19:31 [XSS之规避过滤小记_流浪的大象_新浪博客](http://blog.sina.com.cn/s/blog_8adaee5001012g39.html)
 
+2015-08-26 19:32 [根据白名单过滤HTML(防止XSS攻击)](http://jsxss.com/zh/index.html)
 
+2015-08-26 19:33 [XSS攻击及防御 - 高爽|Coder - 博客频道 - CSDN.NET](http://blog.csdn.net/ghsau/article/details/17027893)
 
-#####  Bookshelf
+2015-08-26 19:34 [XSS攻击的原理 - 网站安全 - 红黑联盟](http://www.2cto.com/Article/201209/156182.html)
 
-2018-03-05 16:37 [NodeJs 关系数据库ORM库：Bookshelf.js - CSDN博客](http://blog.csdn.net/future_challenger/article/details/51829936)
+2015-08-26 19:40 [mXSS攻击的成因及常见种类 | WooYun知识库](http://drops.wooyun.org/tips/956)
 
-2018-03-05 16:38 [knex.js笔记 - CSDN博客](http://blog.csdn.net/liuyueyi1995/article/details/53782047)
+2017-02-23 16:50 [FreeBuf.COM | 关注黑客与极客](http://www.freebuf.com/)
 
-2018-03-05 16:38 [bookshelf.js笔记 - CSDN博客](http://blog.csdn.net/liuyueyi1995/article/details/53760577)
+2017-02-23 17:05 [社工库查询 --华西安全网](http://cha.hx99.net/)
 
 
 
-#####  grpc
+####  数学
 
-2018-04-02 15:17 [grpc之node篇(静态代码) - CSDN博客](https://blog.csdn.net/shidaping/article/details/53942476)
+2015-09-15 16:08 [随记：我们需要怎样的数学教育？ | Matrix67: The Aha Moments](http://www.matrix67.com/blog/archives/4294)
 
-2018-04-02 15:17 [gRPC之Node Quick Start - 都市烟火 - 博客园](https://www.cnblogs.com/duhuo/p/5847156.html)
+2015-09-15 16:08 [理解矩阵乘法 - 阮一峰的网络日志](http://www.ruanyifeng.com/blog/2015/09/matrix-multiplication.html)
 
-2018-04-02 15:19 [RPC服务和HTTP服务对比 - CSDN博客](https://blog.csdn.net/wangyunpeng0319/article/details/78651998)
 
-2018-04-02 15:29 [什么是 RPC 框架 - CSDN博客](https://blog.csdn.net/b1303110335/article/details/79557292)
 
-2018-04-02 15:40 [[grpc官方指南搬运]Node.js+grpc示例 - CSDN博客](https://blog.csdn.net/qq_31989047/article/details/79139710)
+####  工具
 
-2018-04-02 16:28 [JSON-RPC](http://www.jsonrpc.org/)
+2015-08-28 09:54 [Modern.ie IE在线调试工具](http://dev.modern.ie/tools/vms/windows/)
 
-2018-04-02 16:34 [高效传输数据格式以及基于HTTP2的RPC框架---gRPC的使用 - CSDN博客](https://blog.csdn.net/canot/article/details/71213392)
+2016-08-01 14:24 [【经验分享】如何在为虚拟机磁盘扩容后合并磁盘分区 - 论坛 - 华为企业互动社区](http://support.huawei.com/ecommunity/bbs/10216249.html)
 
-2018-04-02 16:37 [gRPC 官方文档中文版_V1.0](http://doc.oschina.net/grpc?t=56831)
+2017-03-27 11:20 [CHM Viewer](http://chmviewer.com/)
 
-2018-06-14 15:26 [RPC的nodejs简单实现 - CSDN博客](https://blog.csdn.net/wang1472jian1110/article/details/78042427)
+2017-11-13 12:04 [svg to png - CloudConvert](https://cloudconvert.com/svg-to-png)
 
-2018-06-14 15:35 [grpc /](https://grpc.io/docs/tutorials/basic/node.html)
+2017-12-01 09:28 [ScreenToGif - Record your screen, edit and save as a Gif or video](http://www.screentogif.com/?l=zh_cn)
 
-2018-06-15 10:23 [gRPC 官方文档中文版_V1.0](http://doc.oschina.net/grpc?t=60135)
+2018-05-08 15:51 [脚本之家在线工具](http://tools.jb51.net/)
 
-2018-06-21 17:33 [gRPC的几种请求响应模式 | Xenojoshua](https://xenojoshua.com/2018/02/grpc-req-res-modes/)
+2018-09-30 11:12 [桌面应用|Translate Shell ：一款在 Linux 命令行中使用谷歌翻译的工具](https://linux.cn/article-9107-1.html)
 
-2018-06-25 15:43 [听说有个 GRPC - 简书](https://www.jianshu.com/p/c006a7c21305)
+#####  Fiddler
 
+2015-06-26 20:47 [Fiddler - 前端开发值得拥有 - 聂微东 - 博客园](http://www.cnblogs.com/Darren_code/archive/2011/09/28/Fiddler.html)
 
+2015-08-26 19:33 [【HTTP】Fiddler（三）- Fiddler命令行和HTTP断点调试 - 专注、专心 - 博客频道 - CSDN.NET](http://blog.csdn.net/ohmygirl/article/details/17855031)
 
-#####  Electron
+2015-08-27 13:24 [关于 WEB/HTTP 调试利器 Fiddler 的一些技巧分享 - leejun_2005的个人页面 - 开源中国社区](http://my.oschina.net/leejun2005/blog/151103)
 
-2018-05-04 10:03 [electron-builder打包工具的最简化使用 - CSDN博客](https://blog.csdn.net/hr541659660/article/details/78731394)
+2015-08-27 13:36 [基于fiddler来模拟限速 -- 网络系统 -- IT技术博客大学习 -- 共学习 共进步！](http://blogread.cn/it/article/4540?f=wb)
 
-2018-04-17 09:56 [Electron + Vue 实现一个代理客户端 - 前端开发之道 - SegmentFault 思否](https://segmentfault.com/a/1190000008978174)
+2015-08-27 13:36 [Fiddler扩展:隐藏某些请求 - 紫云飞 - 博客园](http://www.cnblogs.com/ziyunfei/archive/2012/10/14/2723182.html)
 
-2018-05-04 10:04 [electron打包：electron-packager及electron-builder两种方式实现（for Windows） - 个人文章 - SegmentFault 思否](https://segmentfault.com/a/1190000013924153)
+2015-08-27 13:36 [Fiddler的高级用法-Fiddler Script « QQ浏览器HTML5技术分享](http://cube.qq.com/?p=973)
 
-2018-05-04 15:05 [Electron去掉边框(标题栏)并设定可拖动 - CSDN博客](https://blog.csdn.net/toubennuhai/article/details/53039612)
+2015-08-27 13:38 [Fiddler2中文乱码问题 - 技术交流 - ITeye技术网站](http://thinktothings.iteye.com/blog/1139336)
 
-2018-05-04 15:08 [Electron 无边框窗口的拖动 - 简书](https://www.jianshu.com/p/96327b044e85)
+2015-08-27 13:44 [关于 WEB/HTTP 调试利器 Fiddler 的一些技巧分享 - leejun_2005的个人页面 - 开源中国社区](http://my.oschina.net/leejun2005/blog/151103#OSC_h4_3)
 
-2018-05-04 16:55 [使用 electron 实现类似新版 QQ 的登录界面效果（阴影、背景动画、窗体3D翻转） - Starts_2000 - 博客园](https://www.cnblogs.com/Starts_2000/p/electron-qqlogin-demo.html)
+2015-10-10 10:20 [Fiddler 高级用法：Fiddler Script 与 HTTP 断点调试 - leejun_2005的个人页面 - 开源中国社区](http://my.oschina.net/leejun2005/blog/399108)
 
-2018-05-04 17:28 [electron+vue制作桌面应用--自定义标题栏最大/小化和关闭 - 个人文章 - SegmentFault 思否](https://segmentfault.com/a/1190000011765025)
+2015-12-17 13:16 [如何在 Mac 下使用 Fiddler - 推酷](http://www.tuicool.com/articles/y2muiq)
 
-2018-05-04 20:48 [使用 electron-vue 构建你的桌面应用 - CSDN博客](https://blog.csdn.net/github_36978270/article/details/78460696)
+2015-12-17 13:53 [Mono - Fiddler](http://fiddler.wikidot.com/mono)
 
-2018-05-04 23:39 [electron cookie实现记住密码 - CSDN博客](https://blog.csdn.net/changhuzhao/article/details/78773279)
+2017-09-04 14:18 [Fiddler在fiddler option设置还是抓不了HTTPS包解决办法_Legend_sight_新浪博客](http://blog.sina.com.cn/s/blog_13afdb2130102wy2w.html)
 
-2018-05-06 12:31 [【Electron】Electron开发入门（五）：项目打包 - CSDN博客](https://blog.csdn.net/arvin0/article/details/52690023)
+2017-09-04 14:18 [三步解决fiddler升级后https无法通过证书验证问题 - 启 - CSDN博客](http://blog.csdn.net/wwdz_rwx/article/details/50396163)
 
-2018-05-07 21:48 [使用electron-builder在windows上打包并自动更新 - 个人文章 - SegmentFault 思否](https://segmentfault.com/a/1190000010271226)
 
-2018-05-07 21:54 [electron 完整项目构建过程 - CSDN博客](https://blog.csdn.net/changhuzhao/article/details/78684967)
 
-2018-05-07 22:08 [nsis_百度百科](https://baike.baidu.com/item/nsis/5237663?fr=aladdin)
+#####  Rythem
 
-2018-05-07 22:08 [一、NSIS介绍 - 所以呢 - 博客园](https://www.cnblogs.com/zzllily/articles/5443850.html)
+2015-12-17 13:16 [【AlloyTeam Web前端工具系列2】开源跨平台的Web抓包分析工具 Rythem (2012-09-19更新) | Web前端 腾讯AlloyTeam Blog | 愿景: 成为地球卓越的Web团队！](http://www.alloyteam.com/2012/05/web-front-end-tool-rythem-1/)
 
-2018-05-07 22:18 [【视频教程】Electron打包成exe发布给用户安装_百度经验](http://jingyan.baidu.com/article/15622f2426c14efdfcbea5e9.html?allowHTTP=1)
 
-2018-05-08 10:02 [如何利用nsis制作electron的安装包](https://newsn.net/say/electron-nsis.html)
 
-2018-05-08 10:02 [如何利用innosetup制作electron的安装包](https://newsn.net/say/electron-innosetup.html)
+#####  Wireshark
 
+2015-12-17 13:53 [fiddler和wireshark工具介绍及对比 - catherine的心路历程 - 博客大巴](http://www.blogbus.com/wanping-logs/238827556.html)
 
+2015-12-17 13:53 [一站式学习Wireshark（一）：Wireshark基本用法 - 博客 - 伯乐在线](http://blog.jobbole.com/70907/)
 
-#####  iconv-lite
+2015-12-17 13:53 [Wireshark · Download](https://www.wireshark.org/download.html)
 
-2018-05-28 09:56 [使用iconv-lite解决node当中不支持GBK编码的问题 - 个人文章 - SegmentFault 思否](https://segmentfault.com/a/1190000011351573)
 
-2018-05-28 09:56 [NPM酷库039：iconv-lite，字符串编码转换 - 脉冲云-梁兴臣 - SegmentFault 思否](https://segmentfault.com/a/1190000013232415)
 
+#####  Everything
 
+2016-08-17 10:20 [Everything Search Engine](http://www.voidtools.com/)
 
-#####  Protobuf
 
-2018-06-14 17:58 [Node Js 使用Protobuf - CSDN博客](https://blog.csdn.net/ganpengjin1/article/details/55100742)
 
-2018-06-15 09:05 [ProtoBuf 与 gRPC 你需要知道的知识 - CSDN博客](https://blog.csdn.net/yeasy/article/details/52190007)
+#####  CoolFormat
 
-2018-06-15 09:18 [protoc 命令参数 - 蝈蝈俊 - 博客园](https://www.cnblogs.com/ghj1976/p/5435565.html)
+2016-08-25 18:00 [CoolFormat源代码格式化工具 - 无幻 - 博客频道 - CSDN.NET](http://blog.csdn.net/akof1314/article/details/5355948/)
 
-2018-06-15 09:28 [Node.js使用google-protobuf - CSDN博客](https://blog.csdn.net/njweiyukun/article/details/69388227)
+2016-08-25 18:01 [akof1314/CoolFormat: CoolFormat Source Code Formatter](https://github.com/akof1314/CoolFormat)
 
-2018-06-15 10:11 [javascript前端如何使用google-protobuf - CSDN博客](https://blog.csdn.net/arvin_kai/article/details/77532595)
 
-2018-06-15 16:37 [运用google-protobuf的IM消息应用开发（前端篇） - 子慕大诗人 - 博客园](https://www.cnblogs.com/1wen/p/6509253.html)
 
-2018-06-15 16:39 [google protobuf学习笔记二：使用和原理 - CSDN博客](https://blog.csdn.net/majianfei1023/article/details/45112415)
+#####  Trello
 
-2018-06-15 16:53 [从Protocol Buffers 到 gRPC - 简书](https://www.jianshu.com/p/6c9f90538efe)
+2016-11-30 13:47 [Trello](https://trello.com/)
 
-2018-06-15 17:19 [[转]Protobuf3 语法指南 | 鸟窝](http://colobu.com/2017/03/16/Protobuf3-language-guide/)
 
 
+#####  Prometheus
 
-#####  node-inspector
+2017-11-02 17:51 [使用Prometheus+Grafana监控MySQL实践 – 运维那点事](http://www.ywnds.com/?p=9656)
 
-2018-07-17 14:14 [使用webstorm调试node程序 - 金广国 - 博客园](https://www.cnblogs.com/jinguangguo/p/4809886.html)
+2017-11-02 17:52 [使用Prometheus和Grafana监控Mysql服务器性能 - icyfire - SegmentFault](https://segmentfault.com/a/1190000007040144)
+
+
+
+####  Google
+
+2016-01-13 17:02 [google hosts 2015，持续更新，2015.12.26已更新 - 360知识库](http://www.360kb.com/kb/2_122.html)
+
+
+
+####  深度学习
+
+2016-03-25 16:47 [图灵机器人－中文语境下智能度最高的机器人大脑 - Powered By TURING](http://www.tuling123.com/)
+
+2016-04-14 14:20 [深度学习如何入门？ - 机器学习 - 知乎](http://www.zhihu.com/question/26006703)
+
+2016-04-26 11:49 [TensorFlow -- an Open Source Software Library for Machine Intelligence](https://www.tensorflow.org/)
+
+2016-08-12 13:01 [Lisp 中文社区](http://lisp.org.cn/)
+
+2017-02-22 17:46 [使用pix2pix-tensorflow的交互式图象到图象翻译 - 推酷](http://www.tuicool.com/articles/UNfeIzV)
+
+2017-02-22 17:46 [Image-to-Image Demo - Affine Layer](http://affinelayer.com/pixsrv/index.html)
+
+2017-03-09 14:01 [为什么最近有很多名人，比如比尔盖茨，马斯克、霍金等，让人们警惕人工智能？ - 知乎专栏](https://zhuanlan.zhihu.com/p/19950456)
+
+2017-06-13 17:45 [为什么Lisp语言如此先进？（译文） - 阮一峰的网络日志](http://www.ruanyifeng.com/blog/2010/10/why_lisp_is_superior.html)
+
+2017-10-19 10:53 [DeepMind](https://deepmind.com/)
+
+2017-10-27 08:42 [We bring robots to life - Hanson Robotics Ltd.](http://www.hansonrobotics.com/)
+
+2017-12-14 16:21 [TensorFlow中文社区-首页](http://www.tensorfly.cn/)
+
+2017-12-14 16:54 [这才是 TensorFlow 自带可视化工具 TensorBoard 的正确打开方式！（附项目源码） | 雷锋网](https://www.leiphone.com/news/201704/PgRxGpwtFpSgJoAZ.html)
+
+2018-03-08 17:41 [Dataguru炼数成金_中国顶尖专业数据分析门户网|专注于Hadoop培训及大数据、数据分析、数据库、编程技术、运维自动化等网络逆向培训](http://www.dataguru.cn/)
+
+2018-03-08 18:01 [TensorFlow|TensorFlow安装|TensorFlow教程|TensorFlow招聘|TensorFlow工作|TensorFlow培训|TensorFlow视频教程 - Powered by Discuz!](http://tensorflow123.com/forum.php)
+
+2018-03-15 11:13 [从机器学习谈起 - 计算机的潜意识 - 博客园](http://www.cnblogs.com/subconscious/p/4107357.html)
+
+2018-03-15 11:13 [神经网络浅讲：从神经元到深度学习 - 计算机的潜意识 - 博客园](http://www.cnblogs.com/subconscious/p/5058741.html)
+
+2018-03-19 17:20 [H2O.ai](https://www.h2o.ai/)
+
+2018-03-19 17:20 [面向Linux的十大开源人工智能工具_Linux新闻_Linux公社-Linux系统门户网站](https://www.linuxidc.com/Linux/2016-09/135564.htm)
+
+2018-03-21 10:03 [12 个免费的 Deep Learning 在线学习网站](https://zhuanlan.zhihu.com/p/26501934)
+
+2018-09-21 14:34 [由“你好”引发的血案——调戏图灵机器人 - CSDN博客](https://blog.csdn.net/chenfei0328/article/details/70738117)
+
+2018-10-12 08:05 [聊天机器人API对比分析 - 作业部落 Cmd Markdown 编辑阅读器](https://www.zybuluo.com/liuhui0803/note/1134605)
+
+2018-10-12 08:06 [人工智能领域不同聊天机器人技术比较 | AI 人工智能 Robot 机器人](http://www.dxai.com/2017/02/21/comparison-of-different-chat-robots-in-the-field-of-artificial-intelligence/)
+
+#####  机器人学习
+
+2015-09-18 17:46 [斯坦福博士(生)手把手教你用Javascript写深度学习代码 - stereohomology - 博客频道 - CSDN.NET](http://blog.csdn.net/stereohomology/article/details/41116971)
+
+2015-09-18 17:46 [神经网络的JavaScript实现：ConvNetJS - OPEN 开发经验库](http://www.open-open.com/lib/view/open1415288845621.html)
+
+2015-09-18 17:46 [将机器学习带入Java与JavaScript等编程语言的五种方式 - 51CTO.COM](http://developer.51cto.com/art/201408/447493.htm)
+
+2015-09-18 17:46 [ConvNetJS测试，一个半小时跑3万张32*32_人工智能吧_百度贴吧](http://tieba.baidu.com/p/3536134311)
+
+2015-09-18 17:46 [ConvNetJS首页、文档和下载 - JavaScript 神经网络 - 开源中国社区](http://www.oschina.net/p/convnetjs)
+
+2015-09-18 17:48 [各种编程语言的深度学习库整理 - 今日头条(TouTiao.com)](http://toutiao.com/a6194728826781483266/)
+
+2015-09-18 18:20 [推荐！国外程序员整理的机器学习资源大全 | 程序师](http://www.techug.com/awesome-machine-learning)
+
+2017-04-27 15:41 [机器学习与人工智能技术分享 - 作业部落 Cmd Markdown 编辑阅读器](https://www.zybuluo.com/vivounicorn/note/446479)
+
+
+
+#####  Paddle
+
+2018-03-08 17:28 [PaddlePaddle - Documentation](http://www.paddlepaddle.org/docs/develop/documentation/zh/getstarted/index_cn.html)
 
 
 
@@ -6710,596 +7654,6 @@
 
 
 
-####  PHP
-
-2013-01-17 23:00 [phpcms v9类别调用方法 - phpcms-帮助教程 - phpcms论坛](http://bbs.phpcms.cn/thread-243656-1-1.html)
-
-2013-01-17 23:04 [phpcms v9类别列表的栏目调用 - phpcms-帮助教程 - phpcms论坛](http://bbs.phpcms.cn/thread-246742-1-1.html)
-
-2013-03-14 13:30 [phpcms v9视频模型第二版正式发布 - phpcms-插件、二次开发 - phpcms论坛](http://bbs.phpcms.cn/forum.php?mod=viewthread&tid=258374&highlight=%CA%D3%C6%B5%C4%A3%D0%CD)
-
-2013-03-14 13:30 [phpcms v9视频模型开放下载中 - phpcms-插件、二次开发 - phpcms论坛](http://bbs.phpcms.cn/thread-246745-1-1.html)
-
-2013-03-14 13:30 [phpcms v9视频模型升级程序 - phpcms-程序发布 - phpcms论坛](http://bbs.phpcms.cn/forum.php?mod=viewthread&tid=767546&highlight=%CA%D3%C6%B5%C4%A3%D0%CD)
-
-2013-03-14 13:30 [PHPCMS V9 视频模型第二版【GBK/UTF-8】完全手册 （貌似万能了） - phpcms-使用与交流 - phpcms论坛](http://bbs.phpcms.cn/forum.php?mod=viewthread&tid=615517&highlight=%CA%D3%C6%B5%C4%A3%D0%CD)
-
-2013-03-24 19:38 [v9二次开发模块的权限问题 - phpcms-使用与交流 - phpcms论坛](http://bbs.phpcms.cn/forum.php?mod=viewthread&tid=268284&highlight=%C8%A8%CF%DE)
-
-2013-03-24 19:39 [phpcms二次开发中提示操作没有权限的解决方法（超实用） - phpcms-使用与交流 - phpcms论坛](http://bbs.phpcms.cn/forum.php?mod=viewthread&tid=706621&highlight=%C8%A8%CF%DE)
-
-2013-03-27 18:25 [OpenLayers: Home](http://www.openlayers.org/)
-
-2013-03-28 17:43 [OpenLayers Cluster Strategy Example](http://openlayers.org/dev/examples/strategy-cluster.html)
-
-2013-03-28 17:43 [OpenLayers: Sundials on a Spherical Mercator Map](http://openlayers.org/dev/examples/sundials-spherical-mercator.html)
-
-2013-04-01 20:53 [Lazy Load, 延迟加载图片的 jQuery 插件 - NeoEase](http://www.neoease.com/lazy-load-jquery-plugin-delay-load-image/)
-
-2013-04-01 20:53 [Lazy Load Plugin for jQuery](http://www.appelsiini.net/projects/lazyload)
-
-2013-07-01 11:49 [CodeIgniter 中国 - PHP 框架 CodeIgniter 中国社区](http://codeigniter.org.cn/)
-
-2013-08-04 17:55 [【2010年3月13号更新】教你在windows 7/xp 下安装使用mencoder_庄子如是说BLOG_百度空间](http://hi.baidu.com/putword/item/e5910a187d2aed14e2f9867f)
-
-2013-08-20 16:08 [num参数 - phpcms-BUG报告 - phpcms论坛](http://bbs.phpcms.cn/forum.php?mod=viewthread&tid=824918&highlight=num)
-
-2013-08-28 16:34 [使用jQuery打造炫丽的滚屏网页效果](http://demo.newhtml.net/LateralOnScrollSliding/index2.html)
-
-2013-09-18 15:17 [打越南语：越南语输入法·越南语键盘·越南语在线输入·越南语特殊字符·越南语字母·vietnamien keyboard](http://www.dawaiyu.com/yuenanyu.htm)
-
-2013-09-18 15:17 [越南语翻译_越南语在线翻译_免费在线翻译_越汉/汉越在线翻译 | 越南知道ynzd.org 全球最好用的越南语在线翻译](http://www.ynzd.org/)
-
-2013-10-26 13:44 [解决[warn] _default_ VirtualHost overlap on port 80, the first has precedence问题 - PHP网站开发的日志 - 网易博客](http://blog.163.com/lgh_2002/blog/static/44017526201141711451919/)
-
-2015-01-31 20:33 [Win10预览版9926官方ISO镜像下载地址大全 - Win10系统下载,Win10镜像下载,Win10下载,Win10预览版9926,Win10消费者预览版 - IT之家](http://www.ithome.com/html/win10/125563.htm)
-
-2016-08-10 09:33 [win7 扩展双屏后 双屏同时显示任务栏 - X-Bing - 博客园](http://www.cnblogs.com/x-bing/p/5226933.html)
-
-2015-07-06 18:02 [很好用的php执行时间分析工具webgrind - mecho的专栏 - 博客频道 - CSDN.NET](http://blog.csdn.net/mecho/article/details/11071079)
-
-2015-07-06 18:02 [webgrind安装使用详细说明 - yukon12345的专栏 - 博客频道 - CSDN.NET](http://blog.csdn.net/yukon12345/article/details/11408617)
-
-2017-02-14 14:59 [Composer](https://getcomposer.org/)
-
-2017-02-14 15:36 [Windows下安装使用curl命令_百度经验](http://jingyan.baidu.com/article/a681b0dec4c67a3b1943467c.html)
-
-2017-02-20 16:41 [PHP AJAX JSONP实现跨域请求使用实例 - 神马和浮云 - 博客园](http://www.cnblogs.com/xcxc/p/3729660.html)
-
-2017-02-22 11:14 [自动生成表单的Form类 - 小竹zz - 博客频道 - CSDN.NET](http://blog.csdn.net/zhujunxxxxx/article/details/15238535)
-
-2017-03-03 10:36 [Apache的Order Allow,Deny 详解 - 与时俱进 - 博客园](http://www.cnblogs.com/top5/archive/2009/09/22/1571709.html)
-
-2017-03-10 10:29 [Apache多虚拟主机多版本PHP（5.2+5.3+5.4）共存运行配置全过程 - Eller](https://my.oschina.net/u/2366984/blog/543148?p={{page}})
-
-2017-03-10 10:29 [部署两套apache-httpd，php不同版本，添加php模块 - zhuchunyan_aijia的博客 - 博客频道 - CSDN.NET](http://blog.csdn.net/zhuchunyan_aijia/article/details/54375394)
-
-2017-03-27 13:46 [PHP5.2至5.6的新增功能详解 - 老彭的博客](http://pengbotao.cn/php5-upgrading.html)
-
-2017-03-27 14:46 [PDO方法与常量_纠结的大肥猫_新浪博客](http://blog.sina.com.cn/s/blog_8b8586b90101et5w.html)
-
-2017-03-29 17:22 [PHP如何把函数通过参数传递 - 开源中国社区](http://www.oschina.net/question/1029305_115257)
-
-2017-05-16 14:20 [wampserver安装错误 应用程序无法正常启动0xc000007b解决方法，wamp0xc000007b_PHP教程 | 帮客之家](http://www.bkjia.com/PHPjc/1195347.html)
-
-2017-05-17 16:03 [php示例代码之类似于C#中的String.Format方法 - 来自非洲大草原的食人虎 - 博客园](http://www.cnblogs.com/yql1986/archive/2011/08/01/2123618.html)
-
-2017-05-18 13:37 [PHP 中比较 true 和 false 的问题 - 追求卓越 - 博客频道 - CSDN.NET](http://blog.csdn.net/kevin6899/article/details/8156337)
-
-2017-05-19 09:26 [PHP Tokenizer 学习笔记 - 無標題文檔](https://www.gracecode.com/posts/2966.html)
-
-2017-05-25 11:06 [Access-Control-Allow-Origin 跨域设置多域名 - 简书](http://www.jianshu.com/p/b587dd1b7086)
-
-2017-05-25 11:06 [ajax 设置Access-Control-Allow-Origin实现跨域访问 - 傲雪星枫 - 博客频道 - CSDN.NET](http://blog.csdn.net/fdipzone/article/details/46390573/)
-
-2017-05-31 15:40 [PHP 中获取当前时间[Datetime Now] - 码不能停 - 博客园](http://www.cnblogs.com/flowerszhong/p/5313794.html)
-
-2017-05-31 18:19 [PHP中拼接sql(insert、update、replace)语句的三种方式 - sunway888的专栏 - 博客频道 - CSDN.NET](http://blog.csdn.net/sunway888/article/details/41257363)
-
-2017-06-05 17:56 [CURL常用命令 - 张贺 - 博客园](http://www.cnblogs.com/gbyukg/p/3326825.html)
-
-2017-06-06 15:42 [php之curl实现http与https请求的方法_php技巧_脚本之家](http://www.jb51.net/article/56492.htm)
-
-2017-06-06 15:43 [php curl用法_专题_脚本之家](http://www.jb51.net/Special/66.htm)
-
-2017-06-06 15:43 [Linux中Curl命令couldn't connect to host解决方案 php操作Curl（http,https）无法获取远程数据解决方案 - “鸟叔“手擒大数据 - 博客频道 - CSDN.NET](http://blog.csdn.net/abang888/article/details/30249009)
-
-2017-06-06 15:44 [详解PHP fsockopen的使用方法 - 51CTO.COM](http://developer.51cto.com/art/200912/166333.htm)
-
-2017-06-20 16:06 [PHP中时区设置的三种方法(timezone) - 推酷](http://www.tuicool.com/articles/UFruA3M)
-
-2017-06-20 17:44 [各操作系统下php.ini文件的位置在哪里 - SpeedBoy007的专栏 - 博客频道 - CSDN.NET](http://blog.csdn.net/meegomeego/article/details/25704645)
-
-2017-06-20 18:13 [Fatal error: Class 'XMLWriter' not found in Classes_高伟_新浪博客](http://blog.sina.com.cn/s/blog_8261811d0101qum4.html)
-
-2017-06-20 18:14 [记录PHP错误日志 display_errors与log_errors的区别_php技巧_脚本之家](http://www.jb51.net/article/31499.htm)
-
-2017-06-20 18:16 [php获取当前域名、主机、URL、端口、参数、网址、路径、代理等 - NiceGY - 博客频道 - CSDN.NET](http://blog.csdn.net/phpfenghuo/article/details/45269347)
-
-2017-06-20 18:16 [PHP $_SERVER详解_php技巧_脚本之家](http://www.jb51.net/article/17108.htm)
-
-2017-06-22 15:13 [解决PHP之 Allowed memory size of xxx bytes exhausted - ewili的专栏 - 博客频道 - CSDN.NET](http://blog.csdn.net/ewili/article/details/8034199)
-
-2017-11-21 10:59 [php版DES - 调调儿 - 博客园](https://www.cnblogs.com/weberypf/p/5228257.html)
-
-2018-03-19 17:59 [高性能的PHP框架 - Phalcon Framework](https://phalconphp.com/zh/)
-
-2018-06-04 14:32 [为什么要刷新一下才能获取cookie - xiebruce - 博客园](https://www.cnblogs.com/xiedie/p/4162414.html)
-
-#####  composer
-
-2017-02-14 15:43 [Packagist / Composer 中国全量镜像](https://pkg.phpcomposer.com/)
-
-2017-02-14 15:19 [composer如何安装？ - PHP - 知乎](https://www.zhihu.com/question/22885542)
-
-2017-05-15 16:48 [composer 报 zlib_decode(): data error - 码农成长记 - 博客频道 - CSDN.NET](http://blog.csdn.net/jt521xlg/article/details/47129919)
-
-2017-05-15 17:09 [Windows 8.1 下 composer self-update 出现 [ErrorException] zlib_decode(): data error提示的解决！ – 水井湾](http://www.shuijingwanwq.com/2015/06/29/604/)
-
-2017-05-16 09:50 [Composer 中文网 / Packagist 中国全量镜像](http://www.phpcomposer.com/)
-
-2017-05-16 09:50 [Packagist](https://packagist.org/)
-
-2017-05-23 08:31 [Composer更新慢的终极解决方案 - fishermanmax的博客 - 博客频道 - CSDN.NET](http://blog.csdn.net/fishermanmax/article/details/51975692)
-
-
-
-#####  Slim
-
-2017-02-14 15:56 [使用slim3快速开发RESTful API_PHP教程_网络编程_码蚁之家](http://www.codes51.com/article/detail_254116_2.html)
-
-2017-02-14 15:56 [Slim 中文文档 | 幽林的博客](http://www.uuling.com/2014/11/05/slim-%E4%B8%AD%E6%96%87%E6%96%87%E6%A1%A3/)
-
-2017-02-14 16:37 [使用Slim框架实现基本的REST API | Paincker | Hacker Meets Painter](http://www.paincker.com/slim-rest-api)
-
-2017-02-14 16:38 [利用Slim模拟服务端REST接口实战](https://sanwen8.cn/p/10bszDp.html)
-
-2017-02-16 08:31 [从这里开始使用 Slim 3 入门篇 - 推酷](http://www.tuicool.com/articles/QFBZFre)
-
-2017-02-20 08:56 [使用slim3快速开发RESTful API - 博客频道 - CSDN.NET](http://blog.csdn.net/u011250882/article/details/50101599)
-
-2017-02-20 08:56 [基于PHP SLIM 框架搭建 RESTful 风格API 示例 - David116的博客 - 博客频道 - CSDN.NET](http://blog.csdn.net/david116/article/details/51720900)
-
-2017-02-20 15:28 [slim restful api 完全解析 ，从配置slim到建成restful api servers-zyy技术博客](http://www.zyyapp.com/post/213.html)
-
-2017-02-20 17:56 [php - Slim JSON Outputs - Stack Overflow](http://stackoverflow.com/questions/6807404/slim-json-outputs)
-
-2017-03-03 09:50 [PHP再学习4—— slim框架学习和使用 - 物联网 IoT 经验分享小站 - 博客频道 - CSDN.NET](http://blog.csdn.net/xukai871105/article/details/18677215)
-
-2017-03-03 12:52 [PHP slim restfull框架nginx 配置 - jackluo - 博客园](http://www.cnblogs.com/jackluo/p/3737924.html)
-
-2017-11-21 12:09 [Slim 框架 - SlimPHP中文网](http://www.slimphp.net/)
-
-
-
-#####  CAS 单点登录
-
-2017-05-15 09:40 [jasig CAS 实现单点登录 - java、php客户端登录实现 - べ袽猓柯苡づ - 博客园](http://www.cnblogs.com/rgky/p/5687096.html?utm_source=itdadao&utm_medium=referral)
-
-2017-05-15 09:40 [apache配置文件AddType application/x-httpd-php .php -老邪的博客-搜狐博客!!!](http://laoxiege.blog.sohu.com/116742025.html)
-
-2017-05-15 09:40 [cas实现单点登录,登出(java和php客户端) - Thinking in life - 博客频道 - CSDN.NET](http://blog.csdn.net/fei1502816/article/details/6695117)
-
-2017-05-15 16:33 [Laravel 集成 phpCAS 踩坑记 - 推酷](http://www.tuicool.com/articles/Y3ARjmb)
-
-2017-05-16 09:49 [php 用CAS实现SSO单点登陆及登出功能 - Sara的专栏 - 博客频道 - CSDN.NET](http://blog.csdn.net/haiqiao_2010/article/details/38365733)
-
-2017-05-16 09:50 [phpCAS - CAS Clients - Apereo Wiki](https://wiki.jasig.org/display/CASC/phpCAS)
-
-2017-06-01 15:36 [CAS+SSO原理浅谈 -写自己的历史-ChinaUnix博客](http://blog.chinaunix.net/uid-22816738-id-3525939.html)
-
-2017-06-01 17:47 [单点登录系统cas资料汇总 - IT十年 - 博客频道 - CSDN.NET](http://blog.csdn.net/matthewei6/article/details/50636333)
-
-
-
-#####  token
-
-2017-05-19 09:15 [php token的生成 - 不解凡忧 - 博客园](http://www.cnblogs.com/bjfy/p/5909690.html)
-
-2017-03-02 17:34 [PHP中token验证 - Huangwenting1990的博客 - 博客频道 - CSDN.NET](http://blog.csdn.net/huangwenting1990/article/details/52261592)
-
-2017-05-19 09:26 [浅谈Token安全及php表单加入Token防止重复提交-Php安全-Php教程-壹聚教程网](http://www.111cn.net/phper/phpanqn/97240.htm)
-
-
-
-#####  导出Excel
-
-2017-06-20 10:48 [php工具类——导出excel - Leesire的专栏 - 博客频道 - CSDN.NET](http://blog.csdn.net/lee_sire/article/details/49804141)
-
-2017-06-20 10:49 [PHPExcel 中文使用手册详解](http://www.jquerycn.cn/a_17115)
-
-2017-06-20 11:13 [PHPExcel与ajax结合进行文件下载 - wyj880220的专栏 - 博客频道 - CSDN.NET](http://blog.csdn.net/wyj880220/article/details/48439153)
-
-2017-06-20 16:05 [PhpExcel中文帮助手册|PhpExcel使用方法 - FreeSpider - 博客园](http://www.cnblogs.com/freespider/p/3284828.html)
-
-2017-06-20 18:16 [phpexcel来做表格导出（多个工作sheet） - wensongyu - 博客园](http://www.cnblogs.com/yuwensong/p/3771787.html)
-
-
-
-####  PS
-
-2015-06-08 11:18 [深入探究photoshop辅助线（附工具推荐）](http://www.uisdc.com/photoshop-guides)
-
-2015-06-19 09:51 [TBCLUB-web6|企业官网|网页|wangtao_no1 - 原创设计作品 - 站酷 (ZCOOL)](http://www.zcool.com.cn/work/ZMTI1MTU5NzY=.html)
-
-
-
-####  Python
-
-2015-04-29 14:09 [Python开发_python的安装 - Hongten - 博客园](http://www.cnblogs.com/hongten/p/hongten_python_install.html)
-
-2015-04-29 15:11 [Python安装和配置环境变量 - 柳絮飞 - 51Testing软件测试网 51Testing软件测试网-中国软件测试人的精神家园](http://www.51testing.com/html/16/271416-867879.html)
-
-2016-01-13 16:44 [Python解释器 - 廖雪峰的官方网站](http://www.liaoxuefeng.com/wiki/001374738125095c955c1e6d8bb493182103fac9270762a000/001407375700558864523211a5049c4983176de304549c8000)
-
-2016-05-13 12:25 [安装Python - 廖雪峰的官方网站](http://www.liaoxuefeng.com/wiki/001374738125095c955c1e6d8bb493182103fac9270762a000/001374738150500472fd5785c194ebea336061163a8a974000)
-
-2016-05-13 14:07 [导出chrome书签为Markdown | 梦里风林](https://ahangchen.gitbooks.io/windy-afternoon/content/kit/markdown/chrome_mark2_md.html)
-
-2017-06-21 18:01 [Instagram脸部特征搜索引擎 - Python开发社区 | CTOLib码库](http://www.ctolib.com/kendricktan-iffse.html)
-
-2018-03-20 17:17 [超酷！我不写一行代码，爬取GitHub上几万的Python库_搜狐科技_搜狐网](http://www.sohu.com/a/217481537_752099)
-
-
-
-####  Ruby
-
-2016-05-18 18:34 [Home · ruby-china/rubygems-mirror Wiki](https://github.com/ruby-china/rubygems-mirror/wiki)
-
-2016-05-18 18:37 [gem install SSL 错误。 » 社区 » Ruby China](https://ruby-china.org/topics/29323)
-
-2016-05-18 18:37 [RubyGems 镜像 - Ruby China](https://gems.ruby-china.org/)
-
-2016-05-18 18:38 [RubyGems 镜像 - 淘宝网](https://ruby.taobao.org/)
-
-2016-05-18 18:41 [Ruby 程序设计语言官方网站](https://www.ruby-lang.org/zh_cn/)
-
-2016-05-26 21:28 [Download RubyGems | RubyGems.org | Ruby 社区 Gem 托管](https://rubygems.org/pages/download)
-
-
-
-####  SERVER
-
-2012-06-12 09:51 [Apache HTTP Server Version 2.2 文档 － Apache 2.2 中文版参考手册](http://apache.chinahtml.com/)
-
-2013-10-20 00:52 [CentOS 6.2 Apache+PHP5+MySQL安装环境配置_风信网](http://www.ithov.com/linux/123656.shtml)
-
-2013-10-20 01:37 [CentOS 6.2 Apache+PHP5+MySQL安装环境配置(2)_风信网](http://www.ithov.com/linux/123656_2.shtml)
-
-2013-10-20 02:30 [centos6.2 ftp 配置 - 刘振明 - 博客园](http://www.cnblogs.com/zhenmingliu/archive/2012/04/25/2470646.html)
-
-2013-10-23 20:54 [linux.linuxidc.com - /](http://linux.linuxidc.com/)
-
-2013-10-26 14:04 [警告NameVirtualHost *:80 has no VirtualHosts的原因_爱自由_百度空间](http://hi.baidu.com/monton/item/43d22372084e9046ee1e532a)
-
-2014-01-20 23:54 [COS官网 - 首页](http://www.china-cos.com/site/index.html)
-
-2016-09-08 10:40 [URI Template](http://dorole.com/tag/uri-template/)
-
-2017-02-14 10:19 [WAMP中httpd.exe报0xc000007b应用程序错误 - 邹邹的博客 - 博客频道 - CSDN.NET](http://blog.csdn.net/yxwmzouzou/article/details/43938121)
-
-2017-03-13 15:38 [Linux vi/vim编辑器常用命令与用法总结 - 贾永基 - 博客园](http://www.cnblogs.com/jiayongji/p/5771444.html)
-
-2017-03-27 15:24 [新版WampServer 项目路径前面没有 localhost - 攻城師 日記 - 博客频道 - CSDN.NET](http://blog.csdn.net/web361/article/details/44850887)
-
-2017-04-05 11:04 [Linux命令学习总结：rm命令 - 潇湘隐者 - 博客园](http://www.cnblogs.com/kerrycode/p/3869911.html)
-
-2017-04-05 14:17 [linux zip/unzip命令 - lucyjiayou - 博客园](http://www.cnblogs.com/lucyjiayou/archive/2011/12/25/2301046.html)
-
-2017-04-05 14:17 [linux下rm命令使用详解 - wanqi - 博客园](http://www.cnblogs.com/wanqieddy/archive/2011/06/07/2074113.html)
-
-2017-06-05 17:52 [Linux防火墙iptables配置详解_Linux教程_Linux公社-Linux系统门户网站](http://www.linuxidc.com/Linux/2017-01/140074.htm)
-
-2017-06-05 18:02 [Linux netstat命令详解 - ggjucheng - 博客园](http://www.cnblogs.com/ggjucheng/archive/2012/01/08/2316661.html)
-
-2017-06-06 10:24 [linux查看防火墙状态及开启关闭命令（转） - 人艰不拆_zmc - 博客园](http://www.cnblogs.com/zhangmingcheng/p/6048043.html)
-
-2017-06-06 10:27 [Linux中iptables设置详细_果子_新浪博客](http://blog.sina.com.cn/s/blog_6390cb4c0101p96h.html)
-
-2017-06-06 15:45 [Linux 查看服务器开放的端口号 - 潇湘隐者 - 博客园](http://www.cnblogs.com/kerrycode/p/5609010.html)
-
-2017-06-20 18:14 [linux下vi命令大全 - 星尘 - 博客园](http://www.cnblogs.com/88999660/articles/1581524.html)
-
-2017-07-25 14:03 [如何设计短网址系统(TinyURL) | 灵魂机器](http://cn.soulmachine.me/2017-04-10-how-to-design-tinyurl/#more)
-
-2017-08-01 14:00 [linux中ls、ls -l、ls -al、ll命令 - 未 名 - 博客园](http://www.cnblogs.com/nchar/p/3905660.html)
-
-2017-08-01 14:39 [[转]端口状态说明 LISTENING、ESTABLISHED、TIME_WAIT及CLOSE_WAIT - MN唐Ms - ITeye博客](http://mntms.iteye.com/blog/2231501)
-
-2017-11-23 17:09 [linux下IPTABLES配置详解 - 三毛仔 - 博客园](https://www.cnblogs.com/alimac/p/5848372.html)
-
-2017-12-04 15:03 [【windows】常见的系统环境变量，如%appdata%表示什么意思 - catshitone的专栏 - CSDN博客](http://blog.csdn.net/catshitone/article/details/70238163)
-
-2018-04-26 16:30 [Linux下查看文件内容的命令 - 梨璐2012 - 博客园](https://www.cnblogs.com/luying--lulu/p/5314963.html)
-
-2018-10-16 15:27 [Istio微服务架构初试 - ericnie - 博客园](https://www.cnblogs.com/ericnie/p/7919017.html)
-
-2018-10-23 15:34 [FaaS，未来的后端服务开发之道 - 简书](https://www.jianshu.com/p/6e86c42f85bd)
-
-#####  Tengine
-
-2015-05-29 16:08 [The Tengine Web Server](http://tengine.taobao.org/index_cn.html)
-
-
-
-#####  Nginx
-
-2015-05-29 16:08 [nginx](http://tengine.taobao.org/nginx_docs/cn/)
-
-2015-05-29 16:30 [使用nginx-http-concat自动合并静态资源，加速你的网站请求速度 - 为程序员服务](http://ju.outofmemory.cn/entry/50113)
-
-2015-05-29 16:33 [nginx js、css多个请求合并为一个请求(concat模块) - 运维生存时间](http://www.ttlsa.com/nginx/nginx-modules-concat/)
-
-2015-05-29 16:33 [The Tengine Web Server](http://tengine.taobao.org/document_cn/http_concat_cn.html)
-
-2015-05-29 16:33 [perusio/nginx-http-concat](https://github.com/perusio/nginx-http-concat)
-
-2015-07-06 17:57 [nginx expires 无效 - 开源中国社区](http://www.oschina.net/question/55448_77710?sort=time)
-
-2015-07-06 17:58 [Nginx设置expires设定页面缓存时间 不缓存或一直使用缓存](http://www.douban.com/note/342389019/)
-
-2015-10-19 17:07 [nginx upstream的分配方式。 - 相濡以沫 - 51CTO技术博客](http://onlyzq.blog.51cto.com/1228/557848/)
-
-2015-10-19 17:07 [nginx 代理 proxy_pass设置 - flex_fly - 博客园](http://www.cnblogs.com/flex_fly/p/3363100.html)
-
-2015-11-17 11:25 [nginx静态文件响应post请求，405 Not Allowed – 酷喃｜coolnull｜](http://coolnull.com/3527.html)
-
-2015-11-19 18:32 [nginx配置url重定向-反向代理 - 坐在高山观虎斗，站在桥头看水流 - 博客频道 - CSDN.NET](http://blog.csdn.net/yybjroam05/article/details/41076679)
-
-2015-11-19 18:32 [Nginx作为反向代理时传递客户端IP的设置方法_nginx_脚本之家](http://www.jb51.net/article/53821.htm)
-
-2015-11-19 18:32 [nginx 反向代理 取得真实IP和域名 - huangqiqing123 - ITeye技术网站](http://huangqiqing123.iteye.com/blog/1895192)
-
-2015-12-18 10:22 [✔ Nginx 的线程池与性能剖析 - 编程技术 - 夜眸博客](http://blog.yemou.net/article/query/info/tytfjhfascvhzxcyt158)
-
-2017-08-14 16:58 [nginx配置location总结及rewrite规则写法 | Sean's Notes](http://seanlook.com/2015/05/17/nginx-location-rewrite/)
-
-2018-08-23 17:45 [Nginx 简单的负载/反向代理配置 - 简书](https://www.jianshu.com/p/cded817894c0)
-
-2018-08-23 17:46 [Nginx反向代理配置-Ike-51CTO博客](http://blog.51cto.com/12598157/2088168)
-
-2018-08-23 17:54 [nginx使用ssl模块配置支持HTTPS访问 - 梦徒 - 博客园](https://www.cnblogs.com/saneri/p/5391821.html)
-
-2018-08-23 18:01 [Nginx实现https反向代理配置 - CSDN博客](https://blog.csdn.net/qq_33404395/article/details/80577433)
-
-2018-08-23 18:01 [nginx 配置 ssl 模块支持 https - CSDN博客](https://blog.csdn.net/wanglei_storage/article/details/48782485)
-
-2018-08-24 10:27 [Let’s Encrypt 免费SSL证书自动续期的方法 - CSDN博客](https://blog.csdn.net/Trustauth/article/details/78423242?tdsourcetag=s_pcqq_aiomsg)
-
-2018-08-24 11:04 [Nginx中配置https做反向代理 - 知识林 - CSDN博客](https://blog.csdn.net/zsl129/article/details/54664508)
-
-
-
-#####  Vagrant
-
-2015-10-21 14:18 [使用 Vagrant 打造跨平台开发环境 - SegmentFault](http://segmentfault.com/a/1190000000264347)
-
-2015-10-21 14:31 [Getting Started - Vagrant Documentation](http://docs.vagrantup.com/v2/getting-started/)
-
-
-
-#####  RESTful
-
-2016-03-11 10:00 [理解RESTful架构 - 阮一峰的网络日志](http://www.ruanyifeng.com/blog/2011/09/restful)
-
-2016-03-11 10:02 [RESTful_百度百科](http://baike.baidu.com/link?url=N7zdBY2c9164qxhkFC27WSpg0ARzumD1TYrJUobBI1E-IpFmUdG9c1nfsxJMfud9BkIRd37j-4DHwGD-rk3Fnq)
-
-2015-04-21 18:04 [理解RESTful架构_知识库_博客园](http://kb.cnblogs.com/page/114905/)
-
-
-
-#####  CQRS
-
-#####  Redis
-
-2015-04-17 15:11 [Redis中文官方网站 -- redis中文资料、中文文档尽在redis中文官方网站](http://www.redis.cn/)
-
-2015-04-29 16:03 [Windows下Redis的安装使用 - 51CTO.COM](http://os.51cto.com/art/201403/431103.htm)
-
-2015-04-29 16:03 [Redis](http://redis.io/)
-
-2015-10-21 14:17 [ServiceStack/redis-windows](https://github.com/ServiceStack/redis-windows)
-
-2015-10-22 15:08 [Redis在Windows下安装和PHP中使用 - 鸿网互联[68IDC.CN]](http://www.68idc.cn/help/server/20141128135092.html)
-
-
-
-#####  Firebase
-
-2016-12-14 13:45 [Firebase很酷，来部署一个自己的吧 - CNode技术社区](https://cnodejs.org/topic/51f0edf7f4963ade0e082c19)
-
-2016-12-14 13:50 [您访问的网页出错了！](https://firebase.google.com/)
-
-
-
-#####  Apache
-
-2016-12-14 14:50 [Apache Thrift - 可伸缩的跨语言服务开发框架](https://www.ibm.com/developerworks/cn/java/j-lo-apachethrift/)
-
-2017-11-23 17:17 [mod_proxy － Apache 2.2 中文版参考手册](http://man.chinaunix.net/newsoft/Apache2.2_chinese_manual/mod/mod_proxy.html)
-
-2017-11-23 17:18 [Linux Apache 配置反向代理 - CSDN博客](http://blog.csdn.net/zhdl11/article/details/44182725)
-
-2017-11-23 17:18 [通过apache的反向代理实现多用途服务器 - 慎终如始 - SegmentFault](https://segmentfault.com/a/1190000005041026)
-
-2017-11-23 17:20 [[转]用apache反向代理解决单外网ip对应内网多个web主机的问题 - 老汉学IT - 博客园](https://www.cnblogs.com/coffeebox/p/3717753.html)
-
-2017-11-23 17:20 [简单的配置Apache2.4.7反向代理 - 简书](http://www.jianshu.com/p/475ef0ccc421)
-
-2018-06-13 17:06 [Apache Rewrite规则详解 - ZH奶酪 - 博客园](https://www.cnblogs.com/CheeseZH/p/5169352.html)
-
-2018-06-13 17:32 [Apache中 RewriteRule 规则参数介绍 - CSDN博客](https://blog.csdn.net/wjtlht928/article/details/49232429)
-
-2018-06-14 09:14 [Apache Proxy和Redirect(Proxy与Redirect冲突问题) - CSDN博客](https://blog.csdn.net/u012362458/article/details/57405225)
-
-2018-06-14 09:20 [apache启动失败查看错误信息 - CSDN博客](https://blog.csdn.net/mxdzchallpp/article/details/51333755)
-
-2018-06-14 10:08 [apache重写带有get参数的url地址 - CSDN博客](https://blog.csdn.net/qq_31648761/article/details/53612318)
-
-2018-06-14 14:44 [.htaccess RewriteRule 问题探究 - 行者，无疆 - 博客园](https://www.cnblogs.com/Lovetuya/p/5477966.html)
-
-2018-06-14 14:44 [apache+tomcat 同时使用 RewriteRule 和 ProxyPass 实现静态网址转 tomcat处理 - CSDN博客](https://blog.csdn.net/iua1024/article/details/3526909)
-
-2018-06-14 14:44 [apache url rewrite 的RewriteRule参数详解 - 北京流浪儿 - 博客园](https://www.cnblogs.com/gide/p/4287698.html)
-
-2018-10-24 15:13 [apache的虚拟域名rewrite配置以及.htaccess的使用。 - 作业部落 Cmd Markdown 编辑阅读器](https://www.zybuluo.com/phper/note/73726)
-
-
-
-#####  CentOS
-
-2017-03-17 10:29 [查看centos系统版本命令](http://www.centoscn.com/CentOS/help/2015/0311/4853.html)
-
-2017-03-17 10:46 [CentOS 6.6安装配置LAMP服务器(Apache+PHP5+MySQL)_Linux_脚本之家](http://www.jb51.net/article/94119.htm)
-
-2017-03-17 10:59 [将Centos的yum源更换为国内的阿里云源](http://www.centoscn.com/CentOS/config/2015/0416/5189.html)
-
-2017-03-17 13:35 [linux下报错bash: service: command not found - 霜之哀伤 - ITeye技术网站](http://lishaorui.iteye.com/blog/1583789)
-
-2017-03-17 15:26 [CentOS下查看apache,php,mysql版本信息](http://www.centoscn.com/CentOS/2014/0113/2362.html)
-
-2017-03-17 15:26 [/etc/sysconfig/下找不到iptables文件解决方法](http://www.centoscn.com/CentosBug/osbug/2014/1219/4340.html)
-
-2017-03-17 15:54 [CentOS中zip压缩和unzip解压缩命令详解 - CareChere的博客 - 博客频道 - CSDN.NET](http://blog.csdn.net/carechere/article/details/50844846)
-
-2017-03-17 18:06 [centos下yum搭建安装linux+apache+mysql+php环境 - 渗透测试中心 - 博客园](http://www.cnblogs.com/backlion/p/6000486.html)
-
-2017-03-17 18:06 [CentOS6.6环境安装PHP5.6超级详细笔记 - 奇幻屋的专栏 - 博客频道 - CSDN.NET](http://blog.csdn.net/u014236259/article/details/54143211)
-
-2017-03-17 18:06 [centos6.5下使用yum完美搭建LNMP环境(php5.6)_linux教程_开发教程_最模板](http://www.zuimoban.com/jiaocheng/linux/7128.html)
-
-2017-03-17 18:06 [yum安装php，php-fpm - 惊涛随笔 - 博客园](http://www.cnblogs.com/jtnote/p/6118741.html)
-
-
-
-#####  Consul
-
-2017-07-24 09:19 [服务发现系统consul-HTTP API - 孤天浪雨 - CSDN博客](http://blog.csdn.net/u010246789/article/details/51871051)
-
-2017-07-24 09:19 [Catalog - HTTP API - Consul by HashiCorp](https://www.consul.io/api/catalog.html)
-
-2017-07-24 09:36 [Consul 使用手册 | 一个梦](http://liangxiansen.cn/2017/04/06/consul/)
-
-2017-07-24 09:49 [使用consul实现分布式服务注册和发现 | Tony Bai](http://tonybai.com/2015/07/06/implement-distributed-services-registery-and-discovery-by-consul/)
-
-2017-11-07 14:13 [【Consul】Consul实践指导-健康检查（Checks） - 程序园](http://www.voidcn.com/article/p-nlbvzmsg-bee.html)
-
-
-
-#####  H2O
-
-2017-09-04 14:44 [H2O - the optimized HTTP/2 server](https://h2o.examp1e.net/)
-
-
-
-#####  GraphQL
-
-2017-10-30 15:27 [GraphQL初探:从REST到GraphQL，更完善的数据查询定义 - 某熊的全栈之路 - SegmentFault](https://segmentfault.com/a/1190000005766732)
-
-
-
-#####  Heroku
-
-2018-02-12 09:29 [Heroku简明教程 - 简书](https://www.jianshu.com/p/638e0f6f1d2a)
-
-2018-02-12 09:29 [Cloud Application Platform | Heroku](https://www.heroku.com/)
-
-2018-02-12 10:11 [从零开始，做一个NodeJS博客（一）：Heroku上的最简NodeJS服务器 - Rocket1184 - 博客园](https://www.cnblogs.com/rocket1184/p/5768373.html)
-
-2018-02-12 10:33 [云数据库-Bmob后端云](https://www.bmob.cn/cloud)
-
-2018-02-12 10:38 [三步将Node应用部署到Heroku上 --转载 - 池塘嗲嗲 - 博客园](https://www.cnblogs.com/ctddjyds/p/5554675.html)
-
-2018-02-12 13:31 [ROR部署到Heroku出现Application Error和code=H10 desc=&quot;App crashed“问题 - iaiti的专栏 - CSDN博客](http://blog.csdn.net/iaiti/article/details/50765670)
-
-2018-02-12 14:34 [使用Heroku+mLab 部署Node应用 - 简书](https://www.jianshu.com/p/4f3c01a02620)
-
-2018-02-12 17:46 [在Heroku上部署静态网站-博客-云栖社区-阿里云](https://yq.aliyun.com/articles/40758)
-
-2018-04-27 11:00 [heroku 上部署node.js的几个注意点 - CSDN博客](https://blog.csdn.net/u012331758/article/details/53547910)
-
-2018-07-13 15:26 [transfer.sh - Easy and fast file sharing from the command-line.](https://transfer.sh/)
-
-
-
-####  SVN
-
-2014-04-13 02:36 [VisualSVN Server的配置和使用方法 图文_win服务器_脚本之家](http://www.jb51.net/article/17365.htm)
-
-2015-12-12 15:31 [svn提示出错异常为remains in conflict --脚本百事通](http://www.csdn123.com/html/mycsdn20140110/5b/5bb8d97800c29813c8fb4cf23f18400f.html)
-
-2016-01-19 14:41 [svn &amp; git 问题汇总 - Archrjoe - 博客园](http://www.cnblogs.com/piercalex/p/4045735.html)
-
-2016-01-20 20:28 [windows下svn命令行乱码解决 - 愚公移山 - 博客频道 - CSDN.NET](http://blog.csdn.net/5257007/article/details/6093577)
-
-
-
-####  UI
-
-2015-03-25 14:55 [网页的栅格系统设计 - 设计茶吧 | TaoBaoUED](http://ued.taobao.org/blog/2008/09/grid_systems/)
-
-2015-05-06 19:09 [个人简介网页版|个人网站/博客|网页|Smile_512 - 原创设计作品 - 站酷 (ZCOOL)](http://www.zcool.com.cn/work/ZNzc4Mjc2NA==.html)
-
-2015-05-06 19:09 [网页练习/二|其他网页|网页|种菜 - 原创设计作品 - 站酷 (ZCOOL)](http://www.zcool.com.cn/work/ZODEwOTkyOA==.html)
-
-2015-05-06 19:10 [2015新的开始我的简历|其他网页|网页|宅到骨子里的球 - 原创设计作品 - 站酷 (ZCOOL)](http://www.zcool.com.cn/work/ZNzYwOTA2NA==.html)
-
-2015-05-06 19:13 [简单心理网再再再设计|企业官网|网页|蹩脚的鹰 - 原创设计作品 - 站酷 (ZCOOL)](http://www.zcool.com.cn/work/ZNzUxNjQ3Mg==.html)
-
-2015-05-06 19:14 [简历宝界面设计，猎头工具|其他网页|网页|阿鲲 - 原创设计作品 - 站酷 (ZCOOL)](http://www.zcool.com.cn/work/ZNzQ1MjI4OA==.html)
-
-2015-06-29 21:20 [良品計画网页设计|企业官网|网页|周冬冬 - 原创设计作品 - 站酷 (ZCOOL)](http://www.zcool.com.cn/work/ZMTI0MDk0NDA=.html)
-
-2015-06-29 21:20 [{韩冰云}栅格系统AIRUYI WEB|门户/社交|网页|韩冰云 - 原创设计作品 - 站酷 (ZCOOL)](http://www.zcool.com.cn/work/ZMTI0MDY3MzY=.html)
-
-2015-06-29 21:25 [&lt;我们毕业啦&gt;邵阳创业科技学校 杨枞 #青春答卷2015#|企业官网|网页|yxbyc - 原创设计作品 - 站酷 (ZCOOL)](http://www.zcool.com.cn/work/ZMTIzODkzOTY=.html)
-
-2015-06-30 11:34 [快速招人|门户/社交|网页|不点小玺 - 原创设计作品 - 站酷 (ZCOOL)](http://www.zcool.com.cn/work/ZNzEyMTg0NA==.html)
-
-2015-06-30 11:36 [2015活动通官网响应式设计|企业官网|网页|xiaogang小刚 - 原创设计作品 - 站酷 (ZCOOL)](http://www.zcool.com.cn/work/ZNzE1MDYwNA==.html)
-
-2015-06-30 11:37 [游戏广告系列|游戏/娱乐|网页|vicentl214 - 原创设计作品 - 站酷 (ZCOOL)](http://www.zcool.com.cn/work/ZNzE0OTExMg==.html)
-
-2015-06-30 11:43 [Dressing|企业官网|网页|humansoka - 原创设计作品 - 站酷 (ZCOOL)](http://www.zcool.com.cn/work/ZNzM0NDYwNA==.html)
-
-2015-06-30 11:45 [摄影网站|个人网站/博客|网页|孙筱曼 - 原创设计作品 - 站酷 (ZCOOL)](http://www.zcool.com.cn/work/ZNzM5MTM4NA==.html)
-
-2015-06-30 15:39 [花千骨印象站|游戏/娱乐|网页|策策木 - 原创设计作品 - 站酷 (ZCOOL)](http://www.zcool.com.cn/work/ZMTI0NDUwOTI=.html)
-
-2016-11-30 08:49 [国外设计欣赏网站-DOOOOR.com](http://www.doooor.com/)
-
-2018-06-08 16:09 [Flatty Shadow图标自动产生器——在线生成各种扁平化 ICON | 爱上分享](https://www.isharebest.com/flattyshadow.htm)
-
-2018-09-21 18:00 [Unsplash Source | A Simple API for Embedding Free Photos from Unsplash](https://source.unsplash.com/)
-
-#####  Grid 栅格
-
-2015-04-03 15:21 [最热门工具推荐！为响应式网站而生的40款栅格神器](http://www.uisdc.com/40-flexible-grid-tools)
-
-2015-04-03 15:22 [网页栅格系统_互动百科](http://www.baike.com/wiki/%E7%BD%91%E9%A1%B5%E6%A0%85%E6%A0%BC%E7%B3%BB%E7%BB%9F)
-
-2015-04-03 15:36 [网页栅格系统研究（2）：蛋糕的切法 - 设计茶吧 | TaoBaoUED](http://ued.taobao.org/blog/2008/10/grid_system_research_2/)
-
-2015-04-03 16:55 [Golden Grid System](http://goldengridsystem.com/)
-
-2015-04-03 16:55 [A better Photoshop grid for responsive web design » Elliot Jay Stocks](http://www.elliotjaystocks.com/blog/a-better-photoshop-grid-for-responsive-web-design/)
-
-2015-04-03 16:57 [Gridpak - The Responsive grid generator](http://gridpak.com/)
-
-2015-06-08 11:29 [Grid运用实战！帮你轻松掌握Grid的进阶教程](http://www.uisdc.com/grid-beginner-tutorial)
-
-2015-06-08 11:31 [PS设计网页下载使用960栅格系统设计简洁网页](http://www.poluoluo.com/jzxy/201101/106028.html)
-
-
-
-####  UML
-
-2016-11-25 11:56 [看懂UML类图和时序图 - 大CC - 博客园](http://www.cnblogs.com/me115/p/4092632.html)
-
-2016-11-25 11:56 [浅谈UML的概念和模型之UML九种图 - 努力+坚持，而且还很年轻 - 博客频道 - CSDN.NET](http://blog.csdn.net/jiuqiyuliang/article/details/8552956/)
-
-
-
 ####  VR
 
 2016-08-25 13:05 [开源框架 A-Frame：只要增加一行代码就可以制作VR网页 | 雷锋网](http://www.leiphone.com/news/201512/ZnxHg0uQ2AfzwbFy.html)
@@ -7374,459 +7728,199 @@
 
 
 
-####  XSS
+####  应用号
 
-2015-08-26 19:31 [前端之困 · XSS CookBook - 乌云君 - 知乎专栏](http://zhuanlan.zhihu.com/wooyun/19756127)
+2016-09-22 18:28 [微信小程序(应用号)开发工具&amp;部分API&amp;项目demo放出](http://mp.weixin.qq.com/s?__biz=MzI0MTM0OTUwMg==&mid=2247483701&idx=1&sn=be7bd07d2d9745ef1ba31e68c115b293&chksm=e90da724de7a2e3237915faf0e47c4d7c1592258cfeb4e1170415634c1a4570079a37e2c8273&scene=1&srcid=0922034DnpUJbjqDiXxGoJcI#rd)
 
-2015-08-26 19:31 [XSS之规避过滤小记_流浪的大象_新浪博客](http://blog.sina.com.cn/s/blog_8adaee5001012g39.html)
 
-2015-08-26 19:32 [根据白名单过滤HTML(防止XSS攻击)](http://jsxss.com/zh/index.html)
 
-2015-08-26 19:33 [XSS攻击及防御 - 高爽|Coder - 博客频道 - CSDN.NET](http://blog.csdn.net/ghsau/article/details/17027893)
+####  UML
 
-2015-08-26 19:34 [XSS攻击的原理 - 网站安全 - 红黑联盟](http://www.2cto.com/Article/201209/156182.html)
+2016-11-25 11:56 [看懂UML类图和时序图 - 大CC - 博客园](http://www.cnblogs.com/me115/p/4092632.html)
 
-2015-08-26 19:40 [mXSS攻击的成因及常见种类 | WooYun知识库](http://drops.wooyun.org/tips/956)
+2016-11-25 11:56 [浅谈UML的概念和模型之UML九种图 - 努力+坚持，而且还很年轻 - 博客频道 - CSDN.NET](http://blog.csdn.net/jiuqiyuliang/article/details/8552956/)
 
-2017-02-23 16:50 [FreeBuf.COM | 关注黑客与极客](http://www.freebuf.com/)
 
-2017-02-23 17:05 [社工库查询 --华西安全网](http://cha.hx99.net/)
 
+####  BigData
 
+2017-02-22 10:33 [大数据架构师：hadoop、Storm该选哪一个？-Hadoop大数据架构-about云开发](http://www.aboutyun.com/thread-6858-1-1.html)
 
-####  Yeoman
+2017-02-22 10:34 [《Storm入门》中文版 | 并发编程网 – ifeve.com](http://ifeve.com/getting-started-with-stom-index/)
 
-2015-03-24 11:02 [AngularJS：在Windows上安装Yeoman - 天上的神明与星辰，人间的艺术和真纯，我们所敬畏和热爱的，莫过于此。 - ITeye技术网站](http://damoqiongqiu.iteye.com/blog/1885371)
+2017-09-21 10:39 [Druid 在小米公司的技术实践 - 知乎专栏](https://zhuanlan.zhihu.com/p/25593670)
 
-2015-03-24 11:02 [windows下使用Yeoman快速构建web项目（当前web富前端开发最全环境配置） - 推酷](http://www.tuicool.com/articles/yqaYne)
 
-2015-03-24 11:03 [AngularJS：在Windows上安装Yeoman - 推酷](http://www.tuicool.com/articles/VJJZza)
 
-2015-03-24 15:44 [cnpmjs.org: Private npm registry and web for Company](http://cnpmjs.org/)
+####  JAVA
 
-2015-03-24 15:45 [改变npm安装路径 - mingle的个人空间 - 开源中国社区](http://my.oschina.net/u/923974/blog/204002)
+2017-06-07 14:53 [五步搞定Android开发环境部署——非常详细的Android开发环境搭建教程 - 边写边唱 - 博客园](http://www.cnblogs.com/zoupeiyang/p/4034517.html)
 
-2015-03-24 17:19 [Yeoman Grunt Bower配置相关 - 推酷](http://www.tuicool.com/articles/3EnMnq)
+2017-06-07 17:47 [JxBrowser — a Chromium-based Swing/JavaFX component](https://www.teamdev.com/jxbrowser)
 
-2015-03-24 17:33 [自定义项目工程生成器上—Yeoman入门指南（2） - 为程序员服务](http://ju.outofmemory.cn/entry/36121)
+2018-07-25 17:49 [手写类似于EL表达式，通过java解析Json，用字符串格式去匹配-技术杂类-动脑学院-技术论坛-java学习](http://bbs.dongnaoedu.com/?thread-134.htm)
 
-2015-03-24 17:37 [为什么选择 Yeoman 及 Yeoman 的安装_郑雁_新浪博客](http://blog.sina.com.cn/s/blog_761dcfc60101dii0.html)
 
-2015-03-24 17:38 [Yeoman 学习笔记 - 植宁 - 博客园](http://www.cnblogs.com/zhining/p/3308277.html)
 
-2015-03-25 10:20 [Yeoman gifsicle error (and others) - Stack Overflow](http://stackoverflow.com/questions/21814592/yeoman-gifsicle-error-and-others?answertab=votes#tab-top)
+####  NASA
 
-2015-03-28 20:21 [The web's scaffolding tool for modern webapps | Yeoman](http://yeoman.io/)
+2017-10-17 13:44 [【福利】NASA宇宙星系图8亿像素图片24G大小 附下载地址_黑洞吧_百度贴吧](https://tieba.baidu.com/p/3268635113?red_tag=2391701261)
 
-2015-06-19 11:36 [Downloads](http://rubyinstaller.org/downloads/)
+2017-10-17 13:44 [Hubble Space Telescope Images | NASA](https://www.nasa.gov/mission_pages/hubble/multimedia/index.html)
 
-2015-06-19 11:53 [RubyGems 镜像 - 淘宝网](http://ruby.taobao.org/)
+2017-10-17 13:51 [NASA Image and Video Library](https://images.nasa.gov/#/)
 
-2015-06-19 14:06 [如何处理CSS3属性前缀 - 推酷](http://www.tuicool.com/articles/BRv2Ebn)
 
-2015-06-19 14:11 [Autoprefixer：浏览器厂商前缀的后处理程序 - 资源 - 伯乐在线](http://hao.jobbole.com/autoprefixer/)
 
-2015-06-19 14:12 [Autoprefixer (@autoprefixer) | Twitter](https://twitter.com/autoprefixer)
+####  小程序
 
-2017-03-20 14:04 [FIS3 - 前端工程构建工具](http://fis.baidu.com/)
+#####  weui-wxss
 
-#####  bower
+2017-10-29 17:41 [小程序基础篇之使用weui.wxss-微信小程序俱乐部 www.wxappclub.com](http://www.wxappclub.com/topic/583)
 
-2015-03-24 17:37 [bower的安装与使用 | 张迪的blog](http://www.storagelab.org.cn/zhangdi/2014/06/11/bower%E7%9A%84%E5%AE%89%E8%A3%85%E4%B8%8E%E4%BD%BF%E7%94%A8/)
 
-2015-03-25 09:56 [Bower : ENOGIT git is not installed or not in the - 为程序员服务](http://ju.outofmemory.cn/entry/113622)
 
-2015-03-25 09:56 [Bower : ENOGIT git is not installed or not in the PATH - SegmentFault](http://segmentfault.com/blog/bh/1190000000535410)
+####  区块链
 
-2015-03-25 15:06 [bower安装包下载慢的问题解决方法 - PHPERZ中文资讯站](http://www.phperz.com/article/14/1229/43604.html)
+2018-01-15 11:01 [一步步教你开发、部署第一个去中心化应用(Dapp) - 宠物商店 | 深入浅出区块链](https://learnblockchain.cn/2018/01/12/first-dapp/)
 
-2015-03-25 15:06 [bower install 速度很慢，怎么破？ - SegmentFault](http://segmentfault.com/q/1010000002472112/a-1020000002489785)
+2018-04-08 18:00 [脑钱包地址私钥遭破解，丢失50BTC?求大神指教 - 比特币论坛](http://8btc.com/thread-21189-1-1.html)
 
-2015-03-25 18:06 [bower解决js的依赖管理 | 粉丝日志](http://blog.fens.me/nodejs-bower-intro/)
 
-2015-03-25 18:06 [bower使用入门_百度经验](http://jingyan.baidu.com/article/03b2f78c6bd7c05ea337ae6e.html)
 
-2015-03-25 18:07 [Bower](http://bower.io/)
+####  CoolSite
 
-2015-06-26 14:46 [AngularJS + CoffeeScript 前端开发环境配置详解 - Javascript教程_JS教程_技术文章 - 红黑联盟](http://www.2cto.com/kf/201412/363618.html)
+2018-03-21 10:15 [“Hello World”大全](http://netsmell.com/apps/helloworldcollection/)
 
-2015-06-26 14:46 [AngularJS + CoffeeScript 前端开发环境配置详解 - 推酷](http://www.tuicool.com/articles/nAbUFzv)
+2018-03-21 10:18 [Convertio — 文件转换器](https://convertio.co/zh/)
 
-2015-09-28 17:06 [bower简明入门教程 - SegmentFault](http://segmentfault.com/a/1190000002971135)
+2018-03-21 10:18 [TinyPNG – Compress PNG images while preserving transparency](https://tinypng.com/)
 
-2015-09-28 17:26 [Day 1: Bower —— 管理你的客户端依赖关系 - SegmentFault](http://segmentfault.com/a/1190000000349555)
+2018-03-21 10:27 [Rainy Mood - Helps you to focus, relax, and sleep. Now available for iOS and Android](http://www.rainymood.com/)
 
+2018-03-21 10:31 [Chrome Experiments](https://experiments.withgoogle.com/chrome)
 
+2018-03-21 10:35 [AutoDraw](https://www.autodraw.com/)
 
-#####  Grunt
+2018-03-21 10:35 [deepart.io - become a digital artist](https://deepart.io/)
 
-2015-01-23 08:56 [Grunt: JavaScript世界的构建工具 -- Grunt中文网](http://www.gruntjs.net/)
+2018-03-21 10:38 [WordArt.com - Word Art Creator](https://wordart.com/)
 
-2015-02-27 11:20 [nodejs npm install全局安装和本地安装的区别_node.js_脚本之家](http://www.jb51.net/article/50669.htm)
+2018-03-21 10:42 [Silk – Interactive Generative Art](http://weavesilk.com/)
 
-2015-02-27 11:25 [Grunt打造前端自动化工作流-TGideas-腾讯游戏官方设计团队](http://tgideas.qq.com/webplat/info/news_version3/804/808/811/m579/201307/216460.shtml)
+2018-03-21 10:51 [NEO Hacker Typer](http://hackcode.ishoulu.com/scp/)
 
-2015-02-27 14:59 [dependencies与devDependencies之间的区别 - 推酷](http://www.tuicool.com/articles/QJB7Rj)
+2018-03-21 10:52 [Kaspersky Cyberthreat real-time map](https://cybermap.kaspersky.com/)
 
-2015-02-27 15:11 [npm package.json中的dependencies和devDependencies的区别 | LucKy_one's blog](http://www.luckyonecn.com/blog/difference_between_dependencies_and_devdependencies_in_npm/)
+2018-03-21 10:56 [CodePen - Front End Developer Playground &amp; Code Editor in the Browser](https://codepen.io/)
 
-2015-02-27 15:14 [gruntjs - benpao - 博客园](http://www.cnblogs.com/kuikui/archive/2013/05/26/3100449.html)
+2018-03-21 11:05 [Free Online Photo Editor | Fotor - Photo Editing &amp; Collage Maker &amp; Graphic Design](https://www.fotor.com/)
 
-2015-02-27 15:15 [Grunt教程_Grunt打造极致前端自动化（2）](http://www.miaoyueyue.com/archives/753.html)
+2018-03-21 19:37 [Bit - Share and build with code components](https://bitsrc.io/?utm_source=vue&utm_medium=vue&utm_campaign=vue&utm_term=vue&utm_content=vue)
 
-2015-02-27 15:16 [JavaScript 项目构建工具 Grunt 实践：安装和创建项目框架 - 梦想天空（山边小溪） - 博客园](http://www.cnblogs.com/lhb25/archive/2013/01/24/grunt-for-javascript-project-a.html)
+2018-03-21 19:37 [StdLib — API development made simple](https://stdlib.com/)
 
-2015-03-24 17:51 [grunt使用小记之uglify：最全的uglify使用DEMO - artwl - 博客园](http://www.cnblogs.com/artwl/p/3449303.html)
 
-2015-03-24 18:03 [Grunt.js 在前端项目中的实战 - 推酷](http://www.tuicool.com/articles/zQ7jmm)
 
-2015-03-25 15:30 [编写可维护的 Gruntfile.js - 推酷](http://www.tuicool.com/articles/yABV73)
+####  Docker
 
-2015-03-25 18:06 [Grunt: The JavaScript Task Runner](http://gruntjs.com/)
+2018-07-03 17:16 [docker中文社区,docker帮助,docker手册,docker教程,docker安装手册 - docker中文社区](http://www.docker.org.cn/index.html)
 
-2015-03-26 14:52 [load-grunt-tasks出错 | 慕课网](http://www.imooc.com/qadetail/65092)
+2018-07-03 17:16 [Docker中文文档 Docker概述-DockerInfo](http://www.dockerinfo.net/document)
 
-2015-03-27 15:57 [Grunt之添加文件监视：Grunt-watch (已备份) - PunCha (PCH) - 博客频道 - CSDN.NET](http://blog.csdn.net/puncha/article/details/12172891)
+2018-07-03 17:29 [Docker学习系列（一）：windows下安装docker - CSDN博客](https://blog.csdn.net/tina_ttl/article/details/51372604)
 
-2015-03-27 15:57 [gruntjs开发实例 - Javascript教程_JS教程_技术文章 - 红黑联盟](http://www.2cto.com/kf/201502/374540.html)
+2018-07-04 09:26 [Docker容器系列教程（一）：简介与安装 - Java成神之路 - SegmentFault 思否](https://segmentfault.com/a/1190000015016299)
 
-2015-04-01 17:25 [Grunt使用入门（一） - leohxj的个人空间 - 开源中国社区](http://my.oschina.net/leohxj/blog/132788)
+2018-07-04 09:57 [Docker容器系列教程（二）：常用命令与实操 - Java成神之路 - SegmentFault 思否](https://segmentfault.com/a/1190000015125242)
 
-2015-04-01 17:25 [gruntjs/grunt-init-gruntfile](https://github.com/gruntjs/grunt-init-gruntfile)
+2018-07-05 14:43 [Docker 入门教程 - 阮一峰的网络日志](http://www.ruanyifeng.com/blog/2018/02/docker-tutorial.html)
 
-2015-04-01 17:53 [grunt默认只允许localhost和访问，如何设置外部IP地_Java123社区](http://www.java123.net/v/985805.html)
+2018-07-16 15:36 [docker命令和后台参数 - bethal - 博客园](https://www.cnblogs.com/bethal/p/6051256.html)
 
-2015-06-05 15:27 [Grunt教程——Gurnt任务的配置 | css3教程-css3实例-css3动画 | W3CPlus](http://www.w3cplus.com/tools/grunt-tutorial-configuring-tasks.html)
+2018-07-16 15:48 [搭建Docker registry私有仓库（容器方式） | 封尘网](https://www.58jb.com/html/95.html)
 
-2015-06-11 11:42 [npm](https://www.npmjs.com/)
+2018-08-02 16:24 [基于Docker的日志分析平台(二) 环境搭建 - 左手代码 - SegmentFault 思否](https://segmentfault.com/a/1190000012337053)
 
-2015-06-26 17:31 [详解grunt打包工具中的copy配置之flatten_月夜天霜_新浪博客](http://blog.sina.com.cn/s/blog_79c02b6b0102v03e.html)
+2018-08-03 09:51 [REST服务中的日志可视化（关键技术实现） - yurun - 博客园](https://www.cnblogs.com/yurunmiao/p/4167744.html)
 
-2015-06-26 20:48 [Grunt配置文件编写技巧及示范 - 轩枫阁 – 前端开发 | web前端技术博客](http://www.xuanfengge.com/grunt-profile-writing-tips-and-demonstrations-2.html)
 
-2015-07-22 10:08 [入门指南--grunt学习笔记（1） - CSDN博客](http://m.blog.csdn.net/blog/larrywangsun/27428093)
 
-2015-08-12 14:13 [grunt-rev 和 grunt-usemin 替换静态资源 url 的配置 - SegmentFault](http://segmentfault.com/a/1190000000442070)
+####  积木
 
-2015-10-29 09:37 [用 grunt-contrib-connect 构建实时预览开发环境 | 隔叶黄莺 Unmi Blog - 软件编程实践](http://unmi.cc/blog/2014/04/30/grunt-contrib-connect-build-livereload-dev-env/)
+2018-05-25 10:30 [UC前端‘搭积木’的模块化开发——scrat.js - 前端旋风](https://my.oschina.net/luozt/blog/304111)
 
-2015-11-05 17:37 [Grunt的wiredep任务的配置说明文档 - 姜丝的博客 - 博客频道 - CSDN.NET](http://blog.csdn.net/itpinpai/article/details/48269825)
+2018-05-25 10:30 [网络前端UI组件设计思想：去框架化、积木化 - CSDN博客](https://blog.csdn.net/tiangej/article/details/8882347?utm_source=tuicool)
 
-######  插件
 
-2015-03-25 15:59 [Grunt插件五grunt-contrib-copy参数和使用 - 前端开发工程师小V的技术博客](http://www.xv90.com/post-115.html)
 
-2015-03-26 10:07 [用 grunt-contrib-connect 构建实时预览开发环境 - 推酷](http://www.tuicool.com/articles/yEJBF3)
+####  杂项
 
-2015-03-26 10:12 [Grunt插件一grunt-contrib-less参数和使用 - 前端开发工程师小V的技术博客](http://www.xv90.com/post-111.html)
+2013-05-13 16:04 [河南地图网](http://www.hnditu.com/dt.aspx?mapn=410100)
 
-2015-03-27 17:12 [grunt前端打包——css篇](http://www.php100.com/html/it/qianduan/2015/0115/8377.html)
+2013-06-07 15:23 [MySQL创建用户与授权_James' Daily Log_百度空间](http://hi.baidu.com/fwsocn/item/8b7b0c2102f2970976272c23)
 
-2015-03-27 17:13 [Grunt入门教程 | 我爱互联网](http://www.woiweb.net/grunt.html)
+2013-07-11 16:52 [用谷歌浏览器调试手机WEB应用 - knless@126的日志 - 网易博客](http://blog.163.com/knless@126/blog/static/1642586422012429113343175/)
 
-2015-03-27 17:23 [使用Grunt构建任务管理脚本 | css3教程-css3实例-css3动画 | W3CPlus](http://www.w3cplus.com/tools/writing-awesome-build-script-grunt.html)
+2013-07-14 22:27 [DUI-heatmap Finland 2012 | Utvecklingsbloggen](http://utveckling.ylebloggen.fi/2013/03/21/dui-heatmap-finland-2012/)
 
-2015-06-05 15:43 [前端工作流：工具集总篇](http://www.hulufei.com/post/a-frontend-scaffold)
+2013-07-14 22:27 [Triposo Blog: Green world](http://blog.triposo.com/2013/03/green-world.html)
 
-2015-06-05 15:43 [[译]Autoprefixer:一个以最好的方式处理浏览器前缀的后处理程序-前端开发博客](http://caibaojian.com/autoprefixer.html)
+2013-07-14 22:27 [Real-time Service Area for Electramedics](http://www.nearbynow.co/profile/electrician/electramedics)
 
-2015-06-05 17:51 [grunt-usemin](https://www.npmjs.com/package/grunt-usemin)
+2013-07-16 17:25 [Zepto.js: the aerogel-weight jQuery-compatible JavaScript library](http://zeptojs.com/)
 
-2015-06-11 11:41 [常用插件的使用—grunt入门指南（上） - 为程序员服务](http://ju.outofmemory.cn/entry/39815)
+2013-08-07 13:29 [php+swftools+flexpaper实现在线PDF阅读(中) | Yuyu的技术blog | 写有质量的技术博客!](http://www.phperblog.net/?p=601)
 
-2015-03-24 16:17 [【grunt整合版】30分钟学会使用grunt打包前端代码 - 叶小钗 - 博客园](http://www.cnblogs.com/yexiaochai/p/3603389.html)
+2013-08-07 13:30 [flexpaper 参数说明 - 开始学](http://www.kaishixue.com/php/10.html)
 
-2015-06-11 11:41 [上百个必备的Grunt插件 - OPEN 开发经验库](http://www.open-open.com/lib/view/open1424570955018.html)
+2013-08-07 13:30 [Flexpaper学习笔记整理_百度文库](http://wenku.baidu.com/view/541e553483c4bb4cf7ecd1bd.html)
 
-2015-06-11 11:42 [grunt让Nodejs规范起来 | 粉丝日志](http://blog.fens.me/nodejs-grunt-intro/)
+2013-08-07 13:30 [仿百度文库解决方案（六）——利用FlexPaper显示Flash（SWF） - 肖恩也有梦想 - 博客园](http://www.cnblogs.com/luckyxiaoxuan/archive/2012/06/16/2551677.html)
 
-2015-08-05 14:51 [nDmitry/grunt-autoprefixer](https://github.com/nDmitry/grunt-autoprefixer)
+2013-08-07 13:30 [利用FlexPaper实现Word、PPT、PDF在线浏览 - php mysql 足迹 - ITeye技术网站](http://say0507.iteye.com/blog/994849)
 
-2015-08-05 14:51 [ai/browserslist](https://github.com/ai/browserslist)
+2013-08-07 13:30 [SWFTOOLS](http://swftools.org/)
 
-2015-08-13 18:42 [grunt插件之Grunt-contrib-cssmin - 随啵不逐流 - 博客园](http://www.cnblogs.com/kaixinbocai/p/3672619.html)
+2013-08-07 13:30 [FlexPaper - Documentation](http://flexpaper.devaldi.com/docs_publishing_with_PHP.jsp)
 
-2015-08-13 18:42 [grunt插件之Grunt-contrib-htmlmin - 随啵不逐流 - 博客园](http://www.cnblogs.com/kaixinbocai/p/3672601.html)
+2018-11-20 20:16 [Simditor](http://simditor.tower.im/)
 
-2015-08-13 18:42 [Grunt 自动化部署之css、image、javascript、html压缩Gruntfile.js配置 - Blue Sky ...... - 博客园](http://www.cnblogs.com/hubcarl/p/4095122.html)
+ [Simditor：简单快速的开源富文本编辑器 - 前端开发 文本工具 - LUPA开源社区](http://www.lupaworld.com/article-238553-1.html)
 
-2015-08-13 20:27 [如何利用一个周末时间成为前端工程师的(1) - 51CTO.COM](http://developer.51cto.com/art/201212/374902.htm)
+2018-11-20 20:16 [Awwwards - Website Awards - Best Web Design Trends](http://www.awwwards.com/)
 
-2015-08-13 20:40 [Grunt的配置及使用（压缩合并js/css） - 每天都记录一点点！ - 博客频道 - CSDN.NET](http://blog.csdn.net/playboyanta123/article/details/43230831)
+2018-11-20 20:16 [weex暴走青年的自频道](http://i.youku.com/u/UNDEzMDY2NjI0MA==/videos)
 
-2015-08-14 14:52 [Grunt插件三grunt-contrib-uglify参数和使用 - 前端开发工程师小V的技术博客](http://www.xv90.com/post-113.html)
+2017-02-23 16:50 [域名背后的真相，一个黑产团伙的沦陷 - FreeBuf.COM | 关注黑客与极客](http://www.freebuf.com/articles/terminal/127228.html)
 
+2018-09-29 14:38 [hotJar 数据 - 简书](https://www.jianshu.com/p/fb7dc9502ed2)
 
+2018-09-29 14:38 [Hotjar - Heatmaps, Visitor Recordings, Conversion Funnels, Form Analytics, Feedback Polls and Surveys in One Platform](https://www.hotjar.com/home1?utm_expid=.Oc6FtaP7QbSvjs-nBQ7z0w.1&utm_referrer=https%3A%2F%2Fwww.baidu.com%2Flink%3Furl%3DFFaARBRZJdwzI3xlEEMpiz4CxqbsJl_4uGkIOWYrfMm%26wd%3D%26eqid%3Daf8566470001ae61000000025baf1d1b)
 
-#####  Jenkins
+2018-09-29 14:38 [Hotjar在架构演进中总结的8条经验_性能与架构_传送门](http://chuansong.me/n/365878851543)
 
-2015-02-27 11:33 [Jenkins_百度百科](http://baike.baidu.com/link?url=wT9vMRm8CBEny5rP9wBaFJOPut5yGVLRjwfm7i0ds0gNW0sIdfewOc9ar4qEcXSc5aYA7GNLiieApfMTRN3LPK)
+2018-09-29 14:43 [mixpanel可视化埋点源码分析01-项目功能介绍 - 简书](https://www.jianshu.com/p/59b86cbbab55)
 
+2018-09-29 14:45 [美团点评前端无痕埋点实践 -](https://tech.meituan.com/mt_mobile_analytics_practice.html)
 
+2018-09-29 14:46 [无埋点实现监测的真相——革新还是噱头？ - 云+社区 - 腾讯云](https://cloud.tencent.com/developer/article/1049439)
 
-#####  Mocha
+2018-09-29 17:42 [如何翻译一本外文书 - 宋净超的博客|Developer Advocate on Cloud Native|jimmysong.io](https://jimmysong.io/posts/how-to-translate-a-book/)
 
-2015-03-25 15:37 [Mocha - 一个功能丰富运行在Node.js和浏览器中的JavaScript测试框架 - OPEN 开发经验库](http://www.open-open.com/lib/view/open1337910447324.html)
+2018-09-29 17:52 [程序员必备的效率工具-Egret社区-第三方工具-白鹭引擎-Egret Engine-免费开源HTML5游戏引擎 - Powered by Discuz!](http://bbs.egret.com/thread-31485-1-1.html)
 
-2017-11-01 14:07 [测试框架 Mocha 实例教程 - 阮一峰的网络日志](http://www.ruanyifeng.com/blog/2015/12/a-mocha-tutorial-of-examples.html)
+2018-09-29 18:01 [如何翻译一本外文书 - 宋净超的博客|Developer Advocate on Cloud Native|jimmysong.io](https://jimmysong.io/posts/how-to-translate-a-book/#1-%E5%88%86%E6%9E%90%E5%8E%9F%E7%89%88%E5%8E%8B%E7%BC%A9%E5%8C%85%E7%9A%84%E7%BB%93%E6%9E%84)
 
-2017-11-01 14:08 [Testing in ES6 with Mocha and Babel 6](http://jamesknelson.com/testing-in-es6-with-mocha-and-babel-6/)
+2018-11-07 16:26 [swf逆向调试 - zep1168的博客 - CSDN博客](https://blog.csdn.net/zep1168/article/details/70500001)
 
-2017-11-01 14:17 [测试框架mochajs详解 - HackerVirus - 博客园](http://www.cnblogs.com/Leo_wl/p/5734889.html)
+2018-11-07 17:30 [第0章 ActionScript教程 – Action基础知识 - 茶沫 - 博客园](https://www.cnblogs.com/janas/archive/2013/05/18/3085494.html)
 
-2017-11-01 14:31 [初识 mocha in NodeJS - CNode技术社区](https://cnodejs.org/topic/516526766d38277306c7d277)
+2018-11-07 18:03 [Free Online Photo Editors](https://edmypic.com/photo-editors/)
 
-2017-11-02 16:01 [mocha异步之done - CNode技术社区](http://cnodejs.org/topic/535e03d614b825ea72005067)
+2018-11-26 10:34 [设计稿自动生成可用页面的展望 - 侯振宇 - 博客园](https://www.cnblogs.com/sskyy/p/7813943.html)
 
-2017-11-02 16:02 [Chai](http://chaijs.com/)
-
-2017-11-02 16:19 [折腾 Coffee + mocha + Travis-CI 单元测试与覆盖率报告 - CNode技术社区](https://cnodejs.org/topic/5443b8342be2db9d42e8f685)
-
-
-
-#####  gulp
-
-2015-03-30 15:16 [gulp API文档 - gulp.js 中文文档 | gulp.js 中文网](http://www.bootcss.com/gulpjs/docs/api/)
-
-2015-07-10 17:50 [gulp.js - 基于流的自动化构建工具。 | gulp.js 中文网](http://www.gulpjs.com.cn/)
-
-2015-07-10 17:54 [Gulp vs Grunt « 笨笨剥壳](http://www.benben.cc/blog/?p=407)
-
-2015-08-14 14:57 [gulp完全开发指南 =&gt; 快来换掉你的Grunt吧 - 推酷](http://www.tuicool.com/articles/J3QnEb)
-
-2015-08-14 14:58 [gulp.js - the streaming build system](http://gulpjs.com/)
-
-2015-08-14 17:20 [前端构建工具gulpjs的使用介绍及技巧 - 无双 - 博客园](http://www.cnblogs.com/2050/p/4198792.html)
-
-2015-08-14 18:55 [Gulp思维——Gulp高级技巧 - SegmentFault](http://segmentfault.com/a/1190000000711469)
-
-2015-08-17 10:21 [Dtao | gulp教程之gulp-autoprefixer](http://www.dtao.org/archives/94)
-
-2015-08-17 10:26 [Dtao | gulp教程之gulp-less](http://www.dtao.org/archives/34)
-
-2015-08-17 11:44 [gulp入门教程 - SegmentFault](http://segmentfault.com/a/1190000002698606)
-
-2015-08-17 13:35 [前端工程化：在gulp中顺序执行任务 - 推酷](http://www.tuicool.com/articles/ea6FVf)
-
-2015-08-17 13:35 [前端构建工具gulp入门教程 - SegmentFault](http://segmentfault.com/a/1190000000372547)
-
-2015-08-17 13:36 [Gulp安装及配合组件构建前端开发一体化 | DBPOO's Blog](http://www.dbpoo.com/getting-started-with-gulp/)
-
-2015-08-17 13:36 [Gulp上手 | w3cboy,最专业的前端开发博客](http://w3cboy.com/post/2014/10/getting-started-with-gulp/)
-
-2015-09-10 17:45 [Dtao | gulp教程之gulp-minify-css](http://www.dtao.org/archives/41)
-
-2015-09-10 18:01 [Gulp自动添加版本号 - 推酷](http://www.tuicool.com/articles/UbaqyyJ)
-
-2015-09-23 10:07 [Gulp使用指南 | 程序师](http://www.techug.com/gulp)
-
-2015-09-23 18:32 [用gulp做一个略完整的前端打包工作~ 极客标签 | 在线编程知识分享学习平台](http://www.gbtags.com/gb/share/5503.htm)
-
-2015-10-19 14:58 [gulp简易入坑 - SegmentFault](http://segmentfault.com/a/1190000002955996)
-
-2015-10-19 15:05 [Hello Gulp! - SegmentFault](http://segmentfault.com/a/1190000003409507)
-
-2015-10-19 15:06 [利用 Gulp 处理前端工作流程 - SegmentFault](http://segmentfault.com/a/1190000003098076)
-
-2015-10-19 15:06 [一点 | gulp教程之gulp-htmlmin](http://www.ydcss.com/archives/20)
-
-2016-01-11 15:42 [使用gulp压缩合并AngularJS项目中js](http://hicc.me/minify-concat-angular-js-with-gulp/)
-
-2016-01-11 15:42 [gulp完成javascript压缩合并，css压缩](http://www.tzwhx.com/NewShow/newBodyShow/%E5%9F%BA%E7%A1%80%E7%9F%A5%E8%AF%86_48492.html)
-
-2016-01-12 10:51 [gulp插件gulp-usemin简单使用 - 推酷](http://www.tuicool.com/articles/AzqA3uE)
-
-2016-01-12 15:20 [gulp下静态资源的合并、压缩、MD5后缀 - 牧童 - ITeye技术网站](http://mutongwu.iteye.com/blog/2208607)
-
-2016-01-12 15:31 [使用requirejs时怎么解决文件版号和增量更新的问题 - CNode技术社区](https://cnodejs.org/topic/54509502d0c2f0fe2f53393d)
-
-2016-01-12 17:30 [通过Yeoman架构AngularJS应用 – 朱君无](http://zhujunwu.cn/scaffolding-angularjs-app-with-yeoman/)
-
-2016-01-15 22:55 [gulp - Uglify throws Parse error - Stack Overflow](http://stackoverflow.com/questions/28003104/uglify-throws-parse-error)
-
-2016-01-19 16:00 [javascript - How to run Gulp tasks synchronously/one after the other - Stack Overflow](http://stackoverflow.com/questions/22824546/how-to-run-gulp-tasks-synchronously-one-after-the-other/26390567#26390567)
-
-2016-01-19 20:47 [gulp顺序执行任务](http://zhangruojun.com/gulpshun-xu-zhi-xing-ren-wu/)
-
-2016-03-23 15:31 [PostCSS一种更优雅、更简单的书写CSS方式 - 推酷](http://www.tuicool.com/articles/nIR3eqi)
-
-2016-06-06 16:15 [将 ES6 代码转换成 ES5 - 简书](http://www.jianshu.com/p/e07277bf02f1)
-
-2016-11-28 15:31 [PostCSS 是个什么鬼东西？ - 60sky - SegmentFault](https://segmentfault.com/a/1190000003909268)
-
-2017-09-28 09:53 [EsLint入门 - RyanRuan - 博客园](http://www.cnblogs.com/ruanyifeng/p/5283708.html)
-
-######  插件
-
-2016-01-12 15:20 [gulp-useref](https://www.npmjs.com/package/gulp-useref)
-
-2016-01-12 16:16 [gulp-json-minify](https://www.npmjs.com/package/gulp-json-minify/)
-
-2016-01-12 17:27 [一点 | gulp教程之gulp-rev-append](http://www.ydcss.com/archives/49)
-
-2016-01-12 17:28 [一点 | gulp教程之gulp-imagemin](http://www.ydcss.com/archives/26)
-
-2016-01-12 17:30 [generator-gulp-webapp/asset-revisioning.md at master · yeoman/generator-gulp-webapp](https://github.com/yeoman/generator-gulp-webapp/blob/master/docs/recipes/asset-revisioning.md)
-
-2016-01-12 17:30 [What method can add a version number at the back of the file? · Issue #131 · jonkemp/gulp-useref](https://github.com/jonkemp/gulp-useref/issues/131)
-
-2016-01-16 15:11 [gulp-svn](https://www.npmjs.com/package/gulp-svn)
-
-2016-01-19 20:51 [teambition/gulp-sequence: Run a series of gulp tasks in order](https://github.com/teambition/gulp-sequence)
-
-
-
-#####  gem
-
-2015-06-19 11:53 [CocoaPods安装与简单使用 - 星仁 - 博客园 - 推酷](http://www.tuicool.com/articles/7vUnay)
-
-
-
-#####  webpack
-
-2015-09-14 11:40 [list of loaders](http://webpack.github.io/docs/list-of-loaders.html)
-
-2015-09-14 11:40 [Webpack 入门指迷 - SegmentFault](http://segmentfault.com/a/1190000002551952)
-
-2015-09-14 11:40 [[新姿势]前端革命，革了再革：WebPack - SegmentFault](http://segmentfault.com/a/1190000002507327)
-
-2016-03-21 17:37 [webpack](http://webpack.github.io/docs/)
-
-2016-03-23 16:33 [浏览器自动刷新 | React Webpack 小书](https://fakefish.github.io/react-webpack-cookbook/Automatic-browser-refresh.html)
-
-2016-03-24 18:33 [webpack 插件： html-webpack-plugin - 冠军 - 博客园](http://www.cnblogs.com/haogj/p/5160821.html)
-
-2016-03-24 18:45 [一小时包教会 —— webpack 入门指南-爱编程](http://www.w2bc.com/Article/50764)
-
-2016-03-25 15:52 [html-webpack-plugin](https://www.npmjs.com/package/html-webpack-plugin)
-
-2016-05-10 10:51 [webpack打包bundle.js体积大小优化 · Issue #65 · youngwind/blog](https://github.com/youngwind/blog/issues/65)
-
-2016-05-16 10:23 [简介 | webpack](https://wohugb.gitbooks.io/webpack/content/index.html)
-
-2016-05-16 10:43 [介绍 | Webpack 中文指南](http://zhaoda.net/webpack-handbook/index.html)
-
-2016-05-27 18:18 [FormidableLabs/webpack-stats-plugin: Webpack stats plugin for build information, file manifests, etc.](https://github.com/FormidableLabs/webpack-stats-plugin)
-
-2016-05-31 15:27 [webpack入门视频_免费高速下载|百度云 网盘-分享无限制](http://pan.baidu.com/s/1dFNTr25?qq-pf-to=pcqq.group&errno=0&errmsg=Auth%20Login%20Sucess&stoken=d5920248cd0a17795f497d203403ca75bbb95c078609cb828954df078767f7d94edc0e1c868f3c8c03ff838bab473c512d2b840f54e5994eac2b5f6730937d26d69f4a07ee2c&bduss=cf3504779f5348bca8b4a8c677377c5fc2df7f25b4e942448560eda2ca7e4f46d03bbcbd6f0e3693e87450459fc5f87fe7325509da355679b246c4a78d4d36b1d6772952c8864c05a47468b10bd79937604d2caacbf9fb4835416b0ffd8662bc7a301c7d03135f5e4c230fb63fc5e6625a88c07f8e3fc37236b45a016d503fa40883397d046b45914a76668db9b3f8c9f1d87c5bd6cc5473678e5db4f459277300d96f1221693500d2aad9b4d034924b1cea447b214c18220ea3113f77baab7217c4d663a472)
-
-2016-09-07 13:36 [如何在前端项目中实现热更新 - 前端修炼 - SegmentFault](https://segmentfault.com/a/1190000004151580)
-
-2016-09-07 14:21 [webpack之热更新 - GM's Blog](https://gmiam.com/post/webpack-hot-replacement.html)
-
-2016-09-07 14:31 [[译] Webpack——令人困惑的地方 - 掘金](http://gold.xitu.io/entry/57329700ad5b950057093301)
-
-2016-09-07 14:34 [基于webpack搭建前端工程解决方案探索 - dmyang - SegmentFault](https://segmentfault.com/a/1190000003499526#articleHeader10)
-
-2016-11-08 15:40 [webpack使用优化 - OPEN 开发经验库](http://www.open-open.com/lib/view/open1452487103323.html#_label0)
-
-2016-11-17 14:01 [2.2 webpack - LeanReact - 知乎专栏](https://zhuanlan.zhihu.com/p/21287263)
-
-2017-05-10 17:42 [webpack脚手架构建React项目 - 曾田生z - SegmentFault](https://segmentfault.com/a/1190000008584933)
-
-2017-05-12 17:58 [javascript - webpack中library与libraryTarget还有externals如何理解？ - SegmentFault](https://segmentfault.com/q/1010000004676608)
-
-2017-05-12 17:58 [关于webpack中的libraryTarget设置 - SegmentFault](https://segmentfault.com/q/1010000009089500)
-
-2017-05-12 17:58 [webpack中的externals vs libraryTarget vs library - 高山上的鱼 - 博客频道 - CSDN.NET](http://blog.csdn.net/liangklfang/article/details/54970899)
-
-2017-05-12 17:59 [webpack减少打包后文件体积的几种方法 - _Simon - 博客园](http://www.cnblogs.com/-simon/p/5947092.html)
-
-2017-05-26 11:58 [webpack 的几个重要概念 - 即刻出发_ - SegmentFault](https://segmentfault.com/a/1190000007649656)
-
-2017-12-24 16:41 [前端模块化工具-webpack - HackerVirus - 博客园](http://www.cnblogs.com/Leo_wl/p/4862714.html)
-
-2017-12-24 22:03 [webpack解惑：require的五种用法 - lanyan - 博客园](https://www.cnblogs.com/laneyfu/p/6262321.html)
-
-2018-07-24 09:27 [webpack-bundle-analyzer 分析 - 简书](https://www.jianshu.com/p/2722e90b72c1)
-
-2018-07-24 09:55 [优化 Webpack 构建结果 - 腾讯Web前端 IMWeb 团队社区 | blog | 团队博客](http://imweb.io/topic/597f47c790ccc00402bb1820)
-
-2018-07-30 14:32 [webpack 换肤功能多主题/配色样式打包解决方案 | Godfery的博客](https://hiyangguo.github.io/2018/04/19/webpack-mutiple-theme-solution-md/)
-
-
-
-#####  yo
-
-2015-09-28 17:40 [30天web实践3-yeoman - SegmentFault](http://segmentfault.com/a/1190000000656748)
-
-2015-09-28 18:28 [Yeoman自动构建js项目 | 粉丝日志](http://blog.fens.me/nodejs-yeoman-intro/)
-
-2017-11-02 15:58 [创建 Yeoman Generator 简单教程 - 简书](http://www.jianshu.com/p/9f3e6bcdb274)
-
-
-
-#####  browsersync
-
-2016-03-15 11:04 [Browsersync - Time-saving synchronised browser testing](https://www.browsersync.io/)
-
-2016-08-24 09:05 [BrowserSync，迅捷从免F5开始 - 庭院茶 - SegmentFault](https://segmentfault.com/a/1190000002607627)
-
-
-
-#####  yarn
-
-2017-02-22 12:07 [yarn - 一个可能取代npm的新型包管理器[Facebook出品，附带中文使用教程] - CRPER - 博客频道 - CSDN.NET](http://blog.csdn.net/crper/article/details/52796305)
-
-2017-02-22 13:41 [Yarn vs npm：你需要知道的一切 - 前端外刊评论 - 知乎专栏](https://zhuanlan.zhihu.com/p/23493436)
-
-2017-02-22 13:44 [Yarn的安装与使用详细介绍_node.js_脚本之家](http://www.jb51.net/article/95630.htm)
-
-2017-02-22 13:48 [Yarn](https://yarnpkg.com/en/)
-
-2017-06-13 17:01 [Yarn](https://yarnpkg.com/zh-Hans/)
-
-2017-06-21 09:39 [Yarn vs npm: 你需要知道的一切 - WEB前端 - 伯乐在线](http://web.jobbole.com/88459/)
-
-2017-12-19 21:01 [Yarn 中文网](https://yarn.bootcss.com/)
-
-
-
-#####  Travis Ci
-
-2017-09-08 09:19 [Travis Ci的最接底气的中文使用教程 - 简书](http://www.jianshu.com/p/8308b8f08de9)
-
-2017-09-08 09:21 [一点都不高大上，手把手教你使用Travis CI实现持续部署 - 知乎专栏](https://zhuanlan.zhihu.com/p/25066056)
-
-2017-11-01 14:30 [利用Travis CI 让你的github项目持续构建(Node.js为例) - 破狼 - 博客园](http://www.cnblogs.com/whitewolf/archive/2013/04/14/3019838.html)
-
-2017-11-01 14:53 [React Native App CI | Lifecycle](https://richardcao.me/2016/12/11/React-Native-App-CI/)
-
-2017-11-01 14:56 [Travis 使用经验分享 - CNode技术社区](https://cnodejs.org/topic/557afc5816839d2d53936219)
-
-2017-11-01 15:33 [Github装逼指南——Travis CI 和 Codecov - MyCodingLife - SegmentFault](https://segmentfault.com/a/1190000004415437)
-
-2017-11-02 16:04 [Travis-CI 跑测试总报错（本地能通过） - CNode技术社区](https://cnodejs.org/topic/575c3b5a4fb027d05f43294d)
-
-2017-11-02 16:20 [Travis CI - Test and Deploy Your Code with Confidence](https://travis-ci.org/)
-
-2017-11-02 16:24 [JS测试与接入CI指南 - yangyiliang - SegmentFault](https://segmentfault.com/a/1190000007332019)
-
-
-
-#####  Codecov
-
-2017-11-01 15:37 [集成测试覆盖率工具 codecov - 简书](http://www.jianshu.com/p/146c4769d4b1)
-
-
-
-#####  Rollup
-
-2018-03-14 22:10 [https://rollupjs.org/guide/en](https://rollupjs.org/guide/en)
-
-
-
-#####  Parcel
-
-2018-03-14 22:11 [📦 Parcel 中文网](http://www.parceljs.io/)
-
-2018-03-15 11:14 [📦 Parcel 中文网](https://parceljs.org/)
-
-
-
-#####  JMeter
-
-2018-07-10 10:32 [Web接口测试工具--Jmeter - 虫师 - 博客园](https://www.cnblogs.com/fnng/p/5827577.html)
+2018-11-26 11:14 [五分钟了解微信团队打造的 Sketch 插件 ：WeSketch - 简书](https://www.jianshu.com/p/765abdcdf48b)
 
 
 
@@ -7848,7 +7942,29 @@
 
 2018-09-29 11:09 [eyeOS - 维基百科](https://en.wikipedia.org/wiki/EyeOS)
 
+2018-11-13 16:08 [welfear的博客:注册表原理浅析 - 哲思](http://www.zeuux.com/blog/content/994/)
+
+2018-11-13 16:09 [windows注册表详解 - xin_yu_xin的专栏 - CSDN博客](https://blog.csdn.net/xin_yu_xin/article/details/46940457)
+
+2018-11-13 16:09 [windows注册表解析说明 - 爱养花的码农 - 博客园](https://www.cnblogs.com/wfq9330/p/9176654.html)
+
 
 
 ###  其他书签
+
+###  移动设备书签
+
+2018-11-23 15:17 [Lighthouse与Google的移动端最佳实践](https://mp.weixin.qq.com/s?src=11&timestamp=1542957370&ver=1261&signature=62XnD2n*y-YiNBw-quJx-lOfDTTxKNf5OxtydhiSdUbfd7p1CQM4mwzUg-12n4U-tox918H9Wj0K9DsWM5ht5U2Wsu5RF6sZKtfJyNX3VJD*xFYZ72uCIEE0*igu9rt3&new=1)
+
+2018-11-23 15:17 [Lighthouse与Google的移动端最佳实践](https://mp.weixin.qq.com/s?src=11&timestamp=1542957370&ver=1261&signature=62XnD2n*y-YiNBw-quJx-lOfDTTxKNf5OxtydhiSdUbfd7p1CQM4mwzUg-12n4U-tox918H9Wj0K9DsWM5ht5U2Wsu5RF6sZKtfJyNX3VJD*xFYZ72uCIEE0*igu9rt3&new=1)
+
+2018-11-23 17:14 [Vue中文社区](https://mp.weixin.qq.com/s?src=11&timestamp=1542958760&ver=1261&signature=PqAhQvOMBQFCoWMKmK31*gH3EI-rFu9RZUeVvT80OGlA7x*Msrd2Maya9eg5DBN6sjpPQpvKXOfCxcYp4HsNHQZSiM47zUQZpTubfTQYrmJfK*Y0QTNkPxmZTEMku7Gq&new=1)
+
+2018-11-23 17:14 [Vue中文社区](https://mp.weixin.qq.com/s?src=11&timestamp=1542958760&ver=1261&signature=PqAhQvOMBQFCoWMKmK31*gH3EI-rFu9RZUeVvT80OGlA7x*Msrd2Maya9eg5DBN6sjpPQpvKXOfCxcYp4HsNHQZSiM47zUQZpTubfTQYrmJfK*Y0QTNkPxmZTEMku7Gq&new=1)
+
+2018-11-23 17:14 [Skeleton Screen — 骨架屏 - hellogril前端库 - CSDN博客](https://blog.csdn.net/w178191520/article/details/79134110)
+
+2018-11-23 17:14 [Skeleton Screen — 骨架屏 - hellogril前端库 - CSDN博客](https://blog.csdn.net/w178191520/article/details/79134110)
+
+
 
