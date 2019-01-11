@@ -56,6 +56,10 @@
 
 2018-10-23 15:34 [FaaS，未来的后端服务开发之道 - 简书](https://www.jianshu.com/p/6e86c42f85bd)
 
+2019-01-08 10:44 [Varnish 入门](https://www.ibm.com/developerworks/cn/opensource/os-cn-varnish-intro/index.html)
+
+2019-01-08 10:47 [压力测试工具ab、webbench、http_load、siege简单使用 | javasgl](https://javasgl.github.io/pressure-test-tools/)
+
 #####  Tengine
 
 2015-05-29 16:08 [The Tengine Web Server](http://tengine.taobao.org/index_cn.html)
@@ -111,6 +115,8 @@
 2018-12-08 14:58 [Ajax跨域、Json跨域、Socket跨域和Canvas跨域等同源策略限制的解决方法 - freshlover的专栏 - CSDN博客](https://blog.csdn.net/freshlover/article/details/44223467)
 
 2018-12-20 18:22 [linux（centos）系统下nginx 服务器重启，关闭的命令-php程序员的笔记](http://www.phpernote.com/linux/1211.html)
+
+2019-01-07 17:42 [LNAMP架构中后端Apache获取用户真实IP地址的2种方法（转） - 幻星宇 - 博客园](https://www.cnblogs.com/xingmeng/p/5527907.html)
 
 
 
