@@ -104,5 +104,11 @@
 
 2018-03-21 09:52 [OverAPI.com | Collecting all the cheat sheets](http://overapi.com/)
 
+2019-01-08 17:28 [有趣网址之家 – 收藏全球最有趣的网站](https://youquhome.com/)
+
+2019-01-08 17:35 [FakeUpdate.net - Windows Update Prank by fediaFedia](http://fakeupdate.net/)
+
+2019-01-08 18:24 [Bigjpg - AI人工智能图片无损放大 - 使用人工智能深度卷积神经网络(CNN)无损放大图片](http://bigjpg.com/)
+
 
 
