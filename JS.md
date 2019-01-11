@@ -594,6 +594,8 @@
 
 2018-11-30 12:46 [HTML5的 input:file上传类型控制](https://www.haorooms.com/post/input_file_leixing)
 
+2019-01-03 10:39 [Simditor](https://simditor.tower.im/)
+
 #####  swiper滑动插件
 
 2015-02-04 18:24 [Swiper 中文API手册（share） - 挨踢前端 - 博客园](http://www.cnblogs.com/duanhuajian/p/4097310.html)
@@ -1311,6 +1313,16 @@
 2018-06-27 10:56 [ECharts Gallery](http://gallery.echartsjs.com/editor.html?c=xBJDR584vG)
 
 2018-06-28 10:08 [在 ECharts GL 中绘制三维地图](http://echarts.baidu.com/blog/2017/06/14/building-realistic-map-with-echarts-gl.html)
+
+
+
+#####  Pixi.js
+
+2019-01-08 17:19 [开始学习 PixiJS - 前端简单说 - SegmentFault 思否](https://segmentfault.com/a/1190000017150623)
+
+2016-08-26 17:10 [PixiJS v4](http://www.pixijs.com/)
+
+2019-01-08 17:20 [阅前必读 - 《Pixi教程》 - 书栈网(BookStack.CN)](https://www.bookstack.cn/read/LearningPixi/README.md)
 
 
 
