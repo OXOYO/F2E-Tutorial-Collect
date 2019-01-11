@@ -66,8 +66,6 @@
 
 2015-05-29 17:43 [ZRender](http://ecomfe.github.io/zrender/)
 
-2016-08-26 17:10 [PixiJS v4](http://www.pixijs.com/)
-
 2017-05-19 14:53 [Canvas处理头像上传 - 作业部落 Cmd Markdown 编辑阅读器](https://www.zybuluo.com/lxjwlt/note/101343)
 
 2018-08-29 10:51 [解决 canvas 将图片转为base64报错: Uncaught DOMException:... - 简书](https://www.jianshu.com/p/6fe06667b748)
@@ -1100,6 +1098,8 @@
 
 2018-11-30 12:46 [HTML5的 input:file上传类型控制](https://www.haorooms.com/post/input_file_leixing)
 
+2019-01-03 10:39 [Simditor](https://simditor.tower.im/)
+
 #####  swiper滑动插件
 
 2015-02-04 18:24 [Swiper 中文API手册（share） - 挨踢前端 - 博客园](http://www.cnblogs.com/duanhuajian/p/4097310.html)
@@ -1820,6 +1820,16 @@
 
 
 
+#####  Pixi.js
+
+2019-01-08 17:19 [开始学习 PixiJS - 前端简单说 - SegmentFault 思否](https://segmentfault.com/a/1190000017150623)
+
+2016-08-26 17:10 [PixiJS v4](http://www.pixijs.com/)
+
+2019-01-08 17:20 [阅前必读 - 《Pixi教程》 - 书栈网(BookStack.CN)](https://www.bookstack.cn/read/LearningPixi/README.md)
+
+
+
 ####  PHP
 
 2013-01-17 23:00 [phpcms v9类别调用方法 - phpcms-帮助教程 - phpcms论坛](http://bbs.phpcms.cn/thread-243656-1-1.html)
@@ -2368,6 +2378,10 @@
 
 2018-10-23 15:34 [FaaS，未来的后端服务开发之道 - 简书](https://www.jianshu.com/p/6e86c42f85bd)
 
+2019-01-08 10:44 [Varnish 入门](https://www.ibm.com/developerworks/cn/opensource/os-cn-varnish-intro/index.html)
+
+2019-01-08 10:47 [压力测试工具ab、webbench、http_load、siege简单使用 | javasgl](https://javasgl.github.io/pressure-test-tools/)
+
 #####  Tengine
 
 2015-05-29 16:08 [The Tengine Web Server](http://tengine.taobao.org/index_cn.html)
@@ -2423,6 +2437,8 @@
 2018-12-08 14:58 [Ajax跨域、Json跨域、Socket跨域和Canvas跨域等同源策略限制的解决方法 - freshlover的专栏 - CSDN博客](https://blog.csdn.net/freshlover/article/details/44223467)
 
 2018-12-20 18:22 [linux（centos）系统下nginx 服务器重启，关闭的命令-php程序员的笔记](http://www.phpernote.com/linux/1211.html)
+
+2019-01-07 17:42 [LNAMP架构中后端Apache获取用户真实IP地址的2种方法（转） - 幻星宇 - 博客园](https://www.cnblogs.com/xingmeng/p/5527907.html)
 
 
 
@@ -6052,6 +6068,8 @@
 
 2018-10-10 15:56 [vue 解决循环引用组件报错 - lx_1024的博客 - CSDN博客](https://blog.csdn.net/lx_1024/article/details/79260657)
 
+2018-12-24 15:38 [Vue中数据绑定时v-text指令和mustache语法的区别](https://ranwu.me/2018/03/20/the-difference-between-v-text-and-mustache-syntax.html)
+
 ######  vuex
 
 2016-04-20 21:08 [vuejs/vuex: Flux-inspired Application Architecture for Vue.js.](https://github.com/vuejs/vuex)
@@ -7652,6 +7670,12 @@
 
 2018-03-21 09:52 [OverAPI.com | Collecting all the cheat sheets](http://overapi.com/)
 
+2019-01-08 17:28 [有趣网址之家 – 收藏全球最有趣的网站](https://youquhome.com/)
+
+2019-01-08 17:35 [FakeUpdate.net - Windows Update Prank by fediaFedia](http://fakeupdate.net/)
+
+2019-01-08 18:24 [Bigjpg - AI人工智能图片无损放大 - 使用人工智能深度卷积神经网络(CNN)无损放大图片](http://bigjpg.com/)
+
 
 
 ####  VR
@@ -7759,6 +7783,8 @@
 2017-06-07 17:47 [JxBrowser — a Chromium-based Swing/JavaFX component](https://www.teamdev.com/jxbrowser)
 
 2018-07-25 17:49 [手写类似于EL表达式，通过java解析Json，用字符串格式去匹配-技术杂类-动脑学院-技术论坛-java学习](http://bbs.dongnaoedu.com/?thread-134.htm)
+
+2018-12-28 09:40 [UUID Online](http://www.uuid.online/)
 
 
 
@@ -7947,6 +7973,8 @@
 2018-11-13 16:09 [windows注册表详解 - xin_yu_xin的专栏 - CSDN博客](https://blog.csdn.net/xin_yu_xin/article/details/46940457)
 
 2018-11-13 16:09 [windows注册表解析说明 - 爱养花的码农 - 博客园](https://www.cnblogs.com/wfq9330/p/9176654.html)
+
+2019-01-08 16:34 [Front Page | ReactOS Project](https://www.reactos.org/)
 
 
 
