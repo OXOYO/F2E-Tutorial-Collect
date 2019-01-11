@@ -1342,6 +1342,8 @@
 
 2018-10-10 15:56 [vue 解决循环引用组件报错 - lx_1024的博客 - CSDN博客](https://blog.csdn.net/lx_1024/article/details/79260657)
 
+2018-12-24 15:38 [Vue中数据绑定时v-text指令和mustache语法的区别](https://ranwu.me/2018/03/20/the-difference-between-v-text-and-mustache-syntax.html)
+
 ######  vuex
 
 2016-04-20 21:08 [vuejs/vuex: Flux-inspired Application Architecture for Vue.js.](https://github.com/vuejs/vuex)
