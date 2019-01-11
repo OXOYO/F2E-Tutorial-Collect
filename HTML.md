@@ -62,8 +62,6 @@
 
 2015-05-29 17:43 [ZRender](http://ecomfe.github.io/zrender/)
 
-2016-08-26 17:10 [PixiJS v4](http://www.pixijs.com/)
-
 2017-05-19 14:53 [Canvas处理头像上传 - 作业部落 Cmd Markdown 编辑阅读器](https://www.zybuluo.com/lxjwlt/note/101343)
 
 2018-08-29 10:51 [解决 canvas 将图片转为base64报错: Uncaught DOMException:... - 简书](https://www.jianshu.com/p/6fe06667b748)
