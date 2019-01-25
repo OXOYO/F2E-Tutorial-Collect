@@ -210,6 +210,12 @@
 
 2018-07-16 11:10 [Mysql之binlog日志说明及利用binlog日志恢复数据操作记录 - 散尽浮华 - 博客园](https://www.cnblogs.com/kevingrace/p/5907254.html)
 
+2019-01-18 17:23 [MySQL之权限管理 - I’m Me! - 博客园](https://www.cnblogs.com/Richardzhu/p/3318595.html)
+
+2019-01-24 16:45 [SQL Fiddle](http://sqlfiddle.com/)
+
+2019-01-24 17:03 [MySQL Explain详解 - GoogSQL - 博客园](http://www.cnblogs.com/xuanzhi201111/p/4175635.html)
+
 
 
 #####  IndexedDB
