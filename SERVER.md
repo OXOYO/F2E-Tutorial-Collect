@@ -244,6 +244,8 @@
 
 2018-12-24 10:49 [如何在Linux系统上安装字体 - Linux大神博客](https://www.linuxdashen.com/%E5%A6%82%E4%BD%95%E5%9C%A8linux%E7%B3%BB%E7%BB%9F%E4%B8%8A%E5%AE%89%E8%A3%85%E5%AD%97%E4%BD%93part-1)
 
+2019-01-14 15:44 [linux环境下/etc/hosts文件详解 - 简书](https://www.jianshu.com/p/476a92a39b45)
+
 
 
 #####  Consul
@@ -269,6 +271,8 @@
 #####  GraphQL
 
 2017-10-30 15:27 [GraphQL初探:从REST到GraphQL，更完善的数据查询定义 - 某熊的全栈之路 - SegmentFault](https://segmentfault.com/a/1190000005766732)
+
+2019-01-14 14:32 [GraphQL | 一种为你的 API 而生的查询语言](https://graphql.cn/)
 
 
 
