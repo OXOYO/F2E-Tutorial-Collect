@@ -1946,6 +1946,8 @@
 
 2018-06-04 14:32 [为什么要刷新一下才能获取cookie - xiebruce - 博客园](https://www.cnblogs.com/xiedie/p/4162414.html)
 
+2019-01-14 09:23 [Linux curl命令详解 - 都市烟火 - 博客园](https://www.cnblogs.com/duhuo/p/5695256.html)
+
 #####  composer
 
 2017-02-14 15:43 [Packagist / Composer 中国全量镜像](https://pkg.phpcomposer.com/)
@@ -2566,6 +2568,8 @@
 
 2018-12-24 10:49 [如何在Linux系统上安装字体 - Linux大神博客](https://www.linuxdashen.com/%E5%A6%82%E4%BD%95%E5%9C%A8linux%E7%B3%BB%E7%BB%9F%E4%B8%8A%E5%AE%89%E8%A3%85%E5%AD%97%E4%BD%93part-1)
 
+2019-01-14 15:44 [linux环境下/etc/hosts文件详解 - 简书](https://www.jianshu.com/p/476a92a39b45)
+
 
 
 #####  Consul
@@ -2591,6 +2595,8 @@
 #####  GraphQL
 
 2017-10-30 15:27 [GraphQL初探:从REST到GraphQL，更完善的数据查询定义 - 某熊的全栈之路 - SegmentFault](https://segmentfault.com/a/1190000005766732)
+
+2019-01-14 14:32 [GraphQL | 一种为你的 API 而生的查询语言](https://graphql.cn/)
 
 
 
@@ -2829,6 +2835,12 @@
 2018-07-16 11:09 [ERROR 1227 (42000): Access denied; you need (at least one of) the PROCESS privilege(s) for this oper - CSDN博客](https://blog.csdn.net/mchdba/article/details/10435883)
 
 2018-07-16 11:10 [Mysql之binlog日志说明及利用binlog日志恢复数据操作记录 - 散尽浮华 - 博客园](https://www.cnblogs.com/kevingrace/p/5907254.html)
+
+2019-01-18 17:23 [MySQL之权限管理 - I’m Me! - 博客园](https://www.cnblogs.com/Richardzhu/p/3318595.html)
+
+2019-01-24 16:45 [SQL Fiddle](http://sqlfiddle.com/)
+
+2019-01-24 17:03 [MySQL Explain详解 - GoogSQL - 博客园](http://www.cnblogs.com/xuanzhi201111/p/4175635.html)
 
 
 
@@ -4329,6 +4341,12 @@
 2017-11-23 17:13 [PM2实用入门指南 - 程序猿小卡 - 博客园](https://www.cnblogs.com/chyingp/p/pm2-documentation.html)
 
 2018-07-10 09:50 [pm2常用的命令用法介绍 - CSDN博客](https://blog.csdn.net/sunscheung/article/details/79171608)
+
+2019-01-15 16:17 [使用PM2将Node.js的集群变得更加容易 - Jaxu - 博客园](https://www.cnblogs.com/jaxu/p/5193643.html)
+
+2019-01-15 16:34 [pm2 与 log4js 混用指南 | FuChee's blog](http://blog.yangfch3.com/2018/04/22/log4js-with-pm2/)
+
+2019-01-15 16:41 [集群模式PM2+Log4js log写入失败问题 - 后端 - 掘金](https://juejin.im/entry/5a0cf3276fb9a0450167814f)
 
 
 
@@ -6070,6 +6088,8 @@
 
 2018-12-24 15:38 [Vue中数据绑定时v-text指令和mustache语法的区别](https://ranwu.me/2018/03/20/the-difference-between-v-text-and-mustache-syntax.html)
 
+2019-01-22 17:39 [从零开始设计数据大屏—基于Vue - 简书](https://www.jianshu.com/p/cbbf9fc80edc)
+
 ######  vuex
 
 2016-04-20 21:08 [vuejs/vuex: Flux-inspired Application Architecture for Vue.js.](https://github.com/vuejs/vuex)
@@ -6425,6 +6445,10 @@
 2018-03-12 16:53 [markdown|大型技术文档手册撰写与发布方法 - 简书](https://www.jianshu.com/p/fff3803e975a)
 
 2018-09-29 18:01 [MarkdownPad2.5 注册码 - 简书](https://www.jianshu.com/p/9e5cd946696d)
+
+2019-01-23 10:48 [Reveal.js：把你的 Markdown 文稿变成 PPT - 少数派](https://sspai.com/post/40657)
+
+2019-01-23 18:00 [声享 - 在线制作 PPT，让分享更有价值](https://ppt.baomitu.com/)
 
 #####  Org-mode
 
@@ -7774,6 +7798,12 @@
 
 2017-09-21 10:39 [Druid 在小米公司的技术实践 - 知乎专栏](https://zhuanlan.zhihu.com/p/25593670)
 
+2019-01-22 17:44 [Ebay开源基于大数据的可视化框架：Pulsar Reporting - ebay的专栏 - CSDN博客](https://blog.csdn.net/ebay/article/details/50417403)
+
+2019-01-22 17:46 [数据分析必备工具（附39个大数据可视化案例） - 云+社区 - 腾讯云](https://cloud.tencent.com/developer/article/1008181)
+
+2019-01-22 17:49 [国内外有哪些数据可视化做的比较好的公司或者达人？ - 知乎](https://www.zhihu.com/question/35854352)
+
 
 
 ####  JAVA
@@ -7947,6 +7977,8 @@
 2018-11-26 10:34 [设计稿自动生成可用页面的展望 - 侯振宇 - 博客园](https://www.cnblogs.com/sskyy/p/7813943.html)
 
 2018-11-26 11:14 [五分钟了解微信团队打造的 Sketch 插件 ：WeSketch - 简书](https://www.jianshu.com/p/765abdcdf48b)
+
+2019-01-18 10:54 [Ascgen 2 | Image to Ascii Art Conversion](https://ascgendotnet.jmsoftware.co.uk/)
 
 
 
