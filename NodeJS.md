@@ -502,6 +502,12 @@
 
 2018-07-10 09:50 [pm2常用的命令用法介绍 - CSDN博客](https://blog.csdn.net/sunscheung/article/details/79171608)
 
+2019-01-15 16:17 [使用PM2将Node.js的集群变得更加容易 - Jaxu - 博客园](https://www.cnblogs.com/jaxu/p/5193643.html)
+
+2019-01-15 16:34 [pm2 与 log4js 混用指南 | FuChee's blog](http://blog.yangfch3.com/2018/04/22/log4js-with-pm2/)
+
+2019-01-15 16:41 [集群模式PM2+Log4js log写入失败问题 - 后端 - 掘金](https://juejin.im/entry/5a0cf3276fb9a0450167814f)
+
 
 
 #####  nrm
