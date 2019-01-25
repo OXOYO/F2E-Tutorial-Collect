@@ -14,6 +14,10 @@
 
 2018-09-29 18:01 [MarkdownPad2.5 注册码 - 简书](https://www.jianshu.com/p/9e5cd946696d)
 
+2019-01-23 10:48 [Reveal.js：把你的 Markdown 文稿变成 PPT - 少数派](https://sspai.com/post/40657)
+
+2019-01-23 18:00 [声享 - 在线制作 PPT，让分享更有价值](https://ppt.baomitu.com/)
+
 #####  Org-mode
 
 2018-10-17 15:12 [Org-mode 简明手册 - open source - 博客园](http://www.cnblogs.com/Open_Source/archive/2011/07/17/2108747.html)
