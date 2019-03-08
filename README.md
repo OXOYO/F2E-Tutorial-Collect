@@ -1584,6 +1584,10 @@
 
 2017-03-10 16:05 [关于promises，你理解了多少？](http://mp.weixin.qq.com/s?__biz=MzIyMzAwNzExNg==&mid=209354478&idx=1&sn=edd70e826b6f9e8a570024f431c5f7fe&scene=1&key=c76941211a49ab58efed75a0405e3ca61338952103fe9eabf8528d801906e4522737274eecca5489d635a5c1aa5d8b12&ascene=0&uin=MTYxMDY3MjU1&devicetype=iMac%20MacBookPro11,3%20OSX%20OSX%2010.10.4%20build%2814E46%29&version=11020113&pass_ticket=ws1Ar8vSXgH8/uRvUaFkiKCA57pR8100%2bhwA5Ifuc00=)
 
+2019-02-15 17:50 [理解 Promise 的工作原理 - CNode技术社区](https://cnodejs.org/topic/569c8226adf526da2aeb23fd)
+
+2019-02-15 17:50 [Node.js最新技术栈之Promise篇 - CNode技术社区](https://cnodejs.org/topic/560dbc826a1ed28204a1e7de)
+
 
 
 #####  Hook
@@ -2078,6 +2082,8 @@
 
 2018-03-20 17:17 [超酷！我不写一行代码，爬取GitHub上几万的Python库_搜狐科技_搜狐网](http://www.sohu.com/a/217481537_752099)
 
+2019-02-27 19:17 [python3定时爬取bing.com背景图片作为桌面背景](http://www.heyangli.com/blog/70)
+
 
 
 ####  SVN
@@ -2384,6 +2390,10 @@
 
 2019-01-08 10:47 [压力测试工具ab、webbench、http_load、siege简单使用 | javasgl](https://javasgl.github.io/pressure-test-tools/)
 
+2019-02-28 10:02 [- PHP，Apache，MySQL，Windows：WampServer](http://forum.wampserver.com/read.php?2,138295)
+
+2019-02-28 11:03 [WAMP设置 - Builder - 博客园](https://www.cnblogs.com/zhengcheng/p/4321122.html)
+
 #####  Tengine
 
 2015-05-29 16:08 [The Tengine Web Server](http://tengine.taobao.org/index_cn.html)
@@ -2689,6 +2699,8 @@
 2017-03-16 14:35 [【MongoDB】2.可视化工具的安装和使用 - Angel挤一挤 - 博客园](http://www.cnblogs.com/sxdcgaq8080/p/6144211.html)
 
 2018-02-12 10:51 [MongoDB Hosting: Database-as-a-Service by mLab](https://mlab.com/)
+
+2019-02-27 18:15 [MongoDB Tools - Admin GUIs, Monitoring and Other Good Stuff](http://mongodb-tools.com/)
 
 ######  mongoose
 
@@ -3569,6 +3581,8 @@
 #####  Jenkins
 
 2015-02-27 11:33 [Jenkins_百度百科](http://baike.baidu.com/link?url=wT9vMRm8CBEny5rP9wBaFJOPut5yGVLRjwfm7i0ds0gNW0sIdfewOc9ar4qEcXSc5aYA7GNLiieApfMTRN3LPK)
+
+2018-12-22 16:45 [jenkins选择分支构建 - 小卡车7号 - CSDN博客](https://blog.csdn.net/u012375924/article/details/73835857)
 
 
 
@@ -4518,6 +4532,8 @@
 
 2018-11-30 17:38 [Koa2 之文件上传下载 - 掘金](https://juejin.im/post/5abc451ff265da23a2292dd4)
 
+2019-02-18 15:24 [十分钟带你看完 KOA 源码 - 知乎](https://zhuanlan.zhihu.com/p/24559011)
+
 
 
 #####  npmcdn
@@ -4733,6 +4749,12 @@
 #####  node-inspector
 
 2018-07-17 14:14 [使用webstorm调试node程序 - 金广国 - 博客园](https://www.cnblogs.com/jinguangguo/p/4809886.html)
+
+
+
+#####  Node-RED
+
+2019-02-15 15:48 [应该立即使用 Node-RED 的五大理由 (developerWorks 中文社区)](https://www.ibm.com/developerworks/community/blogs/3302cc3b-074e-44da-90b1-5055f1dc0d9c/entry/five-reasons-use-node-red-iot?lang=en)
 
 
 
@@ -5129,6 +5151,8 @@
 2016-03-15 23:34 [给你一个承诺 - 玩转 AngularJS 的 Promise - AngularJS - SegmentFault](https://segmentfault.com/a/1190000002788733)
 
 2016-05-20 14:30 [Angularjs概括与台管理端中Angularjs的实践 - 笔记 - SegmentFault](https://segmentfault.com/a/1190000005013657)
+
+2019-02-20 14:25 [AngularJS中在前后端分离模式下实现权限控制 - 基于RBAC - JavaScript开发 - 开发语言与工具 - 深度开源](https://www.open-open.com/lib/view/open1408084201582.html)
 
 ######  插件
 
@@ -6127,6 +6151,8 @@
 ######  vue-cli
 
 2016-04-22 10:02 [vue-cli 发布（译） - limichange - SegmentFault](https://segmentfault.com/a/1190000004219090)
+
+2018-12-22 17:37 [vue实现分环境打包步骤（给不同的环境配置相对应的打包命令） - zuo-yiran的博客 - CSDN博客](https://blog.csdn.net/zuoyiran520081/article/details/80812788)
 
 
 
@@ -7134,6 +7160,10 @@
 
 2018-10-12 11:19 [检测 F12 控制台是否开启 | Japari Park](https://ahaochan.github.io/posts/Check_whether_the_F12_console_is_turned_on.html)
 
+2019-03-01 21:27 [前端性能优化 - chrome performance看浏览器渲染过程 - 小蚂蚁的世界 - CSDN博客](https://blog.csdn.net/It_rod/article/details/79661739)
+
+2019-02-19 17:26 [Get .CRX Chrome Extension file, it's source code and download .CRX to your computer.](https://crxextractor.com/)
+
 
 
 #####  加密
@@ -7311,6 +7341,18 @@
 #####  JSDoc
 
 2017-06-01 09:13 [Use JSDoc: Index](http://usejsdoc.org/)
+
+
+
+#####  RBAC
+
+2019-02-20 14:25 [权限系统与RBAC模型概述[绝对经典] - Vashon的专栏 - CSDN博客](https://blog.csdn.net/yangwenxue_admin/article/details/73936803)
+
+2018-02-08 14:23 [一套能体现 RBAC 的表结构设计 - 韩宗泽 - 博客园](https://www.cnblogs.com/hanzongze/archive/2017/06/20/oracle-sql-rbac.html)
+
+2018-02-08 14:23 [RBAC打造通用WEB权限 - 郁冬 - 博客园](https://www.cnblogs.com/lamp01/p/6576432.html)
+
+2019-03-06 17:12 [RBAC实践 | WebFuse](http://webfuse.cn/2018/03/01/RBAC%E5%AE%9E%E8%B7%B5/)
 
 
 
@@ -7682,10 +7724,6 @@
 
 2018-01-11 22:38 [安装并配置android sdk - 简书](https://www.jianshu.com/p/4ac1313b50cb)
 
-2018-02-08 14:23 [一套能体现 RBAC 的表结构设计 - 韩宗泽 - 博客园](https://www.cnblogs.com/hanzongze/archive/2017/06/20/oracle-sql-rbac.html)
-
-2018-02-08 14:23 [RBAC打造通用WEB权限 - 郁冬 - 博客园](https://www.cnblogs.com/lamp01/p/6576432.html)
-
 2018-03-09 17:39 [路过图床 - 全球中文免费图床 专业图片上传 支持外链 全球CDN分发](https://imgchr.com/)
 
 2018-03-14 17:30 [Dependency Walker (depends.exe) Home Page](http://www.dependencywalker.com/)
@@ -7942,7 +7980,7 @@
 
 2018-11-20 20:16 [Simditor](http://simditor.tower.im/)
 
- [Simditor：简单快速的开源富文本编辑器 - 前端开发 文本工具 - LUPA开源社区](http://www.lupaworld.com/article-238553-1.html)
+2019-02-27 16:45 [Simditor：简单快速的开源富文本编辑器 - 前端开发 文本工具 - LUPA开源社区](http://www.lupaworld.com/article-238553-1.html)
 
 2018-11-20 20:16 [Awwwards - Website Awards - Best Web Design Trends](http://www.awwwards.com/)
 
@@ -7979,6 +8017,10 @@
 2018-11-26 11:14 [五分钟了解微信团队打造的 Sketch 插件 ：WeSketch - 简书](https://www.jianshu.com/p/765abdcdf48b)
 
 2019-01-18 10:54 [Ascgen 2 | Image to Ascii Art Conversion](https://ascgendotnet.jmsoftware.co.uk/)
+
+2019-01-25 16:22 [「小而美专栏」：30 款小软件集合推荐 - Mac玩儿法](https://www.waerfa.com/21-small-great-macos-apps)
+
+2019-02-15 17:49 [深度解读 - TDD（测试驱动开发） - 简书](https://www.jianshu.com/p/62f16cd4fef3)
 
 
 
