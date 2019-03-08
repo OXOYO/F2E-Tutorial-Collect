@@ -1080,6 +1080,10 @@
 
 2017-03-10 16:05 [关于promises，你理解了多少？](http://mp.weixin.qq.com/s?__biz=MzIyMzAwNzExNg==&mid=209354478&idx=1&sn=edd70e826b6f9e8a570024f431c5f7fe&scene=1&key=c76941211a49ab58efed75a0405e3ca61338952103fe9eabf8528d801906e4522737274eecca5489d635a5c1aa5d8b12&ascene=0&uin=MTYxMDY3MjU1&devicetype=iMac%20MacBookPro11,3%20OSX%20OSX%2010.10.4%20build%2814E46%29&version=11020113&pass_ticket=ws1Ar8vSXgH8/uRvUaFkiKCA57pR8100%2bhwA5Ifuc00=)
 
+2019-02-15 17:50 [理解 Promise 的工作原理 - CNode技术社区](https://cnodejs.org/topic/569c8226adf526da2aeb23fd)
+
+2019-02-15 17:50 [Node.js最新技术栈之Promise篇 - CNode技术社区](https://cnodejs.org/topic/560dbc826a1ed28204a1e7de)
+
 
 
 #####  Hook
