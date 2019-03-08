@@ -60,6 +60,10 @@
 
 2019-01-08 10:47 [压力测试工具ab、webbench、http_load、siege简单使用 | javasgl](https://javasgl.github.io/pressure-test-tools/)
 
+2019-02-28 10:02 [- PHP，Apache，MySQL，Windows：WampServer](http://forum.wampserver.com/read.php?2,138295)
+
+2019-02-28 11:03 [WAMP设置 - Builder - 博客园](https://www.cnblogs.com/zhengcheng/p/4321122.html)
+
 #####  Tengine
 
 2015-05-29 16:08 [The Tengine Web Server](http://tengine.taobao.org/index_cn.html)
