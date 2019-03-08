@@ -356,6 +356,10 @@
 
 2018-10-12 11:19 [检测 F12 控制台是否开启 | Japari Park](https://ahaochan.github.io/posts/Check_whether_the_F12_console_is_turned_on.html)
 
+2019-03-01 21:27 [前端性能优化 - chrome performance看浏览器渲染过程 - 小蚂蚁的世界 - CSDN博客](https://blog.csdn.net/It_rod/article/details/79661739)
+
+2019-02-19 17:26 [Get .CRX Chrome Extension file, it's source code and download .CRX to your computer.](https://crxextractor.com/)
+
 
 
 #####  加密
@@ -533,6 +537,18 @@
 #####  JSDoc
 
 2017-06-01 09:13 [Use JSDoc: Index](http://usejsdoc.org/)
+
+
+
+#####  RBAC
+
+2019-02-20 14:25 [权限系统与RBAC模型概述[绝对经典] - Vashon的专栏 - CSDN博客](https://blog.csdn.net/yangwenxue_admin/article/details/73936803)
+
+2018-02-08 14:23 [一套能体现 RBAC 的表结构设计 - 韩宗泽 - 博客园](https://www.cnblogs.com/hanzongze/archive/2017/06/20/oracle-sql-rbac.html)
+
+2018-02-08 14:23 [RBAC打造通用WEB权限 - 郁冬 - 博客园](https://www.cnblogs.com/lamp01/p/6576432.html)
+
+2019-03-06 17:12 [RBAC实践 | WebFuse](http://webfuse.cn/2018/03/01/RBAC%E5%AE%9E%E8%B7%B5/)
 
 
 
