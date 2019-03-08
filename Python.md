@@ -14,5 +14,7 @@
 
 2018-03-20 17:17 [超酷！我不写一行代码，爬取GitHub上几万的Python库_搜狐科技_搜狐网](http://www.sohu.com/a/217481537_752099)
 
+2019-02-27 19:17 [python3定时爬取bing.com背景图片作为桌面背景](http://www.heyangli.com/blog/70)
+
 
 
