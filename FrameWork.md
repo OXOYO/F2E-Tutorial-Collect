@@ -386,6 +386,8 @@
 
 2016-05-20 14:30 [Angularjs概括与台管理端中Angularjs的实践 - 笔记 - SegmentFault](https://segmentfault.com/a/1190000005013657)
 
+2019-02-20 14:25 [AngularJS中在前后端分离模式下实现权限控制 - 基于RBAC - JavaScript开发 - 开发语言与工具 - 深度开源](https://www.open-open.com/lib/view/open1408084201582.html)
+
 ######  插件
 
 2015-06-18 11:35 [AngularJS ui-router - CodeProject](http://www.codeproject.com/Articles/841776/AngularJS-ui-router)
@@ -1383,6 +1385,8 @@
 ######  vue-cli
 
 2016-04-22 10:02 [vue-cli 发布（译） - limichange - SegmentFault](https://segmentfault.com/a/1190000004219090)
+
+2018-12-22 17:37 [vue实现分环境打包步骤（给不同的环境配置相对应的打包命令） - zuo-yiran的博客 - CSDN博客](https://blog.csdn.net/zuoyiran520081/article/details/80812788)
 
 
 
