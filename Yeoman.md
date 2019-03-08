@@ -166,6 +166,8 @@
 
 2015-02-27 11:33 [Jenkins_百度百科](http://baike.baidu.com/link?url=wT9vMRm8CBEny5rP9wBaFJOPut5yGVLRjwfm7i0ds0gNW0sIdfewOc9ar4qEcXSc5aYA7GNLiieApfMTRN3LPK)
 
+2018-12-22 16:45 [jenkins选择分支构建 - 小卡车7号 - CSDN博客](https://blog.csdn.net/u012375924/article/details/73835857)
+
 
 
 #####  Mocha
