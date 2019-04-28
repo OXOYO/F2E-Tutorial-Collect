@@ -18,6 +18,8 @@
 
 2019-01-23 18:00 [声享 - 在线制作 PPT，让分享更有价值](https://ppt.baomitu.com/)
 
+2019-04-02 16:09 [markdown 编译原理](https://villainhr.com/page/2016/08/26/markdown%20%E7%BC%96%E8%AF%91%E5%8E%9F%E7%90%86)
+
 #####  Org-mode
 
 2018-10-17 15:12 [Org-mode 简明手册 - open source - 博客园](http://www.cnblogs.com/Open_Source/archive/2011/07/17/2108747.html)
