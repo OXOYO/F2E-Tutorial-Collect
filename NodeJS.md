@@ -254,6 +254,12 @@
 
 2018-11-06 10:07 [Node 调试工具入门教程 - 阮一峰的网络日志](http://www.ruanyifeng.com/blog/2018/03/node-debugger.html)
 
+2019-04-17 17:36 [node.js - Can't use NVM from root (or sudo) - Stack Overflow](https://stackoverflow.com/questions/21215059/cant-use-nvm-from-root-or-sudo)
+
+2019-04-24 16:20 [node中的密码安全 - SegmentFault 思否](https://segmentfault.com/a/1190000016408673)
+
+2019-04-24 16:24 [web项目前后端分离时的api加密解决办法 | 冷颜'Blog](http://www.lenyans.com/359)
+
 #####  Express框架
 
 2015-04-15 17:14 [Nodejs初阶之express - 聂微东 - 博客园](http://www.cnblogs.com/Darren_code/p/node_express.html)
@@ -387,6 +393,8 @@
 2016-08-30 10:51 [GoEasy | Web message push expert](https://goeasy.io/www/home)
 
 2018-05-30 10:29 [socket.io 中文手册 socket.io 中文文档 - liuxixi - 博客园](https://www.cnblogs.com/lxxhome/p/5980615.html)
+
+2019-04-24 14:07 [基于socket.io快速实现一个实时通讯应用 - 前端周刊 - SegmentFault 思否](https://segmentfault.com/a/1190000018944634)
 
 
 
@@ -680,6 +688,10 @@
 
 2019-02-18 15:24 [十分钟带你看完 KOA 源码 - 知乎](https://zhuanlan.zhihu.com/p/24559011)
 
+2019-04-03 15:35 [Koa引用库之Koa-compose - 掘金](https://juejin.im/post/59c00a39f265da064c3853b7)
+
+2019-04-03 16:03 [Koa2项目安全加固建议--完整版 - CNode技术社区](https://cnodejs.org/topic/5a502debafa0a121784a89c3)
+
 
 
 #####  npmcdn
@@ -743,6 +755,10 @@
 2018-05-15 15:45 [mysql - Create or Update Sequelize - Stack Overflow](https://stackoverflow.com/questions/18304504/create-or-update-sequelize)
 
 2018-05-16 14:14 [sequelize调用distinct函数](http://www.brafox.com/post/2015/sequelize/sequelize%E8%B0%83%E7%94%A8distinct%E5%87%BD%E6%95%B0.html)
+
+2019-04-10 14:29 [如何从sequelize中选择插入 - 代码日志](https://codeday.me/bug/20190321/798478.html)
+
+2019-04-17 17:36 [sudo: npm：command not found 问题解决办法 - June30 - 博客园](https://www.cnblogs.com/junethirty/p/8343913.html)
 
 
 
