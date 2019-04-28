@@ -184,6 +184,14 @@
 
 2018-08-15 17:31 [Kikk - Fold / Unfold - Homepage](http://www.kikk.be/2015/)
 
+2019-03-18 14:50 [CSRF 攻击的应对之道](https://www.ibm.com/developerworks/cn/web/1102_niugang_csrf/)
+
+2019-03-18 15:21 [CSRF是什么 - 简书](https://www.jianshu.com/p/e825e67fcf28)
+
+2019-03-26 14:42 [静态代码分析工具清单：开源篇（多语言） - 资源 - 伯乐在线](http://hao.jobbole.com/static_code_analysis_tool_list_opensource/)
+
+2019-04-13 16:15 [Web前端性能优化——如何提高页面加载速度 - MarcoHan - 博客园](https://www.cnblogs.com/MarcoHan/p/5295398.html)
+
 #####  规范
 
 2015-08-11 11:05 [前端JavaScript规范](http://www.runoob.com/w3cnote/javascript-guide.html)
@@ -549,6 +557,16 @@
 2018-02-08 14:23 [RBAC打造通用WEB权限 - 郁冬 - 博客园](https://www.cnblogs.com/lamp01/p/6576432.html)
 
 2019-03-06 17:12 [RBAC实践 | WebFuse](http://webfuse.cn/2018/03/01/RBAC%E5%AE%9E%E8%B7%B5/)
+
+
+
+#####  SonarQube
+
+2019-03-26 14:48 [SonarQube的安装、配置与使用 - 乔叶叶 - 博客园](https://www.cnblogs.com/qiaoyeye/p/5249786.html)
+
+2019-03-26 15:10 [相对现代化的把控前端代码质量 - 知乎](https://zhuanlan.zhihu.com/p/43891086)
+
+2019-03-27 09:11 [SonarLint(Sonar) 代码质量管理 - 多啦A - 博客园](https://www.cnblogs.com/lzb1096101803/p/4945844.html)
 
 
 
