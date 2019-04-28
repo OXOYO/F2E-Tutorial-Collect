@@ -596,6 +596,8 @@
 
 2019-01-03 10:39 [Simditor](https://simditor.tower.im/)
 
+2019-04-13 16:13 [使用js加载器动态加载外部Javascript文件 - 孤傲苍狼 - 博客园](https://www.cnblogs.com/xdp-gacl/p/3927417.html)
+
 #####  swiper滑动插件
 
 2015-02-04 18:24 [Swiper 中文API手册（share） - 挨踢前端 - 博客园](http://www.cnblogs.com/duanhuajian/p/4097310.html)
