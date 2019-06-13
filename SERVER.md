@@ -66,6 +66,8 @@
 
 2019-04-03 09:38 [Linux命令(2) - 查看目录和文件大小: du -sh - 学不死 - 博客园](https://www.cnblogs.com/jun1019/p/6255987.html)
 
+2019-05-07 14:49 [Windows性能监控工具-xperf - 简书](https://www.jianshu.com/p/2304c3059c28)
+
 #####  Tengine
 
 2015-05-29 16:08 [The Tengine Web Server](http://tengine.taobao.org/index_cn.html)
@@ -146,20 +148,6 @@
 
 #####  CQRS
 
-#####  Redis
-
-2015-04-17 15:11 [Redis中文官方网站 -- redis中文资料、中文文档尽在redis中文官方网站](http://www.redis.cn/)
-
-2015-04-29 16:03 [Windows下Redis的安装使用 - 51CTO.COM](http://os.51cto.com/art/201403/431103.htm)
-
-2015-04-29 16:03 [Redis](http://redis.io/)
-
-2015-10-21 14:17 [ServiceStack/redis-windows](https://github.com/ServiceStack/redis-windows)
-
-2015-10-22 15:08 [Redis在Windows下安装和PHP中使用 - 鸿网互联[68IDC.CN]](http://www.68idc.cn/help/server/20141128135092.html)
-
-
-
 #####  Firebase
 
 2016-12-14 13:45 [Firebase很酷，来部署一个自己的吧 - CNode技术社区](https://cnodejs.org/topic/51f0edf7f4963ade0e082c19)
@@ -201,6 +189,8 @@
 2018-10-24 15:13 [apache的虚拟域名rewrite配置以及.htaccess的使用。 - 作业部落 Cmd Markdown 编辑阅读器](https://www.zybuluo.com/phper/note/73726)
 
 2019-04-13 15:46 [Apache Direcotry Indexes目录列表显示样式定制 - onedada的博客 - CSDN博客](https://blog.csdn.net/onedada/article/details/84408618)
+
+2019-05-05 17:44 [你真的了解 gzip 吗？ - 前端 - 掘金](https://juejin.im/entry/58709b9a128fe1006b29cd5d)
 
 
 
