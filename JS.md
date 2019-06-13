@@ -598,6 +598,8 @@
 
 2019-04-13 16:13 [使用js加载器动态加载外部Javascript文件 - 孤傲苍狼 - 博客园](https://www.cnblogs.com/xdp-gacl/p/3927417.html)
 
+2019-05-13 09:19 [JS 数组 array 操作性能优化笔记 - 简书](https://www.jianshu.com/p/198ce8f8336e)
+
 #####  swiper滑动插件
 
 2015-02-04 18:24 [Swiper 中文API手册（share） - 挨踢前端 - 博客园](http://www.cnblogs.com/duanhuajian/p/4097310.html)
@@ -817,6 +819,8 @@
 2017-08-04 11:07 [Babel核心用法记要 - 简书](http://www.jianshu.com/p/ff7e0de573a9)
 
 2018-01-09 16:35 [js求数组最大值方法汇总 - zhwaner - 博客园](https://www.cnblogs.com/zhwaner/p/7513649.html)
+
+2019-04-30 17:43 [ES6、ES7、ES8特性一锅炖(ES6、ES7、ES8学习指南) - 掘金](https://juejin.im/post/5b9cb3336fb9a05d290ee47e)
 
 
 
