@@ -2,6 +2,8 @@
 
 2017-11-09 15:11 [Android studio如何使用SVN进行版本控制？ - 知乎](https://www.zhihu.com/question/32298079)
 
+2019-05-13 09:02 [vscode中vue-cli项目es-lint的配置 - 掘金](https://juejin.im/post/5b5a89e4e51d4519721bbdac)
+
 #####  Webstorm
 
 2015-03-03 10:11 [前端开发利器webStorm 3.0配置使用 - 豪情 - 博客园](http://www.cnblogs.com/jikey/archive/2012/01/16/2323590.html)
@@ -103,6 +105,12 @@
 2017-12-20 22:47 [使用IntelliJ IDEA开发前的基本设置，有助于提高开发效率 - CSDN博客](http://blog.csdn.net/sd4015700/article/details/42192325)
 
 2018-03-02 10:02 [webstorm配置svn后找不到subversion子菜单 - CSDN博客](http://blog.csdn.net/a641832648/article/details/74958749)
+
+2019-05-13 09:01 [webstrom 配置eslint 自动修复错误 - 大啵鱼 - CSDN博客](https://blog.csdn.net/qq_35192741/article/details/79471741)
+
+2019-05-13 09:01 [JetBrains根据.eslintrc格式化代码 - NOT NULL - CSDN博客](https://blog.csdn.net/u013474104/article/details/79796853)
+
+2019-05-13 09:01 [更新版 - 梳理前端开发使用 eslint 和 prettier 来检查和格式化代码问题 | 线上猛如虎，线下怂如鼠](https://www.godblessyuan.com/2018/06/%E6%9B%B4%E6%96%B0%E7%89%88-%E6%A2%B3%E7%90%86%E5%89%8D%E7%AB%AF%E5%BC%80%E5%8F%91%E4%BD%BF%E7%94%A8eslint%E5%92%8Cprettier%E6%9D%A5%E6%A3%80%E6%9F%A5%E5%92%8C%E6%A0%BC%E5%BC%8F%E5%8C%96%E4%BB%A3%E7%A0%81%E9%97%AE%E9%A2%98.html)
 
 
 
