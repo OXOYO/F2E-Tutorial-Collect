@@ -218,11 +218,39 @@
 
 2019-01-24 17:03 [MySQL Explain详解 - GoogSQL - 博客园](http://www.cnblogs.com/xuanzhi201111/p/4175635.html)
 
+2019-05-24 15:30 [MySQL表名大小写敏感导致的问题 - postnull的博客 - CSDN博客](https://blog.csdn.net/postnull/article/details/72455768)
+
+2019-05-24 15:30 [MySQL :: MySQL 5.6参考手册:: 9.2.2标识符区分大小写](https://dev.mysql.com/doc/refman/5.6/en/identifier-case-sensitivity.html)
+
 
 
 #####  IndexedDB
 
 2017-05-19 09:27 [前端的数据库：IndexedDB入门 - WEB前端 - 伯乐在线](http://web.jobbole.com/81793/)
+
+
+
+#####  Redis
+
+2015-04-17 15:11 [Redis中文官方网站 -- redis中文资料、中文文档尽在redis中文官方网站](http://www.redis.cn/)
+
+2015-04-29 16:03 [Windows下Redis的安装使用 - 51CTO.COM](http://os.51cto.com/art/201403/431103.htm)
+
+2015-04-29 16:03 [Redis](http://redis.io/)
+
+2015-10-21 14:17 [ServiceStack/redis-windows](https://github.com/ServiceStack/redis-windows)
+
+2015-10-22 15:08 [Redis在Windows下安装和PHP中使用 - 鸿网互联[68IDC.CN]](http://www.68idc.cn/help/server/20141128135092.html)
+
+2019-04-28 10:38 [Redis](https://redis.io/download)
+
+2019-04-28 11:14 [windows下安装和配置Redis - 简书](https://www.jianshu.com/p/e16d23e358c0)
+
+2019-04-28 14:49 [第二篇：koa2-web应用进阶—session | Feifeiyu Blog](https://feifeiyum.github.io/2016/09/18/node-koa2-web-session/)
+
+2019-04-28 15:44 [Redis和MySQL的区别与使用（redis做mysql的缓存并且数据同步） - D_R_L_T的博客 - CSDN博客](https://blog.csdn.net/D_R_L_T/article/details/81676999)
+
+2019-04-29 09:17 [Redis 命令参考 — Redis 命令参考](http://redisdoc.com/index.html#)
 
 
 
