@@ -1348,6 +1348,8 @@
 
 2019-01-22 17:39 [从零开始设计数据大屏—基于Vue - 简书](https://www.jianshu.com/p/cbbf9fc80edc)
 
+2019-06-03 09:20 [初探 Vue3.0 中的一大亮点——Proxy ! - 掘金](https://juejin.im/post/5bfcbab0518825741e7bd67f)
+
 ######  vuex
 
 2016-04-20 21:08 [vuejs/vuex: Flux-inspired Application Architecture for Vue.js.](https://github.com/vuejs/vuex)
