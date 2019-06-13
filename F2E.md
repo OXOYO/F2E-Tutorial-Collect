@@ -192,6 +192,20 @@
 
 2019-04-13 16:15 [Web前端性能优化——如何提高页面加载速度 - MarcoHan - 博客园](https://www.cnblogs.com/MarcoHan/p/5295398.html)
 
+2019-05-05 09:41 [Favicon Generator for all platforms: iOS, Android, PC/Mac...](https://realfavicongenerator.net/)
+
+2019-05-05 09:46 [Text elements must have sufficient color contrast against the background Axe Rules | Deque University | Deque Systems](https://dequeuniversity.com/rules/axe/3.2/color-contrast)
+
+2019-05-05 10:20 [Workbox 入门 | Hans Chan's Blog](http://csbun.github.io/blog/2018/02/workbox/)
+
+2019-05-31 10:53 [chrome 隐藏技能之 base64 图片转换 - 楼教主 - 博客园](https://www.cnblogs.com/52cik/p/chrome-base64.html)
+
+2019-06-11 18:04 [解决cookie跨域访问 - 胡峻峥 - 博客园](https://www.cnblogs.com/hujunzheng/p/5744755.html)
+
+2019-06-11 18:10 [js跨域获取Cookie的一种新方法 | Heaven's Door](https://leibnizhu.gitlab.io/2017/01/12/js%E8%B7%A8%E5%9F%9F%E8%8E%B7%E5%8F%96Cookie%E7%9A%84%E4%B8%80%E7%A7%8D%E6%96%B0%E6%96%B9%E6%B3%95/index.html)
+
+2019-06-12 17:59 [转 多租户SaaS架构 - Tonyyang - 博客园](https://www.cnblogs.com/Tonyyang/p/7628834.html)
+
 #####  规范
 
 2015-08-11 11:05 [前端JavaScript规范](http://www.runoob.com/w3cnote/javascript-guide.html)
@@ -395,6 +409,8 @@
 2018-04-28 21:40 [混世魔王的技术博客](http://26836659.blogcn.com/)
 
 2018-09-05 16:32 [OXXO.STUDIO](https://www.oxxostudio.tw/)
+
+2019-04-28 16:57 [个人博客数据库设计 | 张甲博客](https://zhangjia.io/852.html)
 
 
 
