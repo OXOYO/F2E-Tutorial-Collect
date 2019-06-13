@@ -84,8 +84,6 @@
 
 2016-04-14 11:37 [Node.js 中文网](http://nodejs.cn/)
 
-2016-04-14 11:37 [Node.js](https://nodejs.org/en/)
-
 2016-05-09 14:32 [介紹 | Node.js API 中文文档](https://davidcai1993.gitbooks.io/nodejs-api-doc-in-chinese/content/)
 
 2016-05-24 11:07 [一种简单的生产环境部署Node.js程序方法 - CNode技术社区](https://cnodejs.org/topic/53fec0d97c1e2284788983d6)
@@ -244,8 +242,6 @@
 
 2018-10-25 10:58 [Node.js 性能调优之CPU篇(二)——v8-profiler - Node.js开发社区 | CTOLib码库](https://www.ctolib.com/topics-117551.html)
 
-2018-10-26 10:39 [Nodejs log4js日志管理详解 - 简书](https://www.jianshu.com/p/9604d08db899)
-
 2018-10-26 15:31 [node命令行小工具开发【翻译小工具】 - JavaScript之禅 - SegmentFault 思否](https://segmentfault.com/a/1190000008714075)
 
 2018-10-26 15:31 [Node.js+commander开发命令行工具 - 简书](https://www.jianshu.com/p/2cae952250d1)
@@ -259,6 +255,20 @@
 2019-04-24 16:20 [node中的密码安全 - SegmentFault 思否](https://segmentfault.com/a/1190000016408673)
 
 2019-04-24 16:24 [web项目前后端分离时的api加密解决办法 | 冷颜'Blog](http://www.lenyans.com/359)
+
+2019-05-05 15:53 [Node.js ES2015/ES6, ES2016 and ES2017 support](https://node.green/)
+
+2019-05-07 09:42 [你不知道的Node.js性能优化，读了之后水平直线上升 - 掘金](https://juejin.im/post/5c0a418be51d451db767ccc5)
+
+2019-05-24 13:37 [Node.js内存溢出-process out of memory 问题的处理 - IT笔录](https://itbilu.com/nodejs/core/Ey_SnYXnx.html)
+
+2019-05-24 13:38 [Bug管理](https://lean.corpautohome.com/exec/getBugList?kanbanId=3499&project=DP#)
+
+2019-06-10 09:05 [使用 Node.js 搭建一个 API 网关 - 掘金](https://juejin.im/post/5992769151882548b17f76a6)
+
+2019-06-10 09:18 [使用 Node.js 搭建微服务网关 - ReyCG - 博客园](https://www.cnblogs.com/reycg-blog/p/10219044.html)
+
+2019-06-10 09:21 [【Node】Node 接入层 - 技术选型| SivaGao](http://sivagao.com/blog/node-gateway-choices/)
 
 #####  Express框架
 
@@ -515,6 +525,10 @@
 2019-01-15 16:34 [pm2 与 log4js 混用指南 | FuChee's blog](http://blog.yangfch3.com/2018/04/22/log4js-with-pm2/)
 
 2019-01-15 16:41 [集群模式PM2+Log4js log写入失败问题 - 后端 - 掘金](https://juejin.im/entry/5a0cf3276fb9a0450167814f)
+
+2019-05-13 09:07 [使用 pm2 躺着实现负载均衡 - 后端 - 掘金](https://juejin.im/entry/5879a7201b69e600582da9b2)
+
+2019-05-13 09:09 [关于pm2的性能和负载均衡测试，对比nginx - 为程序员服务](http://ju.outofmemory.cn/entry/145046)
 
 
 
@@ -917,6 +931,20 @@
 #####  Node-RED
 
 2019-02-15 15:48 [应该立即使用 Node-RED 的五大理由 (developerWorks 中文社区)](https://www.ibm.com/developerworks/community/blogs/3302cc3b-074e-44da-90b1-5055f1dc0d9c/entry/five-reasons-use-node-red-iot?lang=en)
+
+
+
+#####  Log4js
+
+2019-05-07 15:28 [Node.js 之 log4js 完全讲解 - 知乎](https://zhuanlan.zhihu.com/p/22110802)
+
+2018-10-26 10:39 [Nodejs log4js日志管理详解 - 简书](https://www.jianshu.com/p/9604d08db899)
+
+
+
+#####  autocannon
+
+2019-05-05 17:54 [对node工程进行压力测试与性能分析 - 掘金](https://juejin.im/post/5b827cbbe51d4538c021f2da)
 
 
 
