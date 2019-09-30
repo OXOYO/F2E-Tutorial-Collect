@@ -442,6 +442,10 @@
 
 2015-08-10 10:27 [基于HTML5+CSS3+JS的移动应用开发框架：Agile - OPEN 开发经验库](http://www.open-open.com/lib/view/open1420468865047.html)
 
+2019-07-23 09:20 [从mpvue迁移到uni-app - 掘金](https://juejin.im/post/5cc1d1a66fb9a0324e4a3d1d)
+
+2019-07-23 09:21 [深度评测：微信原生、wepy、mpvue、uni-app、taro，小程序主流开发框架 - DCloud问答](https://ask.dcloud.net.cn/article/35867)
+
 
 
 #####  Base64
