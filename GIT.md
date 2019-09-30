@@ -188,6 +188,14 @@
 
 2019-04-04 09:10 [几款好用的Git GUI客户端工具 | DevOps 博客](https://devopshub.cn/2016/06/20/git-gui-client-tools/)
 
+2019-06-13 17:28 [有没有办法增加API速率限制或完全绕过它GitHub？ | landcareweb.com](http://landcareweb.com/questions/39074/you-mei-you-ban-fa-zeng-jia-apisu-lu-xian-zhi-huo-wan-quan-rao-guo-ta-github)
+
+2019-06-13 17:34 [GitHub developer API 学习 - LarryZeal - 博客园](https://www.cnblogs.com/larryzeal/p/6589300.html)
+
+2019-06-13 17:47 [使用Github的webhooks进行网站自动化部署 | Aotu.io「凹凸实验室」](https://aotu.io/notes/2016/01/07/auto-deploy-website-by-webhooks-of-github/index.html)
+
+2019-08-22 18:11 [Git：解决报错：fatal: The remote end hung up unexpectedly - JiangDong的博客 - CSDN博客](https://blog.csdn.net/u013250071/article/details/81203900)
+
 #####  GitHub Pages
 
 2015-10-10 11:18 [怎样做一个漂亮的 GitHub Pages 首页？ - 前端开发 - 知乎](http://www.zhihu.com/question/20376047?sort=created)
