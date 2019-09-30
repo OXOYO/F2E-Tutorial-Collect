@@ -1350,6 +1350,10 @@
 
 2019-06-03 09:20 [初探 Vue3.0 中的一大亮点——Proxy ! - 掘金](https://juejin.im/post/5bfcbab0518825741e7bd67f)
 
+2019-07-25 09:33 [vue项目部署（vue-cli3.x,nginx,同域名多工程） - 简书](https://www.jianshu.com/p/4a6e943368d9)
+
+2019-07-25 10:08 [使用 nginx 部署 HTML5 History 模式的 Vue 项目 | 代码如诗](http://wall-e.me/%E4%BD%BF%E7%94%A8%20nginx%20%E9%83%A8%E7%BD%B2%20HTML5%20History%20%E6%A8%A1%E5%BC%8F%E7%9A%84%20Vue%20%E9%A1%B9%E7%9B%AE/index.html)
+
 ######  vuex
 
 2016-04-20 21:08 [vuejs/vuex: Flux-inspired Application Architecture for Vue.js.](https://github.com/vuejs/vuex)
