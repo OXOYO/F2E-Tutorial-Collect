@@ -72,6 +72,8 @@
 
 2018-11-27 17:14 [把网页导出为图片的两种方案以及其适用场景 - 知乎](https://zhuanlan.zhihu.com/p/33758432)
 
+2019-07-02 14:36 [jTopo](http://www.jtopo.com/index.html)
+
 
 
 #####  H5
@@ -1104,6 +1106,18 @@
 
 2019-05-13 09:19 [JS 数组 array 操作性能优化笔记 - 简书](https://www.jianshu.com/p/198ce8f8336e)
 
+2019-06-24 09:51 [黄金搭档 -- JS 装饰器（Decorator）与Node.js路由 - 简书](https://www.jianshu.com/p/3388b40bed4e)
+
+2019-07-26 15:54 [web页面录屏实现 - 掘金](https://juejin.im/post/5c601e2f51882562d029d583)
+
+2019-08-29 16:53 [如何理解一些JS中xxFucObject.superclass.constructor.call | Soo Smart!](https://www.soosmart.com/topic/350.html)
+
+2019-08-29 16:54 [superclass.constructor.call的用法 - cherryqiao的博客 - CSDN博客](https://blog.csdn.net/cherryqiao/article/details/53907950)
+
+2019-09-11 09:33 [mxgraph 架构分析与 mxgraph-editor 编辑器开发](https://korbinzhao.github.io/%E5%89%8D%E7%AB%AF%E5%BC%80%E5%8F%91/mxgraph/mxgraph-editor/2019/01/02/mxgraph-editor/)
+
+2019-09-12 10:08 [基于 Immutable.js 实现撤销重做功能 - 云+社区 - 腾讯云](https://cloud.tencent.com/developer/news/123433)
+
 #####  swiper滑动插件
 
 2015-02-04 18:24 [Swiper 中文API手册（share） - 挨踢前端 - 博客园](http://www.cnblogs.com/duanhuajian/p/4097310.html)
@@ -1710,6 +1724,8 @@
 
 2018-05-09 14:32 [20 个有用的 SVG 工具，提供更好的图像处理_Linux新闻_Linux公社-Linux系统门户网站](https://www.linuxidc.com/Linux/2015-08/121933.htm)
 
+2019-09-18 10:15 [SVG基本形状path路径置换_SVG 教程_w3cplus](https://www.w3cplus.com/svg/base-shapes-to-path.html)
+
 
 
 #####  particles.js
@@ -2293,6 +2309,14 @@
 2018-09-19 15:17 [使用git克隆指定分支的代码 - ButterflyGirl - 博客园](http://www.cnblogs.com/nylcy/p/6569284.html)
 
 2019-04-04 09:10 [几款好用的Git GUI客户端工具 | DevOps 博客](https://devopshub.cn/2016/06/20/git-gui-client-tools/)
+
+2019-06-13 17:28 [有没有办法增加API速率限制或完全绕过它GitHub？ | landcareweb.com](http://landcareweb.com/questions/39074/you-mei-you-ban-fa-zeng-jia-apisu-lu-xian-zhi-huo-wan-quan-rao-guo-ta-github)
+
+2019-06-13 17:34 [GitHub developer API 学习 - LarryZeal - 博客园](https://www.cnblogs.com/larryzeal/p/6589300.html)
+
+2019-06-13 17:47 [使用Github的webhooks进行网站自动化部署 | Aotu.io「凹凸实验室」](https://aotu.io/notes/2016/01/07/auto-deploy-website-by-webhooks-of-github/index.html)
+
+2019-08-22 18:11 [Git：解决报错：fatal: The remote end hung up unexpectedly - JiangDong的博客 - CSDN博客](https://blog.csdn.net/u013250071/article/details/81203900)
 
 #####  GitHub Pages
 
@@ -3336,6 +3360,10 @@
 
 2015-08-10 10:27 [基于HTML5+CSS3+JS的移动应用开发框架：Agile - OPEN 开发经验库](http://www.open-open.com/lib/view/open1420468865047.html)
 
+2019-07-23 09:20 [从mpvue迁移到uni-app - 掘金](https://juejin.im/post/5cc1d1a66fb9a0324e4a3d1d)
+
+2019-07-23 09:21 [深度评测：微信原生、wepy、mpvue、uni-app、taro，小程序主流开发框架 - DCloud问答](https://ask.dcloud.net.cn/article/35867)
+
 
 
 #####  Base64
@@ -4155,6 +4183,14 @@
 2019-06-10 09:18 [使用 Node.js 搭建微服务网关 - ReyCG - 博客园](https://www.cnblogs.com/reycg-blog/p/10219044.html)
 
 2019-06-10 09:21 [【Node】Node 接入层 - 技术选型| SivaGao](http://sivagao.com/blog/node-gateway-choices/)
+
+2019-06-14 14:07 [Node.js Web应用代码热更新的另类思路 - FEX](http://fex.baidu.com/blog/2015/05/nodejs-hot-swapping/)
+
+2019-06-14 15:00 [alinode 新手村生存指南 | Web技术试炼地](https://www.52cik.com/2018/10/31/alinode-tutorial.html)
+
+2019-06-14 15:43 [nodejs、gulp调试工具node-inspector使用 - 张利召 - 博客园](https://www.cnblogs.com/qianlitiaotiao/p/5554691.html)
+
+2019-06-18 11:03 [openssl+前端jsrsa签名+后端nodejs验签 - 衣冠小禽兽 - 博客园](https://www.cnblogs.com/brandonhulala/p/6195815.html)
 
 #####  Express框架
 
@@ -6192,6 +6228,10 @@
 
 2019-06-03 09:20 [初探 Vue3.0 中的一大亮点——Proxy ! - 掘金](https://juejin.im/post/5bfcbab0518825741e7bd67f)
 
+2019-07-25 09:33 [vue项目部署（vue-cli3.x,nginx,同域名多工程） - 简书](https://www.jianshu.com/p/4a6e943368d9)
+
+2019-07-25 10:08 [使用 nginx 部署 HTML5 History 模式的 Vue 项目 | 代码如诗](http://wall-e.me/%E4%BD%BF%E7%94%A8%20nginx%20%E9%83%A8%E7%BD%B2%20HTML5%20History%20%E6%A8%A1%E5%BC%8F%E7%9A%84%20Vue%20%E9%A1%B9%E7%9B%AE/index.html)
+
 ######  vuex
 
 2016-04-20 21:08 [vuejs/vuex: Flux-inspired Application Architecture for Vue.js.](https://github.com/vuejs/vuex)
@@ -7609,6 +7649,8 @@
 2019-03-14 13:28 [VMware15安装MAC（MAC OS 10.13）(OS X 10.14)原版可升级最新可解锁macOS Unlocker3.0（OS X 10.13） - weixin_43299649的博客 - CSDN博客](https://blog.csdn.net/weixin_43299649/article/details/82881567)
 
 2019-03-14 13:29 [VMWare14 安装Mac OS系统（图解） - u011415782的专栏 - CSDN博客](https://blog.csdn.net/u011415782/article/details/78505422)
+
+2019-06-20 17:35 [Apache ab性能测试结果分析 - 古木堂 - 博客园](https://www.cnblogs.com/gumuzi/p/5617232.html)
 
 #####  Fiddler
 
