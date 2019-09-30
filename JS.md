@@ -600,6 +600,18 @@
 
 2019-05-13 09:19 [JS 数组 array 操作性能优化笔记 - 简书](https://www.jianshu.com/p/198ce8f8336e)
 
+2019-06-24 09:51 [黄金搭档 -- JS 装饰器（Decorator）与Node.js路由 - 简书](https://www.jianshu.com/p/3388b40bed4e)
+
+2019-07-26 15:54 [web页面录屏实现 - 掘金](https://juejin.im/post/5c601e2f51882562d029d583)
+
+2019-08-29 16:53 [如何理解一些JS中xxFucObject.superclass.constructor.call | Soo Smart!](https://www.soosmart.com/topic/350.html)
+
+2019-08-29 16:54 [superclass.constructor.call的用法 - cherryqiao的博客 - CSDN博客](https://blog.csdn.net/cherryqiao/article/details/53907950)
+
+2019-09-11 09:33 [mxgraph 架构分析与 mxgraph-editor 编辑器开发](https://korbinzhao.github.io/%E5%89%8D%E7%AB%AF%E5%BC%80%E5%8F%91/mxgraph/mxgraph-editor/2019/01/02/mxgraph-editor/)
+
+2019-09-12 10:08 [基于 Immutable.js 实现撤销重做功能 - 云+社区 - 腾讯云](https://cloud.tencent.com/developer/news/123433)
+
 #####  swiper滑动插件
 
 2015-02-04 18:24 [Swiper 中文API手册（share） - 挨踢前端 - 博客园](http://www.cnblogs.com/duanhuajian/p/4097310.html)
@@ -1205,6 +1217,8 @@
 2018-05-09 10:35 [SVG在线编辑器](http://editor.method.ac/)
 
 2018-05-09 14:32 [20 个有用的 SVG 工具，提供更好的图像处理_Linux新闻_Linux公社-Linux系统门户网站](https://www.linuxidc.com/Linux/2015-08/121933.htm)
+
+2019-09-18 10:15 [SVG基本形状path路径置换_SVG 教程_w3cplus](https://www.w3cplus.com/svg/base-shapes-to-path.html)
 
 
 
