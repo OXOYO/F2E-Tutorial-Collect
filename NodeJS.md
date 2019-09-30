@@ -270,6 +270,14 @@
 
 2019-06-10 09:21 [【Node】Node 接入层 - 技术选型| SivaGao](http://sivagao.com/blog/node-gateway-choices/)
 
+2019-06-14 14:07 [Node.js Web应用代码热更新的另类思路 - FEX](http://fex.baidu.com/blog/2015/05/nodejs-hot-swapping/)
+
+2019-06-14 15:00 [alinode 新手村生存指南 | Web技术试炼地](https://www.52cik.com/2018/10/31/alinode-tutorial.html)
+
+2019-06-14 15:43 [nodejs、gulp调试工具node-inspector使用 - 张利召 - 博客园](https://www.cnblogs.com/qianlitiaotiao/p/5554691.html)
+
+2019-06-18 11:03 [openssl+前端jsrsa签名+后端nodejs验签 - 衣冠小禽兽 - 博客园](https://www.cnblogs.com/brandonhulala/p/6195815.html)
+
 #####  Express框架
 
 2015-04-15 17:14 [Nodejs初阶之express - 聂微东 - 博客园](http://www.cnblogs.com/Darren_code/p/node_express.html)
