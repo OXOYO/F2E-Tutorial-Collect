@@ -274,6 +274,8 @@
 
 2017-03-10 16:21 [【译】渐进式 Web App 的离线存储 - 我的前端探索 - SegmentFault](https://segmentfault.com/a/1190000006640450)
 
+2020-02-07 03:42 [【分享】Html5 Video 实现方案 - DCloud问答](https://ask.dcloud.net.cn/article/569)
+
 #####  PhoneGap
 
 2015-02-02 17:17 [PhoneGap开发环境搭建 - 随机 - 博客园](http://www.cnblogs.com/Random/archive/2011/12/28/2305398.html)
