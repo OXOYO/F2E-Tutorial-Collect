@@ -964,6 +964,8 @@
 
 2017-06-26 14:07 [React/Redux应用使用Async/Await - 大灰狼宝贝的小绵羊哥哥的博客 - 博客频道 - CSDN.NET](http://blog.csdn.net/sinat_17775997/article/details/73526610)
 
+2019-12-05 17:40 [React.js 可视化编辑工具 - 掘金](https://juejin.im/post/5d7ae944f265da03c5033e38)
+
 ######  Reflux
 
 2016-03-22 11:15 [React Reflux - 学习笔记 - SegmentFault](https://segmentfault.com/a/1190000002793786?utm_source=tuicool#articleHeader16)
@@ -1354,6 +1356,10 @@
 
 2019-07-25 10:08 [使用 nginx 部署 HTML5 History 模式的 Vue 项目 | 代码如诗](http://wall-e.me/%E4%BD%BF%E7%94%A8%20nginx%20%E9%83%A8%E7%BD%B2%20HTML5%20History%20%E6%A8%A1%E5%BC%8F%E7%9A%84%20Vue%20%E9%A1%B9%E7%9B%AE/index.html)
 
+2019-10-16 14:13 [Babel学习系列3-babel-preset,babel-plugin - 掘金](https://juejin.im/post/5c794f4b6fb9a04a102ffe46)
+
+2020-03-09 09:14 [async-validator 的中文文档翻译 - 黄zzzz - 博客园](https://www.cnblogs.com/wozho/p/10955525.html)
+
 ######  vuex
 
 2016-04-20 21:08 [vuejs/vuex: Flux-inspired Application Architecture for Vue.js.](https://github.com/vuejs/vuex)
@@ -1627,6 +1633,8 @@
 2017-06-01 09:07 [DCloud - HBuilder、5+、mui、流应用、HTML5专家](http://www.dcloud.io/)
 
 2017-12-19 22:19 [利用HBuilder将vue项目打包成移动端app - CSDN博客](http://blog.csdn.net/zhoudan232/article/details/73466814)
+
+2019-08-19 22:15 [WebStorm支持uni-app开发](http://blog.leanote.com/post/xianglijiaxing/%E8%BF%81%E7%A7%BB%E8%87%B3WebStorm)
 
 
 
