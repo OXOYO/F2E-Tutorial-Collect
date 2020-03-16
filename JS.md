@@ -612,6 +612,18 @@
 
 2019-09-12 10:08 [基于 Immutable.js 实现撤销重做功能 - 云+社区 - 腾讯云](https://cloud.tencent.com/developer/news/123433)
 
+2019-10-16 14:12 [browserl.ist: A page to display compatible browsers from a browserslist string.](https://browserl.ist/)
+
+2019-10-30 10:09 [JSON Schema 简介](https://zhoukekestar.github.io/notes/2019/08/28/json-editor.html)
+
+2019-11-01 10:03 [Web Api 端点设计 与 Oauth - hongxinerke - 博客园](https://www.cnblogs.com/zhenghongxin/p/7237238.html)
+
+2019-11-01 10:09 [API 端点设计 · API 设计参考 · 看云](https://www.kancloud.cn/amamatthew/api/418453)
+
+2019-11-01 10:09 [Web Api 内部数据思考 和 利用http缓存优化 Api - hongxinerke - 博客园](https://www.cnblogs.com/zhenghongxin/p/7271505.html)
+
+2019-11-01 10:10 [《Web API的设计与开发》 · API 设计参考 · 看云](https://www.kancloud.cn/amamatthew/api/417704)
+
 #####  swiper滑动插件
 
 2015-02-04 18:24 [Swiper 中文API手册（share） - 挨踢前端 - 博客园](http://www.cnblogs.com/duanhuajian/p/4097310.html)
