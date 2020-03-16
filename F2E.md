@@ -206,6 +206,10 @@
 
 2019-06-12 17:59 [转 多租户SaaS架构 - Tonyyang - 博客园](https://www.cnblogs.com/Tonyyang/p/7628834.html)
 
+2020-02-07 22:35 [[译]实践HTTP206状态:部分内容和范围请求 - 紫云飞 - 博客园](https://www.cnblogs.com/ziyunfei/archive/2012/11/18/2775499.html)
+
+2020-02-09 14:11 [Simple Icons](https://simpleicons.org/)
+
 #####  规范
 
 2015-08-11 11:05 [前端JavaScript规范](http://www.runoob.com/w3cnote/javascript-guide.html)
@@ -381,6 +385,12 @@
 2019-03-01 21:27 [前端性能优化 - chrome performance看浏览器渲染过程 - 小蚂蚁的世界 - CSDN博客](https://blog.csdn.net/It_rod/article/details/79661739)
 
 2019-02-19 17:26 [Get .CRX Chrome Extension file, it's source code and download .CRX to your computer.](https://crxextractor.com/)
+
+2019-12-24 16:55 [[译] Dweb: Beaker--去中心化的浏览器 (中英) - 掘金](https://juejin.im/post/5b810252f265da4347313e82)
+
+2019-12-24 16:55 [Beaker：一个基于Electron的点对点Web浏览器-InfoQ](https://www.infoq.cn/article/2eH_Z6OimPiqDgpRPDO9)
+
+2019-12-24 17:05 [p2pforever.org](http://p2pforever.org/)
 
 
 
@@ -583,6 +593,20 @@
 2019-03-26 15:10 [相对现代化的把控前端代码质量 - 知乎](https://zhuanlan.zhihu.com/p/43891086)
 
 2019-03-27 09:11 [SonarLint(Sonar) 代码质量管理 - 多啦A - 博客园](https://www.cnblogs.com/lzb1096101803/p/4945844.html)
+
+
+
+#####  Serverless
+
+2019-12-05 15:29 [探索 Serverless 中的前端开发模式 - 江湖夜雨十年灯 - SegmentFault 思否](https://segmentfault.com/a/1190000019199998?utm_source=tag-newest)
+
+2019-12-06 09:24 [如何将你的 ThinkJS 项目部署到 ZEIT 上 - CNode技术社区](https://cnodejs.org/topic/5de4705539af564604bbfcb8)
+
+2019-12-06 10:08 [深入浅出Serverless：3 Serverless的实现 - 简书](https://www.jianshu.com/p/0a6c4963c8ba)
+
+2019-12-06 10:24 [Serverless Functions for Kubernetes - Fission](https://fission.io/)
+
+2019-12-06 10:25 [Home | OpenFaaS - Serverless Functions Made Simple](https://www.openfaas.com/)
 
 
 
