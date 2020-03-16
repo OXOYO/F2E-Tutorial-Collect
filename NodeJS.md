@@ -278,6 +278,12 @@
 
 2019-06-18 11:03 [openssl+前端jsrsa签名+后端nodejs验签 - 衣冠小禽兽 - 博客园](https://www.cnblogs.com/brandonhulala/p/6195815.html)
 
+2019-10-16 10:40 [《深入浅出Node.js》-网络编程 | lizhen's blog](https://lz5z.com/%E6%B7%B1%E5%85%A5%E6%B5%85%E5%87%BANode-js-%E7%BD%91%E7%BB%9C%E7%BC%96%E7%A8%8B/)
+
+2020-02-07 02:30 [node 视频服务器 切片ffmpeg - 简书](https://www.jianshu.com/p/64698934195f)
+
+2019-10-16 10:41 [Nodejs核心模块之net和http - 掘金](https://juejin.im/post/5c9cea4ef265da60fe7c3fa8)
+
 #####  Express框架
 
 2015-04-15 17:14 [Nodejs初阶之express - 聂微东 - 博客园](http://www.cnblogs.com/Darren_code/p/node_express.html)
