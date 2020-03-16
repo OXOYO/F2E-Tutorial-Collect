@@ -118,6 +118,14 @@
 
 2018-08-15 17:37 [【译】如何创造带方向感应的纯 CSS 悬停效果 | 小影志](https://c7sky.com/how-to-create-direction-aware-css-only-hover-effects.html)
 
+2019-10-18 17:48 [CSS解读之alpha通道与opacity属性的区别 - 笔心 - CSDN博客](https://blog.csdn.net/qinshenxue/article/details/17750777)
+
+2020-01-06 22:43 [CSS 样式，如何计算临近颜色值？_偶尔记一下 - mybatis.io-CSDN博客](https://blog.csdn.net/isea533/article/details/85860078)
+
+2019-12-31 09:32 [10 分钟理解 BFC 原理 - 知乎](https://zhuanlan.zhihu.com/p/25321647)
+
+2020-01-24 20:10 [Javascript + HTML + CSS3：Windows Metro Tiles](http://tholman.com/projects/tile-js/)
+
 #####  LESS
 
 2015-01-27 11:14 [Koala - LESS/Sass/Compass/CoffeeScript编译工具](http://koala-app.com/index-zh.html)
